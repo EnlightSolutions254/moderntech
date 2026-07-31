@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "title": "HP EliteBook 840 G3 Cooling Fan | Price in Kenya | [Store Name]",
+    "description": "Replacement CPU cooling fan for HP EliteBook 840 G3/G4. 3-month warranty against defects. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "HP EliteBook 840 G3 Cooling Fan | [Store Name]",
+    "description": "Replacement CPU cooling fan for HP EliteBook 840 G3/G4. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "cooling-fans",
+    "url": "/shop/cooling-fans/",
+    "name": "Cooling Fans"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "faq_heading": "Questions About This Fan",
+  "faqs": [
+    { "question": "Will this fan fit my laptop?", "answer": "It's built for the HP EliteBook 840 G3/G4 heatsink assembly — send us your exact model on WhatsApp if you're unsure." },
+    { "question": "Is this a new or refurbished fan?", "answer": "New, not pulled from a used unit — tested for spin-up and noise before dispatch." },
+    { "question": "What warranty comes with a fan?", "answer": "This fan carries a 3-month warranty against manufacturing defects such as bearing noise or failure to spin." }
+  ],
+  "product": {
+    "url": "/shop/cooling-fans/hp-elitebook-840-g3-fan/",
+    "sku": "HP-FN-840G3",
+    "name": "HP EliteBook 840 G3 Cooling Fan",
+    "full_name": "Replacement CPU Cooling Fan for HP EliteBook 840 G3",
+    "brand_slug": "hp",
+    "brand_name": "HP",
+    "price": "2,300",
+    "price_raw": "2300",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Replacement CPU cooling fan for the HP EliteBook 840 G3/G4. New, tested for spin-up, noise and airflow before dispatch.",
+    "type_label": "cooling fan",
+    "type_label_cap": "Cooling Fan",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20EliteBook%20840%20G3%20Cooling%20Fan%20(SKU%3A%20HP-FN-840G3)%20%E2%80%94%20KES%202%2C300",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20HP%20EliteBook%20840%20G3%20Cooling%20Fan%20fits%20my%20laptop%3F",
+    "images": [
+      { "src": "assets/images/products/hp-fan-840g3-1.jpg", "alt": "HP EliteBook 840 G3 cooling fan, top view" },
+      { "src": "assets/images/products/hp-fan-840g3-2.jpg", "alt": "HP EliteBook 840 G3 cooling fan, connector view" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock — 4 units" },
+      { "class": "badge--new-oem", "label": "New OEM-Equivalent" },
+      { "class": "badge--warranty", "label": "3-Month Warranty" }
+    ],
+    "specs": [
+      { "label": "Fan Type", "value": "CPU cooling fan, single-fan" },
+      { "label": "Connector", "value": "4-pin" },
+      { "label": "Bearing Type", "value": "Sleeve bearing" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 months (manufacturing defects)" }
+    ],
+    "compatible_models": ["HP EliteBook 840 G3", "HP EliteBook 840 G4", "HP EliteBook 850 G3"],
+    "related": [
+      {
+        "url": "/shop/laptop-batteries/hp-elitebook-840-g3-g4/",
+        "image": "assets/images/products/hp-battery-840g3.jpg",
+        "alt": "Replacement battery for HP EliteBook 840 G3/G4",
+        "name": "HP EliteBook 840 G3/G4 Battery",
+        "badge_class": "badge--in-stock", "badge_label": "In Stock",
+        "tags": ["840 G3", "840 G4"],
+        "price": "4,500",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20EliteBook%20840%20G3%2FG4%20Battery%20(SKU%3A%20HP-BT-840G3)%20%E2%80%94%20KES%204%2C500"
+      },
+      {
+        "url": "/shop/casings/hp-840g3-casing/",
+        "image": "assets/images/products/hp-casing-840g3.jpg",
+        "alt": "HP EliteBook 840 G3 bottom casing",
+        "name": "HP EliteBook 840 G3 Casing",
+        "badge_class": "badge--low-stock", "badge_label": "Only 2 left",
+        "tags": ["840 G3"],
+        "price": "3,200",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20EliteBook%20840%20G3%20Casing%20%E2%80%94%20KES%203%2C200"
+      },
+      {
+        "url": "/shop/keyboards/hp-840g3-keyboard/",
+        "image": "assets/images/products/hp-keyboard-840g3.jpg",
+        "alt": "HP EliteBook 840 G3 replacement keyboard",
+        "name": "HP EliteBook 840 G3 Keyboard",
+        "badge_class": "badge--in-stock", "badge_label": "In Stock",
+        "tags": ["840 G3", "840 G4"],
+        "price": "3,500",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20EliteBook%20840%20G3%20Keyboard%20%E2%80%94%20KES%203%2C500"
+      }
+    ]
+  }
+}

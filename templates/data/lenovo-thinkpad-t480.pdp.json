@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "title": "Lenovo ThinkPad T480 Battery | Price in Kenya | [Store Name]",
+    "description": "Genuine replacement battery for Lenovo ThinkPad T480/T480s. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Lenovo ThinkPad T480 Battery | [Store Name]",
+    "description": "Genuine replacement battery for Lenovo ThinkPad T480/T480s. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "faq_heading": "Questions About This Battery",
+  "faqs": [
+    { "question": "Do you offer warranty on this battery?", "answer": "Yes — this battery carries a 6-month warranty from the date of purchase." },
+    { "question": "How do I install it?", "answer": "It's a standard drop-in replacement — no disassembly beyond the battery bay. We can talk you through it on WhatsApp if needed." },
+    { "question": "Can I pay via M-Pesa?", "answer": "Yes, M-Pesa is accepted, along with cash on delivery in select areas." }
+  ],
+  "product": {
+    "url": "/shop/laptop-batteries/lenovo-thinkpad-t480/",
+    "sku": "LEN-BT-T480",
+    "name": "Lenovo ThinkPad T480 Battery",
+    "full_name": "Replacement Battery for Lenovo ThinkPad T480",
+    "brand_slug": "lenovo",
+    "brand_name": "Lenovo",
+    "price": "4,800",
+    "price_raw": "4800",
+    "schema_availability": "https://schema.org/LimitedAvailability",
+    "description": "Genuine-fit replacement battery for the Lenovo ThinkPad T480 series. Tested before dispatch, drop-in fit — no disassembly beyond the standard battery bay.",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Replacement%20Battery%20for%20Lenovo%20ThinkPad%20T480%20(SKU%3A%20LEN-BT-T480)%20%E2%80%94%20KES%204%2C800",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20Lenovo%20ThinkPad%20T480%20battery%20fits%20my%20laptop%3F",
+    "images": [
+      { "src": "assets/images/products/lenovo-battery-t480-1.jpg", "alt": "Lenovo ThinkPad T480 replacement battery, front view" },
+      { "src": "assets/images/products/lenovo-battery-t480-2.jpg", "alt": "Lenovo ThinkPad T480 replacement battery, connector view" }
+    ],
+    "badges": [
+      { "class": "badge--low-stock", "label": "Only 2 left" },
+      { "class": "badge--new-oem", "label": "New OEM-Equivalent" },
+      { "class": "badge--warranty", "label": "6-Month Warranty" }
+    ],
+    "specs": [
+      { "label": "Voltage", "value": "11.25V" },
+      { "label": "Capacity", "value": "4200mAh" },
+      { "label": "Cells", "value": "3" },
+      { "label": "Connector Type", "value": "Proprietary Lenovo" },
+      { "label": "Condition", "value": "New OEM-equivalent" },
+      { "label": "Warranty", "value": "6 months" }
+    ],
+    "compatible_models": ["Lenovo ThinkPad T480", "Lenovo ThinkPad T480s", "Lenovo ThinkPad T470"],
+    "related": [
+      {
+        "url": "/shop/chargers/lenovo-65w-usb-c-adapter/",
+        "image": "assets/images/products/lenovo-charger-65w.jpg",
+        "alt": "Lenovo 65W USB-C charger and power adapter",
+        "name": "Lenovo 65W USB-C Charger &amp; Adapter",
+        "badge_class": "badge--in-stock", "badge_label": "In Stock",
+        "tags": ["Universal Lenovo"],
+        "price": "2,700",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%2065W%20USB-C%20Charger%20%26%20Adapter%20%E2%80%94%20KES%202%2C700"
+      },
+      {
+        "url": "/shop/casings/lenovo-thinkpad-t480-palmrest/",
+        "image": "assets/images/products/lenovo-casing-t480.jpg",
+        "alt": "Lenovo ThinkPad T480 palmrest casing",
+        "name": "Lenovo ThinkPad T480 Palmrest",
+        "badge_class": "badge--in-stock", "badge_label": "In Stock",
+        "tags": ["ThinkPad T480"],
+        "price": "3,400",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20T480%20Palmrest%20%E2%80%94%20KES%203%2C400"
+      },
+      {
+        "url": "/shop/keyboards/lenovo-thinkpad-t480-keyboard/",
+        "image": "assets/images/products/lenovo-keyboard-t480.jpg",
+        "alt": "Lenovo ThinkPad T480 replacement keyboard",
+        "name": "Lenovo ThinkPad T480 Keyboard",
+        "badge_class": "badge--in-stock", "badge_label": "In Stock",
+        "tags": ["ThinkPad T480", "ThinkPad T480s"],
+        "price": "3,700",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20T480%20Keyboard%20%E2%80%94%20KES%203%2C700"
+      }
+    ]
+  }
+}

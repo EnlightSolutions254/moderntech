@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "title": "Toshiba Satellite C55 Battery | Price in Kenya | [Store Name]",
+    "description": "Replacement battery for Toshiba Satellite C55. Currently out of stock — ask us about restock. 6-month warranty, delivery countrywide."
+  },
+  "og": {
+    "title": "Toshiba Satellite C55 Battery | [Store Name]",
+    "description": "Replacement battery for Toshiba Satellite C55. Currently out of stock — ask us about restock."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "faq_heading": "Questions About This Battery",
+  "faqs": [
+    { "question": "When will this be back in stock?", "answer": "Restock timing varies by supplier — message us on WhatsApp and we'll let you know as soon as it's back, or suggest a compatible alternative." },
+    { "question": "Do you offer warranty on this battery?", "answer": "Yes — once available, this battery carries a 6-month warranty from the date of purchase." },
+    { "question": "Can I pay via M-Pesa?", "answer": "Yes, M-Pesa is accepted, along with cash on delivery in select areas." }
+  ],
+  "product": {
+    "url": "/shop/laptop-batteries/toshiba-satellite-c55/",
+    "sku": "TOSH-BT-C55",
+    "name": "Toshiba Satellite C55 Battery",
+    "full_name": "Replacement Battery for Toshiba Satellite C55",
+    "brand_slug": "toshiba",
+    "brand_name": "Toshiba",
+    "price": "3,600",
+    "price_raw": "3600",
+    "schema_availability": "https://schema.org/OutOfStock",
+    "description": "Genuine-fit replacement battery for the Toshiba Satellite C55 series. Currently out of stock — message us on WhatsApp to ask about restock timing.",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20ask%20about%20restock%3A%20Toshiba%20Satellite%20C55%20Battery",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20Toshiba%20Satellite%20C55%20battery%20fits%20my%20laptop%3F",
+    "images": [
+      { "src": "assets/images/products/toshiba-battery-c55-1.jpg", "alt": "Toshiba Satellite C55 replacement battery, front view" },
+      { "src": "assets/images/products/toshiba-battery-c55-2.jpg", "alt": "Toshiba Satellite C55 replacement battery, connector view" }
+    ],
+    "badges": [
+      { "class": "badge--out-of-stock", "label": "Out of Stock" },
+      { "class": "badge--new-oem", "label": "New OEM-Equivalent" },
+      { "class": "badge--warranty", "label": "6-Month Warranty" }
+    ],
+    "specs": [
+      { "label": "Voltage", "value": "10.8V" },
+      { "label": "Capacity", "value": "4000mAh" },
+      { "label": "Cells", "value": "6" },
+      { "label": "Connector Type", "value": "Proprietary Toshiba" },
+      { "label": "Condition", "value": "New OEM-equivalent" },
+      { "label": "Warranty", "value": "6 months" }
+    ],
+    "compatible_models": ["Toshiba Satellite C55-B", "Toshiba Satellite C55-C", "Toshiba Satellite C55D"],
+    "related": [
+      {
+        "url": "/shop/chargers/toshiba-65w-adapter/",
+        "image": "assets/images/products/toshiba-charger-65w.jpg",
+        "alt": "Toshiba 65W charger and power adapter",
+        "name": "Toshiba 65W Charger &amp; Adapter",
+        "badge_class": "badge--in-stock", "badge_label": "In Stock",
+        "tags": ["Universal Toshiba"],
+        "price": "2,400",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Toshiba%2065W%20Charger%20%26%20Adapter%20%E2%80%94%20KES%202%2C400"
+      },
+      {
+        "url": "/shop/keyboards/toshiba-satellite-c55-keyboard/",
+        "image": "assets/images/products/toshiba-keyboard-c55.jpg",
+        "alt": "Toshiba Satellite C55 replacement keyboard",
+        "name": "Toshiba Satellite C55 Keyboard",
+        "badge_class": "badge--in-stock", "badge_label": "In Stock",
+        "tags": ["Satellite C55"],
+        "price": "2,800",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Toshiba%20Satellite%20C55%20Keyboard%20%E2%80%94%20KES%202%2C800"
+      },
+      {
+        "url": "/shop/cooling-fans/toshiba-satellite-c55-fan/",
+        "image": "assets/images/products/toshiba-fan-c55.jpg",
+        "alt": "Toshiba Satellite C55 replacement cooling fan",
+        "name": "Toshiba Satellite C55 Cooling Fan",
+        "badge_class": "badge--in-stock", "badge_label": "In Stock",
+        "tags": ["Satellite C55"],
+        "price": "2,200",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Toshiba%20Satellite%20C55%20Cooling%20Fan%20%E2%80%94%20KES%202%2C200"
+      }
+    ]
+  }
+}

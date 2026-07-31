@@ -1,0 +1,28 @@
+{
+  "store": {
+    "name": "[Store Name]",
+    "name_html": "[Store&nbsp;Name]",
+    "domain": "example.co.ke",
+    "phone_e164": "+254700000000",
+    "phone_e164_bare": "254700000000",
+    "phone_display": "+254 700 000 000"
+  },
+  "parts": [
+    { "slug": "laptop-batteries", "name": "Laptop Batteries", "url": "/shop/laptop-batteries/", "icon": "&#128267;" },
+    { "slug": "chargers", "name": "Chargers &amp; Adapters", "url": "/shop/chargers/", "icon": "&#128268;" },
+    { "slug": "screens", "name": "Laptop Screens", "url": "/shop/screens/", "icon": "&#128421;" },
+    { "slug": "keyboards", "name": "Keyboards", "url": "/shop/keyboards/", "icon": "&#8996;" },
+    { "slug": "hinges", "name": "Hinges", "url": "/shop/hinges/", "icon": "&#128295;" },
+    { "slug": "cooling-fans", "name": "Cooling Fans", "url": "/shop/cooling-fans/", "icon": "&#128168;" },
+    { "slug": "casings", "name": "Casings", "url": "/shop/casings/", "icon": "&#129520;" }
+  ],
+  "brands": [
+    { "slug": "hp", "name": "HP", "url": "/brand/hp/" },
+    { "slug": "dell", "name": "Dell", "url": "/brand/dell/" },
+    { "slug": "lenovo", "name": "Lenovo", "url": "/brand/lenovo/" },
+    { "slug": "acer", "name": "Acer", "url": "/brand/acer/" },
+    { "slug": "toshiba", "name": "Toshiba", "url": "/brand/toshiba/" },
+    { "slug": "asus", "name": "Asus", "url": "/brand/asus/" },
+    { "slug": "macbook", "name": "MacBook", "url": "/brand/macbook/" }
+  ]
+}

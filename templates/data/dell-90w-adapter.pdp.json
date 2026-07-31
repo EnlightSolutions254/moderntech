@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "title": "Dell 90W Charger &amp; Adapter | Price in Kenya | [Store Name]",
+    "description": "Genuine-fit 90W charger and power adapter for Dell Latitude and Inspiron laptops. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Dell 90W Charger &amp; Adapter | [Store Name]",
+    "description": "Genuine-fit 90W charger and power adapter for Dell laptops. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "chargers",
+    "url": "/shop/chargers/",
+    "name": "Chargers &amp; Adapters"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "faq_heading": "Questions About This Charger",
+  "faqs": [
+    { "question": "Will this charger work with my laptop model?", "answer": "It fits Dell models using the standard barrel connector — send us your laptop model on WhatsApp and we'll confirm before you order." },
+    { "question": "Is this an original or compatible charger?", "answer": "It's a new OEM-equivalent charger built to the same output spec as the original — stated clearly on this page." },
+    { "question": "What warranty comes with a charger?", "answer": "This charger carries a 6-month warranty from the date of purchase." }
+  ],
+  "product": {
+    "url": "/shop/chargers/dell-90w-adapter/",
+    "sku": "DELL-CH-90W",
+    "name": "Dell 90W Charger &amp; Adapter",
+    "full_name": "Dell 90W Charger and Power Adapter",
+    "brand_slug": "dell",
+    "brand_name": "Dell",
+    "price": "2,900",
+    "price_raw": "2900",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "New OEM-equivalent 90W charger for Dell laptops with the standard barrel connector. Tested before dispatch, includes a 1.8m cable.",
+    "type_label": "charger",
+    "type_label_cap": "Charger",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%2090W%20Charger%20%26%20Adapter%20(SKU%3A%20DELL-CH-90W)%20%E2%80%94%20KES%202%2C900",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20Dell%2090W%20Charger%20fits%20my%20laptop%3F",
+    "images": [
+      { "src": "assets/images/products/dell-charger-90w-1.jpg", "alt": "Dell 90W charger and power adapter, plug view" },
+      { "src": "assets/images/products/dell-charger-90w-2.jpg", "alt": "Dell 90W charger and power adapter, connector tip view" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock — 5 units" },
+      { "class": "badge--new-oem", "label": "New OEM-Equivalent" },
+      { "class": "badge--warranty", "label": "6-Month Warranty" }
+    ],
+    "specs": [
+      { "label": "Output Wattage", "value": "90W" },
+      { "label": "Output", "value": "19.5V / 4.62A" },
+      { "label": "Connector Type", "value": "Dell Barrel (7.4mm)" },
+      { "label": "Cable Length", "value": "1.8m" },
+      { "label": "Condition", "value": "New OEM-equivalent" },
+      { "label": "Warranty", "value": "6 months" }
+    ],
+    "compatible_models": ["Dell Latitude 5490", "Dell Latitude 5491", "Dell Latitude 5495", "Dell Latitude 5590"],
+    "related": [
+      {
+        "url": "/shop/laptop-batteries/dell-latitude-5490/",
+        "image": "assets/images/products/dell-battery-5490.jpg",
+        "alt": "Replacement battery for Dell Latitude 5490",
+        "name": "Dell Latitude 5490 Battery",
+        "badge_class": "badge--in-stock", "badge_label": "In Stock",
+        "tags": ["Latitude 5490", "Latitude 5491"],
+        "price": "5,200",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%205490%20Battery%20%E2%80%94%20KES%205%2C200"
+      },
+      {
+        "url": "/shop/casings/dell-latitude-5490-casing/",
+        "image": "assets/images/products/dell-casing-5490.jpg",
+        "alt": "Dell Latitude 5490 bottom casing",
+        "name": "Dell Latitude 5490 Casing",
+        "badge_class": "badge--in-stock", "badge_label": "In Stock",
+        "tags": ["Latitude 5490"],
+        "price": "3,300",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%205490%20Casing%20%E2%80%94%20KES%203%2C300"
+      },
+      {
+        "url": "/shop/keyboards/dell-latitude-5490-keyboard/",
+        "image": "assets/images/products/dell-keyboard-5490.jpg",
+        "alt": "Dell Latitude 5490 replacement keyboard",
+        "name": "Dell Latitude 5490 Keyboard",
+        "badge_class": "badge--in-stock", "badge_label": "In Stock",
+        "tags": ["Latitude 5490", "Latitude 5491"],
+        "price": "3,600",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%205490%20Keyboard%20%E2%80%94%20KES%203%2C600"
+      }
+    ]
+  }
+}

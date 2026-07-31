@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "title": "HP 45W USB-C Charger &amp; Adapter | Price in Kenya | [Store Name]",
+    "description": "Genuine-fit 45W USB-C charger and power adapter for newer HP laptops. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "HP 45W USB-C Charger &amp; Adapter | [Store Name]",
+    "description": "Genuine-fit 45W USB-C charger and power adapter for newer HP laptops. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "chargers",
+    "url": "/shop/chargers/",
+    "name": "Chargers &amp; Adapters"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "faq_heading": "Questions About This Charger",
+  "faqs": [
+    { "question": "Will this charger work with my laptop model?", "answer": "It fits HP models that charge over USB-C — send us your laptop model on WhatsApp and we'll confirm before you order." },
+    { "question": "Is this an original or compatible charger?", "answer": "It's a new OEM-equivalent charger built to the same output spec as the original — stated clearly on this page." },
+    { "question": "What warranty comes with a charger?", "answer": "This charger carries a 6-month warranty from the date of purchase." }
+  ],
+  "product": {
+    "url": "/shop/chargers/hp-45w-usb-c-adapter/",
+    "sku": "HP-CH-45WC",
+    "name": "HP 45W USB-C Charger &amp; Adapter",
+    "full_name": "HP 45W USB-C Charger and Power Adapter",
+    "brand_slug": "hp",
+    "brand_name": "HP",
+    "price": "2,600",
+    "price_raw": "2600",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "New OEM-equivalent 45W USB-C charger for HP laptops with USB-C charging. Tested before dispatch, includes a 1.8m cable.",
+    "type_label": "charger",
+    "type_label_cap": "Charger",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%2045W%20USB-C%20Charger%20%26%20Adapter%20(SKU%3A%20HP-CH-45WC)%20%E2%80%94%20KES%202%2C600",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20HP%2045W%20USB-C%20Charger%20fits%20my%20laptop%3F",
+    "images": [
+      { "src": "assets/images/products/hp-charger-45w-1.jpg", "alt": "HP 45W USB-C charger and power adapter, plug view" },
+      { "src": "assets/images/products/hp-charger-45w-2.jpg", "alt": "HP 45W USB-C charger, USB-C connector view" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock — 5 units" },
+      { "class": "badge--new-oem", "label": "New OEM-Equivalent" },
+      { "class": "badge--warranty", "label": "6-Month Warranty" }
+    ],
+    "specs": [
+      { "label": "Output Wattage", "value": "45W" },
+      { "label": "Output", "value": "5V–20V / USB Power Delivery" },
+      { "label": "Connector Type", "value": "USB-C" },
+      { "label": "Cable Length", "value": "1.8m" },
+      { "label": "Condition", "value": "New OEM-equivalent" },
+      { "label": "Warranty", "value": "6 months" }
+    ],
+    "compatible_models": ["HP ProBook 450 G6 and newer (USB-C charging)", "HP EliteBook x360 series", "HP Spectre series"],
+    "related": [
+      {
+        "url": "/shop/laptop-batteries/hp-probook-450-g5/",
+        "image": "assets/images/products/hp-battery-probook450g5.jpg",
+        "alt": "Replacement battery for HP ProBook 450 G5",
+        "name": "HP ProBook 450 G5 Battery",
+        "badge_class": "badge--in-stock", "badge_label": "In Stock",
+        "tags": ["ProBook 450 G5"],
+        "price": "4,300",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20ProBook%20450%20G5%20Battery%20%E2%80%94%20KES%204%2C300"
+      },
+      {
+        "url": "/shop/casings/hp-probook-450-g5-casing/",
+        "image": "assets/images/products/hp-casing-probook450g5.jpg",
+        "alt": "HP ProBook 450 G5 bottom casing",
+        "name": "HP ProBook 450 G5 Casing",
+        "badge_class": "badge--in-stock", "badge_label": "In Stock",
+        "tags": ["ProBook 450 G5"],
+        "price": "3,000",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20ProBook%20450%20G5%20Casing%20%E2%80%94%20KES%203%2C000"
+      },
+      {
+        "url": "/shop/keyboards/hp-probook-450-g5-keyboard/",
+        "image": "assets/images/products/hp-keyboard-probook450g5.jpg",
+        "alt": "HP ProBook 450 G5 replacement keyboard",
+        "name": "HP ProBook 450 G5 Keyboard",
+        "badge_class": "badge--in-stock", "badge_label": "In Stock",
+        "tags": ["ProBook 450 G5"],
+        "price": "3,300",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20ProBook%20450%20G5%20Keyboard%20%E2%80%94%20KES%203%2C300"
+      }
+    ]
+  }
+}

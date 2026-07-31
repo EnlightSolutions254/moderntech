@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "Laptop Hinges in Kenya — HP, Dell, Lenovo, Acer &amp; More | [Store Name]",
+    "description": "Replacement laptop hinges and hinge kits for HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook. In-stock pricing in KES, warranty included, countrywide delivery. Order on WhatsApp."
+  },
+  "og": {
+    "title": "Laptop Hinges in Kenya | [Store Name]",
+    "description": "Replacement laptop hinges for all major brands. In-stock pricing, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "hinges",
+    "url": "/shop/hinges/",
+    "name": "Hinges",
+    "name_lower": "hinges",
+    "description": "Replacement screen hinges and hinge kits for the laptop models we see most often in for repair — a loose or cracked hinge is one of the most common reasons a screen stops sitting straight.",
+    "result_count": 6
+  },
+  "products": [
+    {
+      "brand_slug": "hp", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/hinges/hp-elitebook-840-g3-hinge-kit/",
+      "image": "assets/images/products/hp-hinge-840g3.jpg",
+      "alt": "Replacement hinge kit for HP EliteBook 840 G3",
+      "name": "HP EliteBook 840 G3 Hinge Kit",
+      "tags": ["Left &amp; Right", "840 G3"],
+      "price": "2,200", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20EliteBook%20840%20G3%20Hinge%20Kit%20%E2%80%94%20KES%202%2C200",
+      "extra": false
+    },
+    {
+      "brand_slug": "dell", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/hinges/dell-latitude-5490-hinge-kit/",
+      "image": "assets/images/products/dell-hinge-5490.jpg",
+      "alt": "Replacement hinge kit for Dell Latitude 5490",
+      "name": "Dell Latitude 5490 Hinge Kit",
+      "tags": ["Left &amp; Right", "Latitude 5490"],
+      "price": "2,100", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%205490%20Hinge%20Kit%20%E2%80%94%20KES%202%2C100",
+      "extra": false
+    },
+    {
+      "brand_slug": "lenovo", "stock": "low_stock", "badge_class": "badge--low-stock", "badge_label": "Only 2 left",
+      "url": "/shop/hinges/lenovo-thinkpad-t480-hinge-kit/",
+      "image": "assets/images/products/lenovo-hinge-t480.jpg",
+      "alt": "Replacement hinge kit for Lenovo ThinkPad T480",
+      "name": "Lenovo ThinkPad T480 Hinge Kit",
+      "tags": ["Left &amp; Right", "ThinkPad T480"],
+      "price": "2,400", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20T480%20Hinge%20Kit%20%E2%80%94%20KES%202%2C400",
+      "extra": false
+    },
+    {
+      "brand_slug": "acer", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/hinges/acer-aspire-5-hinge-kit/",
+      "image": "assets/images/products/acer-hinge-aspire5.jpg",
+      "alt": "Replacement hinge kit for Acer Aspire 5",
+      "name": "Acer Aspire 5 Hinge Kit",
+      "tags": ["Left &amp; Right", "Aspire 5"],
+      "price": "1,900", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Acer%20Aspire%205%20Hinge%20Kit%20%E2%80%94%20KES%201%2C900",
+      "extra": true
+    },
+    {
+      "brand_slug": "asus", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/hinges/asus-vivobook-15-hinge-kit/",
+      "image": "assets/images/products/asus-hinge-vivobook15.jpg",
+      "alt": "Replacement hinge kit for Asus VivoBook 15",
+      "name": "Asus VivoBook 15 Hinge Kit",
+      "tags": ["Left &amp; Right", "VivoBook 15"],
+      "price": "2,000", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%20VivoBook%2015%20Hinge%20Kit%20%E2%80%94%20KES%202%2C000",
+      "extra": true
+    },
+    {
+      "brand_slug": "hp", "stock": "out_of_stock", "badge_class": "badge--out-of-stock", "badge_label": "Out of Stock",
+      "url": "/shop/hinges/hp-probook-450-g5-hinge-kit/",
+      "image": "assets/images/products/hp-hinge-probook450g5.jpg",
+      "alt": "Replacement hinge kit for HP ProBook 450 G5",
+      "name": "HP ProBook 450 G5 Hinge Kit",
+      "tags": ["Left &amp; Right", "ProBook 450 G5"],
+      "price": "2,100", "cta_label": "Ask About Restock", "cta_class": "btn--secondary",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20ask%20about%20restock%3A%20HP%20ProBook%20450%20G5%20Hinge%20Kit",
+      "extra": true
+    }
+  ],
+  "faq_heading": "Hinge Questions",
+  "faqs": [
+    { "question": "How do I know if it's the hinge and not the screen?", "answer": "If the screen won't stay upright, feels loose, or you hear cracking near the edges when opening or closing the lid, it's usually the hinge rather than the panel. Send us a short video on WhatsApp and we can help you confirm." },
+    { "question": "Does the kit include both sides?", "answer": "Yes — each listing is a full left-and-right hinge kit for that model unless stated otherwise." },
+    { "question": "Can I fit this myself?", "answer": "It requires opening the display bezel, so most customers have it fitted by us or a technician. We can recommend the fitting process on WhatsApp." }
+  ],
+  "empty_state": {
+    "whatsapp_text": "Hi%2C%20I%27m%20looking%20for%20a%20laptop%20hinge%20kit%20but%20couldn%27t%20find%20it%20on%20the%20site."
+  },
+  "sticky_whatsapp": {
+    "text": "Hi%2C%20I%27d%20like%20to%20order%20a%20laptop%20hinge%20kit."
+  }
+}

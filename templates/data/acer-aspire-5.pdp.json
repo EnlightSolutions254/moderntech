@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "title": "Acer Aspire 5 Battery | Price in Kenya | [Store Name]",
+    "description": "Genuine replacement battery for Acer Aspire 5. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Acer Aspire 5 Battery | [Store Name]",
+    "description": "Genuine replacement battery for Acer Aspire 5. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "faq_heading": "Questions About This Battery",
+  "faqs": [
+    { "question": "Do you offer warranty on this battery?", "answer": "Yes — this battery carries a 6-month warranty from the date of purchase." },
+    { "question": "How do I install it?", "answer": "It's a standard drop-in replacement — no disassembly beyond the battery bay. We can talk you through it on WhatsApp if needed." },
+    { "question": "Can I pay via M-Pesa?", "answer": "Yes, M-Pesa is accepted, along with cash on delivery in select areas." }
+  ],
+  "product": {
+    "url": "/shop/laptop-batteries/acer-aspire-5/",
+    "sku": "ACER-BT-ASP5",
+    "name": "Acer Aspire 5 Battery",
+    "full_name": "Replacement Battery for Acer Aspire 5",
+    "brand_slug": "acer",
+    "brand_name": "Acer",
+    "price": "3,900",
+    "price_raw": "3900",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine-fit replacement battery for the Acer Aspire 5 series. Tested before dispatch, drop-in fit — no disassembly beyond the standard battery bay.",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Replacement%20Battery%20for%20Acer%20Aspire%205%20(SKU%3A%20ACER-BT-ASP5)%20%E2%80%94%20KES%203%2C900",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20Acer%20Aspire%205%20battery%20fits%20my%20laptop%3F",
+    "images": [
+      { "src": "assets/images/products/acer-battery-aspire5-1.jpg", "alt": "Acer Aspire 5 replacement battery, front view" },
+      { "src": "assets/images/products/acer-battery-aspire5-2.jpg", "alt": "Acer Aspire 5 replacement battery, connector view" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock — 5 units" },
+      { "class": "badge--new-oem", "label": "New OEM-Equivalent" },
+      { "class": "badge--warranty", "label": "6-Month Warranty" }
+    ],
+    "specs": [
+      { "label": "Voltage", "value": "11.25V" },
+      { "label": "Capacity", "value": "3220mAh" },
+      { "label": "Cells", "value": "3" },
+      { "label": "Connector Type", "value": "Proprietary Acer" },
+      { "label": "Condition", "value": "New OEM-equivalent" },
+      { "label": "Warranty", "value": "6 months" }
+    ],
+    "compatible_models": ["Acer Aspire 5 A515-52", "Acer Aspire 5 A515-54", "Acer Aspire 5 A515-56"],
+    "related": [
+      {
+        "url": "/shop/chargers/acer-65w-adapter/",
+        "image": "assets/images/products/acer-charger-65w.jpg",
+        "alt": "Acer 65W charger and power adapter",
+        "name": "Acer 65W Charger &amp; Adapter",
+        "badge_class": "badge--in-stock", "badge_label": "In Stock",
+        "tags": ["Universal Acer"],
+        "price": "2,500",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Acer%2065W%20Charger%20%26%20Adapter%20%E2%80%94%20KES%202%2C500"
+      },
+      {
+        "url": "/shop/casings/acer-aspire-5-casing/",
+        "image": "assets/images/products/acer-casing-aspire5.jpg",
+        "alt": "Acer Aspire 5 bottom casing",
+        "name": "Acer Aspire 5 Casing",
+        "badge_class": "badge--in-stock", "badge_label": "In Stock",
+        "tags": ["Aspire 5"],
+        "price": "2,900",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Acer%20Aspire%205%20Casing%20%E2%80%94%20KES%202%2C900"
+      },
+      {
+        "url": "/shop/keyboards/acer-aspire-5-keyboard/",
+        "image": "assets/images/products/acer-keyboard-aspire5.jpg",
+        "alt": "Acer Aspire 5 replacement keyboard",
+        "name": "Acer Aspire 5 Keyboard",
+        "badge_class": "badge--in-stock", "badge_label": "In Stock",
+        "tags": ["Aspire 5"],
+        "price": "3,100",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Acer%20Aspire%205%20Keyboard%20%E2%80%94%20KES%203%2C100"
+      }
+    ]
+  }
+}

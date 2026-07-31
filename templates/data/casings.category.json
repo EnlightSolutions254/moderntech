@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "Laptop Casings &amp; Body Parts in Kenya — HP, Dell, Lenovo, Acer &amp; More | [Store Name]",
+    "description": "Replacement laptop casings, palmrests and body panels for HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook. In-stock pricing in KES, warranty included, countrywide delivery. Order on WhatsApp."
+  },
+  "og": {
+    "title": "Laptop Casings &amp; Body Parts in Kenya | [Store Name]",
+    "description": "Replacement laptop casings and body panels for all major brands. In-stock pricing, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "casings",
+    "url": "/shop/casings/",
+    "name": "Casings",
+    "name_lower": "casings",
+    "description": "Replacement top covers, bottom casings and palmrests for cracked, dented or badly worn laptop bodies — priced and listed by exact model so you know it fits before you order.",
+    "result_count": 6
+  },
+  "products": [
+    {
+      "brand_slug": "hp", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/casings/hp-840g3-casing/",
+      "image": "assets/images/products/hp-casing-840g3.jpg",
+      "alt": "HP EliteBook 840 G3 bottom casing",
+      "name": "HP EliteBook 840 G3 Casing",
+      "tags": ["Bottom Cover", "840 G3"],
+      "price": "3,200", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20EliteBook%20840%20G3%20Casing%20%E2%80%94%20KES%203%2C200",
+      "extra": false
+    },
+    {
+      "brand_slug": "dell", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/casings/dell-latitude-5490-casing/",
+      "image": "assets/images/products/dell-casing-5490.jpg",
+      "alt": "Dell Latitude 5490 bottom casing",
+      "name": "Dell Latitude 5490 Casing",
+      "tags": ["Bottom Cover", "Latitude 5490"],
+      "price": "3,100", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%205490%20Casing%20%E2%80%94%20KES%203%2C100",
+      "extra": false
+    },
+    {
+      "brand_slug": "lenovo", "stock": "low_stock", "badge_class": "badge--low-stock", "badge_label": "Only 2 left",
+      "url": "/shop/casings/lenovo-thinkpad-t480-palmrest/",
+      "image": "assets/images/products/lenovo-palmrest-t480.jpg",
+      "alt": "Lenovo ThinkPad T480 palmrest with touchpad",
+      "name": "Lenovo ThinkPad T480 Palmrest",
+      "tags": ["Palmrest", "ThinkPad T480"],
+      "price": "3,600", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20T480%20Palmrest%20%E2%80%94%20KES%203%2C600",
+      "extra": false
+    },
+    {
+      "brand_slug": "acer", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/casings/acer-aspire-5-casing/",
+      "image": "assets/images/products/acer-casing-aspire5.jpg",
+      "alt": "Acer Aspire 5 bottom casing",
+      "name": "Acer Aspire 5 Casing",
+      "tags": ["Bottom Cover", "Aspire 5"],
+      "price": "2,900", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Acer%20Aspire%205%20Casing%20%E2%80%94%20KES%202%2C900",
+      "extra": true
+    },
+    {
+      "brand_slug": "asus", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/casings/asus-vivobook-15-casing/",
+      "image": "assets/images/products/asus-casing-vivobook15.jpg",
+      "alt": "Asus VivoBook 15 bottom casing",
+      "name": "Asus VivoBook 15 Casing",
+      "tags": ["Bottom Cover", "VivoBook 15"],
+      "price": "3,000", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%20VivoBook%2015%20Casing%20%E2%80%94%20KES%203%2C000",
+      "extra": true
+    },
+    {
+      "brand_slug": "hp", "stock": "out_of_stock", "badge_class": "badge--out-of-stock", "badge_label": "Out of Stock",
+      "url": "/shop/casings/hp-probook-450-g5-casing/",
+      "image": "assets/images/products/hp-casing-probook450g5.jpg",
+      "alt": "HP ProBook 450 G5 bottom casing",
+      "name": "HP ProBook 450 G5 Casing",
+      "tags": ["Bottom Cover", "ProBook 450 G5"],
+      "price": "3,100", "cta_label": "Ask About Restock", "cta_class": "btn--secondary",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20ask%20about%20restock%3A%20HP%20ProBook%20450%20G5%20Casing",
+      "extra": true
+    }
+  ],
+  "faq_heading": "Casing Questions",
+  "faqs": [
+    { "question": "How do I know this casing fits my laptop?", "answer": "Each listing shows the exact compatible model and which panel it covers (top cover, bottom cover or palmrest). If you're unsure, send us a photo of your laptop on WhatsApp and we'll confirm." },
+    { "question": "Does the casing come with a keyboard or trackpad fitted?", "answer": "This is stated on each product page — some palmrests include the trackpad, others are the bare panel only." },
+    { "question": "Can I fit this myself?", "answer": "It involves a full teardown of the laptop, so most customers have it fitted by us. We can talk you through it on WhatsApp if you'd rather do it yourself." }
+  ],
+  "empty_state": {
+    "whatsapp_text": "Hi%2C%20I%27m%20looking%20for%20a%20laptop%20casing%20but%20couldn%27t%20find%20it%20on%20the%20site."
+  },
+  "sticky_whatsapp": {
+    "text": "Hi%2C%20I%27d%20like%20to%20order%20a%20laptop%20casing."
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "title": "HP ProBook 450 G5 Casing | Price in Kenya | [Store Name]",
+    "description": "Replacement bottom casing for HP ProBook 450 G5. 3-month warranty against defects. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "HP ProBook 450 G5 Casing | [Store Name]",
+    "description": "Replacement bottom casing for HP ProBook 450 G5. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "casings",
+    "url": "/shop/casings/",
+    "name": "Casings"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "faq_heading": "Questions About This Casing",
+  "faqs": [
+    { "question": "Does this include the screws?", "answer": "Yes — the casing ships with the matching screw set. Rubber feet are pre-fitted." },
+    { "question": "Will I need a technician to fit it?", "answer": "Fitting means transferring internals from your old bottom cover, so we recommend a technician unless you're comfortable opening a laptop. We can refer one on WhatsApp." },
+    { "question": "What warranty comes with a casing?", "answer": "This casing carries a 3-month warranty against manufacturing defects such as cracking or misaligned mounting points." }
+  ],
+  "product": {
+    "url": "/shop/casings/hp-probook-450-g5-casing/",
+    "sku": "HP-CS-PB450G5",
+    "name": "HP ProBook 450 G5 Casing",
+    "full_name": "Replacement Bottom Casing for HP ProBook 450 G5",
+    "brand_slug": "hp",
+    "brand_name": "HP",
+    "price": "3,000",
+    "price_raw": "3000",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Replacement bottom casing for the HP ProBook 450 G5. New, matches factory fit and finish, ships with the correct screw set.",
+    "type_label": "casing",
+    "type_label_cap": "Casing",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20ProBook%20450%20G5%20Casing%20(SKU%3A%20HP-CS-PB450G5)%20%E2%80%94%20KES%203%2C000",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20HP%20ProBook%20450%20G5%20Casing%20fits%20my%20laptop%3F",
+    "images": [
+      { "src": "assets/images/products/hp-casing-probook450g5-1.jpg", "alt": "HP ProBook 450 G5 bottom casing, outside view" },
+      { "src": "assets/images/products/hp-casing-probook450g5-2.jpg", "alt": "HP ProBook 450 G5 bottom casing, mounting points view" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock — 3 units" },
+      { "class": "badge--new-oem", "label": "New OEM-Equivalent" },
+      { "class": "badge--warranty", "label": "3-Month Warranty" }
+    ],
+    "specs": [
+      { "label": "Material", "value": "ABS plastic" },
+      { "label": "Color", "value": "Black" },
+      { "label": "Includes", "value": "Bottom casing, screw set, rubber feet" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 months (manufacturing defects)" }
+    ],
+    "compatible_models": ["HP ProBook 450 G5", "HP ProBook 470 G5"],
+    "related": [
+      {
+        "url": "/shop/laptop-batteries/hp-probook-450-g5/",
+        "image": "assets/images/products/hp-battery-probook450g5.jpg",
+        "alt": "Replacement battery for HP ProBook 450 G5",
+        "name": "HP ProBook 450 G5 Battery",
+        "badge_class": "badge--in-stock", "badge_label": "In Stock",
+        "tags": ["ProBook 450 G5"],
+        "price": "4,300",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20ProBook%20450%20G5%20Battery%20%E2%80%94%20KES%204%2C300"
+      },
+      {
+        "url": "/shop/keyboards/hp-probook-450-g5-keyboard/",
+        "image": "assets/images/products/hp-keyboard-probook450g5.jpg",
+        "alt": "HP ProBook 450 G5 replacement keyboard",
+        "name": "HP ProBook 450 G5 Keyboard",
+        "badge_class": "badge--in-stock", "badge_label": "In Stock",
+        "tags": ["ProBook 450 G5"],
+        "price": "3,300",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20ProBook%20450%20G5%20Keyboard%20%E2%80%94%20KES%203%2C300"
+      },
+      {
+        "url": "/shop/chargers/hp-45w-usb-c-adapter/",
+        "image": "assets/images/products/hp-charger-45w.jpg",
+        "alt": "HP 45W USB-C charger and power adapter",
+        "name": "HP 45W USB-C Charger &amp; Adapter",
+        "badge_class": "badge--in-stock", "badge_label": "In Stock",
+        "tags": ["Universal HP"],
+        "price": "2,600",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%2045W%20USB-C%20Charger%20%26%20Adapter%20%E2%80%94%20KES%202%2C600"
+      }
+    ]
+  }
+}

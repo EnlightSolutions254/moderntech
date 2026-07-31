@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{meta.title}}</title>
+<meta name="description" content="{{meta.description}}">
+<link rel="canonical" href="https://{{store.domain}}{{category.url}}">
+
+<!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="{{og.title}}">
+<meta property="og:description" content="{{og.description}}">
+<meta property="og:locale" content="en_KE">
+<meta property="og:url" content="https://{{store.domain}}{{category.url}}">
+
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="css/styles.css">
+
+<!-- BreadcrumbList structured data -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://{{store.domain}}/" },
+    { "@type": "ListItem", "position": 2, "name": "{{category.name}}", "item": "https://{{store.domain}}{{category.url}}" }
+  ]
+}
+</script>
+<!-- CollectionPage / ItemList structured data (category listing) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "{{category.name}} — Kenya",
+  "url": "https://{{store.domain}}{{category.url}}"
+}
+</script>
+</head>
+<body>
+
+<a class="skip-link" href="#main-content">Skip to main content</a>
+
+<!-- ============================================
+     1. ANNOUNCEMENT BAR (shared organism — identical to Home)
+============================================= -->
+<div class="announcement-bar" id="announcement-bar" role="region" aria-label="Store announcement">
+  <p class="announcement-bar__text">
+    <span class="announcement-bar__icon" aria-hidden="true">&#9654;</span>
+    Same-day delivery in Nairobi &nbsp;&middot;&nbsp; M-Pesa accepted &nbsp;&middot;&nbsp; Genuine parts only
+  </p>
+  <button type="button" class="announcement-bar__close" id="announcement-close" aria-label="Dismiss announcement">
+    <svg width="14" height="14" viewBox="0 0 14 14" aria-hidden="true"><path d="M1 1L13 13M13 1L1 13" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+  </button>
+</div>
+
+<!-- ============================================
+     2. HEADER (shared organism — identical to Home)
+============================================= -->
+<header class="site-header" id="site-header">
+  <div class="container site-header__inner">
+    <a href="/" class="site-header__logo" aria-label="{{store.name}} — Home">
+      <span class="site-header__logo-mark" aria-hidden="true">⌁</span>
+      <span class="site-header__logo-text">{{store.name_html}}</span>
+    </a>
+
+    <nav class="site-nav" aria-label="Primary">
+      <ul class="site-nav__list">
+        <li class="site-nav__item has-submenu">
+          <button type="button" class="site-nav__link" aria-expanded="false" aria-controls="submenu-parts">
+            Shop by Part
+            <svg class="site-nav__chevron" width="10" height="6" viewBox="0 0 10 6" aria-hidden="true"><path d="M1 1L5 5L9 1" stroke="currentColor" stroke-width="1.5" fill="none"/></svg>
+          </button>
+          <ul class="site-nav__submenu" id="submenu-parts">
+            {{#each nav_parts}}<li><a href="{{this.url}}"{{#if this.active}} aria-current="page"{{/if}}>{{this.name}}</a></li>
+{{/each}}
+          </ul>
+        </li>
+        <li class="site-nav__item has-submenu">
+          <button type="button" class="site-nav__link" aria-expanded="false" aria-controls="submenu-brands">
+            Shop by Brand
+            <svg class="site-nav__chevron" width="10" height="6" viewBox="0 0 10 6" aria-hidden="true"><path d="M1 1L5 5L9 1" stroke="currentColor" stroke-width="1.5" fill="none"/></svg>
+          </button>
+          <ul class="site-nav__submenu" id="submenu-brands">
+            {{#each nav_brands}}<li><a href="{{this.url}}"{{#if this.active}} aria-current="page"{{/if}}>{{this.name}}</a></li>
+{{/each}}
+          </ul>
+        </li>
+        <li class="site-nav__item"><a class="site-nav__link" href="/technicians.html">Technicians</a></li>
+        <li class="site-nav__item"><a class="site-nav__link" href="/repair-help/">Repair Help</a></li>
+      </ul>
+    </nav>
+
+    <div class="site-header__actions">
+      <button type="button" class="icon-button site-header__search-toggle" id="search-toggle" aria-expanded="false" aria-controls="search-panel" aria-label="Open search">
+        <svg width="20" height="20" viewBox="0 0 20 20" aria-hidden="true"><circle cx="9" cy="9" r="6.5" stroke="currentColor" stroke-width="1.6" fill="none"/><path d="M14 14L18.5 18.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+      </button>
+
+      <a class="icon-button site-header__call" href="tel:{{store.phone_e164}}" aria-label="Call the store">
+        <svg width="20" height="20" viewBox="0 0 20 20" aria-hidden="true"><path d="M4 3h3l1.5 4-2 1.5a11 11 0 0 0 5 5l1.5-2 4 1.5v3a1 1 0 0 1-1.1 1A15 15 0 0 1 3 4.1 1 1 0 0 1 4 3Z" stroke="currentColor" stroke-width="1.4" fill="none" stroke-linejoin="round"/></svg>
+      </a>
+
+      <a class="btn btn--whatsapp btn--sm site-header__whatsapp"
+         href="https://wa.me/{{store.phone_e164_bare}}?text=Hi%2C%20I%27d%20like%20some%20help%20finding%20a%20laptop%20part."
+         target="_blank" rel="noopener">
+        <svg class="btn__icon" width="16" height="16" viewBox="0 0 20 20" aria-hidden="true"><path d="M14.2 12.1c-.2-.1-1.3-.6-1.5-.7-.2-.1-.3-.1-.5.1-.1.2-.5.7-.6.8-.1.1-.2.1-.4 0-.2-.1-.9-.3-1.7-1.1-.6-.6-1-1.3-1.2-1.5-.1-.2 0-.3.1-.4l.3-.4.2-.3c0-.1 0-.2 0-.3 0-.1-.5-1.2-.7-1.6-.2-.4-.4-.4-.5-.4h-.4c-.1 0-.4 0-.6.3-.2.2-.8.8-.8 1.9 0 1.1.8 2.2.9 2.3.1.2 1.6 2.5 3.9 3.4.5.2.9.4 1.3.5.5.2 1 .1 1.3.1.4-.1 1.3-.5 1.4-1 .2-.5.2-.9.1-1l-.1-.1Z" fill="currentColor"/><path d="M17 10a7 7 0 1 1-3.5-6.1L17 3l-.9 3.4A7 7 0 0 1 17 10Z" stroke="currentColor" stroke-width="1.3" fill="none"/></svg>
+        Chat on WhatsApp
+      </a>
+
+      <button type="button" class="icon-button site-header__menu-toggle" id="menu-toggle" aria-expanded="false" aria-controls="mobile-drawer" aria-label="Open menu">
+        <svg width="22" height="22" viewBox="0 0 22 22" aria-hidden="true"><path d="M3 6h16M3 11h16M3 16h16" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+      </button>
+    </div>
+  </div>
+
+  <!-- Mobile search panel -->
+  <div class="search-panel" id="search-panel" hidden>
+    <div class="container">
+      <label class="visually-hidden" for="site-search-input">Search parts or laptop models</label>
+      <div class="search-bar">
+        <svg width="18" height="18" viewBox="0 0 18 18" aria-hidden="true" class="search-bar__icon"><circle cx="8" cy="8" r="6" stroke="currentColor" stroke-width="1.5" fill="none"/><path d="M12.5 12.5L17 17" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+        <input type="search" id="site-search-input" placeholder="Search e.g. HP EliteBook 840 battery" autocomplete="off">
+      </div>
+    </div>
+  </div>
+</header>
+
+<!-- Mobile nav drawer (shared organism — identical to Home) -->
+<div class="mobile-drawer" id="mobile-drawer" hidden>
+  <div class="mobile-drawer__backdrop" id="mobile-drawer-backdrop"></div>
+  <nav class="mobile-drawer__panel" aria-label="Mobile">
+    <div class="mobile-drawer__header">
+      <span class="site-header__logo-text">{{store.name_html}}</span>
+      <button type="button" class="icon-button" id="mobile-drawer-close" aria-label="Close menu">
+        <svg width="20" height="20" viewBox="0 0 20 20" aria-hidden="true"><path d="M2 2l16 16M18 2L2 18" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+      </button>
+    </div>
+
+    <details class="mobile-accordion" open>
+      <summary>Shop by Part</summary>
+      <ul>
+        {{#each nav_parts}}<li><a href="{{this.url}}"{{#if this.active}} aria-current="page"{{/if}}>{{this.name}}</a></li>
+{{/each}}
+      </ul>
+    </details>
+
+    <details class="mobile-accordion">
+      <summary>Shop by Brand</summary>
+      <ul>
+        {{#each nav_brands}}<li><a href="{{this.url}}"{{#if this.active}} aria-current="page"{{/if}}>{{this.name}}</a></li>
+{{/each}}
+      </ul>
+    </details>
+
+    <ul class="mobile-drawer__flat-links">
+      <li><a href="/technicians.html">Technicians &amp; Bulk Orders</a></li>
+      <li><a href="/repair-help/">Repair Help</a></li>
+      <li><a href="/about.html">About Us</a></li>
+      <li><a href="/faq.html">FAQ</a></li>
+      <li><a href="/contact.html">Contact</a></li>
+    </ul>
+
+    <a class="btn btn--whatsapp btn--lg mobile-drawer__whatsapp"
+       href="https://wa.me/{{store.phone_e164_bare}}?text=Hi%2C%20I%27d%20like%20some%20help%20finding%20a%20laptop%20part." target="_blank" rel="noopener">
+      Chat on WhatsApp
+    </a>
+  </nav>
+</div>
+
+<main id="main-content">
+
+  <!-- ============================================
+       3. BREADCRUMB
+  ============================================= -->
+  <div class="container">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <ol class="breadcrumb__list">
+        <li><a href="/">Home</a></li>
+        <li aria-hidden="true" class="breadcrumb__sep">/</li>
+        <li aria-current="page">{{category.name}}</li>
+      </ol>
+    </nav>
+  </div>
+
+  <!-- ============================================
+       4. CATEGORY HEADER
+       Composed from: H1 + supporting copy (Body token) + result count
+  ============================================= -->
+  <div class="container category-header">
+    <h1 class="category-header__heading">{{category.name}}</h1>
+    <p class="category-header__copy">{{category.description}}</p>
+    <p class="category-header__count" id="category-result-count" aria-live="polite">{{category.result_count}} parts found</p>
+  </div>
+
+  <!-- ============================================
+       5. CATEGORY LAYOUT: FilterSidebar/FilterDrawer + ProductGrid
+  ============================================= -->
+  <div class="container">
+    <div class="category-layout">
+
+      <!-- FilterSidebar (persistent on desktop, source of truth for filter markup) -->
+      <aside class="filter-sidebar" aria-label="Filter products">
+        <form id="filter-form-desktop">
+          <details class="filter-sidebar__section" open>
+            <summary class="filter-sidebar__section-title">Brand</summary>
+            <div class="filter-checklist">
+              {{#each brands}}<label class="filter-checklist__item"><input type="checkbox" name="brand" value="{{this.slug}}"><span>{{this.name}}</span></label>
+{{/each}}
+            </div>
+          </details>
+
+          <details class="filter-sidebar__section">
+            <summary class="filter-sidebar__section-title">Price Range (KES)</summary>
+            <div class="filter-price-range">
+              <input type="number" inputmode="numeric" placeholder="Min" aria-label="Minimum price">
+              <span aria-hidden="true">–</span>
+              <input type="number" inputmode="numeric" placeholder="Max" aria-label="Maximum price">
+            </div>
+          </details>
+
+          <details class="filter-sidebar__section" open>
+            <summary class="filter-sidebar__section-title">Availability</summary>
+            <label class="filter-toggle" for="filter-in-stock-desktop">
+              <span>In stock only</span>
+              <span style="position:relative;display:inline-block;">
+                <input type="checkbox" id="filter-in-stock-desktop">
+                <span class="filter-toggle__switch" aria-hidden="true"></span>
+              </span>
+            </label>
+          </details>
+
+          <div class="filter-sidebar__actions">
+            <button type="button" class="btn btn--ghost js-clear-filters">Clear All</button>
+          </div>
+        </form>
+      </aside>
+
+      <div class="category-content">
+
+        <!-- Mobile filter trigger -->
+        <div class="filter-bar">
+          <button type="button" class="btn btn--secondary btn--sm filter-trigger" id="filter-trigger" aria-expanded="false" aria-controls="filter-drawer">
+            <svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><path d="M1 3h14M4 8h8M6.5 13h3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+            Filter
+            <span class="filter-trigger__count" id="filter-trigger-count" hidden>0</span>
+          </button>
+        </div>
+
+        <!-- ActiveFiltersBar -->
+        <div class="active-filters-bar" id="active-filters-bar" hidden></div>
+        <button type="button" class="btn btn--ghost btn--sm active-filters-bar__clear" id="clear-all-filters" hidden>Clear All</button>
+
+        <!-- ProductGrid -->
+        <div class="product-grid" id="product-grid">
+
+          <!-- Product cards rendered from category.products[] in the data file. -->
+          {{#each products}}<div class="product-card{{#if this.extra}} is-extra{{/if}}" data-brand="{{this.brand_slug}}" data-stock="{{this.stock}}"{{#if this.extra}} hidden{{/if}}>
+            <a href="{{this.url}}" class="product-card__media-link">
+              <div class="media-frame media-frame--square">
+                <span class="badge {{this.badge_class}} product-card__badge">{{this.badge_label}}</span>
+                <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1' height='1'%3E%3C/svg%3E"
+                     data-src="{{this.image}}"
+                     alt="{{this.alt}}"
+                     width="400" height="400" loading="lazy" decoding="async" class="lazy-img">
+              </div>
+            </a>
+            <div class="product-card__body">
+              <h3 class="product-card__name"><a href="{{this.url}}">{{this.name}}</a></h3>
+              <ul class="tag-row" aria-label="Compatible models">
+                {{#each this.tags}}<li class="tag">{{this}}</li>
+{{/each}}{{#if this.tag_overflow}}<li class="tag tag--overflow">{{this.tag_overflow}}</li>
+{{/if}}              </ul>
+              <p class="price price--sm">KES {{this.price}}</p>
+              <a class="btn {{this.cta_class}} btn--sm btn--full"
+                 href="https://wa.me/{{store.phone_e164_bare}}?text={{this.whatsapp_text}}"
+                 target="_blank" rel="noopener">{{this.cta_label}}</a>
+            </div>
+          </div>
+{{/each}}
+          <!-- EmptyState (shown when filters return zero matches) -->
+          <div class="empty-state" id="product-grid-empty" hidden>
+            <span class="empty-state__icon" aria-hidden="true">🔍</span>
+            <p class="empty-state__message">No {{category.name_lower}} match your filters right now.</p>
+            <a class="btn btn--whatsapp btn--sm"
+               href="https://wa.me/{{store.phone_e164_bare}}?text={{empty_state.whatsapp_text}}"
+               target="_blank" rel="noopener">Ask Us on WhatsApp — We May Still Have It</a>
+          </div>
+        </div>
+
+        <div class="load-more-wrap">
+          <button type="button" class="btn btn--secondary" id="load-more">Load More {{category.name}}</button>
+        </div>
+
+        {{#if technician_cta}}<!-- ============================================
+             TECHNICIAN CTA (compact) — include for high-volume repair
+             parts per Component Architecture §4.15
+        ============================================= -->
+        <div class="technician-cta-sm">
+          <div>
+            <h3>{{technician_cta.heading}}</h3>
+            <p>{{technician_cta.body}}</p>
+          </div>
+          <a class="btn btn--whatsapp btn--sm"
+             href="https://wa.me/{{store.phone_e164_bare}}?text={{technician_cta.whatsapp_text}}"
+             target="_blank" rel="noopener">{{technician_cta.cta_label}}</a>
+        </div>
+{{/if}}
+      </div>
+    </div>
+  </div>
+
+  <!-- ============================================
+       6. FAQ (condensed, category-relevant)
+  ============================================= -->
+  <section class="section section--muted" aria-labelledby="faq-heading">
+    <div class="container">
+      <div class="section-heading">
+        <h2 id="faq-heading">{{faq_heading}}</h2>
+      </div>
+
+      <div class="faq-accordion">
+        {{#each faqs}}<details class="faq-item">
+          <summary>{{this.question}}</summary>
+          <p>{{this.answer}}</p>
+        </details>
+{{/each}}
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<!-- ============================================
+     7. FOOTER (shared organism — identical to Home)
+============================================= -->
+<footer class="site-footer">
+  <div class="container site-footer__grid">
+    <details class="footer-col" open>
+      <summary>Shop by Part</summary>
+      <ul>
+        {{#each nav_parts}}<li><a href="{{this.url}}"{{#if this.active}} aria-current="page"{{/if}}>{{this.name}}</a></li>
+{{/each}}
+      </ul>
+    </details>
+
+    <details class="footer-col">
+      <summary>Shop by Brand</summary>
+      <ul>
+        {{#each nav_brands}}<li><a href="{{this.url}}"{{#if this.active}} aria-current="page"{{/if}}>{{this.name}}</a></li>
+{{/each}}
+      </ul>
+    </details>
+
+    <details class="footer-col">
+      <summary>Company</summary>
+      <ul>
+        <li><a href="/about.html">About Us</a></li>
+        <li><a href="/faq.html">FAQ</a></li>
+        <li><a href="/technicians.html">Technicians &amp; Bulk Orders</a></li>
+        <li><a href="/repair-help/">Repair Help</a></li>
+        <li><a href="/contact.html">Contact</a></li>
+      </ul>
+    </details>
+
+    <div class="footer-col footer-col--contact">
+      <p class="footer-col__heading">Contact</p>
+      <ul class="footer-contact-list">
+        <li><a href="tel:{{store.phone_e164}}">{{store.phone_display}}</a></li>
+        <li><a href="https://wa.me/{{store.phone_e164_bare}}" target="_blank" rel="noopener">WhatsApp us</a></li>
+        <li>Nairobi, Kenya</li>
+        <li>Mon–Sat, 8:00–18:00</li>
+      </ul>
+      <a class="btn btn--whatsapp btn--sm" href="https://wa.me/{{store.phone_e164_bare}}" target="_blank" rel="noopener">Chat on WhatsApp</a>
+    </div>
+  </div>
+
+  <div class="site-footer__bottom">
+    <div class="container site-footer__bottom-inner">
+      <p>&copy; <span id="footer-year"></span> {{store.name}}. All rights reserved.</p>
+      <ul class="site-footer__legal">
+        <li><a href="/privacy.html">Privacy Policy</a></li>
+        <li><a href="/terms.html">Terms of Service</a></li>
+        <li><a href="/warranty.html">Warranty &amp; Returns</a></li>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+<!-- ============================================
+     8. FILTER DRAWER (mobile bottom sheet)
+     Mirrors #filter-form-desktop — same input names so main.js
+     filtering logic (getCheckedBrands, inStockOnly) works for both.
+============================================= -->
+<div class="filter-drawer" id="filter-drawer" hidden>
+  <div class="filter-drawer__backdrop" id="filter-drawer-backdrop"></div>
+  <div class="filter-drawer__panel" role="dialog" aria-modal="true" aria-labelledby="filter-drawer-heading">
+    <div class="filter-drawer__header">
+      <h2 id="filter-drawer-heading">Filter</h2>
+      <button type="button" class="icon-button" id="filter-drawer-close" aria-label="Close filters">
+        <svg width="20" height="20" viewBox="0 0 20 20" aria-hidden="true"><path d="M2 2l16 16M18 2L2 18" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+      </button>
+    </div>
+    <div class="filter-drawer__body">
+      <details class="filter-sidebar__section" open>
+        <summary class="filter-sidebar__section-title">Brand</summary>
+        <div class="filter-checklist">
+          {{#each brands}}<label class="filter-checklist__item"><input type="checkbox" name="brand" value="{{this.slug}}"><span>{{this.name}}</span></label>
+{{/each}}
+        </div>
+      </details>
+
+      <details class="filter-sidebar__section">
+        <summary class="filter-sidebar__section-title">Price Range (KES)</summary>
+        <div class="filter-price-range">
+          <input type="number" inputmode="numeric" placeholder="Min" aria-label="Minimum price">
+          <span aria-hidden="true">–</span>
+          <input type="number" inputmode="numeric" placeholder="Max" aria-label="Maximum price">
+        </div>
+      </details>
+
+      <details class="filter-sidebar__section" open>
+        <summary class="filter-sidebar__section-title">Availability</summary>
+        <label class="filter-toggle" for="filter-in-stock">
+          <span>In stock only</span>
+          <span style="position:relative;display:inline-block;">
+            <input type="checkbox" id="filter-in-stock">
+            <span class="filter-toggle__switch" aria-hidden="true"></span>
+          </span>
+        </label>
+      </details>
+    </div>
+    <div class="filter-drawer__footer">
+      <button type="button" class="btn btn--ghost js-clear-filters">Clear All</button>
+      <button type="button" class="btn btn--primary js-apply-filters">Apply Filters</button>
+    </div>
+  </div>
+</div>
+
+<!-- ============================================
+     9. STICKY WHATSAPP CTA (shared organism — identical to Home)
+     Mobile: fixed bottom bar. Desktop: floating button (CSS-driven).
+============================================= -->
+<div class="sticky-whatsapp" id="sticky-whatsapp">
+  <a class="sticky-whatsapp__link"
+     href="https://wa.me/{{store.phone_e164_bare}}?text={{sticky_whatsapp.text}}"
+     target="_blank" rel="noopener" aria-label="Chat with us on WhatsApp">
+    <svg class="sticky-whatsapp__icon" width="22" height="22" viewBox="0 0 20 20" aria-hidden="true"><path d="M17 10a7 7 0 1 1-3.5-6.1L17 3l-.9 3.4A7 7 0 0 1 17 10Z" stroke="currentColor" stroke-width="1.3" fill="none"/></svg>
+    <span class="sticky-whatsapp__label">Chat with us on WhatsApp</span>
+  </a>
+  <a class="sticky-whatsapp__call" href="tel:{{store.phone_e164}}" aria-label="Call the store">
+    <svg width="18" height="18" viewBox="0 0 20 20" aria-hidden="true"><path d="M4 3h3l1.5 4-2 1.5a11 11 0 0 0 5 5l1.5-2 4 1.5v3a1 1 0 0 1-1.1 1A15 15 0 0 1 3 4.1 1 1 0 0 1 4 3Z" stroke="currentColor" stroke-width="1.4" fill="none" stroke-linejoin="round"/></svg>
+  </a>
+</div>
+
+<script src="js/main.js" defer></script>
+</body>
+</html>

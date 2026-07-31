@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "title": "MacBook Pro 2019 13&quot; Cooling Fan | Price in Kenya | [Store Name]",
+    "description": "Replacement cooling fan for MacBook Pro 2019 13 inch. 3-month warranty against defects. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "MacBook Pro 2019 13&quot; Cooling Fan | [Store Name]",
+    "description": "Replacement cooling fan for MacBook Pro 2019 13 inch. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "cooling-fans",
+    "url": "/shop/cooling-fans/",
+    "name": "Cooling Fans"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "faq_heading": "Questions About This Fan",
+  "faqs": [
+    { "question": "Will this fan fit my laptop?", "answer": "It's built for the 2019 13-inch MacBook Pro heatsink assembly — send us your exact model on WhatsApp if you're unsure." },
+    { "question": "Is this a new or refurbished fan?", "answer": "New, not pulled from a used unit — tested for spin-up and noise before dispatch." },
+    { "question": "What warranty comes with a fan?", "answer": "This fan carries a 3-month warranty against manufacturing defects such as bearing noise or failure to spin." }
+  ],
+  "product": {
+    "url": "/shop/cooling-fans/macbook-pro-2019-13-fan/",
+    "sku": "MAC-FN-PRO19-13",
+    "name": "MacBook Pro 2019 13&quot; Cooling Fan",
+    "full_name": "Replacement Cooling Fan for MacBook Pro 2019 13-inch",
+    "brand_slug": "macbook",
+    "brand_name": "Apple",
+    "price": "2,600",
+    "price_raw": "2600",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Replacement cooling fan for the 2019 13-inch MacBook Pro. New, tested for spin-up, noise and airflow before dispatch; installation is best done in-store or by a technician.",
+    "type_label": "cooling fan",
+    "type_label_cap": "Cooling Fan",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20Pro%202019%2013%22%20Cooling%20Fan%20(SKU%3A%20MAC-FN-PRO19-13)%20%E2%80%94%20KES%202%2C600",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20MacBook%20Pro%202019%2013%22%20Cooling%20Fan%20fits%20my%20laptop%3F",
+    "images": [
+      { "src": "assets/images/products/macbook-fan-pro13-2019-1.jpg", "alt": "MacBook Pro 2019 13 inch cooling fan, top view" },
+      { "src": "assets/images/products/macbook-fan-pro13-2019-2.jpg", "alt": "MacBook Pro 2019 13 inch cooling fan, connector view" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock — 2 units" },
+      { "class": "badge--new-oem", "label": "New OEM-Equivalent" },
+      { "class": "badge--warranty", "label": "3-Month Warranty" }
+    ],
+    "specs": [
+      { "label": "Fan Type", "value": "CPU cooling fan, single-fan" },
+      { "label": "Connector", "value": "Proprietary Apple" },
+      { "label": "Bearing Type", "value": "Sleeve bearing" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 months (manufacturing defects)" }
+    ],
+    "compatible_models": ["MacBook Pro 13\" 2019 (Two Thunderbolt 3 ports)", "MacBook Pro 13\" 2019 (Four Thunderbolt 3 ports)"],
+    "related": [
+      {
+        "url": "/shop/laptop-batteries/macbook-pro-2019-13/",
+        "image": "assets/images/products/macbook-battery-pro13-2019.jpg",
+        "alt": "Replacement battery for MacBook Pro 2019 13 inch",
+        "name": "MacBook Pro 2019 13&quot; Battery",
+        "badge_class": "badge--in-stock", "badge_label": "In Stock",
+        "tags": ["MacBook Pro 2019 13\""],
+        "price": "8,900",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20Pro%202019%2013%22%20Battery%20%E2%80%94%20KES%208%2C900"
+      },
+      {
+        "url": "/shop/keyboards/macbook-pro-2019-13-keyboard/",
+        "image": "assets/images/products/macbook-keyboard-pro13-2019.jpg",
+        "alt": "MacBook Pro 2019 13 inch replacement keyboard",
+        "name": "MacBook Pro 2019 13&quot; Keyboard",
+        "badge_class": "badge--in-stock", "badge_label": "In Stock",
+        "tags": ["MacBook Pro 2019 13\""],
+        "price": "6,500",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20Pro%202019%2013%22%20Keyboard%20%E2%80%94%20KES%206%2C500"
+      },
+      {
+        "url": "/shop/chargers/macbook-61w-usb-c-adapter/",
+        "image": "assets/images/products/macbook-charger-61w.jpg",
+        "alt": "MacBook 61W USB-C charger and power adapter",
+        "name": "MacBook 61W USB-C Charger &amp; Adapter",
+        "badge_class": "badge--in-stock", "badge_label": "In Stock",
+        "tags": ["Universal MacBook"],
+        "price": "3,800",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%2061W%20USB-C%20Charger%20%26%20Adapter%20%E2%80%94%20KES%203%2C800"
+      }
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "title": "Lenovo 65W USB-C Charger &amp; Adapter | Price in Kenya | [Store Name]",
+    "description": "Genuine-fit 65W USB-C charger and power adapter for Lenovo ThinkPad laptops. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Lenovo 65W USB-C Charger &amp; Adapter | [Store Name]",
+    "description": "Genuine-fit 65W USB-C charger and power adapter for Lenovo ThinkPad laptops. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "chargers",
+    "url": "/shop/chargers/",
+    "name": "Chargers &amp; Adapters"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "faq_heading": "Questions About This Charger",
+  "faqs": [
+    { "question": "Will this charger work with my laptop model?", "answer": "It fits Lenovo ThinkPad models that charge over USB-C — send us your laptop model on WhatsApp and we'll confirm before you order." },
+    { "question": "Is this an original or compatible charger?", "answer": "It's a new OEM-equivalent charger built to the same output spec as the original — stated clearly on this page." },
+    { "question": "What warranty comes with a charger?", "answer": "This charger carries a 6-month warranty from the date of purchase." }
+  ],
+  "product": {
+    "url": "/shop/chargers/lenovo-65w-usb-c-adapter/",
+    "sku": "LEN-CH-65WC",
+    "name": "Lenovo 65W USB-C Charger &amp; Adapter",
+    "full_name": "Lenovo 65W USB-C Charger and Power Adapter",
+    "brand_slug": "lenovo",
+    "brand_name": "Lenovo",
+    "price": "2,700",
+    "price_raw": "2700",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "New OEM-equivalent 65W USB-C charger for Lenovo ThinkPad laptops. Tested before dispatch, includes a 1.8m cable.",
+    "type_label": "charger",
+    "type_label_cap": "Charger",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%2065W%20USB-C%20Charger%20%26%20Adapter%20(SKU%3A%20LEN-CH-65WC)%20%E2%80%94%20KES%202%2C700",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20Lenovo%2065W%20USB-C%20Charger%20fits%20my%20laptop%3F",
+    "images": [
+      { "src": "assets/images/products/lenovo-charger-65w-1.jpg", "alt": "Lenovo 65W USB-C charger and power adapter, plug view" },
+      { "src": "assets/images/products/lenovo-charger-65w-2.jpg", "alt": "Lenovo 65W USB-C charger, USB-C connector view" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock — 5 units" },
+      { "class": "badge--new-oem", "label": "New OEM-Equivalent" },
+      { "class": "badge--warranty", "label": "6-Month Warranty" }
+    ],
+    "specs": [
+      { "label": "Output Wattage", "value": "65W" },
+      { "label": "Output", "value": "5V–20V / USB Power Delivery" },
+      { "label": "Connector Type", "value": "USB-C" },
+      { "label": "Cable Length", "value": "1.8m" },
+      { "label": "Condition", "value": "New OEM-equivalent" },
+      { "label": "Warranty", "value": "6 months" }
+    ],
+    "compatible_models": ["Lenovo ThinkPad T480", "Lenovo ThinkPad T480s", "Lenovo ThinkPad T580", "Lenovo ThinkPad X1 Carbon"],
+    "related": [
+      {
+        "url": "/shop/laptop-batteries/lenovo-thinkpad-t480/",
+        "image": "assets/images/products/lenovo-battery-t480.jpg",
+        "alt": "Replacement battery for Lenovo ThinkPad T480",
+        "name": "Lenovo ThinkPad T480 Battery",
+        "badge_class": "badge--low-stock", "badge_label": "Only 2 left",
+        "tags": ["ThinkPad T480", "ThinkPad T480s"],
+        "price": "4,800",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20T480%20Battery%20%E2%80%94%20KES%204%2C800"
+      },
+      {
+        "url": "/shop/casings/lenovo-thinkpad-t480-palmrest/",
+        "image": "assets/images/products/lenovo-casing-t480.jpg",
+        "alt": "Lenovo ThinkPad T480 palmrest casing",
+        "name": "Lenovo ThinkPad T480 Palmrest",
+        "badge_class": "badge--in-stock", "badge_label": "In Stock",
+        "tags": ["ThinkPad T480"],
+        "price": "3,400",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20T480%20Palmrest%20%E2%80%94%20KES%203%2C400"
+      },
+      {
+        "url": "/shop/keyboards/lenovo-thinkpad-t480-keyboard/",
+        "image": "assets/images/products/lenovo-keyboard-t480.jpg",
+        "alt": "Lenovo ThinkPad T480 replacement keyboard",
+        "name": "Lenovo ThinkPad T480 Keyboard",
+        "badge_class": "badge--in-stock", "badge_label": "In Stock",
+        "tags": ["ThinkPad T480", "ThinkPad T480s"],
+        "price": "3,700",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20T480%20Keyboard%20%E2%80%94%20KES%203%2C700"
+      }
+    ]
+  }
+}

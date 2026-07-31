@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "title": "Dell Latitude 5490 Cooling Fan | Price in Kenya | [Store Name]",
+    "description": "Replacement CPU cooling fan for Dell Latitude 5490/5491. 3-month warranty against defects. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Dell Latitude 5490 Cooling Fan | [Store Name]",
+    "description": "Replacement CPU cooling fan for Dell Latitude 5490/5491. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "cooling-fans",
+    "url": "/shop/cooling-fans/",
+    "name": "Cooling Fans"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "faq_heading": "Questions About This Fan",
+  "faqs": [
+    { "question": "Will this fan fit my laptop?", "answer": "It's built for the Dell Latitude 5490/5491 heatsink assembly — send us your exact model on WhatsApp if you're unsure." },
+    { "question": "Is this a new or refurbished fan?", "answer": "New, not pulled from a used unit — tested for spin-up and noise before dispatch." },
+    { "question": "What warranty comes with a fan?", "answer": "This fan carries a 3-month warranty against manufacturing defects such as bearing noise or failure to spin." }
+  ],
+  "product": {
+    "url": "/shop/cooling-fans/dell-latitude-5490-fan/",
+    "sku": "DELL-FN-5490",
+    "name": "Dell Latitude 5490 Cooling Fan",
+    "full_name": "Replacement CPU Cooling Fan for Dell Latitude 5490",
+    "brand_slug": "dell",
+    "brand_name": "Dell",
+    "price": "2,400",
+    "price_raw": "2400",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Replacement CPU cooling fan for the Dell Latitude 5490/5491. New, tested for spin-up, noise and airflow before dispatch.",
+    "type_label": "cooling fan",
+    "type_label_cap": "Cooling Fan",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%205490%20Cooling%20Fan%20(SKU%3A%20DELL-FN-5490)%20%E2%80%94%20KES%202%2C400",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20Dell%20Latitude%205490%20Cooling%20Fan%20fits%20my%20laptop%3F",
+    "images": [
+      { "src": "assets/images/products/dell-fan-5490-1.jpg", "alt": "Dell Latitude 5490 cooling fan, top view" },
+      { "src": "assets/images/products/dell-fan-5490-2.jpg", "alt": "Dell Latitude 5490 cooling fan, connector view" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock — 4 units" },
+      { "class": "badge--new-oem", "label": "New OEM-Equivalent" },
+      { "class": "badge--warranty", "label": "3-Month Warranty" }
+    ],
+    "specs": [
+      { "label": "Fan Type", "value": "CPU cooling fan, single-fan" },
+      { "label": "Connector", "value": "4-pin" },
+      { "label": "Bearing Type", "value": "Sleeve bearing" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 months (manufacturing defects)" }
+    ],
+    "compatible_models": ["Dell Latitude 5490", "Dell Latitude 5491", "Dell Latitude 5495"],
+    "related": [
+      {
+        "url": "/shop/laptop-batteries/dell-latitude-5490/",
+        "image": "assets/images/products/dell-battery-5490.jpg",
+        "alt": "Replacement battery for Dell Latitude 5490",
+        "name": "Dell Latitude 5490 Battery",
+        "badge_class": "badge--in-stock", "badge_label": "In Stock",
+        "tags": ["Latitude 5490", "Latitude 5491"],
+        "price": "5,200",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%205490%20Battery%20%E2%80%94%20KES%205%2C200"
+      },
+      {
+        "url": "/shop/casings/dell-latitude-5490-casing/",
+        "image": "assets/images/products/dell-casing-5490.jpg",
+        "alt": "Dell Latitude 5490 bottom casing",
+        "name": "Dell Latitude 5490 Casing",
+        "badge_class": "badge--in-stock", "badge_label": "In Stock",
+        "tags": ["Latitude 5490"],
+        "price": "3,300",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%205490%20Casing%20%E2%80%94%20KES%203%2C300"
+      },
+      {
+        "url": "/shop/keyboards/dell-latitude-5490-keyboard/",
+        "image": "assets/images/products/dell-keyboard-5490.jpg",
+        "alt": "Dell Latitude 5490 replacement keyboard",
+        "name": "Dell Latitude 5490 Keyboard",
+        "badge_class": "badge--in-stock", "badge_label": "In Stock",
+        "tags": ["Latitude 5490", "Latitude 5491"],
+        "price": "3,600",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%205490%20Keyboard%20%E2%80%94%20KES%203%2C600"
+      }
+    ]
+  }
+}

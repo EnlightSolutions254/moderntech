@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "title": "HP ProBook 450 G5 Battery | Price in Kenya | [Store Name]",
+    "description": "Genuine replacement battery for HP ProBook 450 G5. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "HP ProBook 450 G5 Battery | [Store Name]",
+    "description": "Genuine replacement battery for HP ProBook 450 G5. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "faq_heading": "Questions About This Battery",
+  "faqs": [
+    { "question": "Do you offer warranty on this battery?", "answer": "Yes — this battery carries a 6-month warranty from the date of purchase." },
+    { "question": "How do I install it?", "answer": "It's a standard drop-in replacement — no disassembly beyond the battery bay. We can talk you through it on WhatsApp if needed." },
+    { "question": "Can I pay via M-Pesa?", "answer": "Yes, M-Pesa is accepted, along with cash on delivery in select areas." }
+  ],
+  "product": {
+    "url": "/shop/laptop-batteries/hp-probook-450-g5/",
+    "sku": "HP-BT-PB450G5",
+    "name": "HP ProBook 450 G5 Battery",
+    "full_name": "Replacement Battery for HP ProBook 450 G5",
+    "brand_slug": "hp",
+    "brand_name": "HP",
+    "price": "4,300",
+    "price_raw": "4300",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine-fit replacement battery for the HP ProBook 450 G5 series. Tested before dispatch, drop-in fit — no disassembly beyond the standard battery bay.",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Replacement%20Battery%20for%20HP%20ProBook%20450%20G5%20(SKU%3A%20HP-BT-PB450G5)%20%E2%80%94%20KES%204%2C300",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20HP%20ProBook%20450%20G5%20battery%20fits%20my%20laptop%3F",
+    "images": [
+      { "src": "assets/images/products/hp-battery-probook450g5-1.jpg", "alt": "HP ProBook 450 G5 replacement battery, front view" },
+      { "src": "assets/images/products/hp-battery-probook450g5-2.jpg", "alt": "HP ProBook 450 G5 replacement battery, connector view" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock — 4 units" },
+      { "class": "badge--new-oem", "label": "New OEM-Equivalent" },
+      { "class": "badge--warranty", "label": "6-Month Warranty" }
+    ],
+    "specs": [
+      { "label": "Voltage", "value": "11.4V" },
+      { "label": "Capacity", "value": "3860mAh" },
+      { "label": "Cells", "value": "3" },
+      { "label": "Connector Type", "value": "Proprietary HP" },
+      { "label": "Condition", "value": "New OEM-equivalent" },
+      { "label": "Warranty", "value": "6 months" }
+    ],
+    "compatible_models": ["HP ProBook 450 G5", "HP ProBook 440 G5", "HP ProBook 470 G5"],
+    "related": [
+      {
+        "url": "/shop/chargers/hp-45w-usb-c-adapter/",
+        "image": "assets/images/products/hp-charger-45w.jpg",
+        "alt": "HP 45W USB-C charger and power adapter",
+        "name": "HP 45W USB-C Charger &amp; Adapter",
+        "badge_class": "badge--in-stock", "badge_label": "In Stock",
+        "tags": ["Universal HP"],
+        "price": "2,600",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%2045W%20USB-C%20Charger%20%26%20Adapter%20%E2%80%94%20KES%202%2C600"
+      },
+      {
+        "url": "/shop/casings/hp-probook-450-g5-casing/",
+        "image": "assets/images/products/hp-casing-probook450g5.jpg",
+        "alt": "HP ProBook 450 G5 bottom casing",
+        "name": "HP ProBook 450 G5 Casing",
+        "badge_class": "badge--in-stock", "badge_label": "In Stock",
+        "tags": ["ProBook 450 G5"],
+        "price": "3,000",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20ProBook%20450%20G5%20Casing%20%E2%80%94%20KES%203%2C000"
+      },
+      {
+        "url": "/shop/keyboards/hp-probook-450-g5-keyboard/",
+        "image": "assets/images/products/hp-keyboard-probook450g5.jpg",
+        "alt": "HP ProBook 450 G5 replacement keyboard",
+        "name": "HP ProBook 450 G5 Keyboard",
+        "badge_class": "badge--in-stock", "badge_label": "In Stock",
+        "tags": ["ProBook 450 G5"],
+        "price": "3,300",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20ProBook%20450%20G5%20Keyboard%20%E2%80%94%20KES%203%2C300"
+      }
+    ]
+  }
+}

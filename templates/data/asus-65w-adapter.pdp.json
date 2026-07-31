@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "title": "Asus 65W Charger &amp; Adapter | Price in Kenya | [Store Name]",
+    "description": "Genuine-fit 65W charger and power adapter for Asus VivoBook laptops. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Asus 65W Charger &amp; Adapter | [Store Name]",
+    "description": "Genuine-fit 65W charger and power adapter for Asus laptops. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "chargers",
+    "url": "/shop/chargers/",
+    "name": "Chargers &amp; Adapters"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "faq_heading": "Questions About This Charger",
+  "faqs": [
+    { "question": "Will this charger work with my laptop model?", "answer": "It fits Asus models using the standard barrel connector — send us your laptop model on WhatsApp and we'll confirm before you order." },
+    { "question": "Is this an original or compatible charger?", "answer": "It's a new OEM-equivalent charger built to the same output spec as the original — stated clearly on this page." },
+    { "question": "What warranty comes with a charger?", "answer": "This charger carries a 6-month warranty from the date of purchase." }
+  ],
+  "product": {
+    "url": "/shop/chargers/asus-65w-adapter/",
+    "sku": "ASUS-CH-65W",
+    "name": "Asus 65W Charger &amp; Adapter",
+    "full_name": "Asus 65W Charger and Power Adapter",
+    "brand_slug": "asus",
+    "brand_name": "Asus",
+    "price": "2,500",
+    "price_raw": "2500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "New OEM-equivalent 65W charger for Asus VivoBook laptops with the standard barrel connector. Tested before dispatch, includes a 1.8m cable.",
+    "type_label": "charger",
+    "type_label_cap": "Charger",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%2065W%20Charger%20%26%20Adapter%20(SKU%3A%20ASUS-CH-65W)%20%E2%80%94%20KES%202%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20Asus%2065W%20Charger%20fits%20my%20laptop%3F",
+    "images": [
+      { "src": "assets/images/products/asus-charger-65w-1.jpg", "alt": "Asus 65W charger and power adapter, plug view" },
+      { "src": "assets/images/products/asus-charger-65w-2.jpg", "alt": "Asus 65W charger and power adapter, connector tip view" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock — 5 units" },
+      { "class": "badge--new-oem", "label": "New OEM-Equivalent" },
+      { "class": "badge--warranty", "label": "6-Month Warranty" }
+    ],
+    "specs": [
+      { "label": "Output Wattage", "value": "65W" },
+      { "label": "Output", "value": "19V / 3.42A" },
+      { "label": "Connector Type", "value": "Asus Barrel (4.5mm)" },
+      { "label": "Cable Length", "value": "1.8m" },
+      { "label": "Condition", "value": "New OEM-equivalent" },
+      { "label": "Warranty", "value": "6 months" }
+    ],
+    "compatible_models": ["Asus VivoBook 15 X515", "Asus VivoBook 15 X512", "Asus VivoBook 15 F515"],
+    "related": [
+      {
+        "url": "/shop/laptop-batteries/asus-vivobook-15/",
+        "image": "assets/images/products/asus-battery-vivobook15.jpg",
+        "alt": "Replacement battery for Asus VivoBook 15",
+        "name": "Asus VivoBook 15 Battery",
+        "badge_class": "badge--in-stock", "badge_label": "In Stock",
+        "tags": ["VivoBook 15"],
+        "price": "4,100",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%20VivoBook%2015%20Battery%20%E2%80%94%20KES%204%2C100"
+      },
+      {
+        "url": "/shop/casings/asus-vivobook-15-casing/",
+        "image": "assets/images/products/asus-casing-vivobook15.jpg",
+        "alt": "Asus VivoBook 15 bottom casing",
+        "name": "Asus VivoBook 15 Casing",
+        "badge_class": "badge--in-stock", "badge_label": "In Stock",
+        "tags": ["VivoBook 15"],
+        "price": "2,900",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%20VivoBook%2015%20Casing%20%E2%80%94%20KES%202%2C900"
+      },
+      {
+        "url": "/shop/keyboards/asus-vivobook-15-keyboard/",
+        "image": "assets/images/products/asus-keyboard-vivobook15.jpg",
+        "alt": "Asus VivoBook 15 replacement keyboard",
+        "name": "Asus VivoBook 15 Keyboard",
+        "badge_class": "badge--in-stock", "badge_label": "In Stock",
+        "tags": ["VivoBook 15"],
+        "price": "3,200",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%20VivoBook%2015%20Keyboard%20%E2%80%94%20KES%203%2C200"
+      }
+    ]
+  }
+}

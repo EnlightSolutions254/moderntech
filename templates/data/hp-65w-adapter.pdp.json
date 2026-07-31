@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "title": "HP 65W Charger &amp; Adapter | Price in Kenya | [Store Name]",
+    "description": "Genuine-fit 65W charger and power adapter for HP laptops with the standard barrel connector. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "HP 65W Charger &amp; Adapter | [Store Name]",
+    "description": "Genuine-fit 65W charger and power adapter for HP laptops. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "chargers",
+    "url": "/shop/chargers/",
+    "name": "Chargers &amp; Adapters"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "faq_heading": "Questions About This Charger",
+  "faqs": [
+    { "question": "Will this charger work with my laptop model?", "answer": "It fits HP models using the standard barrel connector — send us your laptop model on WhatsApp and we'll confirm before you order." },
+    { "question": "Is this an original or compatible charger?", "answer": "It's a new OEM-equivalent charger built to the same output spec as the original — stated clearly on this page." },
+    { "question": "What warranty comes with a charger?", "answer": "This charger carries a 6-month warranty from the date of purchase." }
+  ],
+  "product": {
+    "url": "/shop/chargers/hp-65w-adapter/",
+    "sku": "HP-CH-65W",
+    "name": "HP 65W Charger &amp; Adapter",
+    "full_name": "HP 65W Charger and Power Adapter",
+    "brand_slug": "hp",
+    "brand_name": "HP",
+    "price": "2,800",
+    "price_raw": "2800",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "New OEM-equivalent 65W charger for HP laptops with the standard barrel connector. Tested before dispatch, includes a 1.8m cable.",
+    "type_label": "charger",
+    "type_label_cap": "Charger",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%2065W%20Charger%20%26%20Adapter%20(SKU%3A%20HP-CH-65W)%20%E2%80%94%20KES%202%2C800",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20HP%2065W%20Charger%20fits%20my%20laptop%3F",
+    "images": [
+      { "src": "assets/images/products/hp-charger-65w-1.jpg", "alt": "HP 65W charger and power adapter, plug view" },
+      { "src": "assets/images/products/hp-charger-65w-2.jpg", "alt": "HP 65W charger and power adapter, connector tip view" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock — 6 units" },
+      { "class": "badge--new-oem", "label": "New OEM-Equivalent" },
+      { "class": "badge--warranty", "label": "6-Month Warranty" }
+    ],
+    "specs": [
+      { "label": "Output Wattage", "value": "65W" },
+      { "label": "Output", "value": "18.5V / 3.5A" },
+      { "label": "Connector Type", "value": "HP Barrel (7.4mm)" },
+      { "label": "Cable Length", "value": "1.8m" },
+      { "label": "Condition", "value": "New OEM-equivalent" },
+      { "label": "Warranty", "value": "6 months" }
+    ],
+    "compatible_models": ["HP EliteBook 840 G3", "HP EliteBook 840 G4", "HP EliteBook 850 G3", "HP ProBook 440/450/470 G5 (barrel connector variants)"],
+    "related": [
+      {
+        "url": "/shop/laptop-batteries/hp-elitebook-840-g3-g4/",
+        "image": "assets/images/products/hp-battery-840g3.jpg",
+        "alt": "Replacement battery for HP EliteBook 840 G3/G4",
+        "name": "HP EliteBook 840 G3/G4 Battery",
+        "badge_class": "badge--in-stock", "badge_label": "In Stock",
+        "tags": ["840 G3", "840 G4"],
+        "price": "4,500",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20EliteBook%20840%20G3%2FG4%20Battery%20(SKU%3A%20HP-BT-840G3)%20%E2%80%94%20KES%204%2C500"
+      },
+      {
+        "url": "/shop/casings/hp-840g3-casing/",
+        "image": "assets/images/products/hp-casing-840g3.jpg",
+        "alt": "HP EliteBook 840 G3 bottom casing",
+        "name": "HP EliteBook 840 G3 Casing",
+        "badge_class": "badge--low-stock", "badge_label": "Only 2 left",
+        "tags": ["840 G3"],
+        "price": "3,200",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20EliteBook%20840%20G3%20Casing%20%E2%80%94%20KES%203%2C200"
+      },
+      {
+        "url": "/shop/keyboards/hp-840g3-keyboard/",
+        "image": "assets/images/products/hp-keyboard-840g3.jpg",
+        "alt": "HP EliteBook 840 G3 replacement keyboard",
+        "name": "HP EliteBook 840 G3 Keyboard",
+        "badge_class": "badge--in-stock", "badge_label": "In Stock",
+        "tags": ["840 G3", "840 G4"],
+        "price": "3,500",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20EliteBook%20840%20G3%20Keyboard%20%E2%80%94%20KES%203%2C500"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "title": "Dell Latitude 5490 Casing | Price in Kenya | [Store Name]",
+    "description": "Replacement bottom casing for Dell Latitude 5490/5491. 3-month warranty against defects. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Dell Latitude 5490 Casing | [Store Name]",
+    "description": "Replacement bottom casing for Dell Latitude 5490/5491. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "casings",
+    "url": "/shop/casings/",
+    "name": "Casings"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "faq_heading": "Questions About This Casing",
+  "faqs": [
+    { "question": "Does this include the screws?", "answer": "Yes — the casing ships with the matching screw set. Rubber feet are pre-fitted." },
+    { "question": "Will I need a technician to fit it?", "answer": "Fitting means transferring internals from your old bottom cover, so we recommend a technician unless you're comfortable opening a laptop. We can refer one on WhatsApp." },
+    { "question": "What warranty comes with a casing?", "answer": "This casing carries a 3-month warranty against manufacturing defects such as cracking or misaligned mounting points." }
+  ],
+  "product": {
+    "url": "/shop/casings/dell-latitude-5490-casing/",
+    "sku": "DELL-CS-5490",
+    "name": "Dell Latitude 5490 Casing",
+    "full_name": "Replacement Bottom Casing for Dell Latitude 5490",
+    "brand_slug": "dell",
+    "brand_name": "Dell",
+    "price": "3,300",
+    "price_raw": "3300",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Replacement bottom casing for the Dell Latitude 5490/5491. New, matches factory fit and finish, ships with the correct screw set.",
+    "type_label": "casing",
+    "type_label_cap": "Casing",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%205490%20Casing%20(SKU%3A%20DELL-CS-5490)%20%E2%80%94%20KES%203%2C300",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20Dell%20Latitude%205490%20Casing%20fits%20my%20laptop%3F",
+    "images": [
+      { "src": "assets/images/products/dell-casing-5490-1.jpg", "alt": "Dell Latitude 5490 bottom casing, outside view" },
+      { "src": "assets/images/products/dell-casing-5490-2.jpg", "alt": "Dell Latitude 5490 bottom casing, mounting points view" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock — 3 units" },
+      { "class": "badge--new-oem", "label": "New OEM-Equivalent" },
+      { "class": "badge--warranty", "label": "3-Month Warranty" }
+    ],
+    "specs": [
+      { "label": "Material", "value": "ABS plastic" },
+      { "label": "Color", "value": "Black" },
+      { "label": "Includes", "value": "Bottom casing, screw set, rubber feet" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 months (manufacturing defects)" }
+    ],
+    "compatible_models": ["Dell Latitude 5490", "Dell Latitude 5491"],
+    "related": [
+      {
+        "url": "/shop/laptop-batteries/dell-latitude-5490/",
+        "image": "assets/images/products/dell-battery-5490.jpg",
+        "alt": "Replacement battery for Dell Latitude 5490",
+        "name": "Dell Latitude 5490 Battery",
+        "badge_class": "badge--in-stock", "badge_label": "In Stock",
+        "tags": ["Latitude 5490", "Latitude 5491"],
+        "price": "5,200",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%205490%20Battery%20%E2%80%94%20KES%205%2C200"
+      },
+      {
+        "url": "/shop/keyboards/dell-latitude-5490-keyboard/",
+        "image": "assets/images/products/dell-keyboard-5490.jpg",
+        "alt": "Dell Latitude 5490 replacement keyboard",
+        "name": "Dell Latitude 5490 Keyboard",
+        "badge_class": "badge--in-stock", "badge_label": "In Stock",
+        "tags": ["Latitude 5490", "Latitude 5491"],
+        "price": "3,600",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%205490%20Keyboard%20%E2%80%94%20KES%203%2C600"
+      },
+      {
+        "url": "/shop/chargers/dell-90w-adapter/",
+        "image": "assets/images/products/dell-charger-90w.jpg",
+        "alt": "Dell 90W charger and power adapter",
+        "name": "Dell 90W Charger &amp; Adapter",
+        "badge_class": "badge--in-stock", "badge_label": "In Stock",
+        "tags": ["Universal Dell"],
+        "price": "2,900",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%2090W%20Charger%20%26%20Adapter%20%E2%80%94%20KES%202%2C900"
+      }
+    ]
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "title": "Laptop Keyboards in Kenya — HP, Dell, Lenovo, Acer &amp; More | [Store Name]",
+    "description": "Genuine replacement laptop keyboards for HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook. In-stock pricing in KES, warranty included, countrywide delivery. Order on WhatsApp."
+  },
+  "og": {
+    "title": "Laptop Keyboards in Kenya | [Store Name]",
+    "description": "Genuine replacement laptop keyboards for all major brands. In-stock pricing, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "keyboards",
+    "url": "/shop/keyboards/",
+    "name": "Keyboards",
+    "name_lower": "keyboards",
+    "description": "Genuine replacement keyboards for HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook laptops. Every listing shows exact layout, backlighting and compatible models before you message us.",
+    "result_count": 8
+  },
+  "products": [
+    {
+      "brand_slug": "hp", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/keyboards/hp-840g3-keyboard/",
+      "image": "assets/images/products/hp-keyboard-840g3.jpg",
+      "alt": "Replacement keyboard for HP EliteBook 840 G3",
+      "name": "HP EliteBook 840 G3 Keyboard",
+      "tags": ["840 G3", "840 G4"],
+      "price": "3,500", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20EliteBook%20840%20G3%20Keyboard%20%E2%80%94%20KES%203%2C500",
+      "extra": false
+    },
+    {
+      "brand_slug": "dell", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/keyboards/dell-latitude-5490-keyboard/",
+      "image": "assets/images/products/dell-keyboard-5490.jpg",
+      "alt": "Replacement keyboard for Dell Latitude 5490",
+      "name": "Dell Latitude 5490 Keyboard",
+      "tags": ["Latitude 5490", "Latitude 5491"],
+      "price": "3,300", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%205490%20Keyboard%20%E2%80%94%20KES%203%2C300",
+      "extra": false
+    },
+    {
+      "brand_slug": "lenovo", "stock": "low_stock", "badge_class": "badge--low-stock", "badge_label": "Only 2 left",
+      "url": "/shop/keyboards/lenovo-thinkpad-t480-keyboard/",
+      "image": "assets/images/products/lenovo-keyboard-t480.jpg",
+      "alt": "Replacement keyboard for Lenovo ThinkPad T480",
+      "name": "Lenovo ThinkPad T480 Keyboard",
+      "tags": ["Backlit", "ThinkPad T480"],
+      "price": "3,800", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20T480%20Keyboard%20%E2%80%94%20KES%203%2C800",
+      "extra": false
+    },
+    {
+      "brand_slug": "macbook", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/keyboards/macbook-pro-2019-13-keyboard/",
+      "image": "assets/images/products/macbook-keyboard-pro13-2019.jpg",
+      "alt": "Replacement keyboard assembly for MacBook Pro 2019 13 inch",
+      "name": "MacBook Pro 2019 13&quot; Keyboard Assembly",
+      "tags": ["MacBook Pro 2019 13\""],
+      "price": "9,500", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20Pro%202019%2013%22%20Keyboard%20Assembly%20%E2%80%94%20KES%209%2C500",
+      "extra": false
+    },
+    {
+      "brand_slug": "acer", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/keyboards/acer-aspire-5-keyboard/",
+      "image": "assets/images/products/acer-keyboard-aspire5.jpg",
+      "alt": "Replacement keyboard for Acer Aspire 5",
+      "name": "Acer Aspire 5 Keyboard",
+      "tags": ["Aspire 5"],
+      "price": "3,000", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Acer%20Aspire%205%20Keyboard%20%E2%80%94%20KES%203%2C000",
+      "extra": true
+    },
+    {
+      "brand_slug": "toshiba", "stock": "out_of_stock", "badge_class": "badge--out-of-stock", "badge_label": "Out of Stock",
+      "url": "/shop/keyboards/toshiba-satellite-c55-keyboard/",
+      "image": "assets/images/products/toshiba-keyboard-c55.jpg",
+      "alt": "Replacement keyboard for Toshiba Satellite C55",
+      "name": "Toshiba Satellite C55 Keyboard",
+      "tags": ["Satellite C55"],
+      "price": "2,900", "cta_label": "Ask About Restock", "cta_class": "btn--secondary",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20ask%20about%20restock%3A%20Toshiba%20Satellite%20C55%20Keyboard",
+      "extra": true
+    },
+    {
+      "brand_slug": "asus", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/keyboards/asus-vivobook-15-keyboard/",
+      "image": "assets/images/products/asus-keyboard-vivobook15.jpg",
+      "alt": "Replacement keyboard for Asus VivoBook 15",
+      "name": "Asus VivoBook 15 Keyboard",
+      "tags": ["VivoBook 15"],
+      "price": "3,100", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%20VivoBook%2015%20Keyboard%20%E2%80%94%20KES%203%2C100",
+      "extra": true
+    },
+    {
+      "brand_slug": "hp", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/keyboards/hp-probook-450-g5-keyboard/",
+      "image": "assets/images/products/hp-keyboard-probook450g5.jpg",
+      "alt": "Replacement keyboard for HP ProBook 450 G5",
+      "name": "HP ProBook 450 G5 Keyboard",
+      "tags": ["ProBook 450 G5"],
+      "price": "3,200", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20ProBook%20450%20G5%20Keyboard%20%E2%80%94%20KES%203%2C200",
+      "extra": true
+    }
+  ],
+  "technician_cta": {
+    "heading": "Repair Technician? Get Bulk Pricing on Keyboards.",
+    "body": "Volume pricing, priority stock holds and credit terms for repair shops and businesses.",
+    "whatsapp_text": "Hi%2C%20I%27m%20a%20technician%20interested%20in%20bulk%20pricing%20on%20laptop%20keyboards.",
+    "cta_label": "Chat About Bulk Pricing"
+  },
+  "faq_heading": "Keyboard Questions",
+  "faqs": [
+    { "question": "How do I know this keyboard fits my laptop?", "answer": "Each listing shows exact compatible models. If you're unsure of your laptop's exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
+    { "question": "Do keyboards come backlit?", "answer": "Where the original model supports it, we stock both backlit and non-backlit versions — this is stated on the individual product page." },
+    { "question": "What warranty comes with a keyboard?", "answer": "Most keyboards carry a 3-month warranty, listed on the individual product page." }
+  ],
+  "empty_state": {
+    "whatsapp_text": "Hi%2C%20I%27m%20looking%20for%20a%20laptop%20keyboard%20but%20couldn%27t%20find%20it%20on%20the%20site."
+  },
+  "sticky_whatsapp": {
+    "text": "Hi%2C%20I%27d%20like%20to%20order%20a%20laptop%20keyboard."
+  }
+}

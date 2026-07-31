@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "title": "Genuine Laptop Parts in Kenya — HP, Dell, Lenovo, Acer & More | [Store Name]",
+    "description": "Genuine replacement laptop batteries, chargers, screens, keyboards, hinges, fans and casings for HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook. In-stock pricing in KES, warranty included, countrywide delivery. Order on WhatsApp."
+  },
+  "og": {
+    "title": "Genuine Laptop Parts in Kenya | [Store Name]",
+    "description": "Batteries, chargers, screens, keyboards, hinges, fans and casings for all major laptop brands. In-stock pricing, warranty included, order on WhatsApp."
+  },
+
+  "hero": {
+    "headline": "Genuine Laptop Parts, Delivered Fast Across Kenya",
+    "copy": "Batteries, chargers, screens, keyboards, hinges, fans and casings for HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook. Know your part or just your laptop model \u2014 we'll help you find it.",
+    "primary_cta_text": "Find My Part",
+    "whatsapp_cta_text": "Order on WhatsApp",
+    "whatsapp_href_text": "Hi%2C%20I%27d%20like%20to%20order%20a%20laptop%20part.",
+    "trust_row": [
+      { "icon": "&#10003;", "label": "Genuine Parts" },
+      { "icon": "&#10003;", "label": "Countrywide Delivery" }
+    ]
+  },
+
+  "wizard": {
+    "headline": "Not sure exactly what you need? Tell us your laptop.",
+    "copy": "Pick your brand and model \u2014 we'll show you every compatible part in stock.",
+    "submit_text": "Show Me Parts"
+  },
+
+  "shop_by_part": {
+    "headline": "Shop by Part",
+    "copy": "Every category, always in stock and ready to ship."
+  },
+
+  "shop_by_brand": {
+    "headline": "Shop by Brand",
+    "copy": "HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook parts \u2014 all in one place."
+  },
+
+  "featured_products": {
+    "headline": "Popular Right Now",
+    "copy": "The parts our customers order most.",
+    "view_all_text": "View All Products",
+    "products": [
+      {
+        "name": "HP EliteBook 840 G3/G4 Battery",
+        "url": "/shop/laptop-batteries/hp-elitebook-840-g3-g4/",
+        "image": "assets/images/products/hp-battery-840g3.jpg",
+        "alt": "Replacement battery for HP EliteBook 840 G3/G4",
+        "badge_type": "in-stock",
+        "badge_text": "In Stock",
+        "tags": ["840 G3", "840 G4"],
+        "price": "KES 4,500",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20EliteBook%20840%20G3%2FG4%20Battery%20%E2%80%94%20KES%204%2C500"
+      },
+      {
+        "name": "Dell Latitude 5490 Battery",
+        "url": "/shop/laptop-batteries/dell-latitude-5490/",
+        "image": "assets/images/products/dell-battery-5490.jpg",
+        "alt": "Replacement battery for Dell Latitude 5490",
+        "badge_type": "in-stock",
+        "badge_text": "In Stock",
+        "tags": ["Latitude 5490", "Latitude 5491"],
+        "price": "KES 5,200",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%205490%20Battery%20%E2%80%94%20KES%205%2C200"
+      },
+      {
+        "name": "Lenovo ThinkPad T480 Battery",
+        "url": "/shop/laptop-batteries/lenovo-thinkpad-t480/",
+        "image": "assets/images/products/lenovo-battery-t480.jpg",
+        "alt": "Replacement battery for Lenovo ThinkPad T480",
+        "badge_type": "low-stock",
+        "badge_text": "Only 2 left",
+        "tags": ["ThinkPad T480", "ThinkPad T480s"],
+        "price": "KES 4,800",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20T480%20Battery%20%E2%80%94%20KES%204%2C800"
+      },
+      {
+        "name": "MacBook Pro 2019 13\" Battery",
+        "url": "/shop/laptop-batteries/macbook-pro-2019-13/",
+        "image": "assets/images/products/macbook-battery-pro13-2019.jpg",
+        "alt": "Replacement battery for MacBook Pro 2019 13 inch",
+        "badge_type": "in-stock",
+        "badge_text": "In Stock",
+        "tags": ["MacBook Pro 2019 13\""],
+        "price": "KES 8,900",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20Pro%202019%2013%22%20Battery%20%E2%80%94%20KES%208%2C900"
+      }
+    ]
+  },
+
+  "trust_bar": {
+    "headline": "Why Buy From Us",
+    "items": [
+      { "icon": "&#9989;", "label": "Genuine Parts", "desc": "Tested before dispatch, not old take-outs." },
+      { "icon": "&#128737;", "label": "Warranty Included", "desc": "6-month standard warranty on every part." },
+      { "icon": "&#128666;", "label": "Countrywide Delivery", "desc": "Nairobi same-day, upcountry in 1\u20132 days." },
+      { "icon": "&#128176;", "label": "M-Pesa &amp; Cash on Delivery", "desc": "Pay the way that's easiest for you." }
+    ]
+  },
+
+  "delivery": {
+    "headline": "We Deliver Countrywide",
+    "copy": "Same-day delivery within Nairobi. 1\u20132 days to major towns. Not sure about your area? Ask us directly.",
+    "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20delivery%20to%20my%20area.",
+    "areas": [
+      { "name": "Nairobi" },
+      { "name": "Mombasa" },
+      { "name": "Kisumu" },
+      { "name": "Nakuru" },
+      { "name": "Eldoret" },
+      { "name": "Thika" },
+      { "name": "Nyeri", "extra": true },
+      { "name": "Meru", "extra": true },
+      { "name": "Kakamega", "extra": true },
+      { "name": "Kisii", "extra": true },
+      { "name": "Machakos", "extra": true },
+      { "name": "Naivasha", "extra": true }
+    ]
+  },
+
+  "technician_cta": {
+    "headline": "Repair Technician or Business? Get Trade Pricing.",
+    "copy": "Bulk orders, priority stock holds, and trade pricing for repair shops and businesses across Kenya.",
+    "whatsapp_text": "Hi%2C%20I%27m%20a%20technician%20interested%20in%20bulk%20pricing."
+  },
+
+  "testimonials": [
+    {
+      "quote": "My laptop wouldn't charge \u2014 turned out to be the charger. Ordered on WhatsApp in the morning, had it by 3pm the same day.",
+      "name": "James K.",
+      "role": "Technician, Nairobi CBD"
+    },
+    {
+      "quote": "I didn't know my exact laptop model but the wizard on the site helped me find the right battery for my Dell.",
+      "name": "Faith W.",
+      "role": "University Student, Nairobi"
+    },
+    {
+      "quote": "We buy screens and keyboards in bulk for our repair shop \u2014 trade pricing and stock holds have saved us so much time.",
+      "name": "Ochieng M.",
+      "role": "Repair Shop Owner, Mombasa"
+    }
+  ],
+
+  "faqs": [
+    { "q": "How do I know this part fits my laptop?", "a": "Each listing shows exact compatible models. If you're unsure of your laptop's exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
+    { "q": "Do you offer warranty?", "a": "Yes \u2014 most parts carry a 6-month warranty, listed on the individual product page." },
+    { "q": "How long does delivery take?", "a": "Same-day within Nairobi, 1\u20132 days to major towns countrywide." },
+    { "q": "Can I pay via M-Pesa?", "a": "Yes, M-Pesa and cash on delivery are both accepted." },
+    { "q": "Do you buy old/broken parts?", "a": "In some cases yes \u2014 ask us on WhatsApp with details of what you have." }
+  ],
+
+  "final_cta": {
+    "headline": "Still Not Sure What You Need?",
+    "copy": "Send us a photo or tell us your laptop model on WhatsApp \u2014 we'll help you find the right part in minutes.",
+    "cta_text": "Chat With Us on WhatsApp",
+    "whatsapp_text": "Hi%2C%20I%27m%20not%20sure%20what%20part%20I%20need%20%E2%80%94%20can%20you%20help%3F"
+  }
+}

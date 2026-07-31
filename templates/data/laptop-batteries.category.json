@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "title": "Laptop Batteries in Kenya — HP, Dell, Lenovo, Acer &amp; More | [Store Name]",
+    "description": "Genuine replacement laptop batteries for HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook. In-stock pricing in KES, 6-month warranty, countrywide delivery. Order on WhatsApp."
+  },
+  "og": {
+    "title": "Laptop Batteries in Kenya | [Store Name]",
+    "description": "Genuine replacement laptop batteries for all major brands. In-stock pricing, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries",
+    "name_lower": "batteries",
+    "description": "Genuine replacement batteries for HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook laptops. Every listing shows exact compatible models, stock status and price before you message us.",
+    "result_count": 8
+  },
+  "products": [
+    {
+      "brand_slug": "hp", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/laptop-batteries/hp-elitebook-840-g3-g4/",
+      "image": "assets/images/products/hp-battery-840g3.jpg",
+      "alt": "Replacement battery for HP EliteBook 840 G3/G4",
+      "name": "HP EliteBook 840 G3/G4 Battery",
+      "tags": ["840 G3", "840 G4"], "tag_overflow": "+1 more",
+      "price": "4,500", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20EliteBook%20840%20G3%2FG4%20Battery%20(SKU%3A%20HP-BT-840G3)%20%E2%80%94%20KES%204%2C500",
+      "extra": false
+    },
+    {
+      "brand_slug": "dell", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/laptop-batteries/dell-latitude-5490/",
+      "image": "assets/images/products/dell-battery-5490.jpg",
+      "alt": "Replacement battery for Dell Latitude 5490",
+      "name": "Dell Latitude 5490 Battery",
+      "tags": ["Latitude 5490", "Latitude 5491"],
+      "price": "5,200", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%205490%20Battery%20%E2%80%94%20KES%205%2C200",
+      "extra": false
+    },
+    {
+      "brand_slug": "lenovo", "stock": "low_stock", "badge_class": "badge--low-stock", "badge_label": "Only 2 left",
+      "url": "/shop/laptop-batteries/lenovo-thinkpad-t480/",
+      "image": "assets/images/products/lenovo-battery-t480.jpg",
+      "alt": "Replacement battery for Lenovo ThinkPad T480",
+      "name": "Lenovo ThinkPad T480 Battery",
+      "tags": ["ThinkPad T480", "ThinkPad T480s"],
+      "price": "4,800", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20T480%20Battery%20%E2%80%94%20KES%204%2C800",
+      "extra": false
+    },
+    {
+      "brand_slug": "macbook", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/laptop-batteries/macbook-pro-2019-13/",
+      "image": "assets/images/products/macbook-battery-pro13-2019.jpg",
+      "alt": "Replacement battery for MacBook Pro 2019 13 inch",
+      "name": "MacBook Pro 2019 13&quot; Battery",
+      "tags": ["MacBook Pro 2019 13\""],
+      "price": "8,900", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20Pro%202019%2013%22%20Battery%20%E2%80%94%20KES%208%2C900",
+      "extra": false
+    },
+    {
+      "brand_slug": "acer", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/laptop-batteries/acer-aspire-5/",
+      "image": "assets/images/products/acer-battery-aspire5.jpg",
+      "alt": "Replacement battery for Acer Aspire 5",
+      "name": "Acer Aspire 5 Battery",
+      "tags": ["Aspire 5"],
+      "price": "3,900", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Acer%20Aspire%205%20Battery%20%E2%80%94%20KES%203%2C900",
+      "extra": true
+    },
+    {
+      "brand_slug": "toshiba", "stock": "out_of_stock", "badge_class": "badge--out-of-stock", "badge_label": "Out of Stock",
+      "url": "/shop/laptop-batteries/toshiba-satellite-c55/",
+      "image": "assets/images/products/toshiba-battery-c55.jpg",
+      "alt": "Replacement battery for Toshiba Satellite C55",
+      "name": "Toshiba Satellite C55 Battery",
+      "tags": ["Satellite C55"],
+      "price": "3,600", "cta_label": "Ask About Restock", "cta_class": "btn--secondary",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20ask%20about%20restock%3A%20Toshiba%20Satellite%20C55%20Battery",
+      "extra": true
+    },
+    {
+      "brand_slug": "asus", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/laptop-batteries/asus-vivobook-15/",
+      "image": "assets/images/products/asus-battery-vivobook15.jpg",
+      "alt": "Replacement battery for Asus VivoBook 15",
+      "name": "Asus VivoBook 15 Battery",
+      "tags": ["VivoBook 15"],
+      "price": "4,100", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%20VivoBook%2015%20Battery%20%E2%80%94%20KES%204%2C100",
+      "extra": true
+    },
+    {
+      "brand_slug": "hp", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/laptop-batteries/hp-probook-450-g5/",
+      "image": "assets/images/products/hp-battery-probook450g5.jpg",
+      "alt": "Replacement battery for HP ProBook 450 G5",
+      "name": "HP ProBook 450 G5 Battery",
+      "tags": ["ProBook 450 G5"],
+      "price": "4,300", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20ProBook%20450%20G5%20Battery%20%E2%80%94%20KES%204%2C300",
+      "extra": true
+    }
+  ],
+  "technician_cta": {
+    "heading": "Repair Technician? Get Bulk Pricing on Batteries.",
+    "body": "Volume pricing, priority stock holds and credit terms for repair shops and businesses.",
+    "whatsapp_text": "Hi%2C%20I%27m%20a%20technician%20interested%20in%20bulk%20pricing%20on%20laptop%20batteries.",
+    "cta_label": "Chat About Bulk Pricing"
+  },
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    { "question": "How do I know this battery fits my laptop?", "answer": "Each listing shows exact compatible models. If you're unsure of your laptop's exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
+    { "question": "Are these original or compatible batteries?", "answer": "We stock both, and it's stated clearly on each product page — new OEM-equivalent by default, with genuine originals where available." },
+    { "question": "What warranty comes with a battery?", "answer": "Most batteries carry a 6-month warranty, listed on the individual product page." }
+  ],
+  "empty_state": {
+    "whatsapp_text": "Hi%2C%20I%27m%20looking%20for%20a%20laptop%20battery%20but%20couldn%27t%20find%20it%20on%20the%20site."
+  },
+  "sticky_whatsapp": {
+    "text": "Hi%2C%20I%27d%20like%20to%20order%20a%20laptop%20battery."
+  }
+}

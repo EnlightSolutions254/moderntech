@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "title": "Lenovo ThinkPad T480 Palmrest | Price in Kenya | [Store Name]",
+    "description": "Replacement palmrest with trackpad for Lenovo ThinkPad T480/T480s. 3-month warranty against defects. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Lenovo ThinkPad T480 Palmrest | [Store Name]",
+    "description": "Replacement palmrest with trackpad for Lenovo ThinkPad T480/T480s. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "casings",
+    "url": "/shop/casings/",
+    "name": "Casings"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "faq_heading": "Questions About This Palmrest",
+  "faqs": [
+    { "question": "Does the trackpad come pre-installed?", "answer": "Yes — the trackpad and its cable are already fitted to the palmrest assembly." },
+    { "question": "Will I need a technician to fit it?", "answer": "Fitting means transferring the keyboard and trackpad cable connections from your old palmrest, so we recommend a technician unless you're comfortable opening a laptop. We can refer one on WhatsApp." },
+    { "question": "What warranty comes with a palmrest?", "answer": "This palmrest carries a 3-month warranty against manufacturing defects such as cracking or a faulty trackpad." }
+  ],
+  "product": {
+    "url": "/shop/casings/lenovo-thinkpad-t480-palmrest/",
+    "sku": "LEN-CS-T480PR",
+    "name": "Lenovo ThinkPad T480 Palmrest",
+    "full_name": "Replacement Palmrest with Trackpad for Lenovo ThinkPad T480",
+    "brand_slug": "lenovo",
+    "brand_name": "Lenovo",
+    "price": "3,400",
+    "price_raw": "3400",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Replacement palmrest assembly with trackpad for the Lenovo ThinkPad T480/T480s. New, matches factory fit and finish, ships with the correct screw set.",
+    "type_label": "palmrest",
+    "type_label_cap": "Palmrest",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20T480%20Palmrest%20(SKU%3A%20LEN-CS-T480PR)%20%E2%80%94%20KES%203%2C400",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20Lenovo%20ThinkPad%20T480%20Palmrest%20fits%20my%20laptop%3F",
+    "images": [
+      { "src": "assets/images/products/lenovo-casing-t480-1.jpg", "alt": "Lenovo ThinkPad T480 palmrest with trackpad, outside view" },
+      { "src": "assets/images/products/lenovo-casing-t480-2.jpg", "alt": "Lenovo ThinkPad T480 palmrest, underside connector view" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock — 3 units" },
+      { "class": "badge--new-oem", "label": "New OEM-Equivalent" },
+      { "class": "badge--warranty", "label": "3-Month Warranty" }
+    ],
+    "specs": [
+      { "label": "Material", "value": "Magnesium alloy frame, ABS palmrest" },
+      { "label": "Color", "value": "Black" },
+      { "label": "Includes", "value": "Palmrest, trackpad, screw set" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 months (manufacturing defects)" }
+    ],
+    "compatible_models": ["Lenovo ThinkPad T480", "Lenovo ThinkPad T480s"],
+    "related": [
+      {
+        "url": "/shop/laptop-batteries/lenovo-thinkpad-t480/",
+        "image": "assets/images/products/lenovo-battery-t480.jpg",
+        "alt": "Replacement battery for Lenovo ThinkPad T480",
+        "name": "Lenovo ThinkPad T480 Battery",
+        "badge_class": "badge--low-stock", "badge_label": "Only 2 left",
+        "tags": ["ThinkPad T480", "ThinkPad T480s"],
+        "price": "4,800",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20T480%20Battery%20%E2%80%94%20KES%204%2C800"
+      },
+      {
+        "url": "/shop/keyboards/lenovo-thinkpad-t480-keyboard/",
+        "image": "assets/images/products/lenovo-keyboard-t480.jpg",
+        "alt": "Lenovo ThinkPad T480 replacement keyboard",
+        "name": "Lenovo ThinkPad T480 Keyboard",
+        "badge_class": "badge--in-stock", "badge_label": "In Stock",
+        "tags": ["ThinkPad T480", "ThinkPad T480s"],
+        "price": "3,700",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20T480%20Keyboard%20%E2%80%94%20KES%203%2C700"
+      },
+      {
+        "url": "/shop/chargers/lenovo-65w-usb-c-adapter/",
+        "image": "assets/images/products/lenovo-charger-65w.jpg",
+        "alt": "Lenovo 65W USB-C charger and power adapter",
+        "name": "Lenovo 65W USB-C Charger &amp; Adapter",
+        "badge_class": "badge--in-stock", "badge_label": "In Stock",
+        "tags": ["Universal Lenovo"],
+        "price": "2,700",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%2065W%20USB-C%20Charger%20%26%20Adapter%20%E2%80%94%20KES%202%2C700"
+      }
+    ]
+  }
+}

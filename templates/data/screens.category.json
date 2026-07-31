@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "title": "Laptop Screens in Kenya — HP, Dell, Lenovo, Acer &amp; More | [Store Name]",
+    "description": "Genuine replacement laptop screens for HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook. In-stock pricing in KES, warranty included, countrywide delivery. Order on WhatsApp."
+  },
+  "og": {
+    "title": "Laptop Screens in Kenya | [Store Name]",
+    "description": "Genuine replacement laptop screens for all major brands. In-stock pricing, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "screens",
+    "url": "/shop/screens/",
+    "name": "Laptop Screens",
+    "name_lower": "screens",
+    "description": "Genuine replacement screens for HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook laptops. Every listing shows exact panel size, resolution and compatible models before you message us.",
+    "result_count": 8
+  },
+  "products": [
+    {
+      "brand_slug": "hp", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/screens/hp-elitebook-840-g3-g4/",
+      "image": "assets/images/products/hp-screen-840g3.jpg",
+      "alt": "Replacement screen for HP EliteBook 840 G3/G4",
+      "name": "HP EliteBook 840 G3/G4 Screen",
+      "tags": ["14\" FHD", "840 G3", "840 G4"], "tag_overflow": "+1 more",
+      "price": "6,500", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20EliteBook%20840%20G3%2FG4%20Screen%20%E2%80%94%20KES%206%2C500",
+      "extra": false
+    },
+    {
+      "brand_slug": "dell", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/screens/dell-latitude-5490/",
+      "image": "assets/images/products/dell-screen-5490.jpg",
+      "alt": "Replacement screen for Dell Latitude 5490",
+      "name": "Dell Latitude 5490 Screen",
+      "tags": ["14\" HD", "Latitude 5490"],
+      "price": "6,200", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%205490%20Screen%20%E2%80%94%20KES%206%2C200",
+      "extra": false
+    },
+    {
+      "brand_slug": "lenovo", "stock": "low_stock", "badge_class": "badge--low-stock", "badge_label": "Only 2 left",
+      "url": "/shop/screens/lenovo-thinkpad-t480/",
+      "image": "assets/images/products/lenovo-screen-t480.jpg",
+      "alt": "Replacement screen for Lenovo ThinkPad T480",
+      "name": "Lenovo ThinkPad T480 Screen",
+      "tags": ["14\" FHD", "ThinkPad T480"],
+      "price": "7,000", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20T480%20Screen%20%E2%80%94%20KES%207%2C000",
+      "extra": false
+    },
+    {
+      "brand_slug": "macbook", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/screens/macbook-pro-2019-13/",
+      "image": "assets/images/products/macbook-screen-pro13-2019.jpg",
+      "alt": "Replacement screen assembly for MacBook Pro 2019 13 inch",
+      "name": "MacBook Pro 2019 13&quot; Screen Assembly",
+      "tags": ["MacBook Pro 2019 13\""],
+      "price": "16,500", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20Pro%202019%2013%22%20Screen%20Assembly%20%E2%80%94%20KES%2016%2C500",
+      "extra": false
+    },
+    {
+      "brand_slug": "acer", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/screens/acer-aspire-5/",
+      "image": "assets/images/products/acer-screen-aspire5.jpg",
+      "alt": "Replacement screen for Acer Aspire 5",
+      "name": "Acer Aspire 5 Screen",
+      "tags": ["15.6\" FHD", "Aspire 5"],
+      "price": "5,800", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Acer%20Aspire%205%20Screen%20%E2%80%94%20KES%205%2C800",
+      "extra": true
+    },
+    {
+      "brand_slug": "toshiba", "stock": "out_of_stock", "badge_class": "badge--out-of-stock", "badge_label": "Out of Stock",
+      "url": "/shop/screens/toshiba-satellite-c55/",
+      "image": "assets/images/products/toshiba-screen-c55.jpg",
+      "alt": "Replacement screen for Toshiba Satellite C55",
+      "name": "Toshiba Satellite C55 Screen",
+      "tags": ["15.6\" HD", "Satellite C55"],
+      "price": "5,500", "cta_label": "Ask About Restock", "cta_class": "btn--secondary",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20ask%20about%20restock%3A%20Toshiba%20Satellite%20C55%20Screen",
+      "extra": true
+    },
+    {
+      "brand_slug": "asus", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/screens/asus-vivobook-15/",
+      "image": "assets/images/products/asus-screen-vivobook15.jpg",
+      "alt": "Replacement screen for Asus VivoBook 15",
+      "name": "Asus VivoBook 15 Screen",
+      "tags": ["15.6\" FHD", "VivoBook 15"],
+      "price": "6,000", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%20VivoBook%2015%20Screen%20%E2%80%94%20KES%206%2C000",
+      "extra": true
+    },
+    {
+      "brand_slug": "hp", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/screens/hp-probook-450-g5/",
+      "image": "assets/images/products/hp-screen-probook450g5.jpg",
+      "alt": "Replacement screen for HP ProBook 450 G5",
+      "name": "HP ProBook 450 G5 Screen",
+      "tags": ["15.6\" HD", "ProBook 450 G5"],
+      "price": "6,300", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20ProBook%20450%20G5%20Screen%20%E2%80%94%20KES%206%2C300",
+      "extra": true
+    }
+  ],
+  "technician_cta": {
+    "heading": "Repair Technician? Get Bulk Pricing on Screens.",
+    "body": "Volume pricing, priority stock holds and credit terms for repair shops and businesses.",
+    "whatsapp_text": "Hi%2C%20I%27m%20a%20technician%20interested%20in%20bulk%20pricing%20on%20laptop%20screens.",
+    "cta_label": "Chat About Bulk Pricing"
+  },
+  "faq_heading": "Screen Questions",
+  "faqs": [
+    { "question": "How do I know this screen fits my laptop?", "answer": "Each listing shows the exact panel size and compatible models. If you're unsure of your laptop's exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
+    { "question": "Do you install the screen, or is it self-fit?", "answer": "We can install it for you in Nairobi, or ship it with fitting instructions if you're upcountry or prefer your own technician." },
+    { "question": "What warranty comes with a screen?", "answer": "Most screens carry a 3-month warranty against dead pixels and panel defects, listed on the individual product page." }
+  ],
+  "empty_state": {
+    "whatsapp_text": "Hi%2C%20I%27m%20looking%20for%20a%20laptop%20screen%20but%20couldn%27t%20find%20it%20on%20the%20site."
+  },
+  "sticky_whatsapp": {
+    "text": "Hi%2C%20I%27d%20like%20to%20order%20a%20laptop%20screen."
+  }
+}
