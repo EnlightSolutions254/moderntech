@@ -514,4 +514,214 @@
     if (e.key === "Escape" && zoomModal && !zoomModal.hidden) closeZoomModal();
   });
 
+  /* ------------------------------------------------------------------
+     14. Motion system — everything below is pure progressive enhancement.
+     If JS fails to load, no .reveal-init class is ever applied, so every
+     element stays at its normal, fully-visible CSS state. Nothing here
+     changes markup that's required for content to work without JS.
+     ------------------------------------------------------------------ */
+  var prefersReducedMotion = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+  /* --- 14a. Header shrink-on-scroll --- */
+  var siteHeader = document.querySelector(".site-header");
+  if (siteHeader) {
+    var lastScrollState = false;
+    var onHeaderScroll = function () {
+      var scrolled = window.scrollY > 8;
+      if (scrolled !== lastScrollState) {
+        siteHeader.classList.toggle("is-scrolled", scrolled);
+        lastScrollState = scrolled;
+      }
+    };
+    window.addEventListener("scroll", onHeaderScroll, { passive: true });
+    onHeaderScroll();
+  }
+
+  /* --- 14b. Scroll-reveal for repeating components across every page.
+     Selectors are chosen to match components already defined in the
+     design system (Section 3-4 of component-architecture doc) so this
+     works identically on every generated template without edits. --- */
+  if (!prefersReducedMotion && "IntersectionObserver" in window) {
+    var revealGroups = [
+      { selector: ".section-heading", scale: false },
+      { selector: ".tile-card", scale: true },
+      { selector: ".product-card", scale: true },
+      { selector: ".brand-tile", scale: true },
+      { selector: ".testimonial-card", scale: true },
+      { selector: ".trust-item", scale: true },
+      { selector: ".value-card", scale: true },
+      { selector: ".contact-card", scale: true },
+      { selector: ".article-card", scale: true },
+      { selector: ".step-item", scale: false },
+      { selector: ".faq-item", scale: false },
+      { selector: ".stat-item", scale: true },
+      { selector: ".technician-cta-sm", scale: false },
+      { selector: ".wizard", scale: false }
+    ];
+
+    var revealObserver = new IntersectionObserver(function (entries, obs) {
+      entries.forEach(function (entry) {
+        if (entry.isIntersecting) {
+          entry.target.classList.add("is-visible");
+          obs.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.15, rootMargin: "0px 0px -40px 0px" });
+
+    revealGroups.forEach(function (group) {
+      var items = document.querySelectorAll(group.selector);
+      items.forEach(function (el, i) {
+        el.classList.add(group.scale ? "reveal-init--scale" : "reveal-init");
+        // Stagger siblings within the same visual group (cap the delay so
+        // long lists don't leave the last card waiting a full second).
+        var delay = Math.min(i % 8, 5) * 70;
+        el.style.setProperty("--reveal-delay", delay + "ms");
+        revealObserver.observe(el);
+      });
+    });
+  }
+
+  /* --- 14c. Animated count-up for StatGrid numbers (About page) ---
+     Reads the existing rendered text (e.g. "1,200+", "98%") and animates
+     the numeric portion up from 0, preserving any prefix/suffix text. */
+  var statValues = document.querySelectorAll(".stat-item__value");
+  if (statValues.length && !prefersReducedMotion && "IntersectionObserver" in window) {
+    var animateCount = function (el) {
+      var raw = el.textContent.trim();
+      var match = raw.match(/[\d,]+(\.\d+)?/);
+      if (!match) return; // no numeric portion — leave text as-is
+      var target = parseFloat(match[0].replace(/,/g, ""));
+      if (isNaN(target)) return;
+      var prefix = raw.slice(0, match.index);
+      var suffix = raw.slice(match.index + match[0].length);
+      var useComma = match[0].indexOf(",") !== -1;
+      var duration = 900;
+      var start = null;
+
+      el.classList.add("is-counting");
+      function step(ts) {
+        if (start === null) start = ts;
+        var progress = Math.min((ts - start) / duration, 1);
+        var eased = 1 - Math.pow(1 - progress, 3);
+        var current = Math.round(target * eased);
+        el.textContent = prefix + (useComma ? current.toLocaleString() : current) + suffix;
+        if (progress < 1) {
+          window.requestAnimationFrame(step);
+        } else {
+          el.textContent = raw; // land on exact original text/formatting
+        }
+      }
+      window.requestAnimationFrame(step);
+    };
+
+    var statObserver = new IntersectionObserver(function (entries, obs) {
+      entries.forEach(function (entry) {
+        if (entry.isIntersecting) {
+          animateCount(entry.target);
+          obs.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.5 });
+
+    statValues.forEach(function (el) { statObserver.observe(el); });
+  }
+
+  /* --- 14d. Testimonial carousel gentle auto-advance.
+     Pauses on hover/touch/focus so it never fights a reading user. --- */
+  var testimonialTrack = document.querySelector(".testimonial-track");
+  if (testimonialTrack && !prefersReducedMotion) {
+    var testimonialTimer = null;
+    var startAutoAdvance = function () {
+      stopAutoAdvance();
+      testimonialTimer = window.setInterval(function () {
+        var cardWidth = testimonialTrack.querySelector(".testimonial-card")
+          ? testimonialTrack.querySelector(".testimonial-card").getBoundingClientRect().width + 12
+          : testimonialTrack.clientWidth;
+        var atEnd = testimonialTrack.scrollLeft + testimonialTrack.clientWidth >= testimonialTrack.scrollWidth - 4;
+        testimonialTrack.scrollTo({
+          left: atEnd ? 0 : testimonialTrack.scrollLeft + cardWidth,
+          behavior: "smooth"
+        });
+      }, 4500);
+    };
+    var stopAutoAdvance = function () {
+      if (testimonialTimer) window.clearInterval(testimonialTimer);
+    };
+    startAutoAdvance();
+    ["mouseenter", "touchstart", "focusin"].forEach(function (evt) {
+      testimonialTrack.addEventListener(evt, stopAutoAdvance, { passive: true });
+    });
+    ["mouseleave", "touchend", "focusout"].forEach(function (evt) {
+      testimonialTrack.addEventListener(evt, startAutoAdvance, { passive: true });
+    });
+  }
+
+  /* --- 14e. Button click ripple (primary + whatsapp variants only,
+     matching the shine-sweep hover treatment defined in styles.css) --- */
+  if (!prefersReducedMotion) {
+    document.addEventListener("click", function (e) {
+      var btn = e.target.closest(".btn--primary, .btn--whatsapp");
+      if (!btn) return;
+      var rect = btn.getBoundingClientRect();
+      var size = Math.max(rect.width, rect.height);
+      var ripple = document.createElement("span");
+      ripple.className = "btn__ripple";
+      ripple.style.width = ripple.style.height = size + "px";
+      ripple.style.left = (e.clientX - rect.left - size / 2) + "px";
+      ripple.style.top = (e.clientY - rect.top - size / 2) + "px";
+      btn.appendChild(ripple);
+      window.setTimeout(function () { ripple.remove(); }, 650);
+    });
+  }
+
+  /* --- 14f. Smooth-height accordion for FAQ items only.
+     Wraps each <details>'s content (everything after <summary>) in a
+     synthetic panel at runtime, purely in JS — no template changes —
+     so native <details>/<summary> keyboard and no-JS behavior is
+     untouched if this fails to run.
+     NOTE: footer columns are intentionally excluded — per the design
+     system they're a static always-open 4-column layout on desktop and
+     open-by-default on mobile (see .footer-col CSS), not a toggleable
+     accordion. Forcing them closed here was a bug that hid the footer
+     link columns until clicked; footer <details> are left completely
+     untouched so they keep their native open="" behavior. --- */
+  if (!prefersReducedMotion) {
+    document.querySelectorAll(".faq-item").forEach(function (details) {
+      if (details.tagName !== "DETAILS") return;
+      var summary = details.querySelector("summary");
+      if (!summary) return;
+      var toWrap = Array.prototype.filter.call(details.childNodes, function (node) {
+        return node !== summary && !(node.nodeType === 3 && !node.textContent.trim());
+      });
+      if (!toWrap.length) return;
+
+      var panel = document.createElement("div");
+      panel.className = "js-accordion-panel";
+      toWrap.forEach(function (node) { panel.appendChild(node); });
+      details.appendChild(panel);
+
+      var setOpenState = function (open) {
+        if (open) {
+          panel.style.setProperty("--panel-height", panel.scrollHeight + "px");
+          panel.classList.add("is-open");
+        } else {
+          panel.classList.remove("is-open");
+        }
+      };
+      // Start in sync with the details element's current state.
+      details.open = false;
+      setOpenState(false);
+
+      summary.addEventListener("click", function (e) {
+        e.preventDefault();
+        var willOpen = !details.open;
+        if (willOpen) details.open = true;
+        setOpenState(willOpen);
+        if (!willOpen) {
+          window.setTimeout(function () { details.open = false; }, 320);
+        }
+      });
+    });
+  }
+
 })();
