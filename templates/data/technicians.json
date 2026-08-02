@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "title": "Technicians & Bulk Orders | Modern Tech Laptop Parts Kenya",
+    "description": "Volume pricing, priority stock holds and credit terms for laptop repair technicians and businesses. Order genuine batteries, screens, keyboards and more in bulk."
+  },
+  "og": {
+    "title": "Bulk Laptop Parts For Technicians | Modern Tech",
+    "description": "Trade pricing, priority stock holds and credit terms for repair shops ordering laptop parts regularly."
+  },
+  "page": {
+    "heading": "Bulk Pricing For Repair Shops & Technicians",
+    "intro": "If you're ordering laptop parts regularly, you shouldn't pay one-off retail prices or wait behind individual buyers for stock. Modern Tech runs a dedicated trade path for technicians and businesses — volume pricing, priority stock holds and credit terms for repeat customers.",
+    "cta_label": "Chat About Bulk Pricing",
+    "whatsapp_text": "Hi%2C%20I%27m%20a%20technician%20interested%20in%20bulk%20pricing%20on%20laptop%20parts.",
+    "trust_row": [
+      { "icon": "&#10003;", "label": "Volume pricing" },
+      { "icon": "&#10003;", "label": "Priority stock holds" },
+      { "icon": "&#10003;", "label": "Credit terms available" }
+    ]
+  },
+  "benefits": {
+    "heading": "Why Technicians Order From Modern Tech",
+    "items": [
+      { "icon": "&#128176;", "label": "Volume Pricing", "desc": "Pricing steps down as order volume goes up — ask us for a quote on your typical monthly order." },
+      { "icon": "&#128274;", "label": "Priority Stock Holds", "desc": "Regular trade customers can hold stock ahead of a job, so a part is ready when you need it." },
+      { "icon": "&#128179;", "label": "Credit Terms", "desc": "Established repair shops can apply for credit terms instead of paying upfront on every order." },
+      { "icon": "&#9889;", "label": "Fast Turnaround", "desc": "Same-day Nairobi delivery keeps a repair job moving instead of stalling on a missing part." }
+    ]
+  },
+  "how_it_works": {
+    "heading": "How It Works",
+    "steps": [
+      { "title": "Message us on WhatsApp", "desc": "Tell us you're a technician or business and roughly what you order monthly (batteries, screens, keyboards, etc.)." },
+      { "title": "We set up your trade pricing", "desc": "We confirm volume pricing and, for regular customers, credit terms based on order history." },
+      { "title": "Order and hold stock as needed", "desc": "Reorder directly on WhatsApp with your model numbers — repeat customers get priority stock holds." }
+    ]
+  },
+  "categories": {
+    "heading": "Highest-Volume Repair Parts",
+    "copy": "These are the parts technicians reorder most often — start here, or ask us about any part not listed.",
+    "items": [
+      { "url": "/shop/laptop-batteries/", "icon": "&#128267;", "name": "Laptop Batteries" },
+      { "url": "/shop/screens/", "icon": "&#128421;", "name": "Laptop Screens" },
+      { "url": "/shop/keyboards/", "icon": "&#8963;", "name": "Keyboards" },
+      { "url": "/shop/chargers/", "icon": "&#9889;", "name": "Chargers & Adapters" }
+    ]
+  },
+  "testimonial_heading": "Trusted By Technicians Across Nairobi",
+  "testimonials": [
+    { "quote": "I order batteries and chargers weekly for my shop. Having stock held and knowing the price ahead of time saves me time on every job.", "attribution": "James K., Technician, Nairobi CBD" },
+    { "quote": "Switched to Modern Tech for screens after chasing suppliers elsewhere. Compatibility info on the listings means fewer wrong orders.", "attribution": "Peter M., Repair Shop Owner, Ngara" }
+  ],
+  "faqs": [
+    { "q": "How much volume do I need to qualify for bulk pricing?", "a": "There's no strict minimum — message us with your typical monthly order and we'll confirm pricing that makes sense for your volume." },
+    { "q": "Do you offer credit terms to every technician?", "a": "Credit terms are set up after an initial period of regular cash/M-Pesa orders, based on order history and volume." },
+    { "q": "Can I hold stock before a job is confirmed?", "a": "Yes, for established trade customers. Ask us when you set up your trade pricing." }
+  ],
+  "final_cta": {
+    "heading": "Ready To Set Up Trade Pricing?",
+    "copy": "Message us on WhatsApp with your shop name and typical monthly order — we'll get you set up.",
+    "cta_text": "Chat About Bulk Pricing",
+    "whatsapp_text": "Hi%2C%20I%27m%20a%20technician%20interested%20in%20setting%20up%20bulk%20pricing."
+  }
+}

@@ -92,7 +92,15 @@ function deploy() {
 }
 
 function writeOut(relUrl, html) {
-  // relUrl like "/shop/laptop-batteries/" -> out/shop/laptop-batteries/index.html
+  // Directory-style URL, e.g. "/shop/laptop-batteries/" -> out/shop/laptop-batteries/index.html
+  // Literal file URL, e.g. "/about.html" -> out/about.html (no wrapping folder)
+  if (relUrl.endsWith('.html')) {
+    const clean = relUrl.replace(/^\//, '');
+    const file = path.join(OUT_DIR, clean);
+    fs.mkdirSync(path.dirname(file), { recursive: true });
+    fs.writeFileSync(file, html, 'utf8');
+    return file;
+  }
   const clean = relUrl.replace(/^\//, '').replace(/\/$/, '');
   const dir = path.join(OUT_DIR, clean);
   fs.mkdirSync(dir, { recursive: true });
@@ -291,6 +299,73 @@ function generateHome(dataFile) {
   console.log('home     ->', outFile);
 }
 
+// ---------------------------------------------------------------------------
+// Simple company pages: About, FAQ, Technicians, Contact, Repair Help.
+// None of these are data-driven across many instances the way categories/
+// PDPs/brands are -- each is a single page -- but they reuse the exact same
+// shared.json + template-engine pipeline so header/nav/footer stay in sync
+// with the rest of the site automatically.
+// ---------------------------------------------------------------------------
+
+function renderSimplePage({ dataFile, templateName, outUrl, label }) {
+  const shared = loadJson(path.join(DATA_DIR, 'shared.json'));
+  const page = loadJson(dataFile);
+  const tpl = fs.readFileSync(path.join(ROOT, templateName), 'utf8');
+
+  // None of these pages correspond to a part/brand in the nav.
+  const nav = buildNav(shared, null, null);
+  const context = deepMerge({ store: shared.store }, {
+    store: shared.store,
+    ...nav,
+    ...page,
+  });
+
+  const html = render(tpl, context);
+  const outFile = writeOut(outUrl, html);
+  console.log(`${label.padEnd(8)} ->`, outFile);
+}
+
+function generateAbout(dataFile) {
+  renderSimplePage({ dataFile, templateName: 'about.template.html', outUrl: '/about.html', label: 'about' });
+}
+
+function generateTechnicians(dataFile) {
+  renderSimplePage({ dataFile, templateName: 'technicians.template.html', outUrl: '/technicians.html', label: 'technicians' });
+}
+
+function generateContact(dataFile) {
+  renderSimplePage({ dataFile, templateName: 'contact.template.html', outUrl: '/contact.html', label: 'contact' });
+}
+
+function generateRepairHelp(dataFile) {
+  renderSimplePage({ dataFile, templateName: 'repair-help.template.html', outUrl: '/repair-help/', label: 'repair-help' });
+}
+
+function generateFaq(dataFile) {
+  const shared = loadJson(path.join(DATA_DIR, 'shared.json'));
+  const page = loadJson(dataFile);
+  const tpl = fs.readFileSync(path.join(ROOT, 'faq.template.html'), 'utf8');
+
+  // Flatten the grouped FAQ items into one flat list for the FAQPage
+  // structured-data block -- the template only needs `groups` for display,
+  // but the JSON-LD schema wants every question/answer pair in one array.
+  const faq_schema = (page.groups || []).flatMap(group =>
+    (group.items || []).map(item => ({ q: item.q, a: item.a }))
+  );
+
+  const nav = buildNav(shared, null, null);
+  const context = deepMerge({ store: shared.store }, {
+    store: shared.store,
+    ...nav,
+    ...page,
+    faq_schema,
+  });
+
+  const html = render(tpl, context);
+  const outFile = writeOut('/faq.html', html);
+  console.log('faq      ->', outFile);
+}
+
 function main() {
   const [, , cmd, arg] = process.argv;
 
@@ -300,12 +375,27 @@ function main() {
     generatePdp(path.resolve(arg));
   } else if (cmd === 'home') {
     generateHome(path.resolve(arg || path.join(DATA_DIR, 'home.json')));
+  } else if (cmd === 'about') {
+    generateAbout(path.resolve(arg || path.join(DATA_DIR, 'about.json')));
+  } else if (cmd === 'faq') {
+    generateFaq(path.resolve(arg || path.join(DATA_DIR, 'faq.json')));
+  } else if (cmd === 'technicians') {
+    generateTechnicians(path.resolve(arg || path.join(DATA_DIR, 'technicians.json')));
+  } else if (cmd === 'contact') {
+    generateContact(path.resolve(arg || path.join(DATA_DIR, 'contact.json')));
+  } else if (cmd === 'repair-help') {
+    generateRepairHelp(path.resolve(arg || path.join(DATA_DIR, 'repair-help.json')));
   } else if (cmd === 'brand' && arg) {
     generateBrand(arg);
   } else if (cmd === 'brand') {
     generateAllBrands();
   } else if (cmd === 'all') {
     if (fs.existsSync(path.join(DATA_DIR, 'home.json'))) generateHome(path.join(DATA_DIR, 'home.json'));
+    if (fs.existsSync(path.join(DATA_DIR, 'about.json'))) generateAbout(path.join(DATA_DIR, 'about.json'));
+    if (fs.existsSync(path.join(DATA_DIR, 'faq.json'))) generateFaq(path.join(DATA_DIR, 'faq.json'));
+    if (fs.existsSync(path.join(DATA_DIR, 'technicians.json'))) generateTechnicians(path.join(DATA_DIR, 'technicians.json'));
+    if (fs.existsSync(path.join(DATA_DIR, 'contact.json'))) generateContact(path.join(DATA_DIR, 'contact.json'));
+    if (fs.existsSync(path.join(DATA_DIR, 'repair-help.json'))) generateRepairHelp(path.join(DATA_DIR, 'repair-help.json'));
     for (const f of fs.readdirSync(DATA_DIR)) {
       if (f.endsWith('.category.json')) generateCategory(path.join(DATA_DIR, f));
       if (f.endsWith('.pdp.json')) generatePdp(path.join(DATA_DIR, f));
@@ -317,6 +407,11 @@ function main() {
     deploy();
   } else if (cmd === 'publish') {
     if (fs.existsSync(path.join(DATA_DIR, 'home.json'))) generateHome(path.join(DATA_DIR, 'home.json'));
+    if (fs.existsSync(path.join(DATA_DIR, 'about.json'))) generateAbout(path.join(DATA_DIR, 'about.json'));
+    if (fs.existsSync(path.join(DATA_DIR, 'faq.json'))) generateFaq(path.join(DATA_DIR, 'faq.json'));
+    if (fs.existsSync(path.join(DATA_DIR, 'technicians.json'))) generateTechnicians(path.join(DATA_DIR, 'technicians.json'));
+    if (fs.existsSync(path.join(DATA_DIR, 'contact.json'))) generateContact(path.join(DATA_DIR, 'contact.json'));
+    if (fs.existsSync(path.join(DATA_DIR, 'repair-help.json'))) generateRepairHelp(path.join(DATA_DIR, 'repair-help.json'));
     for (const f of fs.readdirSync(DATA_DIR)) {
       if (f.endsWith('.category.json')) generateCategory(path.join(DATA_DIR, f));
       if (f.endsWith('.pdp.json')) generatePdp(path.join(DATA_DIR, f));
@@ -326,11 +421,16 @@ function main() {
   } else {
     console.log('Usage:');
     console.log('  node generate.js home [data/home.json]');
+    console.log('  node generate.js about [data/about.json]');
+    console.log('  node generate.js faq [data/faq.json]');
+    console.log('  node generate.js technicians [data/technicians.json]');
+    console.log('  node generate.js contact [data/contact.json]');
+    console.log('  node generate.js repair-help [data/repair-help.json]');
     console.log('  node generate.js category <data-file.category.json>');
     console.log('  node generate.js pdp <data-file.pdp.json>');
     console.log('  node generate.js brand <brand-slug>   e.g. node generate.js brand hp');
     console.log('  node generate.js brand                generates every brand in data/shared.json');
-    console.log('  node generate.js all                  generates home + every category/pdp/brand page (into templates/out/ only)');
+    console.log('  node generate.js all                  generates every page (into templates/out/ only)');
     console.log('  node generate.js deploy                copies templates/out/ up into the repo root (index.html, css/, js/, shop/, brand/)');
     console.log('  node generate.js publish               runs "all" then "deploy" in one shot -- use this before git add/commit/push');
     process.exit(1);

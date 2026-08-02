@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "title": "About Modern Tech | Genuine Laptop Parts in Kenya",
+    "description": "Modern Tech supplies genuine replacement laptop parts to individual owners and repair technicians across Kenya — in-stock pricing, warranty on every part, and same-day WhatsApp ordering."
+  },
+  "og": {
+    "title": "About Modern Tech",
+    "description": "Who we are, how we source parts, and why technicians across Nairobi trust us for genuine laptop parts."
+  },
+  "page": {
+    "heading": "Built For People Who Need The Right Part, Not A Guess",
+    "intro": "Modern Tech started as a small counter stocking a handful of HP and Dell parts for technicians in Nairobi. Today we stock genuine batteries, chargers, screens, keyboards, hinges, fans and casings for every major laptop brand — with the same promise we started with: the exact part, in stock, backed by warranty.",
+    "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20know%20more%20about%20Modern%20Tech.",
+    "trust_row": [
+      { "icon": "&#10003;", "label": "Genuine parts" },
+      { "icon": "&#10003;", "label": "6-month warranty" },
+      { "icon": "&#10003;", "label": "Same-day Nairobi delivery" }
+    ]
+  },
+  "story": {
+    "heading": "Our Story",
+    "paragraphs": [
+      "Modern Tech was founded by technicians, for technicians. We got tired of chasing suppliers for a single HP EliteBook battery or a Dell charger that turned out to be the wrong wattage — so we built the stock and the systems to make sure the next person didn't have to.",
+      "We started with laptop batteries and chargers, the two parts that get swapped most often. As demand from repair shops across Nairobi grew, we expanded into screens, keyboards, hinges, cooling fans and casings — the full set of parts a technician needs to keep a repair shop running without downtime.",
+      "Today, Modern Tech serves two kinds of customers: laptop owners who just want their machine fixed, and repair technicians who need reliable stock, accurate compatibility information, and fast turnaround. Every part we list is checked against real model numbers before it goes on the shelf."
+    ]
+  },
+  "stats": [
+    { "value": "7", "label": "Part categories stocked" },
+    { "value": "7+", "label": "Brands supported" },
+    { "value": "6mo", "label": "Warranty on most parts" },
+    { "value": "Same-day", "label": "Delivery in Nairobi" }
+  ],
+  "sourcing": {
+    "heading": "How We Source & Warranty Our Parts",
+    "copy": "We're upfront about what you're buying — every product page states clearly whether a part is new OEM-equivalent or a genuine original, so there are no surprises when it arrives.",
+    "points": [
+      { "icon": "&#128230;", "label": "Checked Before Listing", "desc": "Every part is matched against real model numbers, not just brand names, before it's added to the shop." },
+      { "icon": "&#128737;", "label": "Warranty Included", "desc": "Most parts carry a 6-month warranty, stated clearly on the individual product page." },
+      { "icon": "&#128179;", "label": "M-Pesa Accepted", "desc": "Pay the way you already do business — no card machine required." },
+      { "icon": "&#128666;", "label": "Countrywide Delivery", "desc": "Same-day within Nairobi, 1–2 days to major towns across Kenya." }
+    ]
+  },
+  "values": {
+    "heading": "What We Value",
+    "items": [
+      { "title": "Accuracy Over Guesswork", "desc": "We'd rather confirm your exact laptop model on WhatsApp than sell you a part that might not fit." },
+      { "title": "Speed For Repair Shops", "desc": "Technicians lose money when a laptop sits waiting for a part. We stock what moves fastest and hold priority stock for repeat customers." },
+      { "title": "No Hidden Terms", "desc": "Pricing, warranty length and stock status are shown upfront on every listing — not buried in a WhatsApp back-and-forth." }
+    ]
+  },
+  "technician_cta": {
+    "heading": "Repair Technician? Let's Talk Bulk Pricing.",
+    "body": "Volume pricing, priority stock holds and credit terms for repair shops and businesses ordering regularly.",
+    "cta_label": "Chat About Bulk Pricing",
+    "whatsapp_text": "Hi%2C%20I%27m%20a%20technician%20interested%20in%20bulk%20pricing."
+  },
+  "final_cta": {
+    "heading": "Have A Question We Haven't Answered?",
+    "copy": "Send us your laptop model or ask us anything on WhatsApp — we usually reply within minutes.",
+    "cta_text": "Chat With Us on WhatsApp",
+    "whatsapp_text": "Hi%2C%20I%20have%20a%20question%20about%20Modern%20Tech."
+  }
+}

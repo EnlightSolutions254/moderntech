@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "title": "Contact Modern Tech | Laptop Parts Kenya",
+    "description": "Reach Modern Tech on WhatsApp, phone or email for genuine laptop parts. Nairobi based, same-day delivery within Nairobi, countrywide shipping."
+  },
+  "og": {
+    "title": "Contact Modern Tech",
+    "description": "WhatsApp, call or email us — we usually reply within minutes during business hours."
+  },
+  "store": {
+    "email": "info@moderntechparts.co.ke",
+    "address": "Nairobi, Kenya",
+    "hours": "Mon\u2013Sat, 8:00\u201318:00"
+  },
+  "page": {
+    "heading": "Get In Touch",
+    "intro": "WhatsApp is the fastest way to reach us — send us your laptop model or question and we'll usually reply within minutes during business hours. Prefer to call or email? That works too.",
+    "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20get%20in%20touch%20with%20Modern%20Tech."
+  },
+  "contact_grid": {
+    "heading": "Ways To Reach Us"
+  },
+  "quick_faq_heading": "Before You Message Us",
+  "faqs": [
+    { "q": "What's the fastest way to get a response?", "a": "WhatsApp. We reply fastest there, especially if you include your laptop model or a photo of the sticker under your laptop." },
+    { "q": "What are your business hours?", "a": "Monday to Saturday, 8:00 to 18:00. Messages sent outside these hours are answered the next business day." },
+    { "q": "Can I visit in person?", "a": "Yes — message us on WhatsApp first to confirm the part is in stock before you come in, so you're not making a trip for nothing." }
+  ],
+  "final_cta": {
+    "heading": "Ready To Order Or Still Deciding?",
+    "copy": "Send us your laptop model or describe the problem — we'll help you find the right part in minutes.",
+    "cta_text": "Chat With Us on WhatsApp",
+    "whatsapp_text": "Hi%2C%20I%27d%20like%20some%20help%20finding%20a%20laptop%20part."
+  }
+}

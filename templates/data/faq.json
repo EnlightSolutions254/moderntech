@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "FAQ | Modern Tech Laptop Parts Kenya",
+    "description": "Answers to common questions about ordering, compatibility, warranty, delivery and payment for genuine laptop parts from Modern Tech."
+  },
+  "og": {
+    "title": "Modern Tech FAQ",
+    "description": "Everything you need to know before ordering a laptop part — compatibility, warranty, delivery and payment."
+  },
+  "page": {
+    "heading": "Frequently Asked Questions",
+    "intro": "Can't find your answer here? Send us your laptop model or question directly on WhatsApp and we'll reply within minutes.",
+    "whatsapp_text": "Hi%2C%20I%20have%20a%20question%20that%27s%20not%20in%20the%20FAQ."
+  },
+  "groups_heading": "Browse By Topic",
+  "groups": [
+    {
+      "heading": "Ordering & Compatibility",
+      "items": [
+        { "q": "How do I know this part fits my laptop?", "a": "Each listing shows exact compatible models. If you're unsure of your laptop's exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm before you order." },
+        { "q": "What if I order the wrong part by mistake?", "a": "Message us on WhatsApp before the part ships and we'll swap it at no extra cost. Once a part has shipped, our standard returns policy applies." },
+        { "q": "Do you sell parts for older or discontinued laptop models?", "a": "In many cases yes — send us your model number on WhatsApp and we'll check current stock, even for models not yet listed on the site." }
+      ]
+    },
+    {
+      "heading": "Genuine Parts & Warranty",
+      "items": [
+        { "q": "Are these genuine or compatible parts?", "a": "It's stated clearly on each product page — new OEM-equivalent by default, with genuine originals where available." },
+        { "q": "What warranty comes with these parts?", "a": "Most parts carry a 6-month warranty, listed on the individual product page. Warranty covers manufacturing defects, not physical damage." },
+        { "q": "What happens if a part fails within the warranty period?", "a": "Message us on WhatsApp with your order details and a description of the fault. We'll arrange a replacement or repair depending on the part." }
+      ]
+    },
+    {
+      "heading": "Delivery & Payment",
+      "items": [
+        { "q": "How fast is delivery?", "a": "Same-day within Nairobi for orders confirmed before mid-afternoon. 1–2 days to major towns countrywide." },
+        { "q": "Do you deliver outside Nairobi?", "a": "Yes, countrywide. Delivery cost and timing depend on your location — ask us on WhatsApp for an exact quote." },
+        { "q": "What payment methods do you accept?", "a": "M-Pesa is the most common, plus cash on delivery in Nairobi for orders confirmed on WhatsApp. We'll confirm the best option when you order." }
+      ]
+    },
+    {
+      "heading": "For Technicians & Businesses",
+      "items": [
+        { "q": "Do you offer bulk or trade pricing?", "a": "Yes — repair shops and businesses ordering regularly get volume pricing, priority stock holds and credit terms. See our Technicians & Bulk Orders page or chat with us on WhatsApp." },
+        { "q": "Can I hold stock before confirming an order?", "a": "For regular trade customers, yes. Ask us about priority stock holds when you set up a trade account." }
+      ]
+    }
+  ],
+  "technician_cta": {
+    "heading": "Repair Technician? Get Bulk Pricing.",
+    "body": "Volume pricing, priority stock holds and credit terms for repair shops and businesses.",
+    "cta_label": "Chat About Bulk Pricing",
+    "whatsapp_text": "Hi%2C%20I%27m%20a%20technician%20interested%20in%20bulk%20pricing."
+  },
+  "final_cta": {
+    "heading": "Still Not Sure?",
+    "copy": "Send us your laptop model or describe the problem on WhatsApp — we'll help you find the right part in minutes.",
+    "cta_text": "Chat With Us on WhatsApp",
+    "whatsapp_text": "Hi%2C%20I%20have%20a%20question%20about%20a%20laptop%20part."
+  }
+}
