@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "title": "Acer Aspire 5 Hinge Kit | Price in Kenya | [Store Name]",
+    "description": "Genuine-fit replacement hinge kit for Acer Aspire 5. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Acer Aspire 5 Hinge Kit | [Store Name]",
+    "description": "Genuine-fit replacement hinge kit for Acer Aspire 5. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "hinges",
+    "url": "/shop/hinges/",
+    "name": "Hinges"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1&ndash;2 days upcountry",
+  "faq_heading": "Questions About This Hinge Kit",
+  "faqs": [
+    {
+      "question": "How do I know I need a hinge replacement, not a screen?",
+      "answer": "If your screen wobbles, won't stay open at an angle, or you hear cracking/grinding near the lid corners, it's usually the hinges — not the panel itself."
+    },
+    {
+      "question": "How do I install it?",
+      "answer": "It involves removing the display bezel to access the hinge brackets. We recommend a technician fit for this one, or we can talk you through it on WhatsApp."
+    },
+    {
+      "question": "Can I pay via M-Pesa?",
+      "answer": "Yes, M-Pesa is accepted, along with cash on delivery in select areas."
+    }
+  ],
+  "product": {
+    "name": "Acer Aspire 5 Hinge Kit",
+    "full_name": "Acer Aspire 5 Hinge Kit",
+    "sku": "ACER-HG-A5",
+    "brand_name": "Acer",
+    "brand_slug": "acer",
+    "url": "/shop/hinges/acer-aspire-5-hinge-kit/",
+    "type_label": "hinge kit",
+    "type_label_cap": "Hinge Kit",
+    "images": [
+      {
+        "src": "assets/images/products/acer-hinge-a5-1.jpg",
+        "alt": "Acer Aspire 5 replacement hinge kit, left and right brackets"
+      },
+      {
+        "src": "assets/images/products/acer-hinge-a5-2.jpg",
+        "alt": "Acer Aspire 5 replacement hinge kit, mounted view"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      },
+      {
+        "class": "badge--new-oem",
+        "label": "New OEM-Equivalent"
+      },
+      {
+        "class": "badge--warranty",
+        "label": "6-Month Warranty"
+      }
+    ],
+    "price": "2,700",
+    "price_raw": "2700",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine-fit left and right hinge bracket set for the Acer Aspire 5. Fixes a wobbly, loose, or cracking display hinge — direct screw-in replacement.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Acer%20Aspire%205%20Hinge%20Kit%20(SKU%3A%20ACER-HG-A5)%20%E2%80%94%20KES%202700",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20Acer%20Aspire%205%20hinge%20kit%20fits%20my%20laptop%3F",
+    "specs": [
+      {
+        "label": "Material",
+        "value": "Steel bracket, reinforced mount"
+      },
+      {
+        "label": "Includes",
+        "value": "Left + right hinge set"
+      },
+      {
+        "label": "Fit Type",
+        "value": "Direct screw-in replacement"
+      },
+      {
+        "label": "Condition",
+        "value": "New OEM-equivalent"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 months"
+      }
+    ],
+    "compatible_models": [
+      "Acer Aspire 5 A515-51",
+      "Acer Aspire 5 A515-52",
+      "Acer Aspire 5 A515-53"
+    ],
+    "related": [
+      {
+        "url": "/shop/laptop-batteries/acer-aspire-5/",
+        "image": "assets/images/products/acer-battery-a5-1.jpg",
+        "alt": "Acer Aspire 5 Battery replacement battery",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "Acer Aspire 5 Battery",
+        "tags": [
+          "Aspire 5"
+        ],
+        "price": "4,300",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Acer%20Aspire%205%20Battery%20%E2%80%94%20KES%204%2C300"
+      },
+      {
+        "url": "/shop/casings/acer-aspire-5-casing/",
+        "image": "assets/images/products/acer-casing-a5.jpg",
+        "alt": "Acer Aspire 5 Casing",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "Acer Aspire 5 Casing",
+        "tags": [
+          "Aspire 5"
+        ],
+        "price": "3,100",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Acer%20Aspire%205%20Casing%20%E2%80%94%20KES%203%2C100"
+      },
+      {
+        "url": "/shop/keyboards/acer-aspire-5-keyboard/",
+        "image": "assets/images/products/acer-keyboard-a5.jpg",
+        "alt": "Acer Aspire 5 Keyboard replacement keyboard",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "Acer Aspire 5 Keyboard",
+        "tags": [
+          "Aspire 5 A515 series"
+        ],
+        "price": "3,300",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Acer%20Aspire%205%20Keyboard%20%E2%80%94%20KES%203%2C300"
+      }
+    ]
+  }
+}

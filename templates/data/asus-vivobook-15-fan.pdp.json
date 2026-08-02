@@ -1,0 +1,144 @@
+{
+  "meta": {
+    "title": "Asus VivoBook 15 Cooling Fan | Price in Kenya | [Store Name]",
+    "description": "Genuine-fit replacement cooling fan for Asus VivoBook 15. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Asus VivoBook 15 Cooling Fan | [Store Name]",
+    "description": "Genuine-fit replacement cooling fan for Asus VivoBook 15. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "cooling-fans",
+    "url": "/shop/cooling-fans/",
+    "name": "Cooling Fans"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1&ndash;2 days upcountry",
+  "faq_heading": "Questions About This Cooling Fan",
+  "faqs": [
+    {
+      "question": "Will this stop my laptop from overheating?",
+      "answer": "A worn or noisy fan is one of the most common causes of overheating and shutdowns — replacing it restores normal airflow and cooling."
+    },
+    {
+      "question": "How do I install it?",
+      "answer": "It requires opening the base panel to access the fan assembly. We can walk you through it on WhatsApp, or a technician can fit it same-day."
+    },
+    {
+      "question": "Can I pay via M-Pesa?",
+      "answer": "Yes, M-Pesa is accepted, along with cash on delivery in select areas."
+    }
+  ],
+  "product": {
+    "name": "Asus VivoBook 15 Cooling Fan",
+    "full_name": "Asus VivoBook 15 Cooling Fan",
+    "sku": "ASUS-FN-VB15",
+    "brand_name": "Asus",
+    "brand_slug": "asus",
+    "url": "/shop/cooling-fans/asus-vivobook-15-fan/",
+    "type_label": "cooling fan",
+    "type_label_cap": "Cooling Fan",
+    "images": [
+      {
+        "src": "assets/images/products/asus-fan-vb15-1.jpg",
+        "alt": "Asus VivoBook 15 replacement cooling fan, top view"
+      },
+      {
+        "src": "assets/images/products/asus-fan-vb15-2.jpg",
+        "alt": "Asus VivoBook 15 replacement cooling fan, connector view"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      },
+      {
+        "class": "badge--new-oem",
+        "label": "New OEM-Equivalent"
+      },
+      {
+        "class": "badge--warranty",
+        "label": "6-Month Warranty"
+      }
+    ],
+    "price": "2,800",
+    "price_raw": "2800",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine-fit replacement cooling fan for the Asus VivoBook 15. Direct plug-in replacement — restores normal airflow and quiets down a noisy or overheating laptop.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%20VivoBook%2015%20Cooling%20Fan%20(SKU%3A%20ASUS-FN-VB15)%20%E2%80%94%20KES%202800",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20Asus%20VivoBook%2015%20cooling%20fan%20fits%20my%20laptop%3F",
+    "specs": [
+      {
+        "label": "Fan Type",
+        "value": "DC brushless, single fan"
+      },
+      {
+        "label": "Connector",
+        "value": "4-pin"
+      },
+      {
+        "label": "Dimensions",
+        "value": "Standard VivoBook 15 fit"
+      },
+      {
+        "label": "Bearing Type",
+        "value": "Sleeve bearing"
+      },
+      {
+        "label": "Condition",
+        "value": "New OEM-equivalent"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 months"
+      }
+    ],
+    "compatible_models": [
+      "Asus VivoBook 15 X509",
+      "Asus VivoBook 15 X512",
+      "Asus VivoBook 15 F512"
+    ],
+    "related": [
+      {
+        "url": "/shop/laptop-batteries/asus-vivobook-15/",
+        "image": "assets/images/products/asus-battery-vb15-1.jpg",
+        "alt": "Asus VivoBook 15 replacement battery",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "Asus VivoBook 15 Battery",
+        "tags": [
+          "VivoBook 15 X509",
+          "VivoBook 15 X512"
+        ],
+        "price": "4,400",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%20VivoBook%2015%20Battery%20%E2%80%94%20KES%204%2C400"
+      },
+      {
+        "url": "/shop/casings/asus-vivobook-15-casing/",
+        "image": "assets/images/products/asus-casing-vb15.jpg",
+        "alt": "Asus VivoBook 15 bottom casing",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "Asus VivoBook 15 Casing",
+        "tags": [
+          "VivoBook 15"
+        ],
+        "price": "3,000",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%20VivoBook%2015%20Casing%20%E2%80%94%20KES%203%2C000"
+      },
+      {
+        "url": "/shop/keyboards/asus-vivobook-15-keyboard/",
+        "image": "assets/images/products/asus-keyboard-vb15.jpg",
+        "alt": "Asus VivoBook 15 replacement keyboard",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "Asus VivoBook 15 Keyboard",
+        "tags": [
+          "VivoBook 15 series"
+        ],
+        "price": "3,300",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%20VivoBook%2015%20Keyboard%20%E2%80%94%20KES%203%2C300"
+      }
+    ]
+  }
+}

@@ -12,76 +12,131 @@
     "url": "/shop/laptop-batteries/",
     "name": "Laptop Batteries"
   },
-  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1&ndash;2 days upcountry",
   "faq_heading": "Questions About This Battery",
   "faqs": [
-    { "question": "Do you offer warranty on this battery?", "answer": "Yes — this battery carries a 6-month warranty from the date of purchase." },
-    { "question": "How do I install it?", "answer": "It's a standard drop-in replacement — no disassembly beyond the battery bay. We can talk you through it on WhatsApp if needed." },
-    { "question": "Can I pay via M-Pesa?", "answer": "Yes, M-Pesa is accepted, along with cash on delivery in select areas." }
+    {
+      "question": "Do you offer warranty on this battery?",
+      "answer": "Yes — this battery carries a 6-month warranty from the date of purchase."
+    },
+    {
+      "question": "How do I install it?",
+      "answer": "It's a standard drop-in replacement — no disassembly beyond the battery bay. We can talk you through it on WhatsApp if needed."
+    },
+    {
+      "question": "Can I pay via M-Pesa?",
+      "answer": "Yes, M-Pesa is accepted, along with cash on delivery in select areas."
+    }
   ],
   "product": {
-    "url": "/shop/laptop-batteries/asus-vivobook-15/",
-    "sku": "ASUS-BT-VB15",
     "name": "Asus VivoBook 15 Battery",
     "full_name": "Replacement Battery for Asus VivoBook 15",
-    "brand_slug": "asus",
+    "sku": "ASUS-BT-VB15",
     "brand_name": "Asus",
-    "price": "4,100",
-    "price_raw": "4100",
-    "schema_availability": "https://schema.org/InStock",
-    "description": "Genuine-fit replacement battery for the Asus VivoBook 15 series. Tested before dispatch, drop-in fit — no disassembly beyond the standard battery bay.",
+    "brand_slug": "asus",
+    "url": "/shop/laptop-batteries/asus-vivobook-15/",
     "type_label": "battery",
     "type_label_cap": "Battery",
-    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Replacement%20Battery%20for%20Asus%20VivoBook%2015%20(SKU%3A%20ASUS-BT-VB15)%20%E2%80%94%20KES%204%2C100",
-    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20Asus%20VivoBook%2015%20battery%20fits%20my%20laptop%3F",
     "images": [
-      { "src": "assets/images/products/asus-battery-vivobook15-1.jpg", "alt": "Asus VivoBook 15 replacement battery, front view" },
-      { "src": "assets/images/products/asus-battery-vivobook15-2.jpg", "alt": "Asus VivoBook 15 replacement battery, connector view" }
+      {
+        "src": "assets/images/products/asus-battery-vb15-1.jpg",
+        "alt": "Asus VivoBook 15 replacement battery, front view"
+      },
+      {
+        "src": "assets/images/products/asus-battery-vb15-2.jpg",
+        "alt": "Asus VivoBook 15 replacement battery, connector view"
+      }
     ],
     "badges": [
-      { "class": "badge--in-stock", "label": "In Stock — 3 units" },
-      { "class": "badge--new-oem", "label": "New OEM-Equivalent" },
-      { "class": "badge--warranty", "label": "6-Month Warranty" }
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      },
+      {
+        "class": "badge--new-oem",
+        "label": "New OEM-Equivalent"
+      },
+      {
+        "class": "badge--warranty",
+        "label": "6-Month Warranty"
+      }
     ],
+    "price": "4,400",
+    "price_raw": "4400",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine-fit replacement battery for the Asus VivoBook 15. Tested before dispatch, drop-in fit — no disassembly beyond the standard battery bay.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Replacement%20Battery%20for%20Asus%20VivoBook%2015%20(SKU%3A%20ASUS-BT-VB15)%20%E2%80%94%20KES%204400",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20Asus%20VivoBook%2015%20battery%20fits%20my%20laptop%3F",
     "specs": [
-      { "label": "Voltage", "value": "11.52V" },
-      { "label": "Capacity", "value": "3653mAh" },
-      { "label": "Cells", "value": "3" },
-      { "label": "Connector Type", "value": "Proprietary Asus" },
-      { "label": "Condition", "value": "New OEM-equivalent" },
-      { "label": "Warranty", "value": "6 months" }
+      {
+        "label": "Voltage",
+        "value": "11.52V"
+      },
+      {
+        "label": "Capacity",
+        "value": "3653mAh (42Wh)"
+      },
+      {
+        "label": "Cells",
+        "value": 3
+      },
+      {
+        "label": "Connector Type",
+        "value": "Proprietary Asus"
+      },
+      {
+        "label": "Condition",
+        "value": "New OEM-equivalent"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 months"
+      }
     ],
-    "compatible_models": ["Asus VivoBook 15 X515", "Asus VivoBook 15 X512", "Asus VivoBook 15 F515"],
+    "compatible_models": [
+      "Asus VivoBook 15 X509",
+      "Asus VivoBook 15 X512",
+      "Asus VivoBook 15 F512"
+    ],
     "related": [
       {
         "url": "/shop/chargers/asus-65w-adapter/",
         "image": "assets/images/products/asus-charger-65w.jpg",
         "alt": "Asus 65W charger and power adapter",
-        "name": "Asus 65W Charger &amp; Adapter",
-        "badge_class": "badge--in-stock", "badge_label": "In Stock",
-        "tags": ["Universal Asus"],
-        "price": "2,500",
-        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%2065W%20Charger%20%26%20Adapter%20%E2%80%94%20KES%202%2C500"
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "Asus 65W Charger & Adapter",
+        "tags": [
+          "Universal Asus"
+        ],
+        "price": "2,700",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%2065W%20Charger%20%26%20Adapter%20%E2%80%94%20KES%202%2C700"
       },
       {
         "url": "/shop/casings/asus-vivobook-15-casing/",
-        "image": "assets/images/products/asus-casing-vivobook15.jpg",
+        "image": "assets/images/products/asus-casing-vb15.jpg",
         "alt": "Asus VivoBook 15 bottom casing",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
         "name": "Asus VivoBook 15 Casing",
-        "badge_class": "badge--in-stock", "badge_label": "In Stock",
-        "tags": ["VivoBook 15"],
-        "price": "2,900",
-        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%20VivoBook%2015%20Casing%20%E2%80%94%20KES%202%2C900"
+        "tags": [
+          "VivoBook 15"
+        ],
+        "price": "3,000",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%20VivoBook%2015%20Casing%20%E2%80%94%20KES%203%2C000"
       },
       {
         "url": "/shop/keyboards/asus-vivobook-15-keyboard/",
-        "image": "assets/images/products/asus-keyboard-vivobook15.jpg",
+        "image": "assets/images/products/asus-keyboard-vb15.jpg",
         "alt": "Asus VivoBook 15 replacement keyboard",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
         "name": "Asus VivoBook 15 Keyboard",
-        "badge_class": "badge--in-stock", "badge_label": "In Stock",
-        "tags": ["VivoBook 15"],
-        "price": "3,200",
-        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%20VivoBook%2015%20Keyboard%20%E2%80%94%20KES%203%2C200"
+        "tags": [
+          "VivoBook 15 series"
+        ],
+        "price": "3,300",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%20VivoBook%2015%20Keyboard%20%E2%80%94%20KES%203%2C300"
       }
     ]
   }

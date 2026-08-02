@@ -89,6 +89,144 @@ function generatePdp(dataFile) {
   console.log('pdp      ->', outFile);
 }
 
+// ---------------------------------------------------------------------------
+// Brand pages: auto-derived from the existing *.pdp.json files, no separate
+// data files to author/maintain. Groups every product belonging to a brand
+// into sections by part-type category, per
+// laptop-parts-kenya-blueprint.md ("Brand pages -> all PDPs under that
+// brand, grouped by part type").
+// ---------------------------------------------------------------------------
+
+function loadAllPdpPages() {
+  return fs.readdirSync(DATA_DIR)
+    .filter(f => f.endsWith('.pdp.json'))
+    .map(f => loadJson(path.join(DATA_DIR, f)));
+}
+
+function stockInfoFromBadges(badges) {
+  const stockBadge = (badges || []).find(b => /badge--(in-stock|low-stock|out-of-stock)/.test(b.class));
+  if (!stockBadge) return { stock: 'in_stock', badge_class: 'badge--in-stock', badge_label: 'In Stock' };
+  let stock = 'in_stock';
+  if (stockBadge.class.includes('low-stock')) stock = 'low_stock';
+  else if (stockBadge.class.includes('out-of-stock')) stock = 'out_of_stock';
+  return { stock, badge_class: stockBadge.class, badge_label: stockBadge.label };
+}
+
+function mapPdpToProductCard(page) {
+  const product = page.product;
+  const { stock, badge_class, badge_label } = stockInfoFromBadges(product.badges);
+  const cover = (product.images && product.images[0]) || {};
+  const cta_class = stock === 'out_of_stock' ? 'btn--secondary' : 'btn--whatsapp';
+  const cta_label = stock === 'out_of_stock' ? 'Ask About Restock' : 'Order on WhatsApp';
+  return {
+    name: product.name,
+    url: product.url,
+    image: cover.src || '',
+    alt: cover.alt || product.name,
+    badge_class,
+    badge_label,
+    stock,
+    tags: (product.compatible_models || []).slice(0, 2),
+    price: product.price,
+    cta_class,
+    cta_label,
+    whatsapp_text: product.order_whatsapp_text,
+  };
+}
+
+function buildBrandSections(shared, brandSlug) {
+  const pages = loadAllPdpPages().filter(p => p.product && p.product.brand_slug === brandSlug);
+  const byCategory = new Map(); // slug -> { slug, name, category_url, products: [] }
+
+  for (const page of pages) {
+    const catSlug = page.category.slug;
+    if (!byCategory.has(catSlug)) {
+      byCategory.set(catSlug, {
+        slug: catSlug,
+        name: page.category.name,
+        category_url: page.category.url,
+        products: [],
+      });
+    }
+    byCategory.get(catSlug).products.push(mapPdpToProductCard(page));
+  }
+
+  // Order sections to match the canonical nav order in shared.json, not
+  // file-scan order, so every brand page reads in the same category sequence.
+  const ordered = [];
+  for (const part of shared.parts) {
+    if (byCategory.has(part.slug)) ordered.push(byCategory.get(part.slug));
+  }
+  return ordered;
+}
+
+function generateBrand(brandSlug) {
+  const shared = loadJson(path.join(DATA_DIR, 'shared.json'));
+  const brandInfo = shared.brands.find(b => b.slug === brandSlug);
+  if (!brandInfo) {
+    console.log('brand    -> SKIPPED (unknown brand slug in shared.json):', brandSlug);
+    return;
+  }
+
+  const sections = buildBrandSections(shared, brandSlug);
+  if (sections.length === 0) {
+    console.log('brand    -> SKIPPED (no products found for brand):', brandSlug);
+    return;
+  }
+
+  const resultCount = sections.reduce((sum, s) => sum + s.products.length, 0);
+  const tpl = fs.readFileSync(path.join(ROOT, 'brand.template.html'), 'utf8');
+  const nav = buildNav(shared, null, brandSlug);
+
+  const context = {
+    store: shared.store,
+    ...nav,
+    meta: {
+      title: `${brandInfo.name} Laptop Parts in Kenya | ${shared.store.name}`,
+      description: `Genuine replacement ${brandInfo.name} laptop parts — batteries, chargers, screens, keyboards, hinges, fans and casings. In-stock pricing in KES, warranty included, order on WhatsApp.`,
+    },
+    og: {
+      title: `${brandInfo.name} Laptop Parts | ${shared.store.name}`,
+      description: `Genuine ${brandInfo.name} laptop parts, in-stock pricing, warranty included, order on WhatsApp.`,
+    },
+    brand: {
+      slug: brandInfo.slug,
+      name: brandInfo.name,
+      url: brandInfo.url,
+      description: `Every genuine ${brandInfo.name} part we stock, grouped by category. Each listing shows exact compatible models, stock status and price before you message us.`,
+      result_count: resultCount,
+      section_count: sections.length,
+      sections,
+    },
+    technician_cta: {
+      heading: `Repair Technician? Get Bulk Pricing on ${brandInfo.name} Parts.`,
+      body: 'Volume pricing, priority stock holds and credit terms for repair shops and businesses.',
+      cta_label: 'Chat About Bulk Pricing',
+      whatsapp_text: `Hi%2C%20I%27m%20a%20technician%20interested%20in%20bulk%20pricing%20on%20${encodeURIComponent(brandInfo.name)}%20parts.`,
+    },
+    faq_heading: `${brandInfo.name} Parts Questions`,
+    faqs: [
+      { question: `How do I know this part fits my ${brandInfo.name} laptop?`, answer: "Each listing shows exact compatible models. If you're unsure of your laptop's exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
+      { question: 'Are these genuine or compatible parts?', answer: "It's stated clearly on each product page — new OEM-equivalent by default, with genuine originals where available." },
+      { question: 'What warranty comes with these parts?', answer: 'Most parts carry a 6-month warranty, listed on the individual product page.' },
+    ],
+    sticky_whatsapp: {
+      text: `Hi%2C%20I%27d%20like%20to%20order%20a%20${encodeURIComponent(brandInfo.name)}%20laptop%20part.`,
+    },
+  };
+
+  const html = render(tpl, context);
+  const outFile = writeOut(brandInfo.url, html);
+  console.log('brand    ->', outFile, `(${resultCount} products, ${sections.length} categories)`);
+}
+
+function generateAllBrands() {
+  const shared = loadJson(path.join(DATA_DIR, 'shared.json'));
+  for (const brand of shared.brands) {
+    generateBrand(brand.slug);
+  }
+}
+
 function generateHome(dataFile) {
   const shared = loadJson(path.join(DATA_DIR, 'shared.json'));
   const page = loadJson(dataFile);
@@ -116,18 +254,27 @@ function main() {
     generatePdp(path.resolve(arg));
   } else if (cmd === 'home') {
     generateHome(path.resolve(arg || path.join(DATA_DIR, 'home.json')));
+  } else if (cmd === 'brand' && arg) {
+    generateBrand(arg);
+  } else if (cmd === 'brand') {
+    generateAllBrands();
   } else if (cmd === 'all') {
     if (fs.existsSync(path.join(DATA_DIR, 'home.json'))) generateHome(path.join(DATA_DIR, 'home.json'));
     for (const f of fs.readdirSync(DATA_DIR)) {
       if (f.endsWith('.category.json')) generateCategory(path.join(DATA_DIR, f));
       if (f.endsWith('.pdp.json')) generatePdp(path.join(DATA_DIR, f));
     }
+    // Brand pages are derived from the *.pdp.json files above, so they must
+    // be generated after the loop, once every product has been read.
+    generateAllBrands();
   } else {
     console.log('Usage:');
     console.log('  node generate.js home [data/home.json]');
     console.log('  node generate.js category <data-file.category.json>');
     console.log('  node generate.js pdp <data-file.pdp.json>');
-    console.log('  node generate.js all');
+    console.log('  node generate.js brand <brand-slug>   e.g. node generate.js brand hp');
+    console.log('  node generate.js brand                generates every brand in data/shared.json');
+    console.log('  node generate.js all                  generates home + every category/pdp/brand page');
     process.exit(1);
   }
 }

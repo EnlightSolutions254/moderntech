@@ -1,87 +1,141 @@
 {
   "meta": {
-    "title": "MacBook Pro 2019 13&quot; Battery | Price in Kenya | [Store Name]",
-    "description": "Genuine replacement battery for MacBook Pro 2019 13 inch. 6-month warranty. Order via WhatsApp, delivery countrywide."
+    "title": "MacBook Pro 2019 13\" Battery | Price in Kenya | [Store Name]",
+    "description": "Genuine replacement battery for MacBook Pro 2019 13\". 6-month warranty. Order via WhatsApp, delivery countrywide."
   },
   "og": {
-    "title": "MacBook Pro 2019 13&quot; Battery | [Store Name]",
-    "description": "Genuine replacement battery for MacBook Pro 2019 13 inch. 6-month warranty. Order via WhatsApp, delivery countrywide."
+    "title": "MacBook Pro 2019 13\" Battery | [Store Name]",
+    "description": "Genuine replacement battery for MacBook Pro 2019 13\". 6-month warranty. Order via WhatsApp, delivery countrywide."
   },
   "category": {
     "slug": "laptop-batteries",
     "url": "/shop/laptop-batteries/",
     "name": "Laptop Batteries"
   },
-  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1&ndash;2 days upcountry",
   "faq_heading": "Questions About This Battery",
   "faqs": [
-    { "question": "Do you offer warranty on this battery?", "answer": "Yes — this battery carries a 6-month warranty from the date of purchase." },
-    { "question": "How do I install it?", "answer": "MacBook batteries are glued into the chassis, so this is a workshop install rather than a DIY swap — we recommend booking a fitting or asking us on WhatsApp about drop-off." },
-    { "question": "Can I pay via M-Pesa?", "answer": "Yes, M-Pesa is accepted, along with cash on delivery in select areas." }
+    {
+      "question": "Do you offer warranty on this battery?",
+      "answer": "Yes — this battery carries a 6-month warranty from the date of purchase."
+    },
+    {
+      "question": "How do I install it?",
+      "answer": "It's a standard drop-in replacement — no disassembly beyond the battery bay. We can talk you through it on WhatsApp if needed."
+    },
+    {
+      "question": "Can I pay via M-Pesa?",
+      "answer": "Yes, M-Pesa is accepted, along with cash on delivery in select areas."
+    }
   ],
   "product": {
-    "url": "/shop/laptop-batteries/macbook-pro-2019-13/",
-    "sku": "MAC-BT-PRO19-13",
-    "name": "MacBook Pro 2019 13&quot; Battery",
-    "full_name": "Replacement Battery for MacBook Pro 2019 13-inch",
+    "name": "MacBook Pro 2019 13\" Battery",
+    "full_name": "Replacement Battery for MacBook Pro 2019 13\"",
+    "sku": "MB-BT-PRO2019-13",
+    "brand_name": "MacBook",
     "brand_slug": "macbook",
-    "brand_name": "Apple",
+    "url": "/shop/laptop-batteries/macbook-pro-2019-13/",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "images": [
+      {
+        "src": "assets/images/products/macbook-battery-pro13-2019-1.jpg",
+        "alt": "MacBook Pro 2019 13\" replacement battery, front view"
+      },
+      {
+        "src": "assets/images/products/macbook-battery-pro13-2019-2.jpg",
+        "alt": "MacBook Pro 2019 13\" replacement battery, connector view"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      },
+      {
+        "class": "badge--new-oem",
+        "label": "New OEM-Equivalent"
+      },
+      {
+        "class": "badge--warranty",
+        "label": "6-Month Warranty"
+      }
+    ],
     "price": "8,900",
     "price_raw": "8900",
     "schema_availability": "https://schema.org/InStock",
-    "description": "Genuine-fit replacement battery for the 2019 13-inch MacBook Pro. Tested before dispatch; installation requires opening the bottom case and is best done in-store or by a technician.",
-    "type_label": "battery",
-    "type_label_cap": "Battery",
-    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Replacement%20Battery%20for%20MacBook%20Pro%202019%2013%22%20(SKU%3A%20MAC-BT-PRO19-13)%20%E2%80%94%20KES%208%2C900",
+    "description": "Genuine-fit replacement battery for the MacBook Pro 2019 13\". Tested before dispatch, drop-in fit — no disassembly beyond the standard battery bay.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Replacement%20Battery%20for%20MacBook%20Pro%202019%2013%22%20(SKU%3A%20MB-BT-PRO2019-13)%20%E2%80%94%20KES%208900",
     "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20MacBook%20Pro%202019%2013%22%20battery%20fits%20my%20laptop%3F",
-    "images": [
-      { "src": "assets/images/products/macbook-battery-pro13-2019-1.jpg", "alt": "MacBook Pro 2019 13 inch replacement battery, front view" },
-      { "src": "assets/images/products/macbook-battery-pro13-2019-2.jpg", "alt": "MacBook Pro 2019 13 inch replacement battery, connector view" }
-    ],
-    "badges": [
-      { "class": "badge--in-stock", "label": "In Stock — 2 units" },
-      { "class": "badge--new-oem", "label": "New OEM-Equivalent" },
-      { "class": "badge--warranty", "label": "6-Month Warranty" }
-    ],
     "specs": [
-      { "label": "Voltage", "value": "11.4V" },
-      { "label": "Capacity", "value": "4700mAh" },
-      { "label": "Cells", "value": "4" },
-      { "label": "Connector Type", "value": "Proprietary Apple" },
-      { "label": "Condition", "value": "New OEM-equivalent" },
-      { "label": "Warranty", "value": "6 months" }
+      {
+        "label": "Voltage",
+        "value": "11.41V"
+      },
+      {
+        "label": "Capacity",
+        "value": "58.2Wh"
+      },
+      {
+        "label": "Cells",
+        "value": 3
+      },
+      {
+        "label": "Connector Type",
+        "value": "Proprietary Apple"
+      },
+      {
+        "label": "Condition",
+        "value": "New OEM-equivalent"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 months"
+      }
     ],
-    "compatible_models": ["MacBook Pro 13\" 2019 (Two Thunderbolt 3 ports)", "MacBook Pro 13\" 2019 (Four Thunderbolt 3 ports)"],
+    "compatible_models": [
+      "MacBook Pro 13\" 2019 (A2159)",
+      "MacBook Pro 13\" 2019 Four Thunderbolt Ports"
+    ],
     "related": [
       {
         "url": "/shop/chargers/macbook-61w-usb-c-adapter/",
         "image": "assets/images/products/macbook-charger-61w.jpg",
         "alt": "MacBook 61W USB-C charger and power adapter",
-        "name": "MacBook 61W USB-C Charger &amp; Adapter",
-        "badge_class": "badge--in-stock", "badge_label": "In Stock",
-        "tags": ["Universal MacBook"],
-        "price": "3,800",
-        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%2061W%20USB-C%20Charger%20%26%20Adapter%20%E2%80%94%20KES%203%2C800"
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "MacBook 61W USB-C Charger & Adapter",
+        "tags": [
+          "Universal MacBook USB-C"
+        ],
+        "price": "4,200",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%2061W%20USB-C%20Charger%20%26%20Adapter%20%E2%80%94%20KES%204%2C200"
+      },
+      {
+        "url": "/shop/cooling-fans/macbook-pro-2019-13-fan/",
+        "image": "assets/images/products/macbook-fan-pro13-2019.jpg",
+        "alt": "MacBook Pro 2019 13 inch cooling fan",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "MacBook Pro 2019 13\" Cooling Fan",
+        "tags": [
+          "MacBook Pro 2019 13\""
+        ],
+        "price": "3,900",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20Pro%202019%2013%22%20Cooling%20Fan%20%E2%80%94%20KES%203%2C900"
       },
       {
         "url": "/shop/keyboards/macbook-pro-2019-13-keyboard/",
         "image": "assets/images/products/macbook-keyboard-pro13-2019.jpg",
         "alt": "MacBook Pro 2019 13 inch replacement keyboard",
-        "name": "MacBook Pro 2019 13&quot; Keyboard",
-        "badge_class": "badge--in-stock", "badge_label": "In Stock",
-        "tags": ["MacBook Pro 2019 13\""],
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "MacBook Pro 2019 13\" Keyboard",
+        "tags": [
+          "MacBook Pro 2019 13\""
+        ],
         "price": "6,500",
         "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20Pro%202019%2013%22%20Keyboard%20%E2%80%94%20KES%206%2C500"
-      },
-      {
-        "url": "/shop/cooling-fans/macbook-pro-2019-13-fan/",
-        "image": "assets/images/products/macbook-fan-pro13-2019.jpg",
-        "alt": "MacBook Pro 2019 13 inch replacement cooling fan",
-        "name": "MacBook Pro 2019 13&quot; Cooling Fan",
-        "badge_class": "badge--in-stock", "badge_label": "In Stock",
-        "tags": ["MacBook Pro 2019 13\""],
-        "price": "2,600",
-        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20Pro%202019%2013%22%20Cooling%20Fan%20%E2%80%94%20KES%202%2C600"
       }
     ]
   }

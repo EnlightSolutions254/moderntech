@@ -1,0 +1,144 @@
+{
+  "meta": {
+    "title": "Toshiba Satellite C55 Casing | Price in Kenya | [Store Name]",
+    "description": "Genuine-fit replacement casing for Toshiba Satellite C55. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Toshiba Satellite C55 Casing | [Store Name]",
+    "description": "Genuine-fit replacement casing for Toshiba Satellite C55. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "casings",
+    "url": "/shop/casings/",
+    "name": "Casings"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1&ndash;2 days upcountry",
+  "faq_heading": "Questions About This Casing",
+  "faqs": [
+    {
+      "question": "Will this match the color of my original casing?",
+      "answer": "Yes — it's molded to match the factory color and finish for this model."
+    },
+    {
+      "question": "How do I install it?",
+      "answer": "Installation involves removing the base screws and transferring your existing hardware over. We can walk you through it on WhatsApp if needed."
+    },
+    {
+      "question": "Can I pay via M-Pesa?",
+      "answer": "Yes, M-Pesa is accepted, along with cash on delivery in select areas."
+    }
+  ],
+  "product": {
+    "name": "Toshiba Satellite C55 Casing",
+    "full_name": "Toshiba Satellite C55 Casing",
+    "sku": "TOSH-CS-C55",
+    "brand_name": "Toshiba",
+    "brand_slug": "toshiba",
+    "url": "/shop/casings/toshiba-satellite-c55-casing/",
+    "type_label": "casing",
+    "type_label_cap": "Casing",
+    "images": [
+      {
+        "src": "assets/images/products/toshiba-casing-c55-1.jpg",
+        "alt": "Toshiba Satellite C55 replacement casing, top view"
+      },
+      {
+        "src": "assets/images/products/toshiba-casing-c55-2.jpg",
+        "alt": "Toshiba Satellite C55 replacement casing, underside view"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      },
+      {
+        "class": "badge--new-oem",
+        "label": "New OEM-Equivalent"
+      },
+      {
+        "class": "badge--warranty",
+        "label": "6-Month Warranty"
+      }
+    ],
+    "price": "2,900",
+    "price_raw": "2900",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine-fit replacement casing for the Toshiba Satellite C55. Matches factory color and finish — direct screw-in replacement, no modification needed.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Toshiba%20Satellite%20C55%20Casing%20(SKU%3A%20TOSH-CS-C55)%20%E2%80%94%20KES%202900",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20Toshiba%20Satellite%20C55%20casing%20fits%20my%20laptop%3F",
+    "specs": [
+      {
+        "label": "Material",
+        "value": "ABS Plastic"
+      },
+      {
+        "label": "Color",
+        "value": "Matte Black"
+      },
+      {
+        "label": "Includes",
+        "value": "Top cover + bottom base panel"
+      },
+      {
+        "label": "Fit Type",
+        "value": "Direct screw-in replacement"
+      },
+      {
+        "label": "Condition",
+        "value": "New OEM-equivalent"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 months"
+      }
+    ],
+    "compatible_models": [
+      "Toshiba Satellite C55-B",
+      "Toshiba Satellite C55-C",
+      "Toshiba Satellite C55D"
+    ],
+    "related": [
+      {
+        "url": "/shop/laptop-batteries/toshiba-satellite-c55/",
+        "image": "assets/images/products/toshiba-battery-c55-1.jpg",
+        "alt": "Toshiba Satellite C55 replacement battery",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "Toshiba Satellite C55 Battery",
+        "tags": [
+          "Satellite C55-B",
+          "Satellite C55-C"
+        ],
+        "price": "4,600",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Toshiba%20Satellite%20C55%20Battery%20%E2%80%94%20KES%204%2C600"
+      },
+      {
+        "url": "/shop/chargers/toshiba-65w-adapter/",
+        "image": "assets/images/products/toshiba-charger-65w.jpg",
+        "alt": "Toshiba 65W charger and power adapter",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "Toshiba 65W Charger & Adapter",
+        "tags": [
+          "Universal Toshiba"
+        ],
+        "price": "2,700",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Toshiba%2065W%20Charger%20%26%20Adapter%20%E2%80%94%20KES%202%2C700"
+      },
+      {
+        "url": "/shop/keyboards/toshiba-satellite-c55-keyboard/",
+        "image": "assets/images/products/toshiba-keyboard-c55.jpg",
+        "alt": "Toshiba Satellite C55 replacement keyboard",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "Toshiba Satellite C55 Keyboard",
+        "tags": [
+          "Satellite C55 series"
+        ],
+        "price": "3,200",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Toshiba%20Satellite%20C55%20Keyboard%20%E2%80%94%20KES%203%2C200"
+      }
+    ]
+  }
+}

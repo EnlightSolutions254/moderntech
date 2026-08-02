@@ -1,85 +1,140 @@
 {
   "meta": {
     "title": "Dell Latitude 5490 Battery | Price in Kenya | [Store Name]",
-    "description": "Genuine replacement battery for Dell Latitude 5490/5491. 6-month warranty. Order via WhatsApp, delivery countrywide."
+    "description": "Genuine replacement battery for Dell Latitude 5490. 6-month warranty. Order via WhatsApp, delivery countrywide."
   },
   "og": {
     "title": "Dell Latitude 5490 Battery | [Store Name]",
-    "description": "Genuine replacement battery for Dell Latitude 5490/5491. 6-month warranty. Order via WhatsApp, delivery countrywide."
+    "description": "Genuine replacement battery for Dell Latitude 5490. 6-month warranty. Order via WhatsApp, delivery countrywide."
   },
   "category": {
     "slug": "laptop-batteries",
     "url": "/shop/laptop-batteries/",
     "name": "Laptop Batteries"
   },
-  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1&ndash;2 days upcountry",
   "faq_heading": "Questions About This Battery",
   "faqs": [
-    { "question": "Do you offer warranty on this battery?", "answer": "Yes — this battery carries a 6-month warranty from the date of purchase." },
-    { "question": "How do I install it?", "answer": "It's a standard drop-in replacement — no disassembly beyond the battery bay. We can talk you through it on WhatsApp if needed." },
-    { "question": "Can I pay via M-Pesa?", "answer": "Yes, M-Pesa is accepted, along with cash on delivery in select areas." }
+    {
+      "question": "Do you offer warranty on this battery?",
+      "answer": "Yes — this battery carries a 6-month warranty from the date of purchase."
+    },
+    {
+      "question": "How do I install it?",
+      "answer": "It's a standard drop-in replacement — no disassembly beyond the battery bay. We can talk you through it on WhatsApp if needed."
+    },
+    {
+      "question": "Can I pay via M-Pesa?",
+      "answer": "Yes, M-Pesa is accepted, along with cash on delivery in select areas."
+    }
   ],
   "product": {
-    "url": "/shop/laptop-batteries/dell-latitude-5490/",
-    "sku": "DELL-BT-5490",
     "name": "Dell Latitude 5490 Battery",
     "full_name": "Replacement Battery for Dell Latitude 5490",
-    "brand_slug": "dell",
+    "sku": "DELL-BT-5490",
     "brand_name": "Dell",
+    "brand_slug": "dell",
+    "url": "/shop/laptop-batteries/dell-latitude-5490/",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "images": [
+      {
+        "src": "assets/images/products/dell-battery-5490-1.jpg",
+        "alt": "Dell Latitude 5490 replacement battery, front view"
+      },
+      {
+        "src": "assets/images/products/dell-battery-5490-2.jpg",
+        "alt": "Dell Latitude 5490 replacement battery, connector view"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      },
+      {
+        "class": "badge--new-oem",
+        "label": "New OEM-Equivalent"
+      },
+      {
+        "class": "badge--warranty",
+        "label": "6-Month Warranty"
+      }
+    ],
     "price": "5,200",
     "price_raw": "5200",
     "schema_availability": "https://schema.org/InStock",
-    "description": "Genuine-fit replacement battery for the Dell Latitude 5490 series. Tested before dispatch, drop-in fit — no disassembly beyond the standard battery bay.",
-    "type_label": "battery",
-    "type_label_cap": "Battery",
-    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Replacement%20Battery%20for%20Dell%20Latitude%205490%20(SKU%3A%20DELL-BT-5490)%20%E2%80%94%20KES%205%2C200",
+    "description": "Genuine-fit replacement battery for the Dell Latitude 5490. Tested before dispatch, drop-in fit — no disassembly beyond the standard battery bay.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Replacement%20Battery%20for%20Dell%20Latitude%205490%20(SKU%3A%20DELL-BT-5490)%20%E2%80%94%20KES%205200",
     "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20Dell%20Latitude%205490%20battery%20fits%20my%20laptop%3F",
-    "images": [
-      { "src": "assets/images/products/dell-battery-5490-1.jpg", "alt": "Dell Latitude 5490 replacement battery, front view" },
-      { "src": "assets/images/products/dell-battery-5490-2.jpg", "alt": "Dell Latitude 5490 replacement battery, connector view" }
-    ],
-    "badges": [
-      { "class": "badge--in-stock", "label": "In Stock — 4 units" },
-      { "class": "badge--new-oem", "label": "New OEM-Equivalent" },
-      { "class": "badge--warranty", "label": "6-Month Warranty" }
-    ],
     "specs": [
-      { "label": "Voltage", "value": "11.4V" },
-      { "label": "Capacity", "value": "4200mAh" },
-      { "label": "Cells", "value": "3" },
-      { "label": "Connector Type", "value": "Proprietary Dell" },
-      { "label": "Condition", "value": "New OEM-equivalent" },
-      { "label": "Warranty", "value": "6 months" }
+      {
+        "label": "Voltage",
+        "value": "11.4V"
+      },
+      {
+        "label": "Capacity",
+        "value": "3500mAh (42Wh)"
+      },
+      {
+        "label": "Cells",
+        "value": 3
+      },
+      {
+        "label": "Connector Type",
+        "value": "Proprietary Dell"
+      },
+      {
+        "label": "Condition",
+        "value": "New OEM-equivalent"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 months"
+      }
     ],
-    "compatible_models": ["Dell Latitude 5490", "Dell Latitude 5491", "Dell Latitude 5495"],
+    "compatible_models": [
+      "Dell Latitude 5490",
+      "Dell Latitude 5491"
+    ],
     "related": [
       {
         "url": "/shop/chargers/dell-90w-adapter/",
         "image": "assets/images/products/dell-charger-90w.jpg",
         "alt": "Dell 90W charger and power adapter",
-        "name": "Dell 90W Charger &amp; Adapter",
-        "badge_class": "badge--in-stock", "badge_label": "In Stock",
-        "tags": ["Universal Dell"],
-        "price": "2,900",
-        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%2090W%20Charger%20%26%20Adapter%20%E2%80%94%20KES%202%2C900"
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "Dell 90W Charger & Adapter",
+        "tags": [
+          "Universal Dell"
+        ],
+        "price": "3,200",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%2090W%20Charger%20%26%20Adapter%20%E2%80%94%20KES%203%2C200"
       },
       {
         "url": "/shop/casings/dell-latitude-5490-casing/",
         "image": "assets/images/products/dell-casing-5490.jpg",
         "alt": "Dell Latitude 5490 bottom casing",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
         "name": "Dell Latitude 5490 Casing",
-        "badge_class": "badge--in-stock", "badge_label": "In Stock",
-        "tags": ["Latitude 5490"],
-        "price": "3,300",
-        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%205490%20Casing%20%E2%80%94%20KES%203%2C300"
+        "tags": [
+          "Latitude 5490"
+        ],
+        "price": "3,400",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%205490%20Casing%20%E2%80%94%20KES%203%2C400"
       },
       {
         "url": "/shop/keyboards/dell-latitude-5490-keyboard/",
         "image": "assets/images/products/dell-keyboard-5490.jpg",
         "alt": "Dell Latitude 5490 replacement keyboard",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
         "name": "Dell Latitude 5490 Keyboard",
-        "badge_class": "badge--in-stock", "badge_label": "In Stock",
-        "tags": ["Latitude 5490", "Latitude 5491"],
+        "tags": [
+          "Latitude 5490",
+          "Latitude 5491"
+        ],
         "price": "3,600",
         "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%205490%20Keyboard%20%E2%80%94%20KES%203%2C600"
       }

@@ -7,42 +7,43 @@
     "title": "HP EliteBook 840 G3/G4 Battery | [Store Name]",
     "description": "Genuine replacement battery for HP EliteBook 840 G3/G4. 6-month warranty. Order via WhatsApp, delivery countrywide."
   },
+
   "category": {
     "slug": "laptop-batteries",
     "url": "/shop/laptop-batteries/",
     "name": "Laptop Batteries"
   },
+
   "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
-  "faq_heading": "Questions About This Battery",
-  "faqs": [
-    { "question": "Do you offer warranty on this battery?", "answer": "Yes — this battery carries a 6-month warranty from the date of purchase." },
-    { "question": "How do I install it?", "answer": "It's a standard drop-in replacement — no disassembly beyond the battery bay. We can talk you through it on WhatsApp if needed." },
-    { "question": "Can I pay via M-Pesa?", "answer": "Yes, M-Pesa is accepted, along with cash on delivery in select areas." }
-  ],
+
   "product": {
     "url": "/shop/laptop-batteries/hp-elitebook-840-g3-g4/",
-    "sku": "HP-BT-840G3",
     "name": "HP EliteBook 840 G3/G4 Battery",
     "full_name": "Replacement Battery for HP EliteBook 840 G3/G4",
-    "brand_slug": "hp",
+    "sku": "HP-BT-840G3",
     "brand_name": "HP",
+    "brand_slug": "hp",
     "price": "4,500",
     "price_raw": "4500",
     "schema_availability": "https://schema.org/InStock",
-    "description": "Genuine-fit replacement battery for the HP EliteBook 840 series. Tested before dispatch, drop-in fit — no disassembly beyond the standard battery bay.",
     "type_label": "battery",
     "type_label_cap": "Battery",
-    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Replacement%20Battery%20for%20HP%20EliteBook%20840%20G3%2FG4%20(SKU%3A%20HP-BT-840G3)%20%E2%80%94%20KES%204%2C500",
-    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20HP%20EliteBook%20840%20G3%2FG4%20battery%20fits%20my%20laptop%3F",
+
     "images": [
       { "src": "assets/images/products/hp-battery-840g3-1.jpg", "alt": "HP EliteBook 840 G3/G4 replacement battery, front view" },
       { "src": "assets/images/products/hp-battery-840g3-2.jpg", "alt": "HP EliteBook 840 G3/G4 replacement battery, connector view" }
     ],
+
     "badges": [
       { "class": "badge--in-stock", "label": "In Stock — 3 units" },
       { "class": "badge--new-oem", "label": "New OEM-Equivalent" },
       { "class": "badge--warranty", "label": "6-Month Warranty" }
     ],
+
+    "description": "Genuine-fit replacement battery for the HP EliteBook 840 series. Tested before dispatch, drop-in fit — no disassembly beyond the standard battery bay.",
+
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Replacement%20Battery%20for%20HP%20EliteBook%20840%20G3%2FG4%20(SKU%3A%20HP-BT-840G3)%20%E2%80%94%20KES%204%2C500",
+
     "specs": [
       { "label": "Voltage", "value": "11.4V" },
       { "label": "Capacity", "value": "4200mAh" },
@@ -51,14 +52,18 @@
       { "label": "Condition", "value": "New OEM-equivalent" },
       { "label": "Warranty", "value": "6 months" }
     ],
+
     "compatible_models": ["HP EliteBook 840 G3", "HP EliteBook 840 G4", "HP EliteBook 850 G3"],
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20HP%20EliteBook%20840%20G3%2FG4%20battery%20fits%20my%20laptop%3F",
+
     "related": [
       {
         "url": "/shop/chargers/hp-65w-adapter/",
         "image": "assets/images/products/hp-charger-65w.jpg",
         "alt": "HP 65W charger and power adapter",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
         "name": "HP 65W Charger &amp; Adapter",
-        "badge_class": "badge--in-stock", "badge_label": "In Stock",
         "tags": ["Universal HP"],
         "price": "2,800",
         "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%2065W%20Charger%20%26%20Adapter%20%E2%80%94%20KES%202%2C800"
@@ -67,8 +72,9 @@
         "url": "/shop/casings/hp-840g3-casing/",
         "image": "assets/images/products/hp-casing-840g3.jpg",
         "alt": "HP EliteBook 840 G3 bottom casing",
+        "badge_class": "badge--low-stock",
+        "badge_label": "Only 2 left",
         "name": "HP EliteBook 840 G3 Casing",
-        "badge_class": "badge--low-stock", "badge_label": "Only 2 left",
         "tags": ["840 G3"],
         "price": "3,200",
         "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20EliteBook%20840%20G3%20Casing%20%E2%80%94%20KES%203%2C200"
@@ -77,12 +83,20 @@
         "url": "/shop/keyboards/hp-840g3-keyboard/",
         "image": "assets/images/products/hp-keyboard-840g3.jpg",
         "alt": "HP EliteBook 840 G3 replacement keyboard",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
         "name": "HP EliteBook 840 G3 Keyboard",
-        "badge_class": "badge--in-stock", "badge_label": "In Stock",
         "tags": ["840 G3", "840 G4"],
         "price": "3,500",
         "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20EliteBook%20840%20G3%20Keyboard%20%E2%80%94%20KES%203%2C500"
       }
     ]
-  }
+  },
+
+  "faq_heading": "Questions About This Battery",
+  "faqs": [
+    { "question": "Do you offer warranty on this battery?", "answer": "Yes — this battery carries a 6-month warranty from the date of purchase." },
+    { "question": "How do I install it?", "answer": "It's a standard drop-in replacement — no disassembly beyond the battery bay. We can talk you through it on WhatsApp if needed." },
+    { "question": "Can I pay via M-Pesa?", "answer": "Yes, M-Pesa is accepted, along with cash on delivery in select areas." }
+  ]
 }

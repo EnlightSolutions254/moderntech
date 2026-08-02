@@ -15,7 +15,7 @@
 <meta property="og:url" content="https://{{store.domain}}/">
 
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="css/styles.css">
+<link rel="stylesheet" href="/css/styles.css">
 
 <!-- WebSite structured data -->
 <script type="application/ld+json">
@@ -295,7 +295,7 @@
             <div class="media-frame media-frame--square">
               <span class="badge badge--{{this.badge_type}} product-card__badge">{{this.badge_text}}</span>
               <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1' height='1'%3E%3C/svg%3E"
-                   data-src="{{this.image}}"
+                   data-src="/{{this.image}}"
                    alt="{{this.alt}}"
                    width="400" height="400" loading="lazy" decoding="async" class="lazy-img">
             </div>
@@ -449,7 +449,7 @@
       </ul>
     </details>
 
-    <details class="footer-col">
+    <details class="footer-col" open>
       <summary>Shop by Brand</summary>
       <ul>
         {{#each nav_brands}}
@@ -458,7 +458,7 @@
       </ul>
     </details>
 
-    <details class="footer-col">
+    <details class="footer-col" open>
       <summary>Company</summary>
       <ul>
         <li><a href="/about.html">About Us</a></li>
@@ -508,6 +508,6 @@
   </a>
 </div>
 
-<script src="js/main.js" defer></script>
+<script src="/js/main.js" defer></script>
 </body>
 </html>
