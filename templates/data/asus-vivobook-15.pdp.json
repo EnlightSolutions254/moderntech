@@ -1,120 +1,104 @@
 {
   "meta": {
-    "title": "Asus VivoBook 15 Battery | Price in Kenya | [Store Name]",
-    "description": "Genuine replacement battery for Asus VivoBook 15. 6-month warranty. Order via WhatsApp, delivery countrywide."
+    "title": "Asus VivoBook 15 Screen | Price in Kenya | [Store Name]",
+    "description": "Genuine replacement screen for Asus VivoBook 15. 3-month warranty. Order via WhatsApp, delivery countrywide."
   },
   "og": {
-    "title": "Asus VivoBook 15 Battery | [Store Name]",
-    "description": "Genuine replacement battery for Asus VivoBook 15. 6-month warranty. Order via WhatsApp, delivery countrywide."
+    "title": "Asus VivoBook 15 Screen | [Store Name]",
+    "description": "Genuine replacement screen for Asus VivoBook 15. 3-month warranty. Order via WhatsApp, delivery countrywide."
   },
   "category": {
-    "slug": "laptop-batteries",
-    "url": "/shop/laptop-batteries/",
-    "name": "Laptop Batteries"
+    "slug": "screens",
+    "url": "/shop/screens/",
+    "name": "Laptop Screens"
   },
-  "delivery_note": "Same-day delivery in Nairobi &middot; 1&ndash;2 days upcountry",
-  "faq_heading": "Questions About This Battery",
-  "faqs": [
-    {
-      "question": "Do you offer warranty on this battery?",
-      "answer": "Yes — this battery carries a 6-month warranty from the date of purchase."
-    },
-    {
-      "question": "How do I install it?",
-      "answer": "It's a standard drop-in replacement — no disassembly beyond the battery bay. We can talk you through it on WhatsApp if needed."
-    },
-    {
-      "question": "Can I pay via M-Pesa?",
-      "answer": "Yes, M-Pesa is accepted, along with cash on delivery in select areas."
-    }
-  ],
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
   "product": {
-    "name": "Asus VivoBook 15 Battery",
-    "full_name": "Replacement Battery for Asus VivoBook 15",
-    "sku": "ASUS-BT-VB15",
+    "url": "/shop/screens/asus-vivobook-15/",
+    "name": "Asus VivoBook 15 Screen",
+    "full_name": "Replacement Screen for Asus VivoBook 15",
+    "sku": "ASUS-SCR-VB15",
     "brand_name": "Asus",
     "brand_slug": "asus",
-    "url": "/shop/laptop-batteries/asus-vivobook-15/",
-    "type_label": "battery",
-    "type_label_cap": "Battery",
+    "price": "6,000",
+    "price_raw": "6000",
+    "schema_availability": "https://schema.org/InStock",
+    "type_label": "screen",
+    "type_label_cap": "Screen",
     "images": [
       {
-        "src": "assets/images/products/asus-battery-vb15-1.jpg",
-        "alt": "Asus VivoBook 15 replacement battery, front view"
+        "src": "assets/images/products/asus-screen-vivobook15.jpg",
+        "alt": "Replacement screen for Asus VivoBook 15, front panel view"
       },
       {
-        "src": "assets/images/products/asus-battery-vb15-2.jpg",
-        "alt": "Asus VivoBook 15 replacement battery, connector view"
+        "src": "assets/images/products/asus-screen-vivobook15-2.jpg",
+        "alt": "Replacement screen for Asus VivoBook 15, connector and back view"
       }
     ],
     "badges": [
       {
         "class": "badge--in-stock",
-        "label": "In Stock"
+        "label": "In Stock — 5 units"
       },
       {
         "class": "badge--new-oem",
-        "label": "New OEM-Equivalent"
+        "label": "New, Grade A Panel"
       },
       {
         "class": "badge--warranty",
-        "label": "6-Month Warranty"
+        "label": "3-Month Warranty"
       }
     ],
-    "price": "4,400",
-    "price_raw": "4400",
-    "schema_availability": "https://schema.org/InStock",
-    "description": "Genuine-fit replacement battery for the Asus VivoBook 15. Tested before dispatch, drop-in fit — no disassembly beyond the standard battery bay.",
-    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Replacement%20Battery%20for%20Asus%20VivoBook%2015%20(SKU%3A%20ASUS-BT-VB15)%20%E2%80%94%20KES%204400",
-    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20Asus%20VivoBook%2015%20battery%20fits%20my%20laptop%3F",
+    "description": "Genuine-fit replacement LCD screen for the Asus VivoBook 15. Every panel is tested before dispatch and ships ready to drop into your laptop's existing screen bezel and hinge assembly.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Replacement%20Screen%20for%20Asus%20VivoBook%2015%20(SKU%3A%20ASUS-SCR-VB15)%20%E2%80%94%20KES%206%2C000",
     "specs": [
       {
-        "label": "Voltage",
-        "value": "11.52V"
+        "label": "Panel Size",
+        "value": "15.6-inch"
       },
       {
-        "label": "Capacity",
-        "value": "3653mAh (42Wh)"
+        "label": "Resolution",
+        "value": "1920×1080 (FHD)"
       },
       {
-        "label": "Cells",
-        "value": 3
+        "label": "Panel Type",
+        "value": "LED, Matte"
       },
       {
         "label": "Connector Type",
-        "value": "Proprietary Asus"
+        "value": "eDP (Slim)"
       },
       {
         "label": "Condition",
-        "value": "New OEM-equivalent"
+        "value": "New, Grade A Panel"
       },
       {
         "label": "Warranty",
-        "value": "6 months"
+        "value": "3 months"
       }
     ],
     "compatible_models": [
-      "Asus VivoBook 15 X509",
-      "Asus VivoBook 15 X512",
-      "Asus VivoBook 15 F512"
+      "Asus VivoBook 15 (X512 series)",
+      "Asus VivoBook 15 (X515 series)"
     ],
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20Asus%20VivoBook%2015%20Screen%20fits%20my%20laptop%3F",
     "related": [
       {
-        "url": "/shop/chargers/asus-65w-adapter/",
-        "image": "assets/images/products/asus-charger-65w.jpg",
-        "alt": "Asus 65W charger and power adapter",
+        "url": "/shop/keyboards/asus-vivobook-15-keyboard/",
+        "image": "assets/images/products/asus-keyboard-vivobook15.jpg",
+        "alt": "Asus VivoBook 15 replacement keyboard",
         "badge_class": "badge--in-stock",
         "badge_label": "In Stock",
-        "name": "Asus 65W Charger & Adapter",
+        "name": "Asus VivoBook 15 Keyboard",
         "tags": [
-          "Universal Asus"
+          "VivoBook 15"
         ],
-        "price": "2,700",
-        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%2065W%20Charger%20%26%20Adapter%20%E2%80%94%20KES%202%2C700"
+        "price": "3,100",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%20VivoBook%2015%20Keyboard%20%E2%80%94%20KES%203%2C100"
       },
       {
         "url": "/shop/casings/asus-vivobook-15-casing/",
-        "image": "assets/images/products/asus-casing-vb15.jpg",
+        "image": "assets/images/products/asus-casing-vivobook15.jpg",
         "alt": "Asus VivoBook 15 bottom casing",
         "badge_class": "badge--in-stock",
         "badge_label": "In Stock",
@@ -122,22 +106,37 @@
         "tags": [
           "VivoBook 15"
         ],
-        "price": "3,000",
-        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%20VivoBook%2015%20Casing%20%E2%80%94%20KES%203%2C000"
+        "price": "2,950",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%20VivoBook%2015%20Casing%20%E2%80%94%20KES%202%2C950"
       },
       {
-        "url": "/shop/keyboards/asus-vivobook-15-keyboard/",
-        "image": "assets/images/products/asus-keyboard-vb15.jpg",
-        "alt": "Asus VivoBook 15 replacement keyboard",
+        "url": "/shop/hinges/asus-vivobook-15-hinge-kit/",
+        "image": "assets/images/products/asus-hinge-vivobook15.jpg",
+        "alt": "Asus VivoBook 15 screen hinge kit",
         "badge_class": "badge--in-stock",
         "badge_label": "In Stock",
-        "name": "Asus VivoBook 15 Keyboard",
+        "name": "Asus VivoBook 15 Hinge Kit",
         "tags": [
-          "VivoBook 15 series"
+          "VivoBook 15"
         ],
-        "price": "3,300",
-        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%20VivoBook%2015%20Keyboard%20%E2%80%94%20KES%203%2C300"
+        "price": "2,550",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%20VivoBook%2015%20Hinge%20Kit%20%E2%80%94%20KES%202%2C550"
       }
     ]
-  }
+  },
+  "faq_heading": "Questions About This Screen",
+  "faqs": [
+    {
+      "question": "How do I know this screen fits my laptop?",
+      "answer": "This listing is matched to the Asus VivoBook 15. If you're unsure of your laptop's exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm before you order."
+    },
+    {
+      "question": "Do you install the screen, or is it self-fit?",
+      "answer": "We can install it for you in Nairobi, or ship it with fitting instructions if you're upcountry or prefer your own technician."
+    },
+    {
+      "question": "What warranty comes with this screen?",
+      "answer": "This screen carries a 3-month warranty against dead pixels and panel defects from the date of purchase."
+    }
+  ]
 }

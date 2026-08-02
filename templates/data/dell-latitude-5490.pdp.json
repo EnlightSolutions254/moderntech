@@ -1,129 +1,88 @@
 {
   "meta": {
-    "title": "Dell Latitude 5490 Battery | Price in Kenya | [Store Name]",
-    "description": "Genuine replacement battery for Dell Latitude 5490. 6-month warranty. Order via WhatsApp, delivery countrywide."
+    "title": "Dell Latitude 5490 Screen | Price in Kenya | [Store Name]",
+    "description": "Genuine replacement screen for Dell Latitude 5490. 3-month warranty. Order via WhatsApp, delivery countrywide."
   },
   "og": {
-    "title": "Dell Latitude 5490 Battery | [Store Name]",
-    "description": "Genuine replacement battery for Dell Latitude 5490. 6-month warranty. Order via WhatsApp, delivery countrywide."
+    "title": "Dell Latitude 5490 Screen | [Store Name]",
+    "description": "Genuine replacement screen for Dell Latitude 5490. 3-month warranty. Order via WhatsApp, delivery countrywide."
   },
   "category": {
-    "slug": "laptop-batteries",
-    "url": "/shop/laptop-batteries/",
-    "name": "Laptop Batteries"
+    "slug": "screens",
+    "url": "/shop/screens/",
+    "name": "Laptop Screens"
   },
-  "delivery_note": "Same-day delivery in Nairobi &middot; 1&ndash;2 days upcountry",
-  "faq_heading": "Questions About This Battery",
-  "faqs": [
-    {
-      "question": "Do you offer warranty on this battery?",
-      "answer": "Yes — this battery carries a 6-month warranty from the date of purchase."
-    },
-    {
-      "question": "How do I install it?",
-      "answer": "It's a standard drop-in replacement — no disassembly beyond the battery bay. We can talk you through it on WhatsApp if needed."
-    },
-    {
-      "question": "Can I pay via M-Pesa?",
-      "answer": "Yes, M-Pesa is accepted, along with cash on delivery in select areas."
-    }
-  ],
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
   "product": {
-    "name": "Dell Latitude 5490 Battery",
-    "full_name": "Replacement Battery for Dell Latitude 5490",
-    "sku": "DELL-BT-5490",
+    "url": "/shop/screens/dell-latitude-5490/",
+    "name": "Dell Latitude 5490 Screen",
+    "full_name": "Replacement Screen for Dell Latitude 5490",
+    "sku": "DELL-SCR-5490",
     "brand_name": "Dell",
     "brand_slug": "dell",
-    "url": "/shop/laptop-batteries/dell-latitude-5490/",
-    "type_label": "battery",
-    "type_label_cap": "Battery",
+    "price": "6,200",
+    "price_raw": "6200",
+    "schema_availability": "https://schema.org/InStock",
+    "type_label": "screen",
+    "type_label_cap": "Screen",
     "images": [
       {
-        "src": "assets/images/products/dell-battery-5490-1.jpg",
-        "alt": "Dell Latitude 5490 replacement battery, front view"
+        "src": "assets/images/products/dell-screen-5490.jpg",
+        "alt": "Replacement screen for Dell Latitude 5490, front panel view"
       },
       {
-        "src": "assets/images/products/dell-battery-5490-2.jpg",
-        "alt": "Dell Latitude 5490 replacement battery, connector view"
+        "src": "assets/images/products/dell-screen-5490-2.jpg",
+        "alt": "Replacement screen for Dell Latitude 5490, connector and back view"
       }
     ],
     "badges": [
       {
         "class": "badge--in-stock",
-        "label": "In Stock"
+        "label": "In Stock — 5 units"
       },
       {
         "class": "badge--new-oem",
-        "label": "New OEM-Equivalent"
+        "label": "New, Grade A Panel"
       },
       {
         "class": "badge--warranty",
-        "label": "6-Month Warranty"
+        "label": "3-Month Warranty"
       }
     ],
-    "price": "5,200",
-    "price_raw": "5200",
-    "schema_availability": "https://schema.org/InStock",
-    "description": "Genuine-fit replacement battery for the Dell Latitude 5490. Tested before dispatch, drop-in fit — no disassembly beyond the standard battery bay.",
-    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Replacement%20Battery%20for%20Dell%20Latitude%205490%20(SKU%3A%20DELL-BT-5490)%20%E2%80%94%20KES%205200",
-    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20Dell%20Latitude%205490%20battery%20fits%20my%20laptop%3F",
+    "description": "Genuine-fit replacement LCD screen for the Dell Latitude 5490. Every panel is tested before dispatch and ships ready to drop into your laptop's existing screen bezel and hinge assembly.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Replacement%20Screen%20for%20Dell%20Latitude%205490%20(SKU%3A%20DELL-SCR-5490)%20%E2%80%94%20KES%206%2C200",
     "specs": [
       {
-        "label": "Voltage",
-        "value": "11.4V"
+        "label": "Panel Size",
+        "value": "14.0-inch"
       },
       {
-        "label": "Capacity",
-        "value": "3500mAh (42Wh)"
+        "label": "Resolution",
+        "value": "1366×768 (HD)"
       },
       {
-        "label": "Cells",
-        "value": 3
+        "label": "Panel Type",
+        "value": "LED, Matte"
       },
       {
         "label": "Connector Type",
-        "value": "Proprietary Dell"
+        "value": "eDP (Slim)"
       },
       {
         "label": "Condition",
-        "value": "New OEM-equivalent"
+        "value": "New, Grade A Panel"
       },
       {
         "label": "Warranty",
-        "value": "6 months"
+        "value": "3 months"
       }
     ],
     "compatible_models": [
       "Dell Latitude 5490",
       "Dell Latitude 5491"
     ],
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20Dell%20Latitude%205490%20Screen%20fits%20my%20laptop%3F",
     "related": [
-      {
-        "url": "/shop/chargers/dell-90w-adapter/",
-        "image": "assets/images/products/dell-charger-90w.jpg",
-        "alt": "Dell 90W charger and power adapter",
-        "badge_class": "badge--in-stock",
-        "badge_label": "In Stock",
-        "name": "Dell 90W Charger & Adapter",
-        "tags": [
-          "Universal Dell"
-        ],
-        "price": "3,200",
-        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%2090W%20Charger%20%26%20Adapter%20%E2%80%94%20KES%203%2C200"
-      },
-      {
-        "url": "/shop/casings/dell-latitude-5490-casing/",
-        "image": "assets/images/products/dell-casing-5490.jpg",
-        "alt": "Dell Latitude 5490 bottom casing",
-        "badge_class": "badge--in-stock",
-        "badge_label": "In Stock",
-        "name": "Dell Latitude 5490 Casing",
-        "tags": [
-          "Latitude 5490"
-        ],
-        "price": "3,400",
-        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%205490%20Casing%20%E2%80%94%20KES%203%2C400"
-      },
       {
         "url": "/shop/keyboards/dell-latitude-5490-keyboard/",
         "image": "assets/images/products/dell-keyboard-5490.jpg",
@@ -135,9 +94,50 @@
           "Latitude 5490",
           "Latitude 5491"
         ],
-        "price": "3,600",
-        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%205490%20Keyboard%20%E2%80%94%20KES%203%2C600"
+        "price": "3,300",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%205490%20Keyboard%20%E2%80%94%20KES%203%2C300"
+      },
+      {
+        "url": "/shop/casings/dell-latitude-5490-casing/",
+        "image": "assets/images/products/dell-casing-5490.jpg",
+        "alt": "Dell Latitude 5490 bottom casing",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "Dell Latitude 5490 Casing",
+        "tags": [
+          "Latitude 5490"
+        ],
+        "price": "3,000",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%205490%20Casing%20%E2%80%94%20KES%203%2C000"
+      },
+      {
+        "url": "/shop/hinges/dell-latitude-5490-hinge-kit/",
+        "image": "assets/images/products/dell-hinge-5490.jpg",
+        "alt": "Dell Latitude 5490 screen hinge kit",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "Dell Latitude 5490 Hinge Kit",
+        "tags": [
+          "Latitude 5490"
+        ],
+        "price": "2,600",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%205490%20Hinge%20Kit%20%E2%80%94%20KES%202%2C600"
       }
     ]
-  }
+  },
+  "faq_heading": "Questions About This Screen",
+  "faqs": [
+    {
+      "question": "How do I know this screen fits my laptop?",
+      "answer": "This listing is matched to the Dell Latitude 5490. If you're unsure of your laptop's exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm before you order."
+    },
+    {
+      "question": "Do you install the screen, or is it self-fit?",
+      "answer": "We can install it for you in Nairobi, or ship it with fitting instructions if you're upcountry or prefer your own technician."
+    },
+    {
+      "question": "What warranty comes with this screen?",
+      "answer": "This screen carries a 3-month warranty against dead pixels and panel defects from the date of purchase."
+    }
+  ]
 }

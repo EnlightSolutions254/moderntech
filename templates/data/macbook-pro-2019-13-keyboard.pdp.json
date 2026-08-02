@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "title": "MacBook Pro 2019 13\" Keyboard Assembly | Price in Kenya | [Store Name]",
+    "description": "Genuine replacement keyboard for MacBook Pro 2019 13\". 3-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "MacBook Pro 2019 13\" Keyboard Assembly | [Store Name]",
+    "description": "Genuine replacement keyboard for MacBook Pro 2019 13\". 3-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "keyboards",
+    "url": "/shop/keyboards/",
+    "name": "Keyboards"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "product": {
+    "url": "/shop/keyboards/macbook-pro-2019-13-keyboard/",
+    "name": "MacBook Pro 2019 13\" Keyboard Assembly",
+    "full_name": "Replacement Keyboard for MacBook Pro 2019 13\"",
+    "sku": "MBP-KBD-2019-13",
+    "brand_name": "MacBook",
+    "brand_slug": "macbook",
+    "price": "9,500",
+    "price_raw": "9500",
+    "schema_availability": "https://schema.org/InStock",
+    "type_label": "keyboard",
+    "type_label_cap": "Keyboard",
+    "images": [
+      {
+        "src": "assets/images/products/macbook-keyboard-pro13-2019.jpg",
+        "alt": "Replacement keyboard for MacBook Pro 2019 13\", top view"
+      },
+      {
+        "src": "assets/images/products/macbook-keyboard-pro13-2019-2.jpg",
+        "alt": "Replacement keyboard for MacBook Pro 2019 13\", connector ribbon view"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock — 3 units"
+      },
+      {
+        "class": "badge--new-oem",
+        "label": "Backlit, New OEM-Equivalent"
+      },
+      {
+        "class": "badge--warranty",
+        "label": "3-Month Warranty"
+      }
+    ],
+    "description": "Genuine-fit replacement keyboard for the MacBook Pro 2019 13\", with backlighting. Tested before dispatch, drop-in fit — no soldering required.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Replacement%20Keyboard%20for%20MacBook%20Pro%202019%2013%22%20(SKU%3A%20MBP-KBD-2019-13)%20%E2%80%94%20KES%209%2C500",
+    "specs": [
+      {
+        "label": "Layout",
+        "value": "US QWERTY"
+      },
+      {
+        "label": "Backlit",
+        "value": "Yes"
+      },
+      {
+        "label": "Key Action",
+        "value": "Chiclet, standard travel"
+      },
+      {
+        "label": "Frame",
+        "value": "Full keyboard assembly with frame"
+      },
+      {
+        "label": "Condition",
+        "value": "New OEM-Equivalent"
+      },
+      {
+        "label": "Warranty",
+        "value": "3 months"
+      }
+    ],
+    "compatible_models": [
+      "MacBook Pro 13\" (2019, Four Thunderbolt 3 Ports)",
+      "MacBook Pro 13\" (2019, Two Thunderbolt 3 Ports)"
+    ],
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20MacBook%20Pro%202019%2013%22%20Keyboard%20Assembly%20fits%20my%20laptop%3F",
+    "related": [
+      {
+        "url": "/shop/screens/macbook-pro-2019-13/",
+        "image": "assets/images/products/macbook-screen-pro13-2019.jpg",
+        "alt": "Replacement screen assembly for MacBook Pro 2019 13 inch",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "MacBook Pro 2019 13\" Screen Assembly",
+        "tags": [
+          "MacBook Pro 2019 13\""
+        ],
+        "price": "16,500",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20Pro%202019%2013%22%20Screen%20Assembly%20%E2%80%94%20KES%2016%2C500"
+      },
+      {
+        "url": "/shop/casings/macbook-pro-2019-13-casing/",
+        "image": "assets/images/products/macbook-casing-pro13-2019.jpg",
+        "alt": "MacBook Pro 2019 13 inch bottom casing",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "MacBook Pro 2019 13\" Casing",
+        "tags": [
+          "MacBook Pro 2019 13\""
+        ],
+        "price": "7,500",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20Pro%202019%2013%22%20Casing%20%E2%80%94%20KES%207%2C500"
+      },
+      {
+        "url": "/shop/cooling-fans/macbook-pro-2019-13-fan/",
+        "image": "assets/images/products/macbook-fan-pro13-2019.jpg",
+        "alt": "MacBook Pro 2019 13 inch replacement cooling fan",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "MacBook Pro 2019 13\" Cooling Fan",
+        "tags": [
+          "MacBook Pro 2019 13\""
+        ],
+        "price": "3,900",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20Pro%202019%2013%22%20Cooling%20Fan%20%E2%80%94%20KES%203%2C900"
+      }
+    ]
+  },
+  "faq_heading": "Questions About This Keyboard",
+  "faqs": [
+    {
+      "question": "How do I know this keyboard fits my laptop?",
+      "answer": "This listing is matched to the MacBook Pro 2019 13\". If you're unsure of your laptop's exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm before you order."
+    },
+    {
+      "question": "Does this keyboard come backlit?",
+      "answer": "Yes — this is the backlit version of the keyboard for this model."
+    },
+    {
+      "question": "What warranty comes with this keyboard?",
+      "answer": "This keyboard carries a 3-month warranty from the date of purchase."
+    }
+  ]
+}

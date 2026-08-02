@@ -1,0 +1,143 @@
+{
+  "meta": {
+    "title": "Lenovo ThinkPad T480 Keyboard | Price in Kenya | [Store Name]",
+    "description": "Genuine replacement keyboard for Lenovo ThinkPad T480. 3-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Lenovo ThinkPad T480 Keyboard | [Store Name]",
+    "description": "Genuine replacement keyboard for Lenovo ThinkPad T480. 3-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "keyboards",
+    "url": "/shop/keyboards/",
+    "name": "Keyboards"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "product": {
+    "url": "/shop/keyboards/lenovo-thinkpad-t480-keyboard/",
+    "name": "Lenovo ThinkPad T480 Keyboard",
+    "full_name": "Replacement Keyboard for Lenovo ThinkPad T480",
+    "sku": "LEN-KBD-T480",
+    "brand_name": "Lenovo",
+    "brand_slug": "lenovo",
+    "price": "3,800",
+    "price_raw": "3800",
+    "schema_availability": "https://schema.org/LimitedAvailability",
+    "type_label": "keyboard",
+    "type_label_cap": "Keyboard",
+    "images": [
+      {
+        "src": "assets/images/products/lenovo-keyboard-t480.jpg",
+        "alt": "Replacement keyboard for Lenovo ThinkPad T480, top view"
+      },
+      {
+        "src": "assets/images/products/lenovo-keyboard-t480-2.jpg",
+        "alt": "Replacement keyboard for Lenovo ThinkPad T480, connector ribbon view"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--low-stock",
+        "label": "Only 2 left"
+      },
+      {
+        "class": "badge--new-oem",
+        "label": "Backlit, New OEM-Equivalent"
+      },
+      {
+        "class": "badge--warranty",
+        "label": "3-Month Warranty"
+      }
+    ],
+    "description": "Genuine-fit replacement keyboard for the Lenovo ThinkPad T480, with backlighting. Tested before dispatch, drop-in fit — no soldering required.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Replacement%20Keyboard%20for%20Lenovo%20ThinkPad%20T480%20(SKU%3A%20LEN-KBD-T480)%20%E2%80%94%20KES%203%2C800",
+    "specs": [
+      {
+        "label": "Layout",
+        "value": "US QWERTY"
+      },
+      {
+        "label": "Backlit",
+        "value": "Yes"
+      },
+      {
+        "label": "Key Action",
+        "value": "Chiclet, standard travel"
+      },
+      {
+        "label": "Frame",
+        "value": "Full keyboard assembly with frame"
+      },
+      {
+        "label": "Condition",
+        "value": "New OEM-Equivalent"
+      },
+      {
+        "label": "Warranty",
+        "value": "3 months"
+      }
+    ],
+    "compatible_models": [
+      "Lenovo ThinkPad T480",
+      "Lenovo ThinkPad T480s"
+    ],
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20Lenovo%20ThinkPad%20T480%20Keyboard%20fits%20my%20laptop%3F",
+    "related": [
+      {
+        "url": "/shop/screens/lenovo-thinkpad-t480/",
+        "image": "assets/images/products/lenovo-screen-t480.jpg",
+        "alt": "Replacement screen for Lenovo ThinkPad T480",
+        "badge_class": "badge--low-stock",
+        "badge_label": "Only 2 left",
+        "name": "Lenovo ThinkPad T480 Screen",
+        "tags": [
+          "14\" FHD",
+          "ThinkPad T480"
+        ],
+        "price": "7,000",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20T480%20Screen%20%E2%80%94%20KES%207%2C000"
+      },
+      {
+        "url": "/shop/casings/lenovo-thinkpad-t480-palmrest/",
+        "image": "assets/images/products/lenovo-casing-t480.jpg",
+        "alt": "Lenovo ThinkPad T480 palmrest casing",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "Lenovo ThinkPad T480 Palmrest",
+        "tags": [
+          "ThinkPad T480"
+        ],
+        "price": "3,400",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20T480%20Palmrest%20%E2%80%94%20KES%203%2C400"
+      },
+      {
+        "url": "/shop/hinges/lenovo-thinkpad-t480-hinge-kit/",
+        "image": "assets/images/products/lenovo-hinge-t480.jpg",
+        "alt": "Lenovo ThinkPad T480 screen hinge kit",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "Lenovo ThinkPad T480 Hinge Kit",
+        "tags": [
+          "ThinkPad T480"
+        ],
+        "price": "2,900",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20T480%20Hinge%20Kit%20%E2%80%94%20KES%202%2C900"
+      }
+    ]
+  },
+  "faq_heading": "Questions About This Keyboard",
+  "faqs": [
+    {
+      "question": "How do I know this keyboard fits my laptop?",
+      "answer": "This listing is matched to the Lenovo ThinkPad T480. If you're unsure of your laptop's exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm before you order."
+    },
+    {
+      "question": "Does this keyboard come backlit?",
+      "answer": "Yes — this is the backlit version of the keyboard for this model."
+    },
+    {
+      "question": "What warranty comes with this keyboard?",
+      "answer": "This keyboard carries a 3-month warranty from the date of purchase."
+    }
+  ]
+}

@@ -1,120 +1,118 @@
 {
   "meta": {
-    "title": "MacBook Pro 2019 13\" Battery | Price in Kenya | [Store Name]",
-    "description": "Genuine replacement battery for MacBook Pro 2019 13\". 6-month warranty. Order via WhatsApp, delivery countrywide."
+    "title": "MacBook Pro 2019 13\" Screen Assembly | Price in Kenya | [Store Name]",
+    "description": "Genuine replacement screen for MacBook Pro 2019 13\". 3-month warranty. Order via WhatsApp, delivery countrywide."
   },
   "og": {
-    "title": "MacBook Pro 2019 13\" Battery | [Store Name]",
-    "description": "Genuine replacement battery for MacBook Pro 2019 13\". 6-month warranty. Order via WhatsApp, delivery countrywide."
+    "title": "MacBook Pro 2019 13\" Screen Assembly | [Store Name]",
+    "description": "Genuine replacement screen for MacBook Pro 2019 13\". 3-month warranty. Order via WhatsApp, delivery countrywide."
   },
   "category": {
-    "slug": "laptop-batteries",
-    "url": "/shop/laptop-batteries/",
-    "name": "Laptop Batteries"
+    "slug": "screens",
+    "url": "/shop/screens/",
+    "name": "Laptop Screens"
   },
-  "delivery_note": "Same-day delivery in Nairobi &middot; 1&ndash;2 days upcountry",
-  "faq_heading": "Questions About This Battery",
-  "faqs": [
-    {
-      "question": "Do you offer warranty on this battery?",
-      "answer": "Yes — this battery carries a 6-month warranty from the date of purchase."
-    },
-    {
-      "question": "How do I install it?",
-      "answer": "It's a standard drop-in replacement — no disassembly beyond the battery bay. We can talk you through it on WhatsApp if needed."
-    },
-    {
-      "question": "Can I pay via M-Pesa?",
-      "answer": "Yes, M-Pesa is accepted, along with cash on delivery in select areas."
-    }
-  ],
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
   "product": {
-    "name": "MacBook Pro 2019 13\" Battery",
-    "full_name": "Replacement Battery for MacBook Pro 2019 13\"",
-    "sku": "MB-BT-PRO2019-13",
+    "url": "/shop/screens/macbook-pro-2019-13/",
+    "name": "MacBook Pro 2019 13\" Screen Assembly",
+    "full_name": "Replacement Screen for MacBook Pro 2019 13\"",
+    "sku": "MBP-SCR-2019-13",
     "brand_name": "MacBook",
     "brand_slug": "macbook",
-    "url": "/shop/laptop-batteries/macbook-pro-2019-13/",
-    "type_label": "battery",
-    "type_label_cap": "Battery",
+    "price": "16,500",
+    "price_raw": "16500",
+    "schema_availability": "https://schema.org/InStock",
+    "type_label": "screen",
+    "type_label_cap": "Screen",
     "images": [
       {
-        "src": "assets/images/products/macbook-battery-pro13-2019-1.jpg",
-        "alt": "MacBook Pro 2019 13\" replacement battery, front view"
+        "src": "assets/images/products/macbook-screen-pro13-2019.jpg",
+        "alt": "Replacement screen for MacBook Pro 2019 13\", front panel view"
       },
       {
-        "src": "assets/images/products/macbook-battery-pro13-2019-2.jpg",
-        "alt": "MacBook Pro 2019 13\" replacement battery, connector view"
+        "src": "assets/images/products/macbook-screen-pro13-2019-2.jpg",
+        "alt": "Replacement screen for MacBook Pro 2019 13\", connector and back view"
       }
     ],
     "badges": [
       {
         "class": "badge--in-stock",
-        "label": "In Stock"
+        "label": "In Stock — 3 units"
       },
       {
         "class": "badge--new-oem",
-        "label": "New OEM-Equivalent"
+        "label": "New, Grade A Panel"
       },
       {
         "class": "badge--warranty",
-        "label": "6-Month Warranty"
+        "label": "3-Month Warranty"
       }
     ],
-    "price": "8,900",
-    "price_raw": "8900",
-    "schema_availability": "https://schema.org/InStock",
-    "description": "Genuine-fit replacement battery for the MacBook Pro 2019 13\". Tested before dispatch, drop-in fit — no disassembly beyond the standard battery bay.",
-    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Replacement%20Battery%20for%20MacBook%20Pro%202019%2013%22%20(SKU%3A%20MB-BT-PRO2019-13)%20%E2%80%94%20KES%208900",
-    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20MacBook%20Pro%202019%2013%22%20battery%20fits%20my%20laptop%3F",
+    "description": "Genuine-fit replacement LCD screen for the MacBook Pro 2019 13\". Every panel is tested before dispatch and ships ready to drop into your laptop's existing screen bezel and hinge assembly.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Replacement%20Screen%20for%20MacBook%20Pro%202019%2013%22%20(SKU%3A%20MBP-SCR-2019-13)%20%E2%80%94%20KES%2016%2C500",
     "specs": [
       {
-        "label": "Voltage",
-        "value": "11.41V"
+        "label": "Panel Size",
+        "value": "13.3-inch"
       },
       {
-        "label": "Capacity",
-        "value": "58.2Wh"
+        "label": "Resolution",
+        "value": "2560×1600 (Retina)"
       },
       {
-        "label": "Cells",
-        "value": 3
+        "label": "Panel Type",
+        "value": "LED, Matte"
       },
       {
         "label": "Connector Type",
-        "value": "Proprietary Apple"
+        "value": "eDP (Slim)"
       },
       {
         "label": "Condition",
-        "value": "New OEM-equivalent"
+        "value": "New, Grade A Panel"
       },
       {
         "label": "Warranty",
-        "value": "6 months"
+        "value": "3 months"
       }
     ],
     "compatible_models": [
-      "MacBook Pro 13\" 2019 (A2159)",
-      "MacBook Pro 13\" 2019 Four Thunderbolt Ports"
+      "MacBook Pro 13\" (2019, Four Thunderbolt 3 Ports)",
+      "MacBook Pro 13\" (2019, Two Thunderbolt 3 Ports)"
     ],
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20MacBook%20Pro%202019%2013%22%20Screen%20Assembly%20fits%20my%20laptop%3F",
     "related": [
       {
-        "url": "/shop/chargers/macbook-61w-usb-c-adapter/",
-        "image": "assets/images/products/macbook-charger-61w.jpg",
-        "alt": "MacBook 61W USB-C charger and power adapter",
+        "url": "/shop/keyboards/macbook-pro-2019-13-keyboard/",
+        "image": "assets/images/products/macbook-keyboard-pro13-2019.jpg",
+        "alt": "MacBook Pro 2019 13 inch replacement keyboard assembly",
         "badge_class": "badge--in-stock",
         "badge_label": "In Stock",
-        "name": "MacBook 61W USB-C Charger & Adapter",
+        "name": "MacBook Pro 2019 13\" Keyboard Assembly",
         "tags": [
-          "Universal MacBook USB-C"
+          "MacBook Pro 2019 13\""
         ],
-        "price": "4,200",
-        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%2061W%20USB-C%20Charger%20%26%20Adapter%20%E2%80%94%20KES%204%2C200"
+        "price": "9,500",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20Pro%202019%2013%22%20Keyboard%20Assembly%20%E2%80%94%20KES%209%2C500"
+      },
+      {
+        "url": "/shop/casings/macbook-pro-2019-13-casing/",
+        "image": "assets/images/products/macbook-casing-pro13-2019.jpg",
+        "alt": "MacBook Pro 2019 13 inch bottom casing",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "MacBook Pro 2019 13\" Casing",
+        "tags": [
+          "MacBook Pro 2019 13\""
+        ],
+        "price": "7,500",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20Pro%202019%2013%22%20Casing%20%E2%80%94%20KES%207%2C500"
       },
       {
         "url": "/shop/cooling-fans/macbook-pro-2019-13-fan/",
         "image": "assets/images/products/macbook-fan-pro13-2019.jpg",
-        "alt": "MacBook Pro 2019 13 inch cooling fan",
+        "alt": "MacBook Pro 2019 13 inch replacement cooling fan",
         "badge_class": "badge--in-stock",
         "badge_label": "In Stock",
         "name": "MacBook Pro 2019 13\" Cooling Fan",
@@ -123,20 +121,22 @@
         ],
         "price": "3,900",
         "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20Pro%202019%2013%22%20Cooling%20Fan%20%E2%80%94%20KES%203%2C900"
-      },
-      {
-        "url": "/shop/keyboards/macbook-pro-2019-13-keyboard/",
-        "image": "assets/images/products/macbook-keyboard-pro13-2019.jpg",
-        "alt": "MacBook Pro 2019 13 inch replacement keyboard",
-        "badge_class": "badge--in-stock",
-        "badge_label": "In Stock",
-        "name": "MacBook Pro 2019 13\" Keyboard",
-        "tags": [
-          "MacBook Pro 2019 13\""
-        ],
-        "price": "6,500",
-        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20Pro%202019%2013%22%20Keyboard%20%E2%80%94%20KES%206%2C500"
       }
     ]
-  }
+  },
+  "faq_heading": "Questions About This Screen",
+  "faqs": [
+    {
+      "question": "How do I know this screen fits my laptop?",
+      "answer": "This listing is matched to the MacBook Pro 2019 13\". If you're unsure of your laptop's exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm before you order."
+    },
+    {
+      "question": "Do you install the screen, or is it self-fit?",
+      "answer": "We can install it for you in Nairobi, or ship it with fitting instructions if you're upcountry or prefer your own technician."
+    },
+    {
+      "question": "What warranty comes with this screen?",
+      "answer": "This screen carries a 3-month warranty against dead pixels and panel defects from the date of purchase."
+    }
+  ]
 }

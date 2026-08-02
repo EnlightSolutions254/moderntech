@@ -1,50 +1,38 @@
 {
   "meta": {
-    "title": "Lenovo ThinkPad T480 Battery | Price in Kenya | [Store Name]",
-    "description": "Genuine replacement battery for Lenovo ThinkPad T480. 6-month warranty. Order via WhatsApp, delivery countrywide."
+    "title": "Lenovo ThinkPad T480 Screen | Price in Kenya | [Store Name]",
+    "description": "Genuine replacement screen for Lenovo ThinkPad T480. 3-month warranty. Order via WhatsApp, delivery countrywide."
   },
   "og": {
-    "title": "Lenovo ThinkPad T480 Battery | [Store Name]",
-    "description": "Genuine replacement battery for Lenovo ThinkPad T480. 6-month warranty. Order via WhatsApp, delivery countrywide."
+    "title": "Lenovo ThinkPad T480 Screen | [Store Name]",
+    "description": "Genuine replacement screen for Lenovo ThinkPad T480. 3-month warranty. Order via WhatsApp, delivery countrywide."
   },
   "category": {
-    "slug": "laptop-batteries",
-    "url": "/shop/laptop-batteries/",
-    "name": "Laptop Batteries"
+    "slug": "screens",
+    "url": "/shop/screens/",
+    "name": "Laptop Screens"
   },
-  "delivery_note": "Same-day delivery in Nairobi &middot; 1&ndash;2 days upcountry",
-  "faq_heading": "Questions About This Battery",
-  "faqs": [
-    {
-      "question": "Do you offer warranty on this battery?",
-      "answer": "Yes — this battery carries a 6-month warranty from the date of purchase."
-    },
-    {
-      "question": "How do I install it?",
-      "answer": "It's a standard drop-in replacement — no disassembly beyond the battery bay. We can talk you through it on WhatsApp if needed."
-    },
-    {
-      "question": "Can I pay via M-Pesa?",
-      "answer": "Yes, M-Pesa is accepted, along with cash on delivery in select areas."
-    }
-  ],
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
   "product": {
-    "name": "Lenovo ThinkPad T480 Battery",
-    "full_name": "Replacement Battery for Lenovo ThinkPad T480",
-    "sku": "LEN-BT-T480",
+    "url": "/shop/screens/lenovo-thinkpad-t480/",
+    "name": "Lenovo ThinkPad T480 Screen",
+    "full_name": "Replacement Screen for Lenovo ThinkPad T480",
+    "sku": "LEN-SCR-T480",
     "brand_name": "Lenovo",
     "brand_slug": "lenovo",
-    "url": "/shop/laptop-batteries/lenovo-thinkpad-t480/",
-    "type_label": "battery",
-    "type_label_cap": "Battery",
+    "price": "7,000",
+    "price_raw": "7000",
+    "schema_availability": "https://schema.org/LimitedAvailability",
+    "type_label": "screen",
+    "type_label_cap": "Screen",
     "images": [
       {
-        "src": "assets/images/products/lenovo-battery-t480-1.jpg",
-        "alt": "Lenovo ThinkPad T480 replacement battery, front view"
+        "src": "assets/images/products/lenovo-screen-t480.jpg",
+        "alt": "Replacement screen for Lenovo ThinkPad T480, front panel view"
       },
       {
-        "src": "assets/images/products/lenovo-battery-t480-2.jpg",
-        "alt": "Lenovo ThinkPad T480 replacement battery, connector view"
+        "src": "assets/images/products/lenovo-screen-t480-2.jpg",
+        "alt": "Replacement screen for Lenovo ThinkPad T480, connector and back view"
       }
     ],
     "badges": [
@@ -54,90 +42,102 @@
       },
       {
         "class": "badge--new-oem",
-        "label": "New OEM-Equivalent"
+        "label": "New, Grade A Panel"
       },
       {
         "class": "badge--warranty",
-        "label": "6-Month Warranty"
+        "label": "3-Month Warranty"
       }
     ],
-    "price": "4,800",
-    "price_raw": "4800",
-    "schema_availability": "https://schema.org/InStock",
-    "description": "Genuine-fit replacement battery for the Lenovo ThinkPad T480. Tested before dispatch, drop-in fit — no disassembly beyond the standard battery bay.",
-    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Replacement%20Battery%20for%20Lenovo%20ThinkPad%20T480%20(SKU%3A%20LEN-BT-T480)%20%E2%80%94%20KES%204800",
-    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20Lenovo%20ThinkPad%20T480%20battery%20fits%20my%20laptop%3F",
+    "description": "Genuine-fit replacement LCD screen for the Lenovo ThinkPad T480. Every panel is tested before dispatch and ships ready to drop into your laptop's existing screen bezel and hinge assembly.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Replacement%20Screen%20for%20Lenovo%20ThinkPad%20T480%20(SKU%3A%20LEN-SCR-T480)%20%E2%80%94%20KES%207%2C000",
     "specs": [
       {
-        "label": "Voltage",
-        "value": "11.25V"
+        "label": "Panel Size",
+        "value": "14.0-inch"
       },
       {
-        "label": "Capacity",
-        "value": "4200mAh (48Wh)"
+        "label": "Resolution",
+        "value": "1920×1080 (FHD)"
       },
       {
-        "label": "Cells",
-        "value": 3
+        "label": "Panel Type",
+        "value": "LED, Matte"
       },
       {
         "label": "Connector Type",
-        "value": "Proprietary Lenovo"
+        "value": "eDP (Slim)"
       },
       {
         "label": "Condition",
-        "value": "New OEM-equivalent"
+        "value": "New, Grade A Panel"
       },
       {
         "label": "Warranty",
-        "value": "6 months"
+        "value": "3 months"
       }
     ],
     "compatible_models": [
       "Lenovo ThinkPad T480",
       "Lenovo ThinkPad T480s"
     ],
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20Lenovo%20ThinkPad%20T480%20Screen%20fits%20my%20laptop%3F",
     "related": [
       {
-        "url": "/shop/chargers/lenovo-65w-usb-c-adapter/",
-        "image": "assets/images/products/lenovo-charger-65w.jpg",
-        "alt": "Lenovo 65W USB-C charger and power adapter",
-        "badge_class": "badge--in-stock",
-        "badge_label": "In Stock",
-        "name": "Lenovo 65W USB-C Charger & Adapter",
+        "url": "/shop/keyboards/lenovo-thinkpad-t480-keyboard/",
+        "image": "assets/images/products/lenovo-keyboard-t480.jpg",
+        "alt": "Lenovo ThinkPad T480 replacement keyboard",
+        "badge_class": "badge--low-stock",
+        "badge_label": "Only 2 left",
+        "name": "Lenovo ThinkPad T480 Keyboard",
         "tags": [
-          "Universal Lenovo USB-C"
+          "Backlit",
+          "ThinkPad T480"
         ],
-        "price": "3,000",
-        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%2065W%20USB-C%20Charger%20%26%20Adapter%20%E2%80%94%20KES%203%2C000"
+        "price": "3,800",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20T480%20Keyboard%20%E2%80%94%20KES%203%2C800"
       },
       {
         "url": "/shop/casings/lenovo-thinkpad-t480-palmrest/",
-        "image": "assets/images/products/lenovo-palmrest-t480.jpg",
-        "alt": "Lenovo ThinkPad T480 palmrest with keyboard bezel",
+        "image": "assets/images/products/lenovo-casing-t480.jpg",
+        "alt": "Lenovo ThinkPad T480 palmrest casing",
         "badge_class": "badge--in-stock",
         "badge_label": "In Stock",
         "name": "Lenovo ThinkPad T480 Palmrest",
         "tags": [
           "ThinkPad T480"
         ],
-        "price": "3,500",
-        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20T480%20Palmrest%20%E2%80%94%20KES%203%2C500"
+        "price": "3,400",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20T480%20Palmrest%20%E2%80%94%20KES%203%2C400"
       },
       {
-        "url": "/shop/keyboards/lenovo-thinkpad-t480-keyboard/",
-        "image": "assets/images/products/lenovo-keyboard-t480.jpg",
-        "alt": "Lenovo ThinkPad T480 replacement keyboard",
+        "url": "/shop/hinges/lenovo-thinkpad-t480-hinge-kit/",
+        "image": "assets/images/products/lenovo-hinge-t480.jpg",
+        "alt": "Lenovo ThinkPad T480 screen hinge kit",
         "badge_class": "badge--in-stock",
         "badge_label": "In Stock",
-        "name": "Lenovo ThinkPad T480 Keyboard",
+        "name": "Lenovo ThinkPad T480 Hinge Kit",
         "tags": [
-          "ThinkPad T480",
-          "ThinkPad T480s"
+          "ThinkPad T480"
         ],
-        "price": "3,700",
-        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20T480%20Keyboard%20%E2%80%94%20KES%203%2C700"
+        "price": "2,900",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20T480%20Hinge%20Kit%20%E2%80%94%20KES%202%2C900"
       }
     ]
-  }
+  },
+  "faq_heading": "Questions About This Screen",
+  "faqs": [
+    {
+      "question": "How do I know this screen fits my laptop?",
+      "answer": "This listing is matched to the Lenovo ThinkPad T480. If you're unsure of your laptop's exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm before you order."
+    },
+    {
+      "question": "Do you install the screen, or is it self-fit?",
+      "answer": "We can install it for you in Nairobi, or ship it with fitting instructions if you're upcountry or prefer your own technician."
+    },
+    {
+      "question": "What warranty comes with this screen?",
+      "answer": "This screen carries a 3-month warranty against dead pixels and panel defects from the date of purchase."
+    }
+  ]
 }

@@ -1,0 +1,143 @@
+{
+  "meta": {
+    "title": "Acer Aspire 5 Keyboard | Price in Kenya | [Store Name]",
+    "description": "Genuine replacement keyboard for Acer Aspire 5. 3-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Acer Aspire 5 Keyboard | [Store Name]",
+    "description": "Genuine replacement keyboard for Acer Aspire 5. 3-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "keyboards",
+    "url": "/shop/keyboards/",
+    "name": "Keyboards"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "product": {
+    "url": "/shop/keyboards/acer-aspire-5-keyboard/",
+    "name": "Acer Aspire 5 Keyboard",
+    "full_name": "Replacement Keyboard for Acer Aspire 5",
+    "sku": "ACER-KBD-A5",
+    "brand_name": "Acer",
+    "brand_slug": "acer",
+    "price": "3,000",
+    "price_raw": "3000",
+    "schema_availability": "https://schema.org/InStock",
+    "type_label": "keyboard",
+    "type_label_cap": "Keyboard",
+    "images": [
+      {
+        "src": "assets/images/products/acer-keyboard-aspire5.jpg",
+        "alt": "Replacement keyboard for Acer Aspire 5, top view"
+      },
+      {
+        "src": "assets/images/products/acer-keyboard-aspire5-2.jpg",
+        "alt": "Replacement keyboard for Acer Aspire 5, connector ribbon view"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock — 8 units"
+      },
+      {
+        "class": "badge--new-oem",
+        "label": "New OEM-Equivalent"
+      },
+      {
+        "class": "badge--warranty",
+        "label": "3-Month Warranty"
+      }
+    ],
+    "description": "Genuine-fit replacement keyboard for the Acer Aspire 5, matching the original layout. Tested before dispatch, drop-in fit — no soldering required.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Replacement%20Keyboard%20for%20Acer%20Aspire%205%20(SKU%3A%20ACER-KBD-A5)%20%E2%80%94%20KES%203%2C000",
+    "specs": [
+      {
+        "label": "Layout",
+        "value": "US QWERTY"
+      },
+      {
+        "label": "Backlit",
+        "value": "No"
+      },
+      {
+        "label": "Key Action",
+        "value": "Chiclet, standard travel"
+      },
+      {
+        "label": "Frame",
+        "value": "Full keyboard assembly with frame"
+      },
+      {
+        "label": "Condition",
+        "value": "New OEM-Equivalent"
+      },
+      {
+        "label": "Warranty",
+        "value": "3 months"
+      }
+    ],
+    "compatible_models": [
+      "Acer Aspire 5 (A515 series)",
+      "Acer Aspire 5 (A515-52 series)"
+    ],
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20Acer%20Aspire%205%20Keyboard%20fits%20my%20laptop%3F",
+    "related": [
+      {
+        "url": "/shop/screens/acer-aspire-5/",
+        "image": "assets/images/products/acer-screen-aspire5.jpg",
+        "alt": "Replacement screen for Acer Aspire 5",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "Acer Aspire 5 Screen",
+        "tags": [
+          "15.6\" FHD",
+          "Aspire 5"
+        ],
+        "price": "5,800",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Acer%20Aspire%205%20Screen%20%E2%80%94%20KES%205%2C800"
+      },
+      {
+        "url": "/shop/casings/acer-aspire-5-casing/",
+        "image": "assets/images/products/acer-casing-aspire5.jpg",
+        "alt": "Acer Aspire 5 bottom casing",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "Acer Aspire 5 Casing",
+        "tags": [
+          "Aspire 5"
+        ],
+        "price": "2,900",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Acer%20Aspire%205%20Casing%20%E2%80%94%20KES%202%2C900"
+      },
+      {
+        "url": "/shop/hinges/acer-aspire-5-hinge-kit/",
+        "image": "assets/images/products/acer-hinge-aspire5.jpg",
+        "alt": "Acer Aspire 5 screen hinge kit",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "Acer Aspire 5 Hinge Kit",
+        "tags": [
+          "Aspire 5"
+        ],
+        "price": "2,500",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Acer%20Aspire%205%20Hinge%20Kit%20%E2%80%94%20KES%202%2C500"
+      }
+    ]
+  },
+  "faq_heading": "Questions About This Keyboard",
+  "faqs": [
+    {
+      "question": "How do I know this keyboard fits my laptop?",
+      "answer": "This listing is matched to the Acer Aspire 5. If you're unsure of your laptop's exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm before you order."
+    },
+    {
+      "question": "Does this keyboard come backlit?",
+      "answer": "This model's keyboard doesn't ship backlit on this listing; message us on WhatsApp if you need to double-check before ordering."
+    },
+    {
+      "question": "What warranty comes with this keyboard?",
+      "answer": "This keyboard carries a 3-month warranty from the date of purchase."
+    }
+  ]
+}
