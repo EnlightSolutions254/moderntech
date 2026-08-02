@@ -1,7 +1,7 @@
 {
   "store": {
-    "name": "[Store Name]",
-    "name_html": "[Store&nbsp;Name]",
+    "name": "Moderntech",
+    "name_html": "Moderntech",
     "domain": "example.co.ke",
     "phone_e164": "+254700000000",
     "phone_e164_bare": "254700000000",
