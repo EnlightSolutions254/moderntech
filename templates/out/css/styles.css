@@ -466,7 +466,7 @@ summary:focus-visible {
   min-height: var(--header-height);
 }
 .site-header__logo { display: flex; align-items: center; gap: var(--space-2); flex-shrink: 0; }
-.site-header__logo-mark { font-size: 1.5rem; color: var(--color-accent-whatsapp); }
+.site-header__logo-mark { display: block; height: 2.25rem; width: auto; flex-shrink: 0; }
 .site-header__logo-text { font-family: var(--font-heading); font-weight: 700; font-size: 1.125rem; color: var(--color-primary); }
 
 .site-nav { display: none; }
