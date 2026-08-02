@@ -17,6 +17,9 @@ const { render } = require('./lib/engine.js');
 const ROOT = __dirname;
 const DATA_DIR = path.join(ROOT, 'data');
 const OUT_DIR = path.join(ROOT, 'out');
+// One level up from templates/ is the repo root that GitHub Pages actually
+// serves (index.html, css/, js/, shop/, brand/ at the top level).
+const SITE_ROOT = path.resolve(ROOT, '..');
 
 function loadJson(p) {
   return JSON.parse(fs.readFileSync(p, 'utf8'));
@@ -43,6 +46,49 @@ function buildNav(shared, activePartSlug, activeBrandSlug) {
   const nav_parts = shared.parts.map(p => ({ slug: p.slug, name: p.name, url: p.url, icon: p.icon, active: p.slug === activePartSlug }));
   const nav_brands = shared.brands.map(b => ({ slug: b.slug, name: b.name, url: b.url, active: b.slug === activeBrandSlug }));
   return { nav_parts, nav_brands, brands: shared.brands.map(b => ({ slug: b.slug, name: b.name })) };
+}
+
+// ---------------------------------------------------------------------------
+// Deploy: copy everything generated into templates/out/ up into the repo
+// root, which is what GitHub Pages actually serves. `node generate.js all`
+// only ever writes to templates/out/ (a git-ignored scratch folder) — it
+// never touches the real index.html / css / js / shop / brand at the repo
+// root, so a plain "generate + push" silently leaves the live site stale.
+// `node generate.js deploy` (or `publish`, which runs generate + deploy in
+// one shot) closes that gap.
+// ---------------------------------------------------------------------------
+
+function copyRecursive(src, dest) {
+  const stat = fs.statSync(src);
+  if (stat.isDirectory()) {
+    fs.mkdirSync(dest, { recursive: true });
+    for (const entry of fs.readdirSync(src)) {
+      copyRecursive(path.join(src, entry), path.join(dest, entry));
+    }
+  } else {
+    fs.mkdirSync(path.dirname(dest), { recursive: true });
+    fs.copyFileSync(src, dest);
+  }
+}
+
+function deploy() {
+  if (!fs.existsSync(OUT_DIR)) {
+    console.log('deploy   -> SKIPPED (templates/out/ is empty — run `node generate.js all` first)');
+    return;
+  }
+  let fileCount = 0;
+  const walk = (dir) => {
+    for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+      const full = path.join(dir, entry.name);
+      if (entry.isDirectory()) walk(full);
+      else fileCount++;
+    }
+  };
+  walk(OUT_DIR);
+
+  copyRecursive(OUT_DIR, SITE_ROOT);
+  console.log(`deploy   -> copied ${fileCount} files from templates/out/ to ${SITE_ROOT}`);
+  console.log('           review with `git status`, then git add / commit / push as usual.');
 }
 
 function writeOut(relUrl, html) {
@@ -267,6 +313,16 @@ function main() {
     // Brand pages are derived from the *.pdp.json files above, so they must
     // be generated after the loop, once every product has been read.
     generateAllBrands();
+  } else if (cmd === 'deploy') {
+    deploy();
+  } else if (cmd === 'publish') {
+    if (fs.existsSync(path.join(DATA_DIR, 'home.json'))) generateHome(path.join(DATA_DIR, 'home.json'));
+    for (const f of fs.readdirSync(DATA_DIR)) {
+      if (f.endsWith('.category.json')) generateCategory(path.join(DATA_DIR, f));
+      if (f.endsWith('.pdp.json')) generatePdp(path.join(DATA_DIR, f));
+    }
+    generateAllBrands();
+    deploy();
   } else {
     console.log('Usage:');
     console.log('  node generate.js home [data/home.json]');
@@ -274,7 +330,9 @@ function main() {
     console.log('  node generate.js pdp <data-file.pdp.json>');
     console.log('  node generate.js brand <brand-slug>   e.g. node generate.js brand hp');
     console.log('  node generate.js brand                generates every brand in data/shared.json');
-    console.log('  node generate.js all                  generates home + every category/pdp/brand page');
+    console.log('  node generate.js all                  generates home + every category/pdp/brand page (into templates/out/ only)');
+    console.log('  node generate.js deploy                copies templates/out/ up into the repo root (index.html, css/, js/, shop/, brand/)');
+    console.log('  node generate.js publish               runs "all" then "deploy" in one shot -- use this before git add/commit/push');
     process.exit(1);
   }
 }
