@@ -17,6 +17,48 @@
     "trust_row": [
       { "icon": "&#10003;", "label": "Genuine Parts" },
       { "icon": "&#10003;", "label": "Countrywide Delivery" }
+    ],
+    "banners": [
+      {
+        "image": "assets/images/products/hp-battery-840g3.jpg",
+        "badge_text": "Back In Stock",
+        "headline": "HP EliteBook Batteries Restocked",
+        "copy": "Genuine batteries for the 840 G3/G4 \u2014 tested before dispatch.",
+        "cta_text": "Shop HP Batteries",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20an%20HP%20EliteBook%20840%20G3%2FG4%20Battery."
+      },
+      {
+        "image": "assets/images/products/lenovo-charger-65w.jpg",
+        "badge_text": "Same-Day Nairobi",
+        "headline": "Fast, Reliable Chargers",
+        "copy": "65W adapters for Lenovo, HP, Dell &amp; more \u2014 delivered today in Nairobi.",
+        "cta_text": "Shop Chargers",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20a%20laptop%20charger."
+      },
+      {
+        "image": "assets/images/products/dell-screen-5490.jpg",
+        "badge_text": "6-Month Warranty",
+        "headline": "Cracked Screen? We've Got You",
+        "copy": "Genuine replacement screens for Dell, HP, Lenovo &amp; more.",
+        "cta_text": "Shop Screens",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20a%20replacement%20laptop%20screen."
+      },
+      {
+        "image": "assets/images/products/hp-keyboard-840g3.jpg",
+        "badge_text": "Trade Pricing",
+        "headline": "Bulk Pricing for Technicians",
+        "copy": "Stock up on keyboards, hinges &amp; fans at technician rates.",
+        "cta_text": "Chat About Bulk Pricing",
+        "whatsapp_text": "Hi%2C%20I%27m%20a%20technician%20interested%20in%20bulk%20pricing."
+      },
+      {
+        "image": "assets/images/products/macbook-battery-pro13-2019.jpg",
+        "badge_text": "Genuine Parts",
+        "headline": "MacBook Parts, Tested &amp; Ready",
+        "copy": "Batteries, keyboards and screens for MacBook Pro 2019 13\u201d.",
+        "cta_text": "Shop MacBook Parts",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20a%20MacBook%20Pro%202019%2013%22%20part."
+      }
     ]
   },
 

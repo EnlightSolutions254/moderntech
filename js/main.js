@@ -656,6 +656,94 @@
     });
   }
 
+  /* --- 14d-2. Hero banner slider — rotates through the 5 promo "flyers".
+     Only .is-active is visible; autoplay is skipped for prefers-reduced-motion
+     (dots still let people browse manually), and always pauses on
+     hover/touch/focus so it never fights someone reading a banner. --- */
+  var heroSlider = document.getElementById("hero-banner-slider");
+  if (heroSlider) {
+    var heroSlides = Array.prototype.slice.call(heroSlider.querySelectorAll(".hero-banner"));
+    var heroDots = Array.prototype.slice.call(heroSlider.querySelectorAll(".hero-banner-slider__dot"));
+    var heroIndex = 0;
+    var heroTimer = null;
+
+    var showHeroSlide = function (index) {
+      var previous = heroIndex;
+      heroIndex = (index + heroSlides.length) % heroSlides.length;
+      heroSlides.forEach(function (slide, i) {
+        if (i === heroIndex) {
+          slide.classList.remove("is-prev");
+          slide.classList.add("is-active");
+          slide.setAttribute("aria-hidden", "false");
+        } else if (i === previous && previous !== heroIndex) {
+          slide.classList.remove("is-active");
+          slide.classList.add("is-prev");
+          slide.setAttribute("aria-hidden", "true");
+          /* Once it's finished sliding off to the left, reset it (no
+             transition) back to its right-side resting spot so it's
+             ready to enter from the right again next rotation. */
+          window.setTimeout(function () {
+            slide.classList.remove("is-prev");
+          }, 620);
+        } else {
+          slide.classList.remove("is-active", "is-prev");
+          slide.setAttribute("aria-hidden", "true");
+        }
+      });
+      heroDots.forEach(function (dot, i) {
+        var active = i === heroIndex;
+        dot.classList.toggle("is-active", active);
+        dot.setAttribute("aria-selected", active ? "true" : "false");
+      });
+    };
+
+    var stopHeroAutoplay = function () {
+      if (heroTimer) window.clearInterval(heroTimer);
+    };
+    var startHeroAutoplay = function () {
+      stopHeroAutoplay();
+      if (prefersReducedMotion || heroSlides.length < 2) return;
+      heroTimer = window.setInterval(function () { showHeroSlide(heroIndex + 1); }, 4500);
+    };
+
+    heroDots.forEach(function (dot, i) {
+      dot.addEventListener("click", function () {
+        showHeroSlide(i);
+        startHeroAutoplay();
+      });
+    });
+
+    ["mouseenter", "touchstart", "focusin"].forEach(function (evt) {
+      heroSlider.addEventListener(evt, stopHeroAutoplay, { passive: true });
+    });
+    ["mouseleave", "touchend", "focusout"].forEach(function (evt) {
+      heroSlider.addEventListener(evt, startHeroAutoplay, { passive: true });
+    });
+
+    /* Swipe: left flicks to the next banner, right flicks to the previous.
+       Vertical scrolling is left untouched since we never preventDefault. */
+    var heroTouchStartX = 0;
+    var heroTouchStartY = 0;
+    var heroSwipeThreshold = 40;
+
+    heroSlider.addEventListener("touchstart", function (e) {
+      if (!e.touches || !e.touches.length) return;
+      heroTouchStartX = e.touches[0].clientX;
+      heroTouchStartY = e.touches[0].clientY;
+    }, { passive: true });
+
+    heroSlider.addEventListener("touchend", function (e) {
+      if (!e.changedTouches || !e.changedTouches.length) return;
+      var deltaX = e.changedTouches[0].clientX - heroTouchStartX;
+      var deltaY = e.changedTouches[0].clientY - heroTouchStartY;
+      if (Math.abs(deltaX) > heroSwipeThreshold && Math.abs(deltaX) > Math.abs(deltaY)) {
+        showHeroSlide(heroIndex + (deltaX < 0 ? 1 : -1));
+      }
+    }, { passive: true });
+
+    startHeroAutoplay();
+  }
+
   /* --- 14e. Button click ripple (primary + whatsapp variants only,
      matching the shine-sweep hover treatment defined in styles.css) --- */
   if (!prefersReducedMotion) {

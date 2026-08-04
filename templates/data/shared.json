@@ -3,9 +3,9 @@
     "name": "Moderntech",
     "name_html": "Moderntech",
     "domain": "example.co.ke",
-    "phone_e164": "+254700000000",
-    "phone_e164_bare": "254700000000",
-    "phone_display": "+254 700 000 000"
+    "phone_e164": "+254712396869",
+    "phone_e164_bare": "254712396869",
+    "phone_display": "+254 712 396 869"
   },
   "parts": [
     { "slug": "laptop-batteries", "name": "Laptop Batteries", "url": "/shop/laptop-batteries/", "icon": "&#128267;" },

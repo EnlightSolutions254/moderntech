@@ -35,7 +35,7 @@
     "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Acer%20Aspire%205%20Casing%20(SKU%3A%20ACER-CS-ASP5)%20%E2%80%94%20KES%202%2C900",
     "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20Acer%20Aspire%205%20Casing%20fits%20my%20laptop%3F",
     "images": [
-      { "src": "assets/images/products/acer-casing-aspire5-1.jpg", "alt": "Acer Aspire 5 bottom casing, outside view" },
+      { "src": "assets/images/products/acer-casing-aspire5.jpg", "alt": "Acer Aspire 5 bottom casing, outside view" },
       { "src": "assets/images/products/acer-casing-aspire5-2.jpg", "alt": "Acer Aspire 5 bottom casing, mounting points view" }
     ],
     "badges": [

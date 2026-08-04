@@ -291,6 +291,7 @@ summary:focus-visible {
 }
 .badge--low-stock { background: rgba(245,166,35,0.15); color: #8a5a00; }
 .badge--out-of-stock { background: rgba(214,69,69,0.12); color: var(--color-error); }
+.badge--promo { background: var(--gradient-accent); color: var(--color-primary-dark); }
 
 /* --- Tag --- */
 .tag-row { display: flex; flex-wrap: wrap; gap: var(--space-1); margin: var(--space-2) 0; }
@@ -378,9 +379,20 @@ summary:focus-visible {
 }
 @media (hover: hover) {
   .trust-item:hover { box-shadow: var(--elevation-1); transform: translateY(-2px); background: var(--color-surface); }
-  .trust-item:hover .trust-item__icon { transform: scale(1.12); }
+  .trust-item:hover .trust-item__icon { transform: scale(1.1); box-shadow: var(--glow-primary); }
 }
-.trust-item__icon { font-size: var(--space-5); display: block; margin-bottom: var(--space-2); transition: transform var(--duration-base) var(--easing-emphasized); }
+.trust-item__icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px; height: 44px;
+  margin: 0 auto var(--space-2);
+  border-radius: 50%;
+  font-size: 1.25rem;
+  background: var(--gradient-surface);
+  border: 1px solid var(--color-border);
+  transition: transform var(--duration-base) var(--easing-emphasized), box-shadow var(--duration-base) var(--easing-emphasized);
+}
 .trust-item__label { font-weight: 700; color: var(--color-primary); }
 .trust-item__desc { color: var(--color-text-muted); font-size: var(--text-small); margin-top: 2px; }
 
@@ -392,6 +404,12 @@ summary:focus-visible {
   scroll-snap-type: x mandatory;
   padding-bottom: var(--space-2);
   -webkit-overflow-scrolling: touch;
+}
+@media (max-width: 959px) {
+  .testimonial-track {
+    -webkit-mask-image: linear-gradient(90deg, transparent, #000 4%, #000 94%, transparent);
+    mask-image: linear-gradient(90deg, transparent, #000 4%, #000 94%, transparent);
+  }
 }
 .testimonial-card {
   flex: 0 0 88%;
@@ -449,6 +467,7 @@ summary:focus-visible {
 /* --- Tile card (Shop by Part) --- */
 .tile-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: var(--space-3); }
 .tile-card {
+  position: relative;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -462,10 +481,30 @@ summary:focus-visible {
 }
 @media (hover: hover) {
   .tile-card:hover { box-shadow: var(--glow-primary); border-color: rgba(15,37,64,0.2); transform: translateY(-3px); }
-  .tile-card:hover .tile-card__icon { transform: scale(1.15) rotate(-4deg); }
+  .tile-card:hover .tile-card__icon { transform: scale(1.08) rotate(-4deg); box-shadow: var(--glow-primary); }
+  .tile-card:hover .tile-card__arrow { opacity: 1; transform: translate(0, 0); }
 }
-.tile-card__icon { font-size: 1.75rem; transition: transform var(--duration-base) var(--easing-emphasized); }
+.tile-card__icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px; height: 48px;
+  border-radius: 50%;
+  font-size: 1.375rem;
+  background: var(--gradient-surface);
+  border: 1px solid var(--color-border);
+  transition: transform var(--duration-base) var(--easing-emphasized), box-shadow var(--duration-base) var(--easing-emphasized);
+}
 .tile-card__label { font-weight: 600; font-size: var(--text-small); color: var(--color-primary); }
+.tile-card__arrow {
+  position: absolute;
+  top: var(--space-2); right: var(--space-2);
+  color: var(--color-highlight);
+  font-size: 0.75rem;
+  opacity: 0;
+  transform: translate(-3px, 3px);
+  transition: opacity var(--duration-base) var(--easing-standard), transform var(--duration-base) var(--easing-emphasized);
+}
 
 /* --- Brand tile (Shop by Brand) --- */
 .brand-row {
@@ -476,6 +515,7 @@ summary:focus-visible {
   -webkit-overflow-scrolling: touch;
 }
 .brand-tile {
+  position: relative;
   flex: 0 0 auto;
   min-width: 120px;
   display: flex;
@@ -485,10 +525,22 @@ summary:focus-visible {
   border: 1px solid var(--color-border);
   border-radius: var(--radius-md);
   padding: var(--space-4) var(--space-3);
+  overflow: hidden;
   transition: box-shadow var(--duration-base) var(--easing-emphasized), transform var(--duration-base) var(--easing-emphasized), border-color var(--duration-base) var(--easing-standard);
+}
+.brand-tile::after {
+  content: "";
+  position: absolute;
+  left: 0; right: 0; bottom: 0;
+  height: 3px;
+  background: var(--gradient-primary);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform var(--duration-base) var(--easing-emphasized);
 }
 @media (hover: hover) {
   .brand-tile:hover { box-shadow: var(--glow-primary); transform: translateY(-3px) scale(1.02); border-color: rgba(15,37,64,0.2); }
+  .brand-tile:hover::after { transform: scaleX(1); }
 }
 .brand-tile__name { font-weight: 700; color: var(--color-primary); font-family: var(--font-heading); }
 
@@ -662,9 +714,72 @@ summary:focus-visible {
 .hero__trust-row span { color: var(--color-success); }
 .hero__visual { order: -1; }
 
+/* Hero ad-banner slider — 5 rotating "flyer" promos. Each banner sits
+   stacked in the same frame; only .is-active is visible/interactive.
+   Entrance: slides in from the right + fades in. Exit: fades/slides back
+   to its resting (off-active) position, ready to re-enter next rotation. */
+.hero-banner-slider { display: flex; flex-direction: column; gap: var(--space-2); }
+.hero-banner-slider__frame {
+  position: relative;
+  min-height: 220px;
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  box-shadow: var(--elevation-2);
+  background: var(--color-primary);
+}
+.hero-banner {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: flex-end;
+  opacity: 0;
+  transform: translateX(100%);
+  transition: transform var(--duration-slower) var(--easing-emphasized),
+              opacity var(--duration-slow) var(--easing-standard);
+  pointer-events: none;
+  z-index: 0;
+}
+.hero-banner.is-active { opacity: 1; transform: translateX(0); pointer-events: auto; z-index: 2; }
+.hero-banner.is-prev { opacity: 0; transform: translateX(-100%); z-index: 1; }
+.hero-banner__media { position: absolute; inset: 0; }
+.hero-banner__media img { width: 100%; height: 100%; object-fit: cover; }
+.hero-banner__media::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(0deg, rgba(10,20,35,0.92) 0%, rgba(10,20,35,0.55) 48%, rgba(10,20,35,0.08) 100%);
+}
+.hero-banner__content { position: relative; z-index: 1; padding: var(--space-4); color: #fff; }
+.hero-banner__badge { margin-bottom: var(--space-2); }
+.hero-banner__heading { color: #fff; font-size: 1.1875rem; margin: 0 0 4px; }
+.hero-banner__copy { color: rgba(255,255,255,0.85); font-size: var(--text-small); margin: 0 0 var(--space-3); max-width: 30ch; }
+.hero-banner-slider__dots { display: flex; justify-content: center; gap: var(--space-2); }
+.hero-banner-slider__dot {
+  width: 8px; height: 8px;
+  padding: 0;
+  border-radius: 50%;
+  background: var(--color-border);
+  transition: background var(--duration-base) var(--easing-standard), transform var(--duration-base) var(--easing-emphasized);
+}
+.hero-banner-slider__dot.is-active { background: var(--color-primary); transform: scale(1.3); }
+
+
 /* --- Find My Part Wizard --- */
-.wizard-section { padding-block: var(--space-6); background: var(--color-bg); }
+.wizard-section { position: relative; padding-block: var(--space-6); background: var(--color-bg); overflow: hidden; }
+.wizard-section::before {
+  content: "";
+  position: absolute;
+  width: 280px; height: 280px;
+  border-radius: 50%;
+  background: var(--gradient-accent);
+  opacity: 0.08;
+  filter: blur(70px);
+  top: -110px; right: 8%;
+  pointer-events: none;
+}
 .wizard {
+  position: relative;
+  counter-reset: wizard-step;
   display: grid;
   grid-template-columns: 1fr;
   gap: var(--space-3);
@@ -672,8 +787,34 @@ summary:focus-visible {
   border: 1px solid var(--color-border);
   border-radius: var(--radius-lg);
   padding: var(--space-4);
+  box-shadow: var(--elevation-1);
+  transition: box-shadow var(--duration-base) var(--easing-emphasized);
 }
-.wizard__label { display: block; font-weight: 600; margin-bottom: var(--space-1); font-size: var(--text-small); color: var(--color-primary); }
+.wizard:focus-within { box-shadow: var(--elevation-2); }
+.wizard::after {
+  content: "";
+  position: absolute;
+  top: 0; left: var(--space-4); right: var(--space-4);
+  height: 3px;
+  border-radius: var(--radius-full);
+  background: var(--gradient-primary);
+}
+.wizard__field { position: relative; counter-increment: wizard-step; }
+.wizard__label { display: flex; align-items: center; font-weight: 600; margin-bottom: var(--space-1); font-size: var(--text-small); color: var(--color-primary); }
+.wizard__label::before {
+  content: counter(wizard-step);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 18px; height: 18px;
+  margin-right: var(--space-2);
+  border-radius: 50%;
+  background: var(--gradient-primary);
+  color: #fff;
+  font-size: 0.6875rem;
+  font-weight: 700;
+}
 .wizard__submit { width: 100%; margin-top: var(--space-2); }
 
 /* --- Product carousel --- */
@@ -684,6 +825,12 @@ summary:focus-visible {
   scroll-snap-type: x mandatory;
   padding-bottom: var(--space-2);
   -webkit-overflow-scrolling: touch;
+}
+@media (max-width: 959px) {
+  .product-carousel {
+    -webkit-mask-image: linear-gradient(90deg, transparent, #000 4%, #000 94%, transparent);
+    mask-image: linear-gradient(90deg, transparent, #000 4%, #000 94%, transparent);
+  }
 }
 
 /* --- Technician band --- */
@@ -797,6 +944,7 @@ summary:focus-visible {
   .product-card { flex: 0 0 46%; }
   .testimonial-card { flex: 0 0 60%; }
   .hero__heading { font-size: 2.25rem; }
+  .hero-banner-slider__frame { min-height: 280px; }
 
   .product-grid { grid-template-columns: repeat(3, 1fr); }
   .category-header__heading { font-size: 1.875rem; }
@@ -833,6 +981,7 @@ summary:focus-visible {
   .hero__heading { font-size: 2.75rem; }
   .hero__actions { flex-direction: row; }
   .hero__actions .btn { width: auto; }
+  .hero-banner-slider__frame { min-height: 340px; }
 
   .wizard { grid-template-columns: repeat(3, 1fr) auto; align-items: end; }
   .wizard__submit { width: auto; margin-top: 0; }

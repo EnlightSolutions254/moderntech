@@ -39,11 +39,11 @@
     "type_label_cap": "Hinge Kit",
     "images": [
       {
-        "src": "assets/images/products/asus-hinge-vb15-1.jpg",
+        "src": "assets/images/products/asus-hinge-vivobook15.jpg",
         "alt": "Asus VivoBook 15 replacement hinge kit, left and right brackets"
       },
       {
-        "src": "assets/images/products/asus-hinge-vb15-2.jpg",
+        "src": "assets/images/products/asus-hinge-vivobook15-2.jpg",
         "alt": "Asus VivoBook 15 replacement hinge kit, mounted view"
       }
     ],
@@ -97,7 +97,7 @@
     "related": [
       {
         "url": "/shop/laptop-batteries/asus-vivobook-15/",
-        "image": "assets/images/products/asus-battery-vb15-1.jpg",
+        "image": "assets/images/products/asus-battery-vivobook15.jpg",
         "alt": "Asus VivoBook 15 Battery replacement battery",
         "badge_class": "badge--in-stock",
         "badge_label": "In Stock",
@@ -110,7 +110,7 @@
       },
       {
         "url": "/shop/casings/asus-vivobook-15-casing/",
-        "image": "assets/images/products/asus-casing-vb15.jpg",
+        "image": "assets/images/products/asus-casing-vivobook15.jpg",
         "alt": "Asus VivoBook 15 Casing",
         "badge_class": "badge--in-stock",
         "badge_label": "In Stock",
@@ -123,7 +123,7 @@
       },
       {
         "url": "/shop/keyboards/asus-vivobook-15-keyboard/",
-        "image": "assets/images/products/asus-keyboard-vb15.jpg",
+        "image": "assets/images/products/asus-keyboard-vivobook15.jpg",
         "alt": "Asus VivoBook 15 Keyboard replacement keyboard",
         "badge_class": "badge--in-stock",
         "badge_label": "In Stock",

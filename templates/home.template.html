@@ -202,6 +202,40 @@
           {{/each}}
         </ul>
       </div>
+
+      <!-- Hero ad-banner slider — 5 rotating promo "flyers", each slides in
+           from the right, dwells, then is replaced by the next. Autoplay
+           pauses on hover/touch/focus and is skipped entirely for
+           prefers-reduced-motion (dots still allow manual browsing). -->
+      <div class="hero__visual">
+        <div class="hero-banner-slider" id="hero-banner-slider">
+          <div class="hero-banner-slider__frame">
+            {{#each hero.banners}}
+            <article class="hero-banner{{#if @first}} is-active{{/if}}" aria-hidden="{{#if @first}}false{{else}}true{{/if}}">
+              <div class="hero-banner__media">
+                <img src="/{{this.image}}" alt="" width="480" height="320"
+                     loading="{{#if @first}}eager{{else}}lazy{{/if}}" decoding="async">
+              </div>
+              <div class="hero-banner__content">
+                {{#if this.badge_text}}<span class="badge badge--promo hero-banner__badge">{{this.badge_text}}</span>{{/if}}
+                <h3 class="hero-banner__heading">{{this.headline}}</h3>
+                <p class="hero-banner__copy">{{this.copy}}</p>
+                <a class="btn btn--whatsapp btn--sm hero-banner__cta"
+                   href="https://wa.me/{{store.phone_e164_bare}}?text={{this.whatsapp_text}}"
+                   target="_blank" rel="noopener">{{this.cta_text}}</a>
+              </div>
+            </article>
+            {{/each}}
+          </div>
+          <div class="hero-banner-slider__dots" role="tablist" aria-label="Promotions">
+            {{#each hero.banners}}
+            <button type="button" class="hero-banner-slider__dot{{#if @first}} is-active{{/if}}"
+                    role="tab" aria-selected="{{#if @first}}true{{else}}false{{/if}}"
+                    aria-label="Show promotion {{@index1}}" data-slide-to="{{@index}}"></button>
+            {{/each}}
+          </div>
+        </div>
+      </div>
     </div>
   </section>
 
@@ -256,6 +290,7 @@
       <div class="tile-grid tile-grid--parts">
         {{#each nav_parts}}
         <a class="tile-card" href="{{this.url}}">
+          <span class="tile-card__arrow" aria-hidden="true">&#10230;</span>
           <span class="tile-card__icon" aria-hidden="true">{{this.icon}}</span>
           <span class="tile-card__label">{{this.name}}</span>
         </a>
