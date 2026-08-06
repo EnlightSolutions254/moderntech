@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "title": "MacBook A1466 Original Battery — KES 6,500 | [Store Name]",
+    "description": "MacBook A1466 Original Battery — fits A1466, A1405, A1496 and more. Tested before dispatch, with warranty support."
+  },
+  "og": {
+    "title": "MacBook A1466 Original Battery | [Store Name]",
+    "description": "MacBook A1466 Original Battery — fits A1466, A1405, A1496 and more. Tested before dispatch, with warranty support."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "delivery_note": "Same-day delivery in Nairobi · Countrywide shipping available",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "How do I know this battery fits my laptop?",
+      "answer": "This listing shows exact compatible models and part numbers. If you're unsure of your laptop's exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Are these original or compatible batteries?",
+      "answer": "It's stated clearly above — Original (OEM) or Replacement (OEM-equivalent)."
+    },
+    {
+      "question": "What warranty comes with this battery?",
+      "answer": "This battery carries a 6-month warranty."
+    }
+  ],
+  "product": {
+    "url": "/shop/laptop-batteries/macbook-a1466-a1405-original/",
+    "name": "MacBook A1466 Original Battery",
+    "full_name": "MacBook A1466 Original Battery",
+    "sku": "MACBOOK-A1466-A1405-ORIGINAL",
+    "brand_name": "MacBook",
+    "brand_slug": "macbook",
+    "price": "6,500",
+    "price_raw": "6500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "MacBook A1466 Original Battery — fits A1466, A1405, A1496 and more. Tested before dispatch, with warranty support.",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      },
+      {
+        "class": "badge--original",
+        "label": "Original"
+      }
+    ],
+    "images": [
+      {
+        "src": "assets/images/products/placeholder-battery.jpg",
+        "alt": "Replacement battery — MacBook A1466 Original Battery"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Part Number / Compatible Codes",
+        "value": "A1466-A1405-ORIGINAL"
+      },
+      {
+        "label": "Battery Type",
+        "value": "Original (OEM)"
+      },
+      {
+        "label": "Condition",
+        "value": "Brand New"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "compatible_models": [
+      "A1466",
+      "A1405",
+      "A1496"
+    ],
+    "related": [
+      {
+        "url": "/shop/laptop-batteries/macbook-a1582-a1502-original/",
+        "image": "assets/images/products/placeholder-battery.jpg",
+        "alt": "Replacement battery — MacBook A1582 Original Battery",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "MacBook A1582 Original Battery",
+        "tags": [
+          "A1582",
+          "A1502"
+        ],
+        "price": "6,000",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20A1582%20Original%20Battery%20%E2%80%94%20KES%206%2C000"
+      },
+      {
+        "url": "/shop/laptop-batteries/macbook-a1425-a1437-original/",
+        "image": "assets/images/products/placeholder-battery.jpg",
+        "alt": "Replacement battery — MacBook A1425 Original Battery",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "MacBook A1425 Original Battery",
+        "tags": [
+          "A1425",
+          "A1437"
+        ],
+        "price": "6,800",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20A1425%20Original%20Battery%20%E2%80%94%20KES%206%2C800"
+      },
+      {
+        "url": "/shop/laptop-batteries/hp-cs03xl-original/",
+        "image": "assets/images/products/placeholder-battery.jpg",
+        "alt": "Replacement battery — HP CS03XL Original Battery",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "HP CS03XL Original Battery",
+        "tags": [
+          "840 G3",
+          "848 G3"
+        ],
+        "price": "4,000",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20CS03XL%20Original%20Battery%20%E2%80%94%20KES%204%2C000"
+      }
+    ],
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20A1466%20Original%20Battery%20%E2%80%94%20KES%206%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20this%20battery%20%28MacBook%20A1466%20Original%20Battery%29%20fits%20my%20laptop%3F"
+  }
+}

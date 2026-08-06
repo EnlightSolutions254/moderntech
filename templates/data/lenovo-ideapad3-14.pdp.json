@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "title": "Lenovo IdeaPad 3 14 Battery — KES 4,500 | [Store Name]",
+    "description": "Lenovo IdeaPad 3 14 Battery — fits IdeaPad 3 14. Tested before dispatch, with warranty support."
+  },
+  "og": {
+    "title": "Lenovo IdeaPad 3 14 Battery | [Store Name]",
+    "description": "Lenovo IdeaPad 3 14 Battery — fits IdeaPad 3 14. Tested before dispatch, with warranty support."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "delivery_note": "Same-day delivery in Nairobi · Countrywide shipping available",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "How do I know this battery fits my laptop?",
+      "answer": "This listing shows exact compatible models and part numbers. If you're unsure of your laptop's exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Are these original or compatible batteries?",
+      "answer": "It's stated clearly above — Original (OEM) or Replacement (OEM-equivalent)."
+    },
+    {
+      "question": "What warranty comes with this battery?",
+      "answer": "This battery carries a 6-month warranty."
+    }
+  ],
+  "product": {
+    "url": "/shop/laptop-batteries/lenovo-ideapad3-14/",
+    "name": "Lenovo IdeaPad 3 14 Battery",
+    "full_name": "Lenovo IdeaPad 3 14 Battery",
+    "sku": "LENOVO-IDEAPAD3-14",
+    "brand_name": "Lenovo",
+    "brand_slug": "lenovo",
+    "price": "4,500",
+    "price_raw": "4500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Lenovo IdeaPad 3 14 Battery — fits IdeaPad 3 14. Tested before dispatch, with warranty support.",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      },
+      {
+        "class": "badge--replacement",
+        "label": "OEM-Equivalent"
+      }
+    ],
+    "images": [
+      {
+        "src": "assets/images/products/placeholder-battery.jpg",
+        "alt": "Replacement battery — Lenovo IdeaPad 3 14 Battery"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Part Number / Compatible Codes",
+        "value": "IDEAPAD3-14"
+      },
+      {
+        "label": "Battery Type",
+        "value": "Replacement (Compatible)"
+      },
+      {
+        "label": "Condition",
+        "value": "Brand New"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "compatible_models": [
+      "IdeaPad 3 14"
+    ],
+    "related": [
+      {
+        "url": "/shop/laptop-batteries/lenovo-t440p-original/",
+        "image": "assets/images/products/placeholder-battery.jpg",
+        "alt": "Replacement battery — Lenovo T440p Original Battery",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "Lenovo T440p Original Battery",
+        "tags": [
+          "ThinkPad T440p"
+        ],
+        "price": "4,300",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20T440p%20Original%20Battery%20%E2%80%94%20KES%204%2C300"
+      },
+      {
+        "url": "/shop/laptop-batteries/lenovo-00hw023-t460s-t470s/",
+        "image": "assets/images/products/placeholder-battery.jpg",
+        "alt": "Replacement battery — Lenovo T460s/T470s Original Battery",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "Lenovo T460s/T470s Original Battery",
+        "tags": [
+          "ThinkPad T460s",
+          "ThinkPad T470s"
+        ],
+        "price": "4,500",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20T460s%2FT470s%20Original%20Battery%20%E2%80%94%20KES%204%2C500"
+      },
+      {
+        "url": "/shop/laptop-batteries/lenovo-x280-01av470-original/",
+        "image": "assets/images/products/placeholder-battery.jpg",
+        "alt": "Replacement battery — Lenovo X280 Original Battery",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "Lenovo X280 Original Battery",
+        "tags": [
+          "ThinkPad X280",
+          "ThinkPad A285"
+        ],
+        "price": "5,350",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20X280%20Original%20Battery%20%E2%80%94%20KES%205%2C350"
+      }
+    ],
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20IdeaPad%203%2014%20Battery%20%E2%80%94%20KES%204%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20this%20battery%20%28Lenovo%20IdeaPad%203%2014%20Battery%29%20fits%20my%20laptop%3F"
+  }
+}

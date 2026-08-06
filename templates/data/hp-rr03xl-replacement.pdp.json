@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "title": "HP RR03XL Replacement Battery — KES 3,000 | [Store Name]",
+    "description": "HP RR03XL Replacement Battery — fits 430 G4, 440 G4, 450 G4 and more. Tested before dispatch, with warranty support."
+  },
+  "og": {
+    "title": "HP RR03XL Replacement Battery | [Store Name]",
+    "description": "HP RR03XL Replacement Battery — fits 430 G4, 440 G4, 450 G4 and more. Tested before dispatch, with warranty support."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "delivery_note": "Same-day delivery in Nairobi · Countrywide shipping available",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "How do I know this battery fits my laptop?",
+      "answer": "This listing shows exact compatible models and part numbers. If you're unsure of your laptop's exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Are these original or compatible batteries?",
+      "answer": "It's stated clearly above — Original (OEM) or Replacement (OEM-equivalent)."
+    },
+    {
+      "question": "What warranty comes with this battery?",
+      "answer": "This battery carries a 6-month warranty."
+    }
+  ],
+  "product": {
+    "url": "/shop/laptop-batteries/hp-rr03xl-replacement/",
+    "name": "HP RR03XL Replacement Battery",
+    "full_name": "HP RR03XL Replacement Battery",
+    "sku": "HP-RR03XL-REPLACEMENT",
+    "brand_name": "HP",
+    "brand_slug": "hp",
+    "price": "3,000",
+    "price_raw": "3000",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "HP RR03XL Replacement Battery — fits 430 G4, 440 G4, 450 G4 and more. Tested before dispatch, with warranty support.",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      },
+      {
+        "class": "badge--replacement",
+        "label": "OEM-Equivalent"
+      }
+    ],
+    "images": [
+      {
+        "src": "assets/images/products/placeholder-battery.jpg",
+        "alt": "Replacement battery — HP RR03XL Replacement Battery"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Part Number / Compatible Codes",
+        "value": "RR03XL-REPLACEMENT"
+      },
+      {
+        "label": "Battery Type",
+        "value": "Replacement (Compatible)"
+      },
+      {
+        "label": "Condition",
+        "value": "Brand New"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "compatible_models": [
+      "430 G4",
+      "440 G4",
+      "450 G4"
+    ],
+    "related": [
+      {
+        "url": "/shop/laptop-batteries/hp-cs03xl-original/",
+        "image": "assets/images/products/placeholder-battery.jpg",
+        "alt": "Replacement battery — HP CS03XL Original Battery",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "HP CS03XL Original Battery",
+        "tags": [
+          "840 G3",
+          "848 G3"
+        ],
+        "price": "4,000",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20CS03XL%20Original%20Battery%20%E2%80%94%20KES%204%2C000"
+      },
+      {
+        "url": "/shop/laptop-batteries/hp-cs03xl-replacement/",
+        "image": "assets/images/products/placeholder-battery.jpg",
+        "alt": "Replacement battery — HP CS03XL Replacement Battery",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "HP CS03XL Replacement Battery",
+        "tags": [
+          "840 G3",
+          "848 G3"
+        ],
+        "price": "3,000",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20CS03XL%20Replacement%20Battery%20%E2%80%94%20KES%203%2C000"
+      },
+      {
+        "url": "/shop/laptop-batteries/hp-re03xl-original/",
+        "image": "assets/images/products/placeholder-battery.jpg",
+        "alt": "Replacement battery — HP RE03XL Original Battery",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "HP RE03XL Original Battery",
+        "tags": [
+          "430 G6",
+          "440 G6"
+        ],
+        "price": "4,500",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20RE03XL%20Original%20Battery%20%E2%80%94%20KES%204%2C500"
+      }
+    ],
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20RR03XL%20Replacement%20Battery%20%E2%80%94%20KES%203%2C000",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20this%20battery%20%28HP%20RR03XL%20Replacement%20Battery%29%20fits%20my%20laptop%3F"
+  }
+}

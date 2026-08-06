@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "title": "Dell GJKNX Latitude Battery — KES 4,500 | [Store Name]",
+    "description": "Dell GJKNX Latitude Battery — fits Latitude 5480, Latitude 5490, Latitude 5580 and more. Tested before dispatch, with warranty support."
+  },
+  "og": {
+    "title": "Dell GJKNX Latitude Battery | [Store Name]",
+    "description": "Dell GJKNX Latitude Battery — fits Latitude 5480, Latitude 5490, Latitude 5580 and more. Tested before dispatch, with warranty support."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "delivery_note": "Same-day delivery in Nairobi · Countrywide shipping available",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "How do I know this battery fits my laptop?",
+      "answer": "This listing shows exact compatible models and part numbers. If you're unsure of your laptop's exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Are these original or compatible batteries?",
+      "answer": "It's stated clearly above — Original (OEM) or Replacement (OEM-equivalent)."
+    },
+    {
+      "question": "What warranty comes with this battery?",
+      "answer": "This battery carries a 6-month warranty."
+    }
+  ],
+  "product": {
+    "url": "/shop/laptop-batteries/dell-gjknx-latitude/",
+    "name": "Dell GJKNX Latitude Battery",
+    "full_name": "Dell GJKNX Latitude Battery",
+    "sku": "DELL-GJKNX-LATITUDE",
+    "brand_name": "Dell",
+    "brand_slug": "dell",
+    "price": "4,500",
+    "price_raw": "4500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Dell GJKNX Latitude Battery — fits Latitude 5480, Latitude 5490, Latitude 5580 and more. Tested before dispatch, with warranty support.",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      },
+      {
+        "class": "badge--replacement",
+        "label": "OEM-Equivalent"
+      }
+    ],
+    "images": [
+      {
+        "src": "assets/images/products/placeholder-battery.jpg",
+        "alt": "Replacement battery — Dell GJKNX Latitude Battery"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Part Number / Compatible Codes",
+        "value": "GJKNX-LATITUDE"
+      },
+      {
+        "label": "Battery Type",
+        "value": "Replacement (Compatible)"
+      },
+      {
+        "label": "Condition",
+        "value": "Brand New"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "compatible_models": [
+      "Latitude 5480",
+      "Latitude 5490",
+      "Latitude 5580"
+    ],
+    "related": [
+      {
+        "url": "/shop/laptop-batteries/dell-dj1jo-f3ygt-original/",
+        "image": "assets/images/products/placeholder-battery.jpg",
+        "alt": "Replacement battery — Dell DJ1JO / F3YGT Original Battery",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "Dell DJ1JO / F3YGT Original Battery",
+        "tags": [
+          "Latitude E7280",
+          "Latitude E7480"
+        ],
+        "price": "4,500",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20DJ1JO%20%2F%20F3YGT%20Original%20Battery%20%E2%80%94%20KES%204%2C500"
+      },
+      {
+        "url": "/shop/laptop-batteries/dell-j60j5-e7470-original/",
+        "image": "assets/images/products/placeholder-battery.jpg",
+        "alt": "Replacement battery — Dell J60J5 Original Battery",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "Dell J60J5 Original Battery",
+        "tags": [
+          "Latitude E7470",
+          "Latitude E7270"
+        ],
+        "price": "4,500",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20J60J5%20Original%20Battery%20%E2%80%94%20KES%204%2C500"
+      },
+      {
+        "url": "/shop/laptop-batteries/dell-mxv9v-latitude-5300-original/",
+        "image": "assets/images/products/placeholder-battery.jpg",
+        "alt": "Replacement battery — Dell MXV9V Original Battery",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "Dell MXV9V Original Battery",
+        "tags": [
+          "Latitude 5300",
+          "Latitude 5310"
+        ],
+        "price": "5,300",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20MXV9V%20Original%20Battery%20%E2%80%94%20KES%205%2C300"
+      }
+    ],
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20GJKNX%20Latitude%20Battery%20%E2%80%94%20KES%204%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20this%20battery%20%28Dell%20GJKNX%20Latitude%20Battery%29%20fits%20my%20laptop%3F"
+  }
+}
