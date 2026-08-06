@@ -281,6 +281,7 @@
   var clearAllBtn = document.getElementById("clear-all-filters");
   var applyButtons = document.querySelectorAll(".js-apply-filters");
   var clearButtons = document.querySelectorAll(".js-clear-filters");
+  var priceSliderContainers = document.querySelectorAll("[data-price-slider]");
 
   function getCheckedBrands() {
     return Array.prototype.slice
@@ -291,6 +292,124 @@
     var mobile = document.getElementById("filter-in-stock");
     var desktop = document.getElementById("filter-in-stock-desktop");
     return !!((mobile && mobile.checked) || (desktop && desktop.checked));
+  }
+
+  /* --- Price range slider ---
+     Bounds are computed from the actual prices rendered in the grid (so
+     this works unmodified for every category, whatever its price spread
+     is) rather than being hardcoded. Every product card, including the
+     ones still hidden behind "Load More", gets a data-price attribute
+     used both for the slider bounds and for filtering later. */
+  function initPriceSliders() {
+    if (!productGrid || !priceSliderContainers.length) return;
+
+    var prices = [];
+    productGrid.querySelectorAll(".product-card").forEach(function (card) {
+      var priceEl = card.querySelector(".price");
+      var num = priceEl ? parseInt(priceEl.textContent.replace(/[^0-9]/g, ""), 10) : NaN;
+      if (!isNaN(num)) {
+        card.setAttribute("data-price", String(num));
+        prices.push(num);
+      }
+    });
+    if (!prices.length) return;
+
+    var step = 50;
+    var boundsMin = Math.floor(Math.min.apply(null, prices) / step) * step;
+    var boundsMax = Math.ceil(Math.max.apply(null, prices) / step) * step;
+    if (boundsMax <= boundsMin) boundsMax = boundsMin + step;
+
+    priceSliderContainers.forEach(function (container) {
+      var minInput = container.querySelector(".js-price-min");
+      var maxInput = container.querySelector(".js-price-max");
+      if (!minInput || !maxInput) return;
+      [minInput, maxInput].forEach(function (input) {
+        input.min = boundsMin;
+        input.max = boundsMax;
+        input.step = step;
+      });
+      minInput.value = boundsMin;
+      maxInput.value = boundsMax;
+      updatePriceSliderVisual(container);
+    });
+  }
+
+  function updatePriceSliderVisual(container) {
+    var minInput = container.querySelector(".js-price-min");
+    var maxInput = container.querySelector(".js-price-max");
+    if (!minInput || !maxInput) return;
+    var bar = container.querySelector(".js-price-range-bar");
+    var minLabel = container.querySelector(".js-price-min-label");
+    var maxLabel = container.querySelector(".js-price-max-label");
+    var lo = Number(minInput.min), hi = Number(minInput.max);
+    var span = (hi - lo) || 1;
+    var minPct = ((Number(minInput.value) - lo) / span) * 100;
+    var maxPct = ((Number(maxInput.value) - lo) / span) * 100;
+
+    if (bar) {
+      bar.style.left = minPct + "%";
+      bar.style.right = (100 - maxPct) + "%";
+    }
+    if (minLabel) minLabel.textContent = "KES " + Number(minInput.value).toLocaleString();
+    if (maxLabel) maxLabel.textContent = "KES " + Number(maxInput.value).toLocaleString();
+  }
+
+  // Stop the two handles crossing over each other.
+  function clampPriceHandles(changedInput) {
+    var container = changedInput.closest("[data-price-slider]");
+    if (!container) return;
+    var minInput = container.querySelector(".js-price-min");
+    var maxInput = container.querySelector(".js-price-max");
+    if (!minInput || !maxInput) return;
+    if (Number(minInput.value) > Number(maxInput.value)) {
+      if (changedInput === minInput) minInput.value = maxInput.value;
+      else maxInput.value = minInput.value;
+    }
+  }
+
+  // Mirror a slider drag from one form (desktop/mobile) onto the other,
+  // same pattern as syncFilterInputs() below for brand/stock.
+  function syncPriceSliders(sourceContainer) {
+    var sourceMin = sourceContainer.querySelector(".js-price-min");
+    var sourceMax = sourceContainer.querySelector(".js-price-max");
+    if (!sourceMin || !sourceMax) return;
+    priceSliderContainers.forEach(function (container) {
+      if (container === sourceContainer) return;
+      var minInput = container.querySelector(".js-price-min");
+      var maxInput = container.querySelector(".js-price-max");
+      if (minInput) minInput.value = sourceMin.value;
+      if (maxInput) maxInput.value = sourceMax.value;
+      updatePriceSliderVisual(container);
+    });
+  }
+
+  function getSelectedPriceRange() {
+    var container = priceSliderContainers[0];
+    if (!container) return null;
+    var minInput = container.querySelector(".js-price-min");
+    var maxInput = container.querySelector(".js-price-max");
+    if (!minInput || !maxInput || minInput.value === "") return null;
+    return {
+      min: Number(minInput.value),
+      max: Number(maxInput.value),
+      boundsMin: Number(minInput.min),
+      boundsMax: Number(minInput.max)
+    };
+  }
+
+  function isPriceFilterActive() {
+    var range = getSelectedPriceRange();
+    return !!range && (range.min > range.boundsMin || range.max < range.boundsMax);
+  }
+
+  function resetPriceSliders() {
+    priceSliderContainers.forEach(function (container) {
+      var minInput = container.querySelector(".js-price-min");
+      var maxInput = container.querySelector(".js-price-max");
+      if (minInput) minInput.value = minInput.min;
+      if (maxInput) maxInput.value = maxInput.max;
+      updatePriceSliderVisual(container);
+    });
   }
 
   // Keep desktop FilterSidebar and mobile FilterDrawer in sync — both sets
@@ -312,7 +431,7 @@
   function updateFilterTriggerCount() {
     var countEl = document.getElementById("filter-trigger-count");
     if (!countEl) return;
-    var count = getCheckedBrands().length + (inStockOnly() ? 1 : 0);
+    var count = getCheckedBrands().length + (inStockOnly() ? 1 : 0) + (isPriceFilterActive() ? 1 : 0);
     countEl.textContent = String(count);
     countEl.hidden = count === 0;
   }
@@ -328,6 +447,14 @@
       chips.push({ type: "brand", value: brand, text: "Brand: " + text });
     });
     if (inStockOnly()) chips.push({ type: "stock", value: "in-stock", text: "In stock only" });
+    if (isPriceFilterActive()) {
+      var range = getSelectedPriceRange();
+      chips.push({
+        type: "price",
+        value: "price",
+        text: "Price: KES " + range.min.toLocaleString() + "–" + range.max.toLocaleString()
+      });
+    }
 
     activeFiltersBar.innerHTML = "";
     if (chips.length === 0) {
@@ -351,6 +478,8 @@
         } else if (chip.type === "stock") {
           var stockInput = document.getElementById("filter-in-stock");
           if (stockInput) stockInput.checked = false;
+        } else if (chip.type === "price") {
+          resetPriceSliders();
         }
         applyFilters();
       });
@@ -367,15 +496,18 @@
     if (!productGrid) return;
     var brands = getCheckedBrands();
     var onlyInStock = inStockOnly();
+    var priceRange = getSelectedPriceRange();
     var cards = productGrid.querySelectorAll(".product-card");
     var visibleCount = 0;
 
     cards.forEach(function (card) {
       var cardBrand = card.getAttribute("data-brand");
       var cardStock = card.getAttribute("data-stock");
+      var cardPrice = Number(card.getAttribute("data-price"));
       var matchesBrand = brands.length === 0 || brands.indexOf(cardBrand) !== -1;
       var matchesStock = !onlyInStock || cardStock === "in_stock";
-      var visible = matchesBrand && matchesStock;
+      var matchesPrice = !priceRange || (cardPrice >= priceRange.min && cardPrice <= priceRange.max);
+      var visible = matchesBrand && matchesStock && matchesPrice;
       card.hidden = !visible;
       if (visible) visibleCount++;
     });
@@ -391,6 +523,8 @@
   }
 
   if (productGrid) {
+    initPriceSliders();
+
     applyButtons.forEach(function (btn) {
       btn.addEventListener("click", function (e) {
         e.preventDefault();
@@ -405,6 +539,7 @@
           var el = document.getElementById(id);
           if (el) el.checked = false;
         });
+        resetPriceSliders();
         applyFilters();
       });
     });
@@ -418,6 +553,23 @@
         if (window.matchMedia("(min-width: 960px)").matches) applyFilters();
       });
     });
+    // Price slider: update the label/highlight live while dragging ("input"),
+    // then sync the other form + apply on release ("change") — same
+    // live-on-desktop / explicit-Apply-on-mobile split as the checkboxes above.
+    document.querySelectorAll(".js-price-min, .js-price-max").forEach(function (el) {
+      el.addEventListener("input", function () {
+        clampPriceHandles(el);
+        updatePriceSliderVisual(el.closest("[data-price-slider]"));
+      });
+      el.addEventListener("change", function () {
+        clampPriceHandles(el);
+        var container = el.closest("[data-price-slider]");
+        updatePriceSliderVisual(container);
+        syncPriceSliders(container);
+        updateFilterTriggerCount();
+        if (window.matchMedia("(min-width: 960px)").matches) applyFilters();
+      });
+    });
     renderActiveFilterChips();
   }
 
@@ -426,6 +578,11 @@
      ------------------------------------------------------------------ */
   var loadMoreBtn = document.getElementById("load-more");
   if (loadMoreBtn && productGrid) {
+    // Nothing hidden to reveal (e.g. a category with every product shown
+    // up front) — don't show a button that would do nothing when clicked.
+    if (productGrid.querySelectorAll(".product-card.is-extra[hidden]").length === 0) {
+      loadMoreBtn.hidden = true;
+    }
     loadMoreBtn.addEventListener("click", function () {
       var hiddenExtra = productGrid.querySelectorAll(".product-card.is-extra[hidden]");
       var batch = Array.prototype.slice.call(hiddenExtra, 0, 8);

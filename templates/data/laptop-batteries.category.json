@@ -34,7 +34,8 @@
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20CS03XL%20Original%20Battery%20%E2%80%94%20KES%204%2C000",
-      "tag_overflow": "+2 more"
+      "tag_overflow": "+2 more",
+      "extra": false
     },
     {
       "name": "HP CS03XL Replacement Battery",
@@ -54,7 +55,8 @@
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20CS03XL%20Replacement%20Battery%20%E2%80%94%20KES%203%2C000",
-      "tag_overflow": "+2 more"
+      "tag_overflow": "+2 more",
+      "extra": false
     },
     {
       "name": "HP RE03XL Original Battery",
@@ -74,7 +76,8 @@
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20RE03XL%20Original%20Battery%20%E2%80%94%20KES%204%2C500",
-      "tag_overflow": "+1 more"
+      "tag_overflow": "+1 more",
+      "extra": false
     },
     {
       "name": "HP RE03XL Replacement Battery",
@@ -94,7 +97,8 @@
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20RE03XL%20Replacement%20Battery%20%E2%80%94%20KES%203%2C000",
-      "tag_overflow": "+1 more"
+      "tag_overflow": "+1 more",
+      "extra": false
     },
     {
       "name": "Dell DJ1JO / F3YGT Original Battery",
@@ -112,7 +116,8 @@
       "price": "4,500",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
-      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20DJ1JO%20%2F%20F3YGT%20Original%20Battery%20%E2%80%94%20KES%204%2C500"
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20DJ1JO%20%2F%20F3YGT%20Original%20Battery%20%E2%80%94%20KES%204%2C500",
+      "extra": false
     },
     {
       "name": "HP SN03XL Original Battery",
@@ -130,7 +135,8 @@
       "price": "4,000",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
-      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20SN03XL%20Original%20Battery%20%E2%80%94%20KES%204%2C000"
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20SN03XL%20Original%20Battery%20%E2%80%94%20KES%204%2C000",
+      "extra": false
     },
     {
       "name": "HP SN03XL Replacement Battery",
@@ -149,7 +155,7 @@
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20SN03XL%20Replacement%20Battery%20%E2%80%94%20KES%203%2C000",
-      "extra": true
+      "extra": false
     },
     {
       "name": "HP RR03XL Original Battery",
@@ -170,7 +176,7 @@
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20RR03XL%20Original%20Battery%20%E2%80%94%20KES%204%2C000",
       "tag_overflow": "+1 more",
-      "extra": true
+      "extra": false
     },
     {
       "name": "HP RR03XL Replacement Battery",
@@ -191,7 +197,7 @@
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20RR03XL%20Replacement%20Battery%20%E2%80%94%20KES%203%2C000",
       "tag_overflow": "+1 more",
-      "extra": true
+      "extra": false
     },
     {
       "name": "HP BI03XL Original Battery",
@@ -210,7 +216,7 @@
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20BI03XL%20Original%20Battery%20%E2%80%94%20KES%204%2C000",
-      "extra": true
+      "extra": false
     },
     {
       "name": "Dell GJKNX Latitude Battery",
@@ -231,7 +237,7 @@
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20GJKNX%20Latitude%20Battery%20%E2%80%94%20KES%204%2C500",
       "tag_overflow": "+3 more",
-      "extra": true
+      "extra": false
     },
     {
       "name": "Dell J60J5 Original Battery",
@@ -250,7 +256,7 @@
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20J60J5%20Original%20Battery%20%E2%80%94%20KES%204%2C500",
-      "extra": true
+      "extra": false
     },
     {
       "name": "HP ZBook 14u G5 Original Battery",
@@ -271,7 +277,7 @@
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20ZBook%2014u%20G5%20Original%20Battery%20%E2%80%94%20KES%204%2C200",
       "tag_overflow": "+2 more",
-      "extra": true
+      "extra": false
     },
     {
       "name": "HP ZBook 14u G5 Replacement Battery",
@@ -292,7 +298,7 @@
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20ZBook%2014u%20G5%20Replacement%20Battery%20%E2%80%94%20KES%203%2C200",
       "tag_overflow": "+2 more",
-      "extra": true
+      "extra": false
     },
     {
       "name": "HP OD06XL Original Battery",
@@ -312,7 +318,7 @@
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20OD06XL%20Original%20Battery%20%E2%80%94%20KES%204%2C300",
-      "extra": true
+      "extra": false
     },
     {
       "name": "Lenovo T440p Original Battery",
@@ -330,7 +336,7 @@
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20T440p%20Original%20Battery%20%E2%80%94%20KES%204%2C300",
-      "extra": true
+      "extra": false
     },
     {
       "name": "HP BT04XL Original Battery",
@@ -349,7 +355,7 @@
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20BT04XL%20Original%20Battery%20%E2%80%94%20KES%204%2C000",
-      "extra": true
+      "extra": false
     },
     {
       "name": "HP RH03XL Battery",
@@ -370,7 +376,7 @@
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20RH03XL%20Battery%20%E2%80%94%20KES%204%2C800",
       "tag_overflow": "+2 more",
-      "extra": true
+      "extra": false
     },
     {
       "name": "HP WP03XL Original Battery",
@@ -391,7 +397,7 @@
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20WP03XL%20Original%20Battery%20%E2%80%94%20KES%205%2C000",
       "tag_overflow": "+4 more",
-      "extra": true
+      "extra": false
     },
     {
       "name": "Dell MXV9V Original Battery",
@@ -412,7 +418,7 @@
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20MXV9V%20Original%20Battery%20%E2%80%94%20KES%205%2C300",
       "tag_overflow": "+3 more",
-      "extra": true
+      "extra": false
     },
     {
       "name": "HP MG04 Original Battery",
@@ -430,7 +436,7 @@
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20MG04%20Original%20Battery%20%E2%80%94%20KES%205%2C400",
-      "extra": true
+      "extra": false
     },
     {
       "name": "HP PK03XL Original Battery",
@@ -449,7 +455,7 @@
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20PK03XL%20Original%20Battery%20%E2%80%94%20KES%205%2C100",
-      "extra": true
+      "extra": false
     },
     {
       "name": "Lenovo T460s/T470s Original Battery",
@@ -468,7 +474,7 @@
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20T460s%2FT470s%20Original%20Battery%20%E2%80%94%20KES%204%2C500",
-      "extra": true
+      "extra": false
     },
     {
       "name": "Lenovo X280 Original Battery",
@@ -487,7 +493,7 @@
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20X280%20Original%20Battery%20%E2%80%94%20KES%205%2C350",
-      "extra": true
+      "extra": false
     },
     {
       "name": "HP TT03 Original Battery",
@@ -508,7 +514,7 @@
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20TT03%20Original%20Battery%20%E2%80%94%20KES%204%2C400",
       "tag_overflow": "+1 more",
-      "extra": true
+      "extra": false
     },
     {
       "name": "Lenovo ThinkPad P1 Gen 1 Original Battery",
@@ -526,7 +532,7 @@
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20P1%20Gen%201%20Original%20Battery%20%E2%80%94%20KES%205%2C500",
-      "extra": true
+      "extra": false
     },
     {
       "name": "MacBook A1466 Original Battery",
@@ -547,7 +553,7 @@
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20A1466%20Original%20Battery%20%E2%80%94%20KES%206%2C500",
       "tag_overflow": "+1 more",
-      "extra": true
+      "extra": false
     },
     {
       "name": "MacBook A1582 Original Battery",
@@ -567,7 +573,7 @@
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20A1582%20Original%20Battery%20%E2%80%94%20KES%206%2C000",
-      "extra": true
+      "extra": false
     },
     {
       "name": "MacBook A1425 Original Battery",
@@ -586,7 +592,7 @@
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20A1425%20Original%20Battery%20%E2%80%94%20KES%206%2C800",
-      "extra": true
+      "extra": false
     },
     {
       "name": "HP 2000 Series Battery",
@@ -607,7 +613,7 @@
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%202000%20Series%20Battery%20%E2%80%94%20KES%203%2C000",
       "tag_overflow": "+2 more",
-      "extra": true
+      "extra": false
     },
     {
       "name": "Lenovo X1 Carbon 10th Gen Original Battery",
@@ -625,7 +631,7 @@
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20X1%20Carbon%2010th%20Gen%20Original%20Battery%20%E2%80%94%20KES%205%2C700",
-      "extra": true
+      "extra": false
     },
     {
       "name": "Lenovo X1 Carbon 1st Gen Original Battery",
@@ -643,7 +649,7 @@
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20X1%20Carbon%201st%20Gen%20Original%20Battery%20%E2%80%94%20KES%205%2C500",
-      "extra": true
+      "extra": false
     },
     {
       "name": "Dell XPS 15 9500 Battery",
@@ -664,7 +670,7 @@
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20XPS%2015%209500%20Battery%20%E2%80%94%20KES%205%2C700",
       "tag_overflow": "+2 more",
-      "extra": true
+      "extra": false
     },
     {
       "name": "Dell XPS 15 9560/9570 Battery",
@@ -685,7 +691,7 @@
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20XPS%2015%209560%2F9570%20Battery%20%E2%80%94%20KES%205%2C800",
       "tag_overflow": "+2 more",
-      "extra": true
+      "extra": false
     },
     {
       "name": "Dell XPS 15 9560 Battery (H5H20)",
@@ -703,7 +709,7 @@
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20XPS%2015%209560%20Battery%20%28H5H20%29%20%E2%80%94%20KES%205%2C700",
-      "extra": true
+      "extra": false
     },
     {
       "name": "Dell XPS 13 9370/9380 Battery",
@@ -723,7 +729,7 @@
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20XPS%2013%209370%2F9380%20Battery%20%E2%80%94%20KES%206%2C100",
-      "extra": true
+      "extra": false
     },
     {
       "name": "HP PP03 Battery",
@@ -744,7 +750,7 @@
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20PP03%20Battery%20%E2%80%94%20KES%204%2C800",
       "tag_overflow": "+2 more",
-      "extra": true
+      "extra": false
     },
     {
       "name": "HP CX03 Battery",
@@ -763,7 +769,7 @@
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20CX03%20Battery%20%E2%80%94%20KES%204%2C900",
-      "extra": true
+      "extra": false
     },
     {
       "name": "Dell G5M10 Battery",
@@ -783,7 +789,7 @@
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20G5M10%20Battery%20%E2%80%94%20KES%204%2C700",
-      "extra": true
+      "extra": false
     },
     {
       "name": "HP AD03 Battery",
@@ -801,7 +807,7 @@
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20AD03%20Battery%20%E2%80%94%20KES%204%2C800",
-      "extra": true
+      "extra": false
     },
     {
       "name": "Lenovo IdeaPad 14 G2 Battery",
@@ -819,7 +825,7 @@
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20IdeaPad%2014%20G2%20Battery%20%E2%80%94%20KES%205%2C500",
-      "extra": true
+      "extra": false
     },
     {
       "name": "Lenovo IdeaPad 3 14 Battery",
@@ -837,7 +843,7 @@
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20IdeaPad%203%2014%20Battery%20%E2%80%94%20KES%204%2C500",
-      "extra": true
+      "extra": false
     },
     {
       "name": "Lenovo IdeaPad 3 15 Battery",
@@ -855,7 +861,7 @@
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20IdeaPad%203%2015%20Battery%20%E2%80%94%20KES%204%2C500",
-      "extra": true
+      "extra": false
     }
   ],
   "technician_cta": {

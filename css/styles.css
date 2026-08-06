@@ -1086,15 +1086,21 @@ summary:focus-visible {
 /* --- Category layout: sidebar + grid column --- */
 .category-layout {
   display: flex;
-  flex-direction: column;
   gap: var(--space-4);
+}
+@media (max-width: 959px) {
+  .category-layout {
+    flex-direction: column;
+  }
 }
 
 /* --- Filter trigger (mobile) --- */
-.filter-bar {
-  display: flex;
-  gap: var(--space-2);
-  margin-bottom: var(--space-3);
+@media (max-width: 959px) {
+  .filter-bar {
+    display: flex;
+    gap: var(--space-2);
+    margin-bottom: var(--space-3);
+  }
 }
 .filter-trigger {
   display: inline-flex;
@@ -1154,17 +1160,104 @@ summary:focus-visible {
 .filter-checklist__item span { flex: 1; }
 .filter-checklist__item small { color: var(--color-text-muted); font-size: var(--text-small); }
 
-.filter-price-range { display: flex; align-items: center; gap: var(--space-2); padding-top: var(--space-3); }
-.filter-price-range input {
-  width: 100%;
-  min-height: 40px;
-  padding: var(--space-2);
-  border: 1px solid var(--color-border);
-  border-radius: var(--radius-md);
-  background: var(--color-surface);
-  color: var(--color-text);
+/* --- Price range: dual-handle slider ---
+   Two native <input type="range"> stacked on top of each other. The track
+   background is transparent on both so only the shared __track/__range
+   elements underneath are visible; pointer-events are disabled on the
+   input itself and re-enabled only on its thumb, so each handle can be
+   grabbed independently even though the inputs fully overlap. */
+.filter-price-slider { padding-top: var(--space-3); }
+.filter-price-slider__values {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: var(--space-4);
 }
-.filter-price-range span { color: var(--color-text-muted); }
+.filter-price-slider__value {
+  font-size: var(--text-small);
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  color: var(--color-primary);
+  background: rgba(15, 37, 64, 0.08);
+  background: color-mix(in srgb, var(--color-primary) 10%, transparent);
+  border-radius: var(--radius-full);
+  padding: 3px var(--space-2);
+  letter-spacing: 0.01em;
+}
+.filter-price-slider__track {
+  position: relative;
+  height: 6px;
+  border-radius: var(--radius-full);
+  background: var(--color-border);
+  box-shadow: inset 0 1px 2px rgba(15, 37, 64, 0.12);
+  margin-inline: 11px;
+}
+.filter-price-slider__range {
+  position: absolute;
+  top: 0;
+  height: 100%;
+  border-radius: var(--radius-full);
+  background: var(--color-primary);
+  background: linear-gradient(90deg, var(--color-primary), color-mix(in srgb, var(--color-primary) 70%, #6ea8ff));
+}
+.filter-price-slider__input {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 100%;
+  height: 22px;
+  margin: 0;
+  transform: translateY(-50%);
+  -webkit-appearance: none;
+  appearance: none;
+  background: transparent;
+  pointer-events: none;
+}
+.filter-price-slider__input:focus-visible { outline: none; }
+
+/* Track: fully transparent — the visual track lives in __track/__range */
+.filter-price-slider__input::-webkit-slider-runnable-track { -webkit-appearance: none; height: 6px; background: transparent; }
+.filter-price-slider__input::-moz-range-track { height: 6px; background: transparent; border: none; }
+
+/* Thumb: the only part of the input that should catch the pointer.
+   A soft dual shadow gives it some lift off the track, and it grows
+   slightly on hover/drag for a tactile, premium feel. */
+.filter-price-slider__input::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  pointer-events: auto;
+  width: 20px; height: 20px;
+  border-radius: 50%;
+  background: #fff;
+  border: 3px solid var(--color-primary);
+  box-shadow: 0 1px 2px rgba(15, 37, 64, 0.18), 0 4px 10px rgba(15, 37, 64, 0.14);
+  cursor: grab;
+  margin-top: 0;
+  transition: transform var(--duration-base) var(--easing-standard), box-shadow var(--duration-base) var(--easing-standard);
+}
+.filter-price-slider__input::-moz-range-thumb {
+  pointer-events: auto;
+  width: 20px; height: 20px;
+  border-radius: 50%;
+  background: #fff;
+  border: 3px solid var(--color-primary);
+  box-shadow: 0 1px 2px rgba(15, 37, 64, 0.18), 0 4px 10px rgba(15, 37, 64, 0.14);
+  cursor: grab;
+  transition: transform var(--duration-base) var(--easing-standard), box-shadow var(--duration-base) var(--easing-standard);
+}
+.filter-price-slider__input:hover::-webkit-slider-thumb { transform: scale(1.15); }
+.filter-price-slider__input:hover::-moz-range-thumb { transform: scale(1.15); }
+.filter-price-slider__input:active::-webkit-slider-thumb {
+  cursor: grabbing;
+  transform: scale(1.2);
+  box-shadow: 0 2px 4px rgba(15, 37, 64, 0.2), 0 6px 14px rgba(15, 37, 64, 0.2);
+}
+.filter-price-slider__input:active::-moz-range-thumb {
+  cursor: grabbing;
+  transform: scale(1.2);
+  box-shadow: 0 2px 4px rgba(15, 37, 64, 0.2), 0 6px 14px rgba(15, 37, 64, 0.2);
+}
+.filter-price-slider__input:focus-visible::-webkit-slider-thumb { outline: 2px solid var(--color-focus); outline-offset: 3px; }
+.filter-price-slider__input:focus-visible::-moz-range-thumb { outline: 2px solid var(--color-focus); outline-offset: 3px; }
+
 
 .filter-toggle {
   display: flex;
@@ -1203,9 +1296,12 @@ summary:focus-visible {
 }
 .filter-sidebar__actions .btn--primary { flex: 1; }
 
-/* Desktop persistent sidebar (rendered as a plain <aside>) */
-.filter-sidebar {
-  display: none;
+/* Mobile: hide the persistent sidebar (desktop media query above turns it
+   back on at 960px+) */
+@media (max-width: 959px) {
+  .filter-sidebar {
+    display: none;
+  }
 }
 
 /* Mobile filter drawer (bottom sheet) */
@@ -1631,3 +1727,171 @@ summary:focus-visible {
   .technician-band::before, .final-cta::before,
   .sticky-whatsapp { animation: none !important; }
 }
+/* ==========================================================================
+   9. PDP PREMIUM REFRESH
+   Additive layer for the redesigned PDP (and any placeholder-image surface
+   sitewide, via the .media-frame--premium upgrade below). Reuses existing
+   tokens from Section 1 — no token renamed or removed, so every other page
+   built off this stylesheet is unaffected.
+   ========================================================================== */
+:root {
+  --radius-xl: 24px;
+  --gradient-panel: linear-gradient(160deg, #F3F5F8 0%, #E9EDF2 100%);
+  --elevation-cta: 0 10px 24px rgba(37,211,102,0.28);
+}
+
+/* Badge variants used on Original/Replacement battery listings (not in the
+   base badge set above) */
+.badge--original { background: rgba(15,37,64,0.08); color: var(--color-primary); border: 1px solid rgba(15,37,64,0.14); }
+.badge--replacement { background: rgba(90,107,123,0.12); color: var(--color-secondary); }
+
+/* --- Illustrated placeholder fallback, sitewide ---
+   Applies to every .media-frame (ProductCard grids, related carousels, PDP
+   gallery). If the real photo at data-src loads, the <img> paints over this
+   and covers it completely — no JS or data changes needed either way. */
+.media-frame {
+  background: var(--gradient-panel);
+  position: relative;
+}
+.media-frame::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  margin: auto;
+  width: 42%;
+  height: 42%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 120 120' fill='none'%3E%3Crect x='18' y='30' width='84' height='60' rx='10' stroke='%230F2540' stroke-width='3'/%3E%3Crect x='48' y='20' width='24' height='12' rx='3' fill='%230F2540'/%3E%3Cpath d='M52 46 L44 62 L54 62 L48 76 L70 56 L58 56 L64 46 Z' fill='%2325D366'/%3E%3C/svg%3E");
+  opacity: 0.55;
+  pointer-events: none;
+}
+.media-frame img { position: relative; z-index: 1; }
+
+.media-frame--premium { border-radius: var(--radius-xl); }
+.media-frame--premium::before { width: 46%; height: 46%; opacity: 0.7; }
+.media-frame__badge-row {
+  position: absolute;
+  top: var(--space-3);
+  left: var(--space-3);
+  z-index: 2;
+  display: flex;
+  gap: var(--space-2);
+}
+.pill {
+  font-size: 12px;
+  font-weight: 600;
+  padding: 6px 12px;
+  border-radius: var(--radius-full);
+  background: rgba(255,255,255,0.9);
+  color: var(--color-primary);
+  letter-spacing: 0.2px;
+}
+
+/* --- Breadcrumb, quieter on the PDP --- */
+.breadcrumb--pdp { padding-block: var(--space-3); }
+
+/* --- Layout top: gallery + action panel --- */
+.pdp-layout__top--premium { gap: var(--space-7); }
+@media (min-width: 960px) {
+  .pdp-layout__top--premium { display: grid; grid-template-columns: 1.05fr 0.95fr; align-items: start; }
+}
+
+.pdp-gallery--premium .pdp-gallery__thumb { border-radius: var(--radius-md); }
+.pdp-gallery--premium .pdp-gallery__thumb.is-active { outline: 2px solid var(--color-primary); outline-offset: 2px; }
+
+.pdp-action-panel--premium { padding-top: var(--space-3); }
+.pdp-action-panel__eyebrow {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--color-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  margin-bottom: var(--space-2);
+}
+.pdp-action-panel--premium .pdp-action-panel__name {
+  font-size: 2.125rem;
+  line-height: 1.15;
+  letter-spacing: -0.5px;
+}
+.pdp-action-panel--premium .price--lg {
+  font-size: 2.5rem;
+  font-weight: 800;
+  letter-spacing: -1px;
+  display: flex;
+  align-items: baseline;
+  gap: var(--space-2);
+}
+.price__currency { font-size: 1rem; font-weight: 600; color: var(--color-text-muted); }
+
+.trust-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-4);
+  margin-top: var(--space-4);
+  padding-top: var(--space-4);
+  border-top: 1px solid var(--color-border);
+}
+.trust-row__item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 13.5px;
+  font-weight: 600;
+  color: var(--color-text-muted);
+}
+.trust-row__item svg { color: var(--color-primary); flex-shrink: 0; }
+
+/* --- Specs as a 2-col grid instead of stacked rows --- */
+.section--premium .spec-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1px;
+  background: var(--color-border);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+}
+@media (max-width: 640px) { .section--premium .spec-grid { grid-template-columns: 1fr; } }
+.spec-cell { background: var(--color-surface); padding: var(--space-4); display: flex; flex-direction: column; gap: 4px; }
+.spec-cell__label { font-size: 12.5px; font-weight: 600; color: var(--color-text-muted); text-transform: uppercase; letter-spacing: 0.4px; }
+.spec-cell__value { font-size: 15.5px; font-weight: 600; color: var(--color-text); }
+
+/* --- Compatibility as chips inside a bordered panel --- */
+.compat-panel {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  padding: var(--space-5);
+}
+.compat-chip-list { display: flex; flex-wrap: wrap; gap: var(--space-2); margin: 0 0 var(--space-4); }
+.compat-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--color-text);
+  background: var(--color-bg);
+  padding: 9px 16px;
+  border-radius: var(--radius-full);
+}
+.compat-chip svg { color: var(--color-success); flex-shrink: 0; }
+.compat-panel__note {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-3);
+  flex-wrap: wrap;
+  padding-top: var(--space-4);
+  border-top: 1px solid var(--color-border);
+}
+.compat-panel__note p { margin: 0; font-size: 14px; color: var(--color-text-muted); max-width: 42ch; }
+
+/* --- Related carousel cards, premium radius --- */
+.product-carousel--premium .product-card--premium { border-radius: var(--radius-lg); overflow: hidden; }
+
+/* --- Sticky WhatsApp bar, refined --- */
+.sticky-whatsapp--premium { border-radius: var(--radius-lg) var(--radius-lg) 0 0; }
+.sticky-whatsapp--premium .sticky-whatsapp__link { box-shadow: none; }

@@ -214,12 +214,18 @@
             </div>
           </details>
 
-          <details class="filter-sidebar__section">
+          <details class="filter-sidebar__section" open>
             <summary class="filter-sidebar__section-title">Price Range (KES)</summary>
-            <div class="filter-price-range">
-              <input type="number" inputmode="numeric" placeholder="Min" aria-label="Minimum price">
-              <span aria-hidden="true">–</span>
-              <input type="number" inputmode="numeric" placeholder="Max" aria-label="Maximum price">
+            <div class="filter-price-slider" data-price-slider>
+              <div class="filter-price-slider__values">
+                <span class="filter-price-slider__value js-price-min-label">KES 0</span>
+                <span class="filter-price-slider__value js-price-max-label">KES 0</span>
+              </div>
+              <div class="filter-price-slider__track">
+                <div class="filter-price-slider__range js-price-range-bar"></div>
+                <input type="range" class="filter-price-slider__input js-price-min" aria-label="Minimum price">
+                <input type="range" class="filter-price-slider__input js-price-max" aria-label="Maximum price">
+              </div>
             </div>
           </details>
 
@@ -414,12 +420,18 @@
         </div>
       </details>
 
-      <details class="filter-sidebar__section">
+      <details class="filter-sidebar__section" open>
         <summary class="filter-sidebar__section-title">Price Range (KES)</summary>
-        <div class="filter-price-range">
-          <input type="number" inputmode="numeric" placeholder="Min" aria-label="Minimum price">
-          <span aria-hidden="true">–</span>
-          <input type="number" inputmode="numeric" placeholder="Max" aria-label="Maximum price">
+        <div class="filter-price-slider" data-price-slider>
+          <div class="filter-price-slider__values">
+            <span class="filter-price-slider__value js-price-min-label">KES 0</span>
+            <span class="filter-price-slider__value js-price-max-label">KES 0</span>
+          </div>
+          <div class="filter-price-slider__track">
+            <div class="filter-price-slider__range js-price-range-bar"></div>
+            <input type="range" class="filter-price-slider__input js-price-min" aria-label="Minimum price">
+            <input type="range" class="filter-price-slider__input js-price-max" aria-label="Maximum price">
+          </div>
         </div>
       </details>
 

@@ -212,7 +212,7 @@
        3. BREADCRUMB
   ============================================= -->
   <div class="container">
-    <nav class="breadcrumb" aria-label="Breadcrumb">
+    <nav class="breadcrumb breadcrumb--pdp" aria-label="Breadcrumb">
       <ol class="breadcrumb__list">
         <li><a href="/">Home</a></li>
         <li aria-hidden="true" class="breadcrumb__sep">/</li>
@@ -228,17 +228,27 @@
        Desktop: side-by-side (.pdp-layout__top). Mobile: stacked
        (gallery above action panel), per Component Architecture §4.6/§4.7.
        Everything in PDPActionPanel renders above the fold at 375px.
+       Visual refresh: illustrated-placeholder gallery panel, larger type
+       scale, pill badges, trust row — ids/classes required by main.js
+       (pdp-gallery-track, pdp-gallery-thumbs, pdp-main-image, zoom
+       triggers, lazy-img/data-src) are unchanged.
   ============================================= -->
   <div class="container">
-    <div class="pdp-layout__top">
+    <div class="pdp-layout__top pdp-layout__top--premium">
 
       <!-- PDPGallery -->
-      <div class="pdp-gallery">
+      <div class="pdp-gallery pdp-gallery--premium">
 
         <!-- Mobile: swipeable carousel + dot indicators -->
         <div class="pdp-gallery__mobile">
           <div class="pdp-gallery__track" id="pdp-gallery-track">
-            <div class="media-frame media-frame--square pdp-gallery__slide" style="--ph-color:#e9edf3;">
+            <div class="media-frame media-frame--square media-frame--premium pdp-gallery__slide">
+              <div class="media-frame__badge-row">
+                <span class="pill badge--in-stock">In Stock — 4 units</span>
+<span class="pill badge--new-oem">New OEM-Equivalent</span>
+<span class="pill badge--warranty">3-Month Warranty</span>
+
+              </div>
               <button type="button" class="icon-button pdp-gallery__zoom" data-zoom-trigger data-full="/assets/images/products/dell-fan-5490-1.jpg" aria-label="Zoom image 1">
                 <svg width="18" height="18" viewBox="0 0 18 18" aria-hidden="true"><circle cx="8" cy="8" r="6" stroke="currentColor" stroke-width="1.5" fill="none"/><path d="M12.5 12.5L17 17" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/><path d="M8 5.5v5M5.5 8h5" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/></svg>
               </button>
@@ -247,7 +257,10 @@
                    alt="Dell Latitude 5490 cooling fan, top view"
                    width="600" height="600" loading="eager" decoding="async" class="lazy-img">
             </div>
-<div class="media-frame media-frame--square pdp-gallery__slide" style="--ph-color:#e9edf3;">
+<div class="media-frame media-frame--square media-frame--premium pdp-gallery__slide">
+              <div class="media-frame__badge-row">
+                
+              </div>
               <button type="button" class="icon-button pdp-gallery__zoom" data-zoom-trigger data-full="/assets/images/products/dell-fan-5490-2.jpg" aria-label="Zoom image 2">
                 <svg width="18" height="18" viewBox="0 0 18 18" aria-hidden="true"><circle cx="8" cy="8" r="6" stroke="currentColor" stroke-width="1.5" fill="none"/><path d="M12.5 12.5L17 17" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/><path d="M8 5.5v5M5.5 8h5" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/></svg>
               </button>
@@ -268,7 +281,13 @@
 <li><button type="button" class="pdp-gallery__thumb" data-full="/assets/images/products/dell-fan-5490-2.jpg" aria-label="Show image 2"><img src="/assets/images/products/dell-fan-5490-2.jpg" alt="" width="64" height="64" loading="lazy"></button></li>
 
           </ul>
-          <div class="pdp-gallery__main media-frame media-frame--square" style="--ph-color:#e9edf3;">
+          <div class="pdp-gallery__main media-frame media-frame--square media-frame--premium">
+            <div class="media-frame__badge-row">
+              <span class="pill badge--in-stock">In Stock — 4 units</span>
+<span class="pill badge--new-oem">New OEM-Equivalent</span>
+<span class="pill badge--warranty">3-Month Warranty</span>
+
+            </div>
             <button type="button" class="icon-button pdp-gallery__zoom" id="pdp-zoom-btn" data-zoom-trigger data-full="/assets/images/products/dell-fan-5490-1.jpg" aria-label="Zoom image">
               <svg width="18" height="18" viewBox="0 0 18 18" aria-hidden="true"><circle cx="8" cy="8" r="6" stroke="currentColor" stroke-width="1.5" fill="none"/><path d="M12.5 12.5L17 17" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/><path d="M8 5.5v5M5.5 8h5" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/></svg>
             </button>
@@ -281,7 +300,8 @@
       </div>
 
       <!-- PDPActionPanel -->
-      <div class="pdp-action-panel">
+      <div class="pdp-action-panel pdp-action-panel--premium">
+        <p class="pdp-action-panel__eyebrow">Dell &middot; Cooling Fans</p>
         <h1 class="pdp-action-panel__name">Replacement CPU Cooling Fan for Dell Latitude 5490</h1>
 
         <div class="pdp-badge-row">
@@ -291,7 +311,7 @@
 
         </div>
 
-        <p class="price price--lg">KES 2,400</p>
+        <p class="price price--lg"><span class="price__currency">KES</span>2,400</p>
 
         <p class="pdp-action-panel__desc">Replacement CPU cooling fan for the Dell Latitude 5490/5491. New, tested for spin-up, noise and airflow before dispatch.</p>
 
@@ -305,18 +325,17 @@
           <a class="btn btn--secondary btn--lg" href="tel:+254712396869">Call to Confirm</a>
         </div>
 
-        <div class="pdp-action-panel__delivery-note">
-          <span aria-hidden="true">🚚</span> Same-day delivery in Nairobi &middot; 1–2 days upcountry
-        </div>
-
-        <div class="trust-badge-mini-row">
-          <div class="trust-badge-mini">
-            <span class="trust-badge-mini__icon" aria-hidden="true">🛡</span>
-            <span class="trust-badge-mini__label">6-Month Warranty</span>
+        <div class="trust-row">
+          <div class="trust-row__item">
+            <svg width="18" height="18" viewBox="0 0 20 20" aria-hidden="true"><path d="M10 2l7 3v5c0 4.5-3 7.5-7 8-4-.5-7-3.5-7-8V5l7-3Z" stroke="currentColor" stroke-width="1.4" fill="none"/></svg>
+            6-Month Warranty
           </div>
-          <div class="trust-badge-mini">
-            <span class="trust-badge-mini__icon" aria-hidden="true">✔</span>
-            <span class="trust-badge-mini__label">Genuine Parts</span>
+          <div class="trust-row__item">
+            <svg width="18" height="18" viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="7.5" stroke="currentColor" stroke-width="1.4" fill="none"/><path d="M7 10l2 2 4-4.5" stroke="currentColor" stroke-width="1.4" fill="none"/></svg>
+            Tested Before Dispatch
+          </div>
+          <div class="trust-row__item">
+            <span aria-hidden="true">🚚</span> Same-day delivery in Nairobi &middot; 1–2 days upcountry
           </div>
         </div>
       </div>
@@ -330,32 +349,34 @@
   <div class="container pdp-below-fold">
 
     <!-- SpecTable -->
-    <section class="section" aria-labelledby="specs-heading">
+    <section class="section section--premium" aria-labelledby="specs-heading">
       <div class="section-heading"><h2 id="specs-heading">Specifications</h2></div>
-      <div class="spec-table">
-        <div class="spec-row"><span class="spec-row__label">Fan Type</span><span class="spec-row__value">CPU cooling fan, single-fan</span></div>
-<div class="spec-row"><span class="spec-row__label">Connector</span><span class="spec-row__value">4-pin</span></div>
-<div class="spec-row"><span class="spec-row__label">Bearing Type</span><span class="spec-row__value">Sleeve bearing</span></div>
-<div class="spec-row"><span class="spec-row__label">Condition</span><span class="spec-row__value">New</span></div>
-<div class="spec-row"><span class="spec-row__label">Warranty</span><span class="spec-row__value">3 months (manufacturing defects)</span></div>
+      <div class="spec-grid">
+        <div class="spec-cell"><span class="spec-cell__label">Fan Type</span><span class="spec-cell__value">CPU cooling fan, single-fan</span></div>
+<div class="spec-cell"><span class="spec-cell__label">Connector</span><span class="spec-cell__value">4-pin</span></div>
+<div class="spec-cell"><span class="spec-cell__label">Bearing Type</span><span class="spec-cell__value">Sleeve bearing</span></div>
+<div class="spec-cell"><span class="spec-cell__label">Condition</span><span class="spec-cell__value">New</span></div>
+<div class="spec-cell"><span class="spec-cell__label">Warranty</span><span class="spec-cell__value">3 months (manufacturing defects)</span></div>
 
       </div>
     </section>
 
     <!-- CompatibilityTable -->
-    <section class="section section--muted" aria-labelledby="compat-heading">
+    <section class="section section--premium" aria-labelledby="compat-heading">
       <div class="section-heading"><h2 id="compat-heading">Compatible With</h2></div>
-      <ul class="compatibility-list">
-        <li><span class="check-icon" aria-hidden="true">✔</span> Dell Latitude 5490</li>
-<li><span class="check-icon" aria-hidden="true">✔</span> Dell Latitude 5491</li>
-<li><span class="check-icon" aria-hidden="true">✔</span> Dell Latitude 5495</li>
+      <div class="compat-panel">
+        <ul class="compat-chip-list">
+          <li class="compat-chip"><svg width="14" height="14" viewBox="0 0 16 16" aria-hidden="true"><path d="M3 8l3 3 7-7" stroke="currentColor" stroke-width="2" fill="none"/></svg>Dell Latitude 5490</li>
+<li class="compat-chip"><svg width="14" height="14" viewBox="0 0 16 16" aria-hidden="true"><path d="M3 8l3 3 7-7" stroke="currentColor" stroke-width="2" fill="none"/></svg>Dell Latitude 5491</li>
+<li class="compat-chip"><svg width="14" height="14" viewBox="0 0 16 16" aria-hidden="true"><path d="M3 8l3 3 7-7" stroke="currentColor" stroke-width="2" fill="none"/></svg>Dell Latitude 5495</li>
 
-      </ul>
-      <div class="compatibility-note">
-        <p>Not sure if this fits your laptop? Confirm your exact model via WhatsApp before you order.</p>
-        <a class="btn btn--whatsapp btn--sm"
-           href="https://wa.me/254712396869?text=Hi%2C%20can%20you%20confirm%20if%20the%20Dell%20Latitude%205490%20Cooling%20Fan%20fits%20my%20laptop%3F"
-           target="_blank" rel="noopener">Confirm Fit on WhatsApp</a>
+        </ul>
+        <div class="compat-panel__note">
+          <p>Not sure if this fits your laptop? Confirm your exact model via WhatsApp before you order.</p>
+          <a class="btn btn--secondary btn--sm"
+             href="https://wa.me/254712396869?text=Hi%2C%20can%20you%20confirm%20if%20the%20Dell%20Latitude%205490%20Cooling%20Fan%20fits%20my%20laptop%3F"
+             target="_blank" rel="noopener">Confirm Fit on WhatsApp</a>
+        </div>
       </div>
     </section>
 
@@ -364,10 +385,10 @@
       <div class="section-heading">
         <h2 id="related-heading">Customers Who Bought This Also Needed</h2>
       </div>
-      <ul class="product-carousel" id="related-products">
-        <li class="product-card">
+      <ul class="product-carousel product-carousel--premium" id="related-products">
+        <li class="product-card product-card--premium">
           <a href="/shop/laptop-batteries/dell-latitude-5490/" class="product-card__media-link">
-            <div class="media-frame media-frame--square">
+            <div class="media-frame media-frame--square media-frame--premium">
               <span class="badge badge--in-stock product-card__badge">In Stock</span>
               <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1' height='1'%3E%3C/svg%3E"
                    data-src="/assets/images/products/dell-battery-5490.jpg"
@@ -388,9 +409,9 @@
                target="_blank" rel="noopener">Order on WhatsApp</a>
           </div>
         </li>
-<li class="product-card">
+<li class="product-card product-card--premium">
           <a href="/shop/casings/dell-latitude-5490-casing/" class="product-card__media-link">
-            <div class="media-frame media-frame--square">
+            <div class="media-frame media-frame--square media-frame--premium">
               <span class="badge badge--in-stock product-card__badge">In Stock</span>
               <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1' height='1'%3E%3C/svg%3E"
                    data-src="/assets/images/products/dell-casing-5490.jpg"
@@ -410,9 +431,9 @@
                target="_blank" rel="noopener">Order on WhatsApp</a>
           </div>
         </li>
-<li class="product-card">
+<li class="product-card product-card--premium">
           <a href="/shop/keyboards/dell-latitude-5490-keyboard/" class="product-card__media-link">
-            <div class="media-frame media-frame--square">
+            <div class="media-frame media-frame--square media-frame--premium">
               <span class="badge badge--in-stock product-card__badge">In Stock</span>
               <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1' height='1'%3E%3C/svg%3E"
                    data-src="/assets/images/products/dell-keyboard-5490.jpg"
@@ -546,7 +567,7 @@
      8. STICKY WHATSAPP CTA (context-aware — carries this
      product's pre-filled message, per Component Architecture §4.16)
 ============================================= -->
-<div class="sticky-whatsapp" id="sticky-whatsapp">
+<div class="sticky-whatsapp sticky-whatsapp--premium" id="sticky-whatsapp">
   <a class="sticky-whatsapp__link"
      href="https://wa.me/254712396869?text=Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%205490%20Cooling%20Fan%20(SKU%3A%20DELL-FN-5490)%20%E2%80%94%20KES%202%2C400"
      target="_blank" rel="noopener" aria-label="Order this cooling fan on WhatsApp">
