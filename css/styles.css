@@ -115,8 +115,8 @@ body {
 }
 
 @keyframes page-fade-in {
-  from { opacity: 0; transform: translateY(6px); }
-  to { opacity: 1; transform: none; }
+  from { opacity: 0; }
+  to { opacity: 1; }
 }
 
 img { max-width: 100%; display: block; height: auto; }
@@ -895,24 +895,34 @@ summary:focus-visible {
 .site-footer__legal { display: flex; gap: var(--space-3); flex-wrap: wrap; }
 .site-footer__legal a:hover { text-decoration: underline; }
 
-/* --- Sticky WhatsApp bar (mobile) / floating button (desktop) --- */
+/* --- Sticky WhatsApp — floating circular icon button, bottom-right
+   (same treatment at every breakpoint; expands to show its label on
+   hover-capable devices only, since touch has no hover state) --- */
 .sticky-whatsapp {
   position: fixed;
-  left: 0; right: 0; bottom: 0;
+  left: auto;
+  right: var(--space-4);
+  bottom: calc(var(--space-4) + env(safe-area-inset-bottom, 0px));
   z-index: 10;
+  width: 56px;
+  height: 56px;
+  border-radius: var(--radius-full);
   background: var(--gradient-whatsapp);
   display: flex;
   align-items: stretch;
   box-shadow: var(--elevation-2);
   animation: whatsapp-breathe 3.2s ease-in-out infinite;
+  overflow: hidden;
+  transition: width var(--duration-base) var(--easing-standard);
 }
 @keyframes whatsapp-breathe {
   0%, 100% { box-shadow: var(--elevation-2); }
   50% { box-shadow: var(--glow-whatsapp); }
 }
 @media (hover: hover) {
-  .sticky-whatsapp:hover { animation-play-state: paused; }
+  .sticky-whatsapp:hover { animation-play-state: paused; width: 220px; }
 }
+.sticky-whatsapp:active { transform: scale(0.94); }
 .sticky-whatsapp__link {
   flex: 1;
   display: flex;
@@ -924,14 +934,18 @@ summary:focus-visible {
   min-height: 52px;
   padding-inline: var(--space-3);
 }
-.sticky-whatsapp__call {
-  width: 52px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: #fff;
-  border-left: 1px solid rgba(255,255,255,0.3);
+.sticky-whatsapp__icon { flex-shrink: 0; }
+.sticky-whatsapp__label {
+  max-width: 0;
+  overflow: hidden;
+  white-space: nowrap;
+  transition: max-width var(--duration-base) var(--easing-standard);
 }
+@media (hover: hover) {
+  .sticky-whatsapp:hover .sticky-whatsapp__label,
+  .sticky-whatsapp:focus-within .sticky-whatsapp__label { max-width: 220px; }
+}
+.sticky-whatsapp__call { display: none; }
 
 /* ==========================================================================
    7. TABLET (600px+)
@@ -1034,25 +1048,6 @@ summary:focus-visible {
   .pdp-action-panel__actions .btn { width: 100%; }
   .pdp-below-fold { max-width: 720px; }
 
-  /* Sticky WhatsApp becomes a floating button on desktop */
-  .sticky-whatsapp {
-    left: auto;
-    right: var(--space-4);
-    bottom: var(--space-4);
-    width: auto;
-    border-radius: var(--radius-full);
-    overflow: hidden;
-  }
-  .sticky-whatsapp__label {
-    max-width: 0;
-    overflow: hidden;
-    white-space: nowrap;
-    transition: max-width var(--duration-base) var(--easing-standard);
-  }
-  .sticky-whatsapp:hover .sticky-whatsapp__label,
-  .sticky-whatsapp:focus-within .sticky-whatsapp__label { max-width: 220px; }
-  .sticky-whatsapp__link { padding-inline: var(--space-3); }
-  .sticky-whatsapp__call { display: none; }
 }
 
 /* ==========================================================================
@@ -1694,7 +1689,7 @@ summary:focus-visible {
 .stat-item__value.is-counting { animation: stat-settle var(--duration-slow) var(--easing-emphasized); }
 @keyframes stat-settle {
   from { opacity: 0.4; transform: translateY(4px); }
-  to { opacity: 1; transform: none; }
+  to { opacity: 1; }
 }
 
 /* Button click ripple, added dynamically by JS on .btn */
