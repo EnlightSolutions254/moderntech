@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "title": "Dell 7FMXV Battery | Price in Kenya | [Store Name]",
+    "description": "Replacement battery for Dell Latitude 5320, Latitude 7320, Latitude 7420, Latitude 7520 and Latitude 5320/7320 2-in-1. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Dell 7FMXV Battery | [Store Name]",
+    "description": "Replacement battery for Dell Latitude 5320, Latitude 7320, Latitude 7420, Latitude 7520 and Latitude 5320/7320 2-in-1. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/dell-7fmxv-latitude-5320-7520/",
+    "name": "Dell 7FMXV Battery",
+    "full_name": "Replacement Battery for Dell Latitude 5320 & more",
+    "sku": "7FMXV",
+    "brand_name": "Dell",
+    "brand_slug": "dell",
+    "price": "4,600",
+    "price_raw": "4600",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine-fit replacement battery (part no. 7FMXV) for Dell Latitude 5320, Latitude 7320, Latitude 7420, Latitude 7520 and Latitude 5320/7320 2-in-1. Tested before dispatch, drop-in fit \u2014 no disassembly beyond the standard battery bay.",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "images": [
+      {
+        "src": "assets/images/products/dell-battery-7fmxv.webp",
+        "alt": "Dell 7FMXV Battery \u2014 front view"
+      },
+      {
+        "src": "assets/images/products/dell-battery-7fmxv-1.webp",
+        "alt": "Dell 7FMXV Battery \u2014 side view"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      },
+      {
+        "class": "badge--new-oem",
+        "label": "New OEM-Equivalent"
+      },
+      {
+        "class": "badge--warranty",
+        "label": "6-Month Warranty"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "7FMXV"
+      },
+      {
+        "label": "Compatible Brand",
+        "value": "Dell"
+      },
+      {
+        "label": "Battery Type",
+        "value": "New OEM-Equivalent"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "compatible_models": [
+      "Latitude 5320",
+      "Latitude 7320",
+      "Latitude 7420",
+      "Latitude 7520",
+      "Latitude 5320/7320 2-in-1"
+    ],
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20this%20battery%20fits%20my%20laptop%3A%20Dell%207FMXV%20Battery",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%207FMXV%20Battery%20%E2%80%94%20KES%204%2C600",
+    "related": []
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1&ndash;2 days upcountry",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "Do you offer warranty on this battery?",
+      "answer": "Yes \u2014 this battery carries a 6-month warranty from the date of purchase."
+    },
+    {
+      "question": "How do I install it?",
+      "answer": "It's a standard drop-in replacement \u2014 no disassembly beyond the battery bay. We can talk you through it on WhatsApp if needed."
+    },
+    {
+      "question": "Can I pay via M-Pesa?",
+      "answer": "Yes, M-Pesa is accepted, along with cash on delivery in select areas."
+    }
+  ]
+}

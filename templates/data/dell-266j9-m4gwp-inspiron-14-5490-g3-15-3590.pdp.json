@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "title": "Dell 266J9 / M4GWP Battery | Price in Kenya | [Store Name]",
+    "description": "Replacement battery for Dell Inspiron 14 5490 and G3 15 3590. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Dell 266J9 / M4GWP Battery | [Store Name]",
+    "description": "Replacement battery for Dell Inspiron 14 5490 and G3 15 3590. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/dell-266j9-m4gwp-inspiron-14-5490-g3-15-3590/",
+    "name": "Dell 266J9 / M4GWP Battery",
+    "full_name": "Replacement Battery for Dell Inspiron 14 5490 & more",
+    "sku": "266J9 / M4GWP",
+    "brand_name": "Dell",
+    "brand_slug": "dell",
+    "price": "5,500",
+    "price_raw": "5500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine-fit replacement battery (part no. 266J9 / M4GWP) for Dell Inspiron 14 5490 and G3 15 3590. Tested before dispatch, drop-in fit \u2014 no disassembly beyond the standard battery bay.",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "images": [
+      {
+        "src": "assets/images/products/dell-battery-266j9-m4gwp.webp",
+        "alt": "Dell 266J9 / M4GWP Battery \u2014 front view"
+      },
+      {
+        "src": "assets/images/products/dell-battery-266j9-m4gwp-1.webp",
+        "alt": "Dell 266J9 / M4GWP Battery \u2014 side view"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      },
+      {
+        "class": "badge--new-oem",
+        "label": "New OEM-Equivalent"
+      },
+      {
+        "class": "badge--warranty",
+        "label": "6-Month Warranty"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "266J9 / M4GWP"
+      },
+      {
+        "label": "Compatible Brand",
+        "value": "Dell"
+      },
+      {
+        "label": "Battery Type",
+        "value": "New OEM-Equivalent"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "compatible_models": [
+      "Inspiron 14 5490",
+      "G3 15 3590"
+    ],
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20this%20battery%20fits%20my%20laptop%3A%20Dell%20266J9%20%2F%20M4GWP%20Battery",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20266J9%20%2F%20M4GWP%20Battery%20%E2%80%94%20KES%205%2C500",
+    "related": []
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1&ndash;2 days upcountry",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "Do you offer warranty on this battery?",
+      "answer": "Yes \u2014 this battery carries a 6-month warranty from the date of purchase."
+    },
+    {
+      "question": "How do I install it?",
+      "answer": "It's a standard drop-in replacement \u2014 no disassembly beyond the battery bay. We can talk you through it on WhatsApp if needed."
+    },
+    {
+      "question": "Can I pay via M-Pesa?",
+      "answer": "Yes, M-Pesa is accepted, along with cash on delivery in select areas."
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "title": "Dell PKWVM Battery (95Wh, Genuine OEM) | Price in Kenya | [Store Name]",
+    "description": "Replacement battery for Dell Precision 7550, Precision 7560, Precision 7750 and Precision 7760. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Dell PKWVM Battery (95Wh, Genuine OEM) | [Store Name]",
+    "description": "Replacement battery for Dell Precision 7550, Precision 7560, Precision 7750 and Precision 7760. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/dell-pkwvm-precision-7550-7760/",
+    "name": "Dell PKWVM Battery (95Wh, Genuine OEM)",
+    "full_name": "Replacement Battery for Dell Precision 7550 & more",
+    "sku": "PKWVM",
+    "brand_name": "Dell",
+    "brand_slug": "dell",
+    "price": "6,200",
+    "price_raw": "6200",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine OEM battery (part no. PKWVM) for Dell Precision 7550, Precision 7560, Precision 7750 and Precision 7760. Tested before dispatch, drop-in fit \u2014 no disassembly beyond the standard battery bay.",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "images": [
+      {
+        "src": "assets/images/products/dell-battery-pkwvm.webp",
+        "alt": "Dell PKWVM Battery (95Wh, Genuine OEM) \u2014 front view"
+      },
+      {
+        "src": "assets/images/products/dell-battery-pkwvm-1.webp",
+        "alt": "Dell PKWVM Battery (95Wh, Genuine OEM) \u2014 side view"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      },
+      {
+        "class": "badge--genuine",
+        "label": "Genuine OEM"
+      },
+      {
+        "class": "badge--warranty",
+        "label": "6-Month Warranty"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "PKWVM"
+      },
+      {
+        "label": "Compatible Brand",
+        "value": "Dell"
+      },
+      {
+        "label": "Battery Type",
+        "value": "Genuine OEM"
+      },
+      {
+        "label": "Capacity",
+        "value": "95Wh"
+      },
+      {
+        "label": "Cell Configuration",
+        "value": "6-Cell"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "compatible_models": [
+      "Precision 7550",
+      "Precision 7560",
+      "Precision 7750",
+      "Precision 7760"
+    ],
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20this%20battery%20fits%20my%20laptop%3A%20Dell%20PKWVM%20Battery%20%2895Wh%2C%20Genuine%20OEM%29",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20PKWVM%20Battery%20%2895Wh%2C%20Genuine%20OEM%29%20%E2%80%94%20KES%206%2C200",
+    "related": []
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1&ndash;2 days upcountry",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "Do you offer warranty on this battery?",
+      "answer": "Yes \u2014 this battery carries a 6-month warranty from the date of purchase."
+    },
+    {
+      "question": "How do I install it?",
+      "answer": "It's a standard drop-in replacement \u2014 no disassembly beyond the battery bay. We can talk you through it on WhatsApp if needed."
+    },
+    {
+      "question": "Can I pay via M-Pesa?",
+      "answer": "Yes, M-Pesa is accepted, along with cash on delivery in select areas."
+    }
+  ]
+}
