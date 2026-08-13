@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "title": "Dell RJ40G Battery | Price in Kenya | Moderntech",
+    "description": "Replacement battery for Dell Latitude 5300, 5400 and 5500. 63Wh, 15.2V, Li-Ion. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Dell RJ40G Battery | Moderntech",
+    "description": "Replacement battery for Dell Latitude 5300, 5400 and 5500. 63Wh, 15.2V, Li-Ion. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/dell-rj40g-latitude-5300-5400-5500/",
+    "name": "Dell RJ40G Battery",
+    "full_name": "Replacement Battery for Dell Latitude 5300 / 5400 / 5500",
+    "sku": "RJ40G",
+    "brand_name": "Dell",
+    "brand_slug": "dell",
+    "price": "5,600",
+    "price_raw": "5600",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Replacement battery (Type RJ40G) for Dell Latitude 5300, 5400 and 5500. 63Wh, 15.2V Li-Ion, internal battery design. Tested before dispatch, drop-in fit \u2014 no disassembly beyond the standard battery bay.",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "images": [
+      {
+        "src": "assets/images/products/dell-battery-rj40g.webp",
+        "alt": "Dell RJ40G Battery \u2014 front view"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      },
+      {
+        "class": "badge--new-oem",
+        "label": "New OEM-Equivalent"
+      },
+      {
+        "class": "badge--warranty",
+        "label": "6-Month Warranty"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "RJ40G"
+      },
+      {
+        "label": "Compatible Brand",
+        "value": "Dell"
+      },
+      {
+        "label": "Battery Type",
+        "value": "New OEM-Equivalent"
+      },
+      {
+        "label": "Chemistry",
+        "value": "Li-Ion"
+      },
+      {
+        "label": "Capacity",
+        "value": "63Wh"
+      },
+      {
+        "label": "Voltage",
+        "value": "15.2V"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "compatible_models": [
+      "Latitude 5300",
+      "Latitude 5400",
+      "Latitude 5500"
+    ],
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20this%20battery%20fits%20my%20laptop%3A%20Dell%20RJ40G%20Battery",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20RJ40G%20Battery%20%E2%80%94%20KES%205%2C600",
+    "related": []
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1&ndash;2 days upcountry",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "Do you offer warranty on this battery?",
+      "answer": "Yes \u2014 this battery carries a 6-month warranty from the date of purchase."
+    },
+    {
+      "question": "How do I install it?",
+      "answer": "It's a standard drop-in replacement \u2014 no disassembly beyond the battery bay. We can talk you through it on WhatsApp if needed."
+    },
+    {
+      "question": "Can I pay via M-Pesa?",
+      "answer": "Yes, M-Pesa is accepted, along with cash on delivery in select areas."
+    }
+  ]
+}

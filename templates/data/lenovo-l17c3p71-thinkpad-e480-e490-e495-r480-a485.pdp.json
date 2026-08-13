@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "title": "Lenovo L17C3P71 Battery | Price in Kenya | Moderntech",
+    "description": "Replacement battery for Lenovo ThinkPad E480, E485, E490, E495, R480 and A485. 41Wh, 11.25V Li-Ion. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Lenovo L17C3P71 Battery | Moderntech",
+    "description": "Replacement battery for Lenovo ThinkPad E480, E485, E490, E495, R480 and A485. 41Wh, 11.25V Li-Ion. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/lenovo-l17c3p71-thinkpad-e480-e490-e495-r480-a485/",
+    "name": "Lenovo L17C3P71 Battery",
+    "full_name": "Replacement Battery for Lenovo ThinkPad E480 / E490 / E495 / R480 / A485",
+    "sku": "L17C3P71",
+    "brand_name": "Lenovo",
+    "brand_slug": "lenovo",
+    "price": "5,500",
+    "price_raw": "5500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Replacement battery (Model L17C3P71) for Lenovo ThinkPad E480, E485, E490, E495, R480 and A485, with possible fit for select ThinkPad E14 Gen 1 and E15 Gen 1 configurations. Also cross-compatible with L17L3P71, L17M3P71, L17M3P72 and L17L3P72. 3-cell, 41Wh, 11.25V Li-Ion. Tested before dispatch, drop-in fit — no disassembly beyond the standard battery bay.",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "images": [
+      {
+        "src": "assets/images/products/lenovo-battery-l17c3p71.webp",
+        "alt": "Lenovo L17C3P71 Battery — front view"
+      },
+      {
+        "src": "assets/images/products/lenovo-battery-l17c3p71-1.webp",
+        "alt": "Lenovo L17C3P71 Battery — front view"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      },
+      {
+        "class": "badge--new-oem",
+        "label": "New OEM-Equivalent"
+      },
+      {
+        "class": "badge--warranty",
+        "label": "6-Month Warranty"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "L17C3P71"
+      },
+      {
+        "label": "Compatible Brand",
+        "value": "Lenovo"
+      },
+      {
+        "label": "Battery Type",
+        "value": "New OEM-Equivalent"
+      },
+      {
+        "label": "Cells",
+        "value": "3-Cell"
+      },
+      {
+        "label": "Capacity",
+        "value": "41Wh"
+      },
+      {
+        "label": "Voltage",
+        "value": "11.25V"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "compatible_models": [
+      "ThinkPad E480",
+      "ThinkPad E485",
+      "ThinkPad E490",
+      "ThinkPad E495",
+      "ThinkPad R480",
+      "ThinkPad A485"
+    ],
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20this%20battery%20fits%20my%20laptop%3A%20Lenovo%20L17C3P71%20Battery",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20L17C3P71%20Battery%20%E2%80%94%20KES%205%2C500",
+    "related": []
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1&ndash;2 days upcountry",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "Do you offer warranty on this battery?",
+      "answer": "Yes — this battery carries a 6-month warranty from the date of purchase."
+    },
+    {
+      "question": "How do I install it?",
+      "answer": "It's a standard drop-in replacement — no disassembly beyond the battery bay. We can talk you through it on WhatsApp if needed."
+    },
+    {
+      "question": "Can I pay via M-Pesa?",
+      "answer": "Yes, M-Pesa is accepted, along with cash on delivery in select areas."
+    }
+  ]
+}

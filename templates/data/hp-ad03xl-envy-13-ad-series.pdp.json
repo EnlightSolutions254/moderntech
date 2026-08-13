@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "title": "HP AD03XL Battery | Price in Kenya | Moderntech",
+    "description": "Replacement battery for HP ENVY 13-ad Series. HP P/N 921409-271 / 921439-855, Regulatory Model HSTNN-DB8D. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "HP AD03XL Battery | Moderntech",
+    "description": "Replacement battery for HP ENVY 13-ad Series. HP P/N 921409-271 / 921439-855, Regulatory Model HSTNN-DB8D. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/hp-ad03xl-envy-13-ad-series/",
+    "name": "HP AD03XL Battery",
+    "full_name": "Replacement Battery for HP ENVY 13-ad Series",
+    "sku": "AD03XL / P/N 921409-271 / 921439-855",
+    "brand_name": "HP",
+    "brand_slug": "hp",
+    "price": "6,000",
+    "price_raw": "6000",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Replacement battery (Model AD03XL, HP P/N 921409-271 / 921439-855, Regulatory Model HSTNN-DB8D) for the HP TPN-Q192 family of computer products, including the ENVY 13-ad series (13-ad000 through 13-ad109TX configurations). 3-cell, 51.4Wh, 11.55V, 4500mAh nominal / 4450mAh rated, Li-Ion. Tested before dispatch, drop-in fit \u2014 no disassembly beyond the standard battery bay.",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "images": [
+      {
+        "src": "assets/images/products/hp-battery-ad03xl.webp",
+        "alt": "HP AD03XL Battery \u2014 front view"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      },
+      {
+        "class": "badge--new-oem",
+        "label": "New OEM-Equivalent"
+      },
+      {
+        "class": "badge--warranty",
+        "label": "6-Month Warranty"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "AD03XL / 921409-271"
+      },
+      {
+        "label": "Compatible Brand",
+        "value": "HP"
+      },
+      {
+        "label": "Battery Type",
+        "value": "New OEM-Equivalent"
+      },
+      {
+        "label": "Cells",
+        "value": "3-Cell"
+      },
+      {
+        "label": "Capacity",
+        "value": "51.4Wh"
+      },
+      {
+        "label": "Nominal Capacity",
+        "value": "4500mAh"
+      },
+      {
+        "label": "Rated Capacity",
+        "value": "4450mAh"
+      },
+      {
+        "label": "Voltage",
+        "value": "11.55V"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "compatible_models": [
+      "ENVY 13-ad000",
+      "ENVY 13-ad001",
+      "ENVY 13-ad002",
+      "ENVY 13-ad003",
+      "ENVY 13-ad004",
+      "ENVY 13-ad006",
+      "ENVY 13-ad007",
+      "ENVY 13-ad009",
+      "ENVY 13-ad010",
+      "ENVY 13-ad030",
+      "ENVY 13-ad101TX",
+      "ENVY 13-ad102TX",
+      "ENVY 13-ad103TX",
+      "ENVY 13-ad104TX",
+      "ENVY 13-ad105TX",
+      "ENVY 13-ad106TX",
+      "ENVY 13-ad107TX",
+      "ENVY 13-ad108TX",
+      "ENVY 13-ad109TX"
+    ],
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20this%20battery%20fits%20my%20laptop%3A%20HP%20AD03XL%20Battery",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20AD03XL%20Battery%20%E2%80%94%20KES%206%2C000",
+    "related": []
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1&ndash;2 days upcountry",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "Do you offer warranty on this battery?",
+      "answer": "Yes \u2014 this battery carries a 6-month warranty from the date of purchase."
+    },
+    {
+      "question": "How do I install it?",
+      "answer": "It's a standard drop-in replacement \u2014 no disassembly beyond the battery bay. We can talk you through it on WhatsApp if needed."
+    },
+    {
+      "question": "Can I pay via M-Pesa?",
+      "answer": "Yes, M-Pesa is accepted, along with cash on delivery in select areas."
+    }
+  ]
+}

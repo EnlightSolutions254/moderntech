@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "title": "HP KC04XL Battery | Price in Kenya | Moderntech",
+    "description": "Replacement battery for HP ENVY 13-AH, ENVY 13-AQ, ENVY x360 13-AG and ENVY x360 13-AR series. Part No. L08544-1C1 / HSTNN-IB8K. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "HP KC04XL Battery | Moderntech",
+    "description": "Replacement battery for HP ENVY 13-AH, ENVY 13-AQ, ENVY x360 13-AG and ENVY x360 13-AR series. Part No. L08544-1C1 / HSTNN-IB8K. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/hp-kc04xl-envy-13-envy-x360-13-series/",
+    "name": "HP KC04XL Battery",
+    "full_name": "Replacement Battery for HP ENVY 13 & ENVY x360 13 Series",
+    "sku": "KC04XL / L08544-1C1 / HSTNN-IB8K",
+    "brand_name": "HP",
+    "brand_slug": "hp",
+    "price": "5,000",
+    "price_raw": "5000",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Replacement battery (Model KC04XL, Part No. L08544-1C1, Regulatory Model HSTNN-IB8K) for HP ENVY 13-AH series, ENVY 13-AQ series, ENVY x360 13-AG series, ENVY x360 13-AR series, and selected ENVY x360 13M-AQ configurations. Also cross-compatible with KC04, KC04053XL, L08544-2B1, L08496-855 and HSTNN-DB8P. 4-cell, 53.2Wh, 15.4V Li-ion/Li-polymer, rated 3454mAh. Battery connector and dimensions vary by exact submodel — please confirm your laptop's specific model on WhatsApp before ordering. Tested before dispatch, drop-in fit — no disassembly beyond the standard battery bay.",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "images": [
+      {
+        "src": "assets/images/products/hp-battery-kc04xl.webp",
+        "alt": "HP KC04XL Battery — front view"
+      },
+      {
+        "src": "assets/images/products/hp-battery-kc04xl-1.webp",
+        "alt": "HP KC04XL Battery — front view"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      },
+      {
+        "class": "badge--new-oem",
+        "label": "New OEM-Equivalent"
+      },
+      {
+        "class": "badge--warranty",
+        "label": "6-Month Warranty"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "KC04XL / L08544-1C1"
+      },
+      {
+        "label": "Compatible Brand",
+        "value": "HP"
+      },
+      {
+        "label": "Battery Type",
+        "value": "New OEM-Equivalent"
+      },
+      {
+        "label": "Cells",
+        "value": "4-Cell"
+      },
+      {
+        "label": "Capacity",
+        "value": "53.2Wh (3454mAh Rated)"
+      },
+      {
+        "label": "Voltage",
+        "value": "15.4V"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "compatible_models": [
+      "ENVY 13-AH Series",
+      "ENVY 13-AQ Series",
+      "ENVY x360 13-AG Series",
+      "ENVY x360 13-AR Series",
+      "Selected ENVY x360 13M-AQ configurations"
+    ],
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20this%20battery%20fits%20my%20laptop%3A%20HP%20KC04XL%20Battery",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20KC04XL%20Battery%20%E2%80%94%20KES%205%2C000",
+    "related": []
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1&ndash;2 days upcountry",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "Do you offer warranty on this battery?",
+      "answer": "Yes — this battery carries a 6-month warranty from the date of purchase."
+    },
+    {
+      "question": "How do I install it?",
+      "answer": "It's a standard drop-in replacement — no disassembly beyond the battery bay. We can talk you through it on WhatsApp if needed."
+    },
+    {
+      "question": "Can I pay via M-Pesa?",
+      "answer": "Yes, M-Pesa is accepted, along with cash on delivery in select areas."
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "title": "Lenovo 45N1777 Battery | Price in Kenya | Moderntech",
+    "description": "Genuine ThinkPad 61+ battery, FRU 45N1777 / ASM 45N1775, for ThinkPad T470, T570, A475, P51s. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Lenovo 45N1777 Battery | Moderntech",
+    "description": "Genuine ThinkPad 61+ battery, FRU 45N1777 / ASM 45N1775, for ThinkPad T470, T570, A475, P51s. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/lenovo-45n1777-t470-t570-a475-p51s/",
+    "name": "Lenovo 45N1777 Battery",
+    "full_name": "Replacement Battery for Lenovo ThinkPad T470 / T570 / A475 / P51s",
+    "sku": "45N1777 / 45N1775",
+    "brand_name": "Lenovo",
+    "brand_slug": "lenovo",
+    "price": "4,800",
+    "price_raw": "4800",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "ThinkPad 61+ series battery (FRU 45N1777 / ASM 45N1775) for ThinkPad T470, T570, A475 and P51s. 6-cell, 48Wh, 10.8V. Tested before dispatch, drop-in fit — no disassembly beyond the standard battery bay.",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "images": [
+      {
+        "src": "assets/images/products/lenovo-battery-45n1777.webp",
+        "alt": "Lenovo 45N1777 Battery — front view"
+      },
+      {
+        "src": "assets/images/products/lenovo-battery-45n1777-1.webp",
+        "alt": "Lenovo 45N1777 Battery — front view"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      },
+      {
+        "class": "badge--new-oem",
+        "label": "New OEM-Equivalent"
+      },
+      {
+        "class": "badge--warranty",
+        "label": "6-Month Warranty"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "FRU 45N1777 / ASM 45N1775"
+      },
+      {
+        "label": "Compatible Brand",
+        "value": "Lenovo"
+      },
+      {
+        "label": "Battery Type",
+        "value": "New OEM-Equivalent"
+      },
+      {
+        "label": "Cells",
+        "value": "6-Cell"
+      },
+      {
+        "label": "Capacity",
+        "value": "48Wh"
+      },
+      {
+        "label": "Voltage",
+        "value": "10.8V"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "compatible_models": [
+      "ThinkPad T470",
+      "ThinkPad T570",
+      "ThinkPad A475",
+      "ThinkPad P51s",
+      "ThinkPad TP25 (25th Anniversary Edition)"
+    ],
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20this%20battery%20fits%20my%20laptop%3A%20Lenovo%2045N1777%20Battery",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%2045N1777%20Battery%20%E2%80%94%20KES%204%2C800",
+    "related": []
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1&ndash;2 days upcountry",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "Do you offer warranty on this battery?",
+      "answer": "Yes — this battery carries a 6-month warranty from the date of purchase."
+    },
+    {
+      "question": "How do I install it?",
+      "answer": "It's a standard drop-in replacement — no disassembly beyond the battery bay. We can talk you through it on WhatsApp if needed."
+    },
+    {
+      "question": "Can I pay via M-Pesa?",
+      "answer": "Yes, M-Pesa is accepted, along with cash on delivery in select areas."
+    }
+  ]
+}

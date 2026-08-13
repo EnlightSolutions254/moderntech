@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "title": "Dell F7HVR Battery | Price in Kenya | Moderntech",
+    "description": "Replacement battery for Dell Latitude E5470, E5570 and Precision 3510. 58Wh, 14.8V, Li-Polymer. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Dell F7HVR Battery | Moderntech",
+    "description": "Replacement battery for Dell Latitude E5470, E5570 and Precision 3510. 58Wh, 14.8V, Li-Polymer. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/dell-f7hvr-e5470-e5570-precision-3510/",
+    "name": "Dell F7HVR Battery",
+    "full_name": "Replacement Battery for Dell Latitude E5470 / E5570 / Precision 3510",
+    "sku": "F7HVR",
+    "brand_name": "Dell",
+    "brand_slug": "dell",
+    "price": "6,000",
+    "price_raw": "6000",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine-fit replacement battery (Type F7HVR) for Dell Latitude E5470, E5570 and Precision 3510. 4-cell, 58Wh, 14.8V Li-Polymer. Tested before dispatch, drop-in fit \u2014 no disassembly beyond the standard battery bay.",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "images": [
+      {
+        "src": "assets/images/products/dell-battery-f7hvr.webp",
+        "alt": "Dell F7HVR Battery \u2014 front view"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      },
+      {
+        "class": "badge--new-oem",
+        "label": "New OEM-Equivalent"
+      },
+      {
+        "class": "badge--warranty",
+        "label": "6-Month Warranty"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "F7HVR"
+      },
+      {
+        "label": "Compatible Brand",
+        "value": "Dell"
+      },
+      {
+        "label": "Battery Type",
+        "value": "New OEM-Equivalent"
+      },
+      {
+        "label": "Cells",
+        "value": "4-Cell"
+      },
+      {
+        "label": "Capacity",
+        "value": "58Wh"
+      },
+      {
+        "label": "Voltage",
+        "value": "14.8V"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "compatible_models": [
+      "Latitude E5470",
+      "Latitude E5570",
+      "Precision 3510"
+    ],
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20this%20battery%20fits%20my%20laptop%3A%20Dell%20F7HVR%20Battery",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20F7HVR%20Battery%20%E2%80%94%20KES%206%2C000",
+    "related": []
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1&ndash;2 days upcountry",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "Do you offer warranty on this battery?",
+      "answer": "Yes \u2014 this battery carries a 6-month warranty from the date of purchase."
+    },
+    {
+      "question": "How do I install it?",
+      "answer": "It's a standard drop-in replacement \u2014 no disassembly beyond the battery bay. We can talk you through it on WhatsApp if needed."
+    },
+    {
+      "question": "Can I pay via M-Pesa?",
+      "answer": "Yes, M-Pesa is accepted, along with cash on delivery in select areas."
+    }
+  ]
+}

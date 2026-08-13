@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "title": "Lenovo L18C2PB3 Battery | Price in Kenya | Moderntech",
+    "description": "Replacement battery for Lenovo IdeaPad S145 series, V145 series and V15 series. 35Wh, 7.6V Li-Ion. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Lenovo L18C2PB3 Battery | Moderntech",
+    "description": "Replacement battery for Lenovo IdeaPad S145 series, V145 series and V15 series. 35Wh, 7.6V Li-Ion. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/lenovo-l18c2pb3-ideapad-s145-v145-v15/",
+    "name": "Lenovo L18C2PB3 Battery",
+    "full_name": "Replacement Battery for Lenovo IdeaPad S145 / V145 / V15 Series",
+    "sku": "L18C2PB3",
+    "brand_name": "Lenovo",
+    "brand_slug": "lenovo",
+    "price": "5,000",
+    "price_raw": "5000",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Replacement battery (Model L18C2PB3) for Lenovo IdeaPad S145 series, V145 series and select V15 series laptops. Also cross-compatible with L18M2PB3, L18L2PB3, L18M2PF3 and L18L2PF3. 2-cell, 35Wh, 7.6V Li-Ion. Tested before dispatch, drop-in fit — no disassembly beyond the standard battery bay.",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "images": [
+      {
+        "src": "assets/images/products/lenovo-battery-l18c2pb3.webp",
+        "alt": "Lenovo L18C2PB3 Battery — front view"
+      },
+      {
+        "src": "assets/images/products/lenovo-battery-l18c2pb3-1.webp",
+        "alt": "Lenovo L18C2PB3 Battery — front view"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      },
+      {
+        "class": "badge--new-oem",
+        "label": "New OEM-Equivalent"
+      },
+      {
+        "class": "badge--warranty",
+        "label": "6-Month Warranty"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "L18C2PB3"
+      },
+      {
+        "label": "Compatible Brand",
+        "value": "Lenovo"
+      },
+      {
+        "label": "Battery Type",
+        "value": "New OEM-Equivalent"
+      },
+      {
+        "label": "Cells",
+        "value": "2-Cell"
+      },
+      {
+        "label": "Capacity",
+        "value": "35Wh"
+      },
+      {
+        "label": "Voltage",
+        "value": "7.6V"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "compatible_models": [
+      "IdeaPad S145-14IWL",
+      "IdeaPad S145-15IWL",
+      "IdeaPad S145-15API",
+      "IdeaPad S145-15AST",
+      "IdeaPad S145-15IKB",
+      "IdeaPad S145-15IGM",
+      "IdeaPad S145-15IIL",
+      "V145 Series",
+      "V15 Series"
+    ],
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20this%20battery%20fits%20my%20laptop%3A%20Lenovo%20L18C2PB3%20Battery",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20L18C2PB3%20Battery%20%E2%80%94%20KES%205%2C000",
+    "related": []
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1&ndash;2 days upcountry",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "Do you offer warranty on this battery?",
+      "answer": "Yes — this battery carries a 6-month warranty from the date of purchase."
+    },
+    {
+      "question": "How do I install it?",
+      "answer": "It's a standard drop-in replacement — no disassembly beyond the battery bay. We can talk you through it on WhatsApp if needed."
+    },
+    {
+      "question": "Can I pay via M-Pesa?",
+      "answer": "Yes, M-Pesa is accepted, along with cash on delivery in select areas."
+    }
+  ]
+}

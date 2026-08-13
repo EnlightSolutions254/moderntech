@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "title": "HP LP03XL Battery | Price in Kenya | Moderntech",
+    "description": "Replacement battery for HP ENVY 14-J, ENVY 15-AE, ENVY 15T-AE and selected ENVY M6-P series. HSTNN-DB7C. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "HP LP03XL Battery | Moderntech",
+    "description": "Replacement battery for HP ENVY 14-J, ENVY 15-AE, ENVY 15T-AE and selected ENVY M6-P series. HSTNN-DB7C. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/hp-lp03xl-envy-14-j-15-ae-m6-p-series/",
+    "name": "HP LP03XL Battery",
+    "full_name": "Replacement Battery for HP ENVY 14-J / 15-AE / M6-P Series",
+    "sku": "LP03XL / HSTNN-DB7C",
+    "brand_name": "HP",
+    "brand_slug": "hp",
+    "price": "4,000",
+    "price_raw": "4000",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Replacement battery (Model LP03XL, Regulatory Model HSTNN-DB7C) for HP ENVY 14-J series, ENVY 15-AE series, ENVY 15T-AE series, and selected ENVY M6-P series including M6-P113DX and M6-P013DX. Also cross-compatible with 804072-241, 804072-541, 805094-005, 807211-121, 807211-221, 807211-241 and 807417-005. 3-cell, 60Wh, 11.4V Li-ion, approx. 5,260mAh. Tested before dispatch, drop-in fit — no disassembly beyond the standard battery bay.",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "images": [
+      {
+        "src": "assets/images/products/hp-battery-lp03xl.webp",
+        "alt": "HP LP03XL Battery — front view"
+      },
+      {
+        "src": "assets/images/products/hp-battery-lp03xl-1.webp",
+        "alt": "HP LP03XL Battery — front view"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      },
+      {
+        "class": "badge--new-oem",
+        "label": "New OEM-Equivalent"
+      },
+      {
+        "class": "badge--warranty",
+        "label": "6-Month Warranty"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "LP03XL / HSTNN-DB7C"
+      },
+      {
+        "label": "Compatible Brand",
+        "value": "HP"
+      },
+      {
+        "label": "Battery Type",
+        "value": "New OEM-Equivalent"
+      },
+      {
+        "label": "Cells",
+        "value": "3-Cell"
+      },
+      {
+        "label": "Capacity",
+        "value": "60Wh (~5,260mAh)"
+      },
+      {
+        "label": "Voltage",
+        "value": "11.4V"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "compatible_models": [
+      "ENVY 14-J Series",
+      "ENVY 15-AE Series",
+      "ENVY 15T-AE Series",
+      "Selected ENVY M6-P Series (M6-P113DX, M6-P013DX)"
+    ],
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20this%20battery%20fits%20my%20laptop%3A%20HP%20LP03XL%20Battery",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20LP03XL%20Battery%20%E2%80%94%20KES%204%2C000",
+    "related": []
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1&ndash;2 days upcountry",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "Do you offer warranty on this battery?",
+      "answer": "Yes — this battery carries a 6-month warranty from the date of purchase."
+    },
+    {
+      "question": "How do I install it?",
+      "answer": "It's a standard drop-in replacement — no disassembly beyond the battery bay. We can talk you through it on WhatsApp if needed."
+    },
+    {
+      "question": "Can I pay via M-Pesa?",
+      "answer": "Yes, M-Pesa is accepted, along with cash on delivery in select areas."
+    }
+  ]
+}

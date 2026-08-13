@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "title": "HP HV03XL Battery — KES 5,000 | Moderntech",
+    "description": "Genuine HP HV03XL battery — fits HP x360 310 G2 (K12 Series). Tested before dispatch, with warranty support."
+  },
+  "og": {
+    "title": "HP HV03XL Battery | Moderntech",
+    "description": "Genuine HP HV03XL battery — fits HP x360 310 G2 (K12 Series). Tested before dispatch, with warranty support."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "delivery_note": "Same-day delivery in Nairobi · Countrywide shipping available",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "How do I know this battery fits my laptop?",
+      "answer": "This listing shows exact compatible models and part numbers. If you're unsure of your laptop's exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Are these original or compatible batteries?",
+      "answer": "It's stated clearly above — Original (OEM) or Replacement (OEM-equivalent)."
+    },
+    {
+      "question": "What warranty comes with this battery?",
+      "answer": "This battery carries a 6-month warranty."
+    }
+  ],
+  "product": {
+    "url": "/shop/laptop-batteries/hp-hv03xl-x360-310-g2/",
+    "name": "HP HV03XL Battery",
+    "full_name": "HP HV03XL Battery (48Wh, HP x360 310 G2)",
+    "sku": "HP-HV03XL",
+    "brand_name": "HP",
+    "brand_slug": "hp",
+    "price": "5,000",
+    "price_raw": "5000",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine HP HV03XL battery — fits HP x360 310 G2 (K12 Series). Tested before dispatch, with warranty support.",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      },
+      {
+        "class": "badge--original",
+        "label": "Genuine OEM"
+      }
+    ],
+    "images": [
+      {
+        "src": "assets/images/products/hp-battery-hv03xl.webp",
+        "alt": "Replacement battery — HP HV03XL Battery"
+      },
+      {
+        "src": "assets/images/products/hp-battery-hv03xl-1.webp",
+        "alt": "Replacement battery — HP HV03XL Battery"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Part Number / Compatible Codes",
+        "value": "HV03XL, 818418-421, HSTNN-LB7B"
+      },
+      {
+        "label": "Battery Type",
+        "value": "Genuine OEM"
+      },
+      {
+        "label": "Voltage / Capacity",
+        "value": "11.4V, 48Wh (4220mAh)"
+      },
+      {
+        "label": "Cell Configuration",
+        "value": "3ICP7/60/80"
+      },
+      {
+        "label": "Condition",
+        "value": "Brand New"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "compatible_models": [
+      "HP x360 310 G2 (K12 Series)"
+    ],
+    "related": [
+      {
+        "url": "/shop/laptop-batteries/hp-pk03xl-spectre-x360-13-4000-series/",
+        "image": "assets/images/products/hp-battery-pk03xl.webp",
+        "alt": "Replacement battery — HP PK03XL Battery",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "HP PK03XL Battery",
+        "tags": [
+          "Spectre x360 13-4000 Series",
+          "Spectre x360 13-4100 Series"
+        ],
+        "price": "5,800",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20PK03XL%20Battery%20%E2%80%94%20KES%205%2C800"
+      },
+      {
+        "url": "/shop/laptop-batteries/hp-pg03xl-pavilion-gaming-15-dk-omen-5x/",
+        "image": "assets/images/products/hp-battery-pg03xl.webp",
+        "alt": "Replacement battery — HP PG03XL Battery",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "HP PG03XL Battery",
+        "tags": [
+          "Pavilion Gaming 15-DK Series",
+          "Pavilion Gaming 15-EC Series"
+        ],
+        "price": "5,500",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20PG03XL%20Battery%20%E2%80%94%20KES%205%2C500"
+      },
+      {
+        "url": "/shop/laptop-batteries/hp-rh03xl-probook-g8-series/",
+        "image": "assets/images/products/hp-battery-rh03xl.webp",
+        "alt": "Replacement battery — HP RH03XL Battery",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "HP RH03XL Battery",
+        "tags": [
+          "ProBook 430 G8",
+          "ProBook 440 G8"
+        ],
+        "price": "4,800",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20RH03XL%20Battery%20%E2%80%94%20KES%204%2C800"
+      }
+    ],
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20HV03XL%20Battery%20%E2%80%94%20KES%205%2C000",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20this%20battery%20%28HP%20HV03XL%20Battery%29%20fits%20my%20laptop%3F"
+  }
+}

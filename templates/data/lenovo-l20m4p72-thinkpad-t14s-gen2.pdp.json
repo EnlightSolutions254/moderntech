@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "title": "Lenovo L20M4P72 Battery | Price in Kenya | Moderntech",
+    "description": "Replacement battery for Lenovo ThinkPad T14s Gen 2. FRU 5B10W51814 / ASM SB10W51915. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Lenovo L20M4P72 Battery | Moderntech",
+    "description": "Replacement battery for Lenovo ThinkPad T14s Gen 2. FRU 5B10W51814 / ASM SB10W51915. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/lenovo-l20m4p72-thinkpad-t14s-gen2/",
+    "name": "Lenovo L20M4P72 Battery",
+    "full_name": "Replacement Battery for Lenovo ThinkPad T14s Gen 2",
+    "sku": "L20M4P72 / FRU 5B10W51814 / ASM SB10W51915",
+    "brand_name": "Lenovo",
+    "brand_slug": "lenovo",
+    "price": "7,500",
+    "price_raw": "7500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Replacement battery (Model L20M4P72, FRU 5B10W51814, ASM SB10W51915) for the Lenovo ThinkPad T14s Gen 2 — the strongest confirmed application for this battery. Also cross-compatible with L20L4P72, L20C4P72, L20D4P72, SB10W51914 and SB10W51916. 4-cell, 57Wh typical / 55Wh rated, 15.36V Li-Ion, manufactured by Simplo Technology. Tested before dispatch, drop-in fit — no disassembly beyond the standard battery bay.",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "images": [
+      {
+        "src": "assets/images/products/IMG_1432.webp",
+        "alt": "Lenovo L20M4P72 Battery — label detail"
+      },
+      {
+        "src": "assets/images/products/IMG_1432.webp",
+        "alt": "Lenovo L20M4P72 Battery — front view"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      },
+      {
+        "class": "badge--new-oem",
+        "label": "New OEM-Equivalent"
+      },
+      {
+        "class": "badge--warranty",
+        "label": "6-Month Warranty"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "L20M4P72 / FRU 5B10W51814"
+      },
+      {
+        "label": "Compatible Brand",
+        "value": "Lenovo"
+      },
+      {
+        "label": "Battery Type",
+        "value": "New OEM-Equivalent"
+      },
+      {
+        "label": "Cells",
+        "value": "4-Cell"
+      },
+      {
+        "label": "Capacity",
+        "value": "57Wh (Typical) / 55Wh (Rated)"
+      },
+      {
+        "label": "Voltage",
+        "value": "15.36V"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "compatible_models": [
+      "ThinkPad T14s Gen 2"
+    ],
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20this%20battery%20fits%20my%20laptop%3A%20Lenovo%20L20M4P72%20Battery",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20L20M4P72%20Battery%20%E2%80%94%20KES%207%2C500",
+    "related": []
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1&ndash;2 days upcountry",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "Do you offer warranty on this battery?",
+      "answer": "Yes — this battery carries a 6-month warranty from the date of purchase."
+    },
+    {
+      "question": "How do I install it?",
+      "answer": "It's a standard drop-in replacement — no disassembly beyond the battery bay. We can talk you through it on WhatsApp if needed."
+    },
+    {
+      "question": "Can I pay via M-Pesa?",
+      "answer": "Yes, M-Pesa is accepted, along with cash on delivery in select areas."
+    }
+  ]
+}

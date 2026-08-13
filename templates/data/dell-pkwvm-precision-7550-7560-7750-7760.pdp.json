@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "title": "Dell PKWVM Battery | Price in Kenya | Moderntech",
+    "description": "Replacement battery for Dell Precision 7550, 7560, 7750 and 7760. Part No. 0PKWVM / CR72X. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Dell PKWVM Battery | Moderntech",
+    "description": "Replacement battery for Dell Precision 7550, 7560, 7750 and 7760. Part No. 0PKWVM / CR72X. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/dell-pkwvm-precision-7550-7560-7750-7760/",
+    "name": "Dell PKWVM Battery",
+    "full_name": "Replacement Battery for Dell Precision 7550 / 7560 / 7750 / 7760",
+    "sku": "PKWVM / 0PKWVM / CR72X",
+    "brand_name": "Dell",
+    "brand_slug": "dell",
+    "price": "6,700",
+    "price_raw": "6700",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Replacement battery (Model PKWVM, Part No. 0PKWVM, CR72X) for Dell Precision 7550, Precision 7560, Precision 7750 and Precision 7760. Also cross-compatible with 0CR72X, C903V, P44E, P44E001, P44E002, P93F, P93F001, P93F002, 0447VR, 447VR and 068N03. 6-cell, 95Wh, 11.4V Li-ion/Li-Polymer, rated 7,922mAh, manufactured by Simplo Technology. Tested before dispatch, drop-in fit — no disassembly beyond the standard battery bay.",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "images": [
+      {
+        "src": "assets/images/products/dell-battery-pkwvm.webp",
+        "alt": "Dell PKWVM Battery — front view"
+      },
+      {
+        "src": "assets/images/products/dell-battery-pkwvm-1.webp",
+        "alt": "Dell PKWVM Battery — front view"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      },
+      {
+        "class": "badge--new-oem",
+        "label": "New OEM-Equivalent"
+      },
+      {
+        "class": "badge--warranty",
+        "label": "6-Month Warranty"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "PKWVM / 0PKWVM"
+      },
+      {
+        "label": "Compatible Brand",
+        "value": "Dell"
+      },
+      {
+        "label": "Battery Type",
+        "value": "New OEM-Equivalent"
+      },
+      {
+        "label": "Cells",
+        "value": "6-Cell"
+      },
+      {
+        "label": "Capacity",
+        "value": "95Wh (7,922mAh Rated)"
+      },
+      {
+        "label": "Voltage",
+        "value": "11.4V"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "compatible_models": [
+      "Precision 7550",
+      "Precision 7560",
+      "Precision 7750",
+      "Precision 7760"
+    ],
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20this%20battery%20fits%20my%20laptop%3A%20Dell%20PKWVM%20Battery",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20PKWVM%20Battery%20%E2%80%94%20KES%206%2C700",
+    "related": []
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1&ndash;2 days upcountry",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "Do you offer warranty on this battery?",
+      "answer": "Yes — this battery carries a 6-month warranty from the date of purchase."
+    },
+    {
+      "question": "How do I install it?",
+      "answer": "It's a standard drop-in replacement — no disassembly beyond the battery bay. We can talk you through it on WhatsApp if needed."
+    },
+    {
+      "question": "Can I pay via M-Pesa?",
+      "answer": "Yes, M-Pesa is accepted, along with cash on delivery in select areas."
+    }
+  ]
+}

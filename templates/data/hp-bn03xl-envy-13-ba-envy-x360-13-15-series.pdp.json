@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "title": "HP BN03XL Battery | Price in Kenya | Moderntech",
+    "description": "Replacement battery for HP ENVY 13-ba, ENVY x360 13-ay/13-bd and ENVY x360 15-ed/15-ee/15-es/15-eu series. Part No. L76965-AC1 / HSTNN-OB1O. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "HP BN03XL Battery | Moderntech",
+    "description": "Replacement battery for HP ENVY 13-ba, ENVY x360 13-ay/13-bd and ENVY x360 15-ed/15-ee/15-es/15-eu series. Part No. L76965-AC1 / HSTNN-OB1O. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/hp-bn03xl-envy-13-ba-envy-x360-13-15-series/",
+    "name": "HP BN03XL Battery",
+    "full_name": "Replacement Battery for HP ENVY 13-ba & ENVY x360 13/15 Series",
+    "sku": "BN03XL / L76965-AC1 / HSTNN-OB1O",
+    "brand_name": "HP",
+    "brand_slug": "hp",
+    "price": "4,800",
+    "price_raw": "4800",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Replacement battery (Model BN03XL, Part No. L76965-AC1, Regulatory Model HSTNN-OB1O) for HP ENVY 13-ba series, ENVY x360 13-ay series, ENVY x360 13-bd series, ENVY x360 15-ed series, ENVY x360 15-ee series, ENVY x360 15-es series, ENVY x360 15-eu series, and selected 15-ew configurations. Also cross-compatible with L76965-2C1, L76965-271, L77034-005, L73965-271, L76985-271 and HSTNN-DB9N. 3-cell, 51Wh, 11.55V Li-Polymer, rated 4195mAh. Tested before dispatch, drop-in fit — no disassembly beyond the standard battery bay.",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "images": [
+      {
+        "src": "assets/images/products/hp-battery-bn03xl.webp",
+        "alt": "HP BN03XL Battery — front view"
+      },
+      {
+        "src": "assets/images/products/hp-battery-bn03xl-1.webp",
+        "alt": "HP BN03XL Battery — front view"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      },
+      {
+        "class": "badge--new-oem",
+        "label": "New OEM-Equivalent"
+      },
+      {
+        "class": "badge--warranty",
+        "label": "6-Month Warranty"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "BN03XL / L76965-AC1"
+      },
+      {
+        "label": "Compatible Brand",
+        "value": "HP"
+      },
+      {
+        "label": "Battery Type",
+        "value": "New OEM-Equivalent"
+      },
+      {
+        "label": "Cells",
+        "value": "3-Cell"
+      },
+      {
+        "label": "Capacity",
+        "value": "51Wh (4195mAh Rated)"
+      },
+      {
+        "label": "Voltage",
+        "value": "11.55V"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "compatible_models": [
+      "ENVY 13-ba Series",
+      "ENVY x360 13-ay Series",
+      "ENVY x360 13-bd Series",
+      "ENVY x360 15-ed Series",
+      "ENVY x360 15-ee Series",
+      "ENVY x360 15-es Series",
+      "ENVY x360 15-eu Series",
+      "Selected ENVY x360 15-ew configurations"
+    ],
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20this%20battery%20fits%20my%20laptop%3A%20HP%20BN03XL%20Battery",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20BN03XL%20Battery%20%E2%80%94%20KES%204%2C800",
+    "related": []
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1&ndash;2 days upcountry",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "Do you offer warranty on this battery?",
+      "answer": "Yes — this battery carries a 6-month warranty from the date of purchase."
+    },
+    {
+      "question": "How do I install it?",
+      "answer": "It's a standard drop-in replacement — no disassembly beyond the battery bay. We can talk you through it on WhatsApp if needed."
+    },
+    {
+      "question": "Can I pay via M-Pesa?",
+      "answer": "Yes, M-Pesa is accepted, along with cash on delivery in select areas."
+    }
+  ]
+}

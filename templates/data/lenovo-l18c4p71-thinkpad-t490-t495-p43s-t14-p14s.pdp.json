@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "title": "Lenovo L18C4P71 Battery | Price in Kenya | Moderntech",
+    "description": "Replacement battery for Lenovo ThinkPad T490, T495, P43s, T14 and P14s. FRU 02DL006 / ASM SB10W87664. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Lenovo L18C4P71 Battery | Moderntech",
+    "description": "Replacement battery for Lenovo ThinkPad T490, T495, P43s, T14 and P14s. FRU 02DL006 / ASM SB10W87664. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/lenovo-l18c4p71-thinkpad-t490-t495-p43s-t14-p14s/",
+    "name": "Lenovo L18C4P71 Battery",
+    "full_name": "Replacement Battery for Lenovo ThinkPad T490 / T495 / P43s / T14 / P14s",
+    "sku": "L18C4P71 / FRU 02DL006 / ASM SB10W87664",
+    "brand_name": "Lenovo",
+    "brand_slug": "lenovo",
+    "price": "5,800",
+    "price_raw": "5800",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Replacement battery (Model L18C4P71, FRU 02DL006, ASM SB10W87664) for Lenovo ThinkPad T490, ThinkPad T495, ThinkPad P43s, and select configurations of ThinkPad T14 Gen 1 (AMD/Intel) and ThinkPad P14s Gen 1. Also cross-compatible with L18L4P71 and L18M4P71. 4-cell, 51Wh, 15.36V Li-Ion. Tested before dispatch, drop-in fit — no disassembly beyond the standard battery bay.",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "images": [
+      {
+        "src": "assets/images/products/lenovo-battery-l18c4p71.webp",
+        "alt": "Lenovo L18C4P71 Battery — front view"
+      },
+      {
+        "src": "assets/images/products/lenovo-battery-l18c4p71-1.webp",
+        "alt": "Lenovo L18C4P71 Battery — front view"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      },
+      {
+        "class": "badge--new-oem",
+        "label": "New OEM-Equivalent"
+      },
+      {
+        "class": "badge--warranty",
+        "label": "6-Month Warranty"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "L18C4P71 / FRU 02DL006"
+      },
+      {
+        "label": "Compatible Brand",
+        "value": "Lenovo"
+      },
+      {
+        "label": "Battery Type",
+        "value": "New OEM-Equivalent"
+      },
+      {
+        "label": "Cells",
+        "value": "4-Cell"
+      },
+      {
+        "label": "Capacity",
+        "value": "51Wh"
+      },
+      {
+        "label": "Voltage",
+        "value": "15.36V"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "compatible_models": [
+      "ThinkPad T490",
+      "ThinkPad T495",
+      "ThinkPad P43s",
+      "ThinkPad T14 Gen 1 (AMD)",
+      "ThinkPad T14 Gen 1 (Intel)",
+      "ThinkPad P14s Gen 1"
+    ],
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20this%20battery%20fits%20my%20laptop%3A%20Lenovo%20L18C4P71%20Battery",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20L18C4P71%20Battery%20%E2%80%94%20KES%205%2C800",
+    "related": []
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1&ndash;2 days upcountry",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "Do you offer warranty on this battery?",
+      "answer": "Yes — this battery carries a 6-month warranty from the date of purchase."
+    },
+    {
+      "question": "How do I install it?",
+      "answer": "It's a standard drop-in replacement — no disassembly beyond the battery bay. We can talk you through it on WhatsApp if needed."
+    },
+    {
+      "question": "Can I pay via M-Pesa?",
+      "answer": "Yes, M-Pesa is accepted, along with cash on delivery in select areas."
+    }
+  ]
+}

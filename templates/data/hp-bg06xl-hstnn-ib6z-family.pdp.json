@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "title": "HP BG06XL Battery | Price in Kenya | Moderntech",
+    "description": "Replacement battery for the HP HSTNN-IB6Z family of computer products. HP P/N 804175-1C1, Spare L68299-001. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "HP BG06XL Battery | Moderntech",
+    "description": "Replacement battery for the HP HSTNN-IB6Z family of computer products. HP P/N 804175-1C1, Spare L68299-001. 6-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/hp-bg06xl-hstnn-ib6z-family/",
+    "name": "HP BG06XL Battery",
+    "full_name": "Replacement Battery for HP HSTNN-IB6Z Family",
+    "sku": "BG06XL / P/N 804175-1C1 / Spare L68299-001",
+    "brand_name": "HP",
+    "brand_slug": "hp",
+    "price": "6,500",
+    "price_raw": "6500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Replacement battery (Model BG06XL, HP P/N 804175-1C1, Spare L68299-001, Regulatory Model HSTNN-IB6Z) for the HP series HSTNN-IB6Z family of computer products. 43Wh, 11.4V, 3780mAh Li-Ion. Tested before dispatch, drop-in fit \u2014 no disassembly beyond the standard battery bay. Please confirm your exact laptop model with us on WhatsApp before ordering, as specific model compatibility for this battery has not yet been individually verified.",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "images": [
+      {
+        "src": "assets/images/products/hp-battery-bg06xl.webp",
+        "alt": "HP BG06XL Battery \u2014 front view"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      },
+      {
+        "class": "badge--new-oem",
+        "label": "New OEM-Equivalent"
+      },
+      {
+        "class": "badge--warranty",
+        "label": "6-Month Warranty"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "BG06XL / 804175-1C1"
+      },
+      {
+        "label": "Compatible Brand",
+        "value": "HP"
+      },
+      {
+        "label": "Battery Type",
+        "value": "New OEM-Equivalent"
+      },
+      {
+        "label": "Capacity",
+        "value": "43Wh"
+      },
+      {
+        "label": "Rated Capacity",
+        "value": "3780mAh"
+      },
+      {
+        "label": "Voltage",
+        "value": "11.4V"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "compatible_models": [
+      "HP series HSTNN-IB6Z family computer products"
+    ],
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20this%20battery%20fits%20my%20laptop%3A%20HP%20BG06XL%20Battery",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20BG06XL%20Battery%20%E2%80%94%20KES%206%2C500",
+    "related": []
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1&ndash;2 days upcountry",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "Do you offer warranty on this battery?",
+      "answer": "Yes \u2014 this battery carries a 6-month warranty from the date of purchase."
+    },
+    {
+      "question": "How do I install it?",
+      "answer": "It's a standard drop-in replacement \u2014 no disassembly beyond the battery bay. We can talk you through it on WhatsApp if needed."
+    },
+    {
+      "question": "Can I pay via M-Pesa?",
+      "answer": "Yes, M-Pesa is accepted, along with cash on delivery in select areas."
+    }
+  ]
+}
