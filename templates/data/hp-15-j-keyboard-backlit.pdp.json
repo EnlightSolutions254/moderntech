@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "title": "HP Pavilion 15-j Series Keyboard — Backlit, US Layout | [Store Name]",
+    "description": "Genuine replacement backlit keyboard for the HP Pavilion/Envy 15-j series. US layout. Warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "HP Pavilion 15-j Keyboard (Backlit) | [Store Name]",
+    "description": "Genuine backlit replacement keyboard for the HP Pavilion/Envy 15-j series. In stock, warranty included."
+  },
+  "category": {
+    "slug": "keyboards",
+    "url": "/shop/keyboards/",
+    "name": "Keyboards"
+  },
+  "product": {
+    "url": "/shop/keyboards/hp-15-j-keyboard-backlit/",
+    "brand_slug": "hp",
+    "brand_name": "HP",
+    "sku": "KEY-HP-15J-US-BL",
+    "type_label": "keyboard",
+    "type_label_cap": "Keyboard",
+    "name": "HP 15-j Keyboard (Backlit)",
+    "full_name": "HP Pavilion 15-j Series Replacement Keyboard — Backlit, US Layout",
+    "images": [
+      { "src": "assets/images/products/hp-keyboard-15j-backlit.webp", "alt": "Replacement backlit keyboard for HP Pavilion 15-j series" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "3,500",
+    "price_raw": "3500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Direct-fit backlit replacement keyboard for the HP Pavilion and Envy 15-j series. US English layout, matching the original key profile and connector, including the extra backlight cable. Tested before dispatch. Confirm your exact model before ordering — the same chassis was also sold with a non-backlit keyboard option.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%2015-j%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%203%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20HP%2015-j%20Keyboard%20%28Backlit%29",
+    "compatible_models": [
+      "HP Pavilion 15-j000 series",
+      "HP Pavilion 15-j100 series",
+      "HP Envy 15-j000 series",
+      "HP Envy 15-j100 series"
+    ],
+    "specs": [
+      { "label": "Layout", "value": "US English (QWERTY)" },
+      { "label": "Backlight", "value": "Yes" },
+      { "label": "Color", "value": "Black" },
+      { "label": "Fitting", "value": "Direct replacement, no adhesive required" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 Months" }
+    ],
+    "related": [
+      {
+        "url": "/shop/keyboards/hp-15-j-keyboard-non-backlit/",
+        "image": "assets/images/products/hp-keyboard-15j-nonbacklit.webp",
+        "alt": "Replacement non-backlit keyboard for HP Pavilion 15-j series",
+        "name": "HP 15-j Keyboard (Non-Backlit)",
+        "tags": ["15-j series"],
+        "price": "2,500",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%2015-j%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C500"
+      },
+      {
+        "url": "/shop/keyboards/lenovo-x1-carbon-3rd-gen-keyboard/",
+        "image": "assets/images/products/lenovo-keyboard-x1carbon-gen3.webp",
+        "alt": "Replacement backlit keyboard for Lenovo ThinkPad X1 Carbon 3rd Gen",
+        "name": "Lenovo ThinkPad X1 Carbon 3rd Gen Keyboard",
+        "tags": ["X1 Carbon 3rd Gen", "Backlit"],
+        "price": "8,500",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20X1%20Carbon%203rd%20Gen%20Keyboard%20%E2%80%94%20KES%208%2C500"
+      }
+    ]
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Keyboard Questions",
+  "faqs": [
+    { "question": "How do I know this keyboard fits my laptop?", "answer": "This fits the HP Pavilion/Envy 15-j series. Since this chassis was sold with both backlit and non-backlit keyboards, send us a photo of the sticker under your laptop on WhatsApp to confirm your exact variant." },
+    { "question": "Is it backlit?", "answer": "Yes, this version includes a 2-level backlight, matching the original." },
+    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+  ]
+}

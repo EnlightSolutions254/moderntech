@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "title": "HP ProBook 450/455/470 G5 Keyboard — Non-Backlit, US Layout | [Store Name]",
+    "description": "Genuine replacement non-backlit keyboard for the HP ProBook 450 G5, 455 G5 and 470 G5. US layout. Warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "HP ProBook 450/455/470 G5 Keyboard (Non-Backlit) | [Store Name]",
+    "description": "Genuine non-backlit replacement keyboard for the HP ProBook 450/455/470 G5 series. In stock, warranty included."
+  },
+  "category": {
+    "slug": "keyboards",
+    "url": "/shop/keyboards/",
+    "name": "Keyboards"
+  },
+  "product": {
+    "url": "/shop/keyboards/hp-probook-450-455-470-g5-keyboard-non-backlit/",
+    "brand_slug": "hp",
+    "brand_name": "HP",
+    "sku": "KEY-HP-450455470G5-US-NB",
+    "type_label": "keyboard",
+    "type_label_cap": "Keyboard",
+    "name": "HP ProBook 450/455/470 G5 Keyboard (Non-Backlit)",
+    "full_name": "HP ProBook 450 G5, 455 G5 &amp; 470 G5 Replacement Keyboard — Non-Backlit, US Layout",
+    "images": [
+      { "src": "assets/images/products/hp-keyboard-450455470g5-nonbacklit.webp", "alt": "Replacement non-backlit keyboard for HP ProBook 450/455/470 G5" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "2,500",
+    "price_raw": "2500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Direct-fit non-backlit replacement keyboard for the HP ProBook 450 G5, 455 G5 and 470 G5. US English layout with frame. Note: this is the G5 keyboard and does not fit the older G3/G4 or newer G6/G7 ProBook 450 models — those use different keyboards. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20ProBook%20450%2F455%2F470%20G5%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20HP%20ProBook%20450%2F455%2F470%20G5%20Keyboard%20%28Non-Backlit%29",
+    "compatible_models": [
+      "HP ProBook 450 G5",
+      "HP ProBook 455 G5",
+      "HP ProBook 470 G5"
+    ],
+    "specs": [
+      { "label": "Layout", "value": "US English (QWERTY)" },
+      { "label": "Backlight", "value": "No" },
+      { "label": "Color", "value": "Black" },
+      { "label": "Frame", "value": "Included" },
+      { "label": "Fitting", "value": "Direct replacement, no adhesive required" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 Months" }
+    ],
+    "related": [
+      {
+        "url": "/shop/keyboards/hp-probook-450-455-470-g5-keyboard-backlit/",
+        "image": "assets/images/products/hp-keyboard-450455470g5-backlit.webp",
+        "alt": "Replacement backlit keyboard for HP ProBook 450/455/470 G5",
+        "name": "HP ProBook 450/455/470 G5 Keyboard (Backlit)",
+        "tags": ["450/455/470 G5", "Backlit"],
+        "price": "3,500",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20ProBook%20450%2F455%2F470%20G5%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%203%2C500"
+      },
+      {
+        "url": "/shop/keyboards/hp-probook-450-g3-g4-keyboard-non-backlit/",
+        "image": "assets/images/products/hp-keyboard-450g3g4-nonbacklit.webp",
+        "alt": "Replacement non-backlit keyboard for HP ProBook 450 G3/G4",
+        "name": "HP ProBook 450 G3/G4 Keyboard (Non-Backlit)",
+        "tags": ["450 G3/G4"],
+        "price": "2,000",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20ProBook%20450%20G3%2FG4%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C000"
+      }
+    ]
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Keyboard Questions",
+  "faqs": [
+    { "question": "How do I know this keyboard fits my laptop?", "answer": "This fits the ProBook 450 G5, 455 G5 and 470 G5 specifically. It does not fit the older G3/G4 or newer G6/G7 versions — those use a different keyboard. Send us a photo of the sticker under your laptop on WhatsApp if you're unsure." },
+    { "question": "Is it backlit?", "answer": "No, this is the non-backlit version. We also stock the backlit version for the same series." },
+    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "title": "Lenovo ThinkPad X1 Carbon 3rd Gen Keyboard — Backlit, US Layout | [Store Name]",
+    "description": "Genuine replacement backlit keyboard for the Lenovo ThinkPad X1 Carbon 3rd Gen (2015, Type 20BS/20BT). US layout with TrackPoint. Warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Lenovo ThinkPad X1 Carbon 3rd Gen Keyboard | [Store Name]",
+    "description": "Genuine backlit replacement keyboard for the X1 Carbon 3rd Gen (Type 20BS/20BT). In stock, warranty included."
+  },
+  "category": {
+    "slug": "keyboards",
+    "url": "/shop/keyboards/",
+    "name": "Keyboards"
+  },
+  "product": {
+    "url": "/shop/keyboards/lenovo-x1-carbon-3rd-gen-keyboard/",
+    "brand_slug": "lenovo",
+    "brand_name": "Lenovo",
+    "sku": "KEY-LEN-X1C3-US-BL",
+    "type_label": "keyboard",
+    "type_label_cap": "Keyboard",
+    "name": "Lenovo ThinkPad X1 Carbon 3rd Gen Keyboard",
+    "full_name": "Lenovo ThinkPad X1 Carbon 3rd Gen (2015) Replacement Keyboard — Backlit, US Layout",
+    "images": [
+      { "src": "assets/images/products/lenovo-keyboard-x1carbon-gen3.webp", "alt": "Replacement backlit keyboard for Lenovo ThinkPad X1 Carbon 3rd Gen" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "8,500",
+    "price_raw": "8500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Direct-fit backlit replacement keyboard for the Lenovo ThinkPad X1 Carbon 3rd Gen (2015, Type 20BS / 20BT). US English layout with integrated TrackPoint, matching the original rise-and-fall key mechanism. Tested before dispatch — not compatible with the X1 Carbon 2nd Gen (2014) or earlier.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20X1%20Carbon%203rd%20Gen%20Keyboard%20%E2%80%94%20KES%208%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Lenovo%20ThinkPad%20X1%20Carbon%203rd%20Gen%20Keyboard",
+    "compatible_models": [
+      "ThinkPad X1 Carbon 3rd Gen 2015 (Type 20BS)",
+      "ThinkPad X1 Carbon 3rd Gen 2015 (Type 20BT)"
+    ],
+    "specs": [
+      { "label": "Layout", "value": "US English (QWERTY)" },
+      { "label": "Backlight", "value": "Yes — 2-level backlit" },
+      { "label": "Pointing Device", "value": "Integrated TrackPoint" },
+      { "label": "Color", "value": "Black" },
+      { "label": "Fitting", "value": "Direct replacement, no adhesive required" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 Months" }
+    ],
+    "related": [
+      {
+        "url": "/shop/keyboards/lenovo-thinkpad-t480-keyboard/",
+        "image": "assets/images/products/lenovo-keyboard-t480.jpg",
+        "alt": "Replacement keyboard for Lenovo ThinkPad T480",
+        "name": "Lenovo ThinkPad T480 Keyboard",
+        "tags": ["Backlit", "ThinkPad T480"],
+        "price": "3,800",
+        "badge_class": "badge--low-stock",
+        "badge_label": "Only 2 left",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20T480%20Keyboard%20%E2%80%94%20KES%203%2C800"
+      },
+      {
+        "url": "/shop/keyboards/hp-840g3-keyboard/",
+        "image": "assets/images/products/hp-keyboard-840g3.jpg",
+        "alt": "Replacement keyboard for HP EliteBook 840 G3",
+        "name": "HP EliteBook 840 G3 Keyboard",
+        "tags": ["840 G3", "840 G4"],
+        "price": "3,500",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20EliteBook%20840%20G3%20Keyboard%20%E2%80%94%20KES%203%2C500"
+      }
+    ]
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Keyboard Questions",
+  "faqs": [
+    { "question": "How do I know this keyboard fits my laptop?", "answer": "This listing fits the X1 Carbon 3rd Gen (2015, Type 20BS/20BT) only — it does not fit the 2nd Gen (2014) or earlier. Send us a photo of the sticker under your laptop on WhatsApp if you're unsure." },
+    { "question": "Is it backlit?", "answer": "Yes, this keyboard has a 2-level backlight, matching the original." },
+    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+  ]
+}

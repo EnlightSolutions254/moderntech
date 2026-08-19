@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "title": "MacBook Pro A1708 (13\" 2016/2017) Keyboard Assembly | [Store Name]",
+    "description": "Genuine replacement keyboard assembly for the MacBook Pro 13\" A1708 (Late 2016 / Mid 2017, Non-Touch Bar). US layout, butterfly mechanism. Warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "MacBook Pro A1708 Keyboard Assembly | [Store Name]",
+    "description": "Genuine replacement keyboard assembly for the MacBook Pro 13\" A1708 (2016/2017, Non-Touch Bar). In stock, warranty included."
+  },
+  "category": {
+    "slug": "keyboards",
+    "url": "/shop/keyboards/",
+    "name": "Keyboards"
+  },
+  "product": {
+    "url": "/shop/keyboards/macbook-pro-a1708-keyboard-assembly/",
+    "brand_slug": "macbook",
+    "brand_name": "MacBook",
+    "sku": "KEY-MBP-A1708-US",
+    "type_label": "keyboard assembly",
+    "type_label_cap": "Keyboard Assembly",
+    "name": "MacBook Pro A1708 Keyboard Assembly",
+    "full_name": "MacBook Pro 13\" A1708 (2016/2017, Non-Touch Bar) Replacement Keyboard Assembly — US Layout",
+    "images": [
+      { "src": "assets/images/products/macbook-keyboard-a1708.webp", "alt": "Replacement keyboard assembly for MacBook Pro 13-inch A1708" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "8,100",
+    "price_raw": "8100",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Replacement butterfly-mechanism keyboard assembly for the MacBook Pro 13\" A1708 (Late 2016 / Mid 2017, Non-Touch Bar). Since this keyboard is riveted into the top case, this is a keyboard assembly, not a standalone keyboard. US English layout. Does not fit the Touch Bar models (A1706/A1707). Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20Pro%20A1708%20Keyboard%20Assembly%20%E2%80%94%20KES%208%2C100",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20MacBook%20Pro%20A1708%20Keyboard%20Assembly",
+    "compatible_models": [
+      "MacBook Pro 13\" A1708 (Late 2016)",
+      "MacBook Pro 13\" A1708 (Mid 2017)"
+    ],
+    "specs": [
+      { "label": "Layout", "value": "US English (QWERTY)" },
+      { "label": "Mechanism", "value": "Butterfly keyboard" },
+      { "label": "Type", "value": "Keyboard assembly (riveted, not standalone)" },
+      { "label": "Color", "value": "Space Gray / Silver" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 Months" }
+    ],
+    "related": [
+      {
+        "url": "/shop/keyboards/macbook-pro-2019-13-keyboard/",
+        "image": "assets/images/products/macbook-keyboard-pro13-2019.jpg",
+        "alt": "Replacement keyboard assembly for MacBook Pro 2019 13 inch",
+        "name": "MacBook Pro 2019 13\" Keyboard Assembly",
+        "tags": ["MacBook Pro 2019 13\""],
+        "price": "9,500",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20Pro%202019%2013%22%20Keyboard%20Assembly%20%E2%80%94%20KES%209%2C500"
+      }
+    ]
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Keyboard Questions",
+  "faqs": [
+    { "question": "How do I know this fits my MacBook?", "answer": "This fits the MacBook Pro 13\" A1708 (Late 2016 or Mid 2017, Non-Touch Bar). Check the model number on the bottom of your MacBook, or send us a photo on WhatsApp to confirm." },
+    { "question": "Why is it sold as an assembly and not just a keyboard?", "answer": "This generation of MacBook keyboard is riveted directly into the top case, so it can't be swapped as a standalone part — it comes as a full assembly." },
+    { "question": "What warranty comes with this?", "answer": "This keyboard assembly carries a 3-month warranty." }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "title": "HP 15-da/db/dx/cx/cn/cr Keyboard — Backlit, US Layout | [Store Name]",
+    "description": "Genuine replacement backlit keyboard for the HP 15-da, 15-db, 15-dx, 15-cx, 15-cn and 15-cr series, available in black, white or black/neon green. US layout. Warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "HP 15-da/db/dx/cx/cn/cr Keyboard (Backlit) | [Store Name]",
+    "description": "Genuine backlit replacement keyboard for the HP 15-da/db/dx/cx/cn/cr series. In stock, warranty included."
+  },
+  "category": {
+    "slug": "keyboards",
+    "url": "/shop/keyboards/",
+    "name": "Keyboards"
+  },
+  "product": {
+    "url": "/shop/keyboards/hp-15-da-db-dx-cx-cn-cr-keyboard-backlit/",
+    "brand_slug": "hp",
+    "brand_name": "HP",
+    "sku": "KEY-HP-15DADBDXCXCNCR-US-BL",
+    "type_label": "keyboard",
+    "type_label_cap": "Keyboard",
+    "name": "HP 15-da/db/dx/cx/cn/cr Keyboard (Backlit)",
+    "full_name": "HP 15-da/db/dx/cx/cn/cr Series Replacement Keyboard — Backlit, US Layout",
+    "images": [
+      { "src": "assets/images/products/hp-keyboard-15dadbdxcxcncr-backlit.webp", "alt": "Replacement backlit keyboard for HP 15-da, 15-db, 15-dx, 15-cx, 15-cn and 15-cr series" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "4,000",
+    "price_raw": "4000",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Direct-fit backlit replacement keyboard for the shared HP 15-da, 15-db, 15-dx, 15-cx, 15-cn and 15-cr chassis. US English layout with frame, including the backlight cable, matching the original key profile and connector. Available in black, white, or black with neon green accents — let us know your colour when ordering. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%2015-da%2Fdb%2Fdx%2Fcx%2Fcn%2Fcr%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%204%2C000",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20HP%2015-da%2Fdb%2Fdx%2Fcx%2Fcn%2Fcr%20Keyboard%20%28Backlit%29",
+    "compatible_models": [
+      "HP 15-da series",
+      "HP 15-db series",
+      "HP 15-dx series",
+      "HP 15-cx series",
+      "HP 15-cn series",
+      "HP 15-cr series"
+    ],
+    "specs": [
+      { "label": "Layout", "value": "US English (QWERTY)" },
+      { "label": "Backlight", "value": "Yes" },
+      { "label": "Color", "value": "Black, White, or Black/Neon Green" },
+      { "label": "Frame", "value": "Included" },
+      { "label": "Fitting", "value": "Direct replacement, no adhesive required" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 Months" }
+    ],
+    "related": [
+      {
+        "url": "/shop/keyboards/hp-240-g6-keyboard-backlit/",
+        "image": "assets/images/products/hp-keyboard-240g6-backlit.webp",
+        "alt": "Replacement backlit keyboard for HP 240 G6",
+        "name": "HP 240 G6 Keyboard (Backlit)",
+        "tags": ["240 G6", "Backlit"],
+        "price": "3,500",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20240%20G6%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%203%2C500"
+      },
+      {
+        "url": "/shop/keyboards/hp-15-j-keyboard-backlit/",
+        "image": "assets/images/products/hp-keyboard-15j-backlit.webp",
+        "alt": "Replacement backlit keyboard for HP Pavilion 15-j series",
+        "name": "HP 15-j Keyboard (Backlit)",
+        "tags": ["15-j series", "Backlit"],
+        "price": "3,500",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%2015-j%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%203%2C500"
+      }
+    ]
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Keyboard Questions",
+  "faqs": [
+    { "question": "How do I know this keyboard fits my laptop?", "answer": "This fits the HP 15-da, 15-db, 15-dx, 15-cx, 15-cn and 15-cr series, which share the same chassis. Send us a photo of the sticker under your laptop on WhatsApp to confirm your exact model." },
+    { "question": "What colours are available?", "answer": "This keyboard is available in black, white, or black with neon green accents — let us know which one matches your laptop when you order." },
+    { "question": "Is it backlit?", "answer": "Yes, this keyboard includes the backlight cable, matching the original." },
+    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+  ]
+}

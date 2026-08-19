@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "title": "MacBook Pro A1502 (13\" Retina 2013-2015) Keyboard Assembly | [Store Name]",
+    "description": "Genuine replacement keyboard assembly for the MacBook Pro Retina 13\" A1502. US layout, black, backlit. Warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "MacBook Pro A1502 Keyboard Assembly | [Store Name]",
+    "description": "Genuine replacement keyboard assembly for the MacBook Pro Retina 13\" A1502. In stock, warranty included."
+  },
+  "category": {
+    "slug": "keyboards",
+    "url": "/shop/keyboards/",
+    "name": "Keyboards"
+  },
+  "product": {
+    "url": "/shop/keyboards/macbook-pro-a1502-keyboard-assembly/",
+    "brand_slug": "macbook",
+    "brand_name": "MacBook",
+    "sku": "KEY-MBP-A1502-US-BL",
+    "type_label": "keyboard assembly",
+    "type_label_cap": "Keyboard Assembly",
+    "name": "MacBook Pro A1502 Keyboard Assembly",
+    "full_name": "MacBook Pro 13\" A1502 (Retina, 2013/2014/2015) Replacement Keyboard Assembly — Backlit, US Layout",
+    "images": [
+      { "src": "assets/images/products/macbook-keyboard-a1502.webp", "alt": "Replacement keyboard assembly for MacBook Pro 13-inch A1502" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "4,100",
+    "price_raw": "4100",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Replacement scissor-switch keyboard assembly for the MacBook Pro 13\" Retina A1502 (Late 2013 / Mid 2014 / Early 2015). Since this keyboard is riveted into the top case, this is a keyboard assembly, not a standalone keyboard. US English layout, black, backlit — matching the original. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20Pro%20A1502%20Keyboard%20Assembly%20%E2%80%94%20KES%204%2C100",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20MacBook%20Pro%20A1502%20Keyboard%20Assembly",
+    "compatible_models": [
+      "MacBook Pro 13\" A1502 (Late 2013)",
+      "MacBook Pro 13\" A1502 (Mid 2014)",
+      "MacBook Pro 13\" A1502 (Early 2015)"
+    ],
+    "specs": [
+      { "label": "Layout", "value": "US English (QWERTY)" },
+      { "label": "Mechanism", "value": "Scissor-switch keyboard" },
+      { "label": "Backlight", "value": "Yes" },
+      { "label": "Type", "value": "Keyboard assembly (riveted, not standalone)" },
+      { "label": "Color", "value": "Black" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 Months" }
+    ],
+    "related": [
+      {
+        "url": "/shop/keyboards/macbook-pro-a1708-keyboard-assembly/",
+        "image": "assets/images/products/macbook-keyboard-a1708.webp",
+        "alt": "Replacement keyboard assembly for MacBook Pro 13-inch A1708",
+        "name": "MacBook Pro A1708 Keyboard Assembly",
+        "tags": ["A1708", "13\" 2016/2017"],
+        "price": "8,100",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20Pro%20A1708%20Keyboard%20Assembly%20%E2%80%94%20KES%208%2C100"
+      },
+      {
+        "url": "/shop/keyboards/macbook-air-a1466-a1369-keyboard-assembly/",
+        "image": "assets/images/products/macbook-keyboard-a1466-a1369.webp",
+        "alt": "Replacement keyboard assembly for MacBook Air 13-inch A1466 and A1369",
+        "name": "MacBook Air A1466/A1369 Keyboard Assembly",
+        "tags": ["A1466/A1369", "13\""],
+        "price": "4,300",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20Air%20A1466%2FA1369%20Keyboard%20Assembly%20%E2%80%94%20KES%204%2C300"
+      }
+    ]
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Keyboard Questions",
+  "faqs": [
+    { "question": "How do I know this fits my MacBook?", "answer": "This fits the MacBook Pro 13\" Retina A1502 (2013-2015). Check the model number on the bottom of your MacBook, or send us a photo on WhatsApp to confirm." },
+    { "question": "Why is it sold as an assembly and not just a keyboard?", "answer": "This generation of MacBook keyboard is riveted directly into the top case, so it can't be swapped as a standalone part — it comes as a full assembly." },
+    { "question": "Is it backlit?", "answer": "Yes, this keyboard is backlit, matching the original." },
+    { "question": "What warranty comes with this?", "answer": "This keyboard assembly carries a 3-month warranty." }
+  ]
+}
