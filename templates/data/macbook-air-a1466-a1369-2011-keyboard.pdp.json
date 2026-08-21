@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "title": "MacBook Air 13 A1466/A1369 (2011) Keyboard — UK/US Layout | [Store Name]",
+    "description": "Genuine replacement non-backlit keyboard for the MacBook Air 13-inch A1466 and A1369 (2011). Black, QWERTY, UK/US layout. Warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "MacBook Air 13 A1466/A1369 (2011) Keyboard | [Store Name]",
+    "description": "Genuine replacement keyboard for the MacBook Air 13-inch A1466/A1369 (2011). In stock, warranty included."
+  },
+  "category": {
+    "slug": "keyboards",
+    "url": "/shop/keyboards/",
+    "name": "Keyboards"
+  },
+  "product": {
+    "url": "/shop/keyboards/macbook-air-a1466-a1369-2011-keyboard/",
+    "brand_slug": "macbook",
+    "brand_name": "Apple",
+    "sku": "KEY-MAC-A1466A1369-UKUS-NB",
+    "type_label": "keyboard",
+    "type_label_cap": "Keyboard",
+    "name": "MacBook Air 13 A1466/A1369 (2011) Keyboard",
+    "full_name": "Apple MacBook Air 13-inch A1466, A1369 (2011) Replacement Keyboard — UK/US Layout",
+    "images": [
+      { "src": "assets/images/products/macbook-keyboard-a1466a1369-2011.webp", "alt": "Replacement keyboard for MacBook Air 13-inch A1466 and A1369 (2011)" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "3,500",
+    "price_raw": "3500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Direct-fit replacement keyboard for the MacBook Air 13-inch A1466 and A1369 (2011). Black, QWERTY, available in UK or US layout. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20Air%2013%20A1466%2FA1369%20%282011%29%20Keyboard%20%E2%80%94%20KES%203%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20MacBook%20Air%2013%20A1466%2FA1369%20%282011%29%20Keyboard",
+    "compatible_models": [
+      "MacBook Air 13-inch A1466 (2011)",
+      "MacBook Air 13-inch A1369 (2011)"
+    ],
+    "specs": [
+      { "label": "Layout", "value": "UK or US QWERTY (specify when ordering)" },
+      { "label": "Backlight", "value": "No" },
+      { "label": "Color", "value": "Black" },
+      { "label": "Fitting", "value": "Direct replacement, no adhesive required" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 Months" }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Keyboard Questions",
+  "faqs": [
+    { "question": "How do I know this keyboard fits my laptop?", "answer": "This fits the MacBook Air 13-inch A1466 and A1369 (2011). If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
+    { "question": "Is it UK or US layout?", "answer": "Both layouts are available — let us know which you need when ordering." },
+    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+  ]
+}

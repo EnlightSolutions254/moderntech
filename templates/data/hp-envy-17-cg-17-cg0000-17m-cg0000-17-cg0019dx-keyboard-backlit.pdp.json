@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "HP Envy 17-cg/17-cg0000/17m-cg0000/17-cg0019dx Keyboard — Backlit, US Layout | [Store Name]",
+    "description": "Genuine replacement backlit keyboard for the HP Envy 17-cg, 17-cg0000, 17m-cg0000 and 17-cg0019dx. Available in grey and silver. Warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "HP Envy 17-cg/17-cg0000/17m-cg0000/17-cg0019dx Keyboard (Backlit) | [Store Name]",
+    "description": "Genuine backlit replacement keyboard for the HP Envy 17-cg/17-cg0000/17m-cg0000/17-cg0019dx. In stock, warranty included."
+  },
+  "category": {
+    "slug": "keyboards",
+    "url": "/shop/keyboards/",
+    "name": "Keyboards"
+  },
+  "product": {
+    "url": "/shop/keyboards/hp-envy-17-cg-17-cg0000-17m-cg0000-17-cg0019dx-keyboard-backlit/",
+    "brand_slug": "hp",
+    "brand_name": "HP",
+    "sku": "KEY-HP-ENVY17CG17CG000017MCG000017CG0019DX-US-BL",
+    "type_label": "keyboard",
+    "type_label_cap": "Keyboard",
+    "name": "HP Envy 17-cg/17-cg0000/17m-cg0000/17-cg0019dx Keyboard (Backlit)",
+    "full_name": "HP Envy 17-cg, 17-cg0000, 17m-cg0000, 17-cg0019dx Replacement Keyboard — Backlit, US Layout",
+    "images": [
+      { "src": "assets/images/products/hp-keyboard-envy17cg17cg000017mcg000017cg0019dx-backlit.webp", "alt": "Replacement backlit keyboard for HP Envy 17-cg/17-cg0000/17m-cg0000/17-cg0019dx" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "3,500",
+    "price_raw": "3500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Direct-fit backlit replacement keyboard for the HP Envy 17-cg, 17-cg0000, 17m-cg0000 and 17-cg0019dx, which share the same chassis. US English layout with frame and backlight cable. Available in grey and silver. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20Envy%2017-cg%2F17-cg0000%2F17m-cg0000%2F17-cg0019dx%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%203%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20HP%20Envy%2017-cg%2F17-cg0000%2F17m-cg0000%2F17-cg0019dx%20Keyboard%20%28Backlit%29",
+    "compatible_models": [
+      "HP Envy 17-cg",
+      "HP Envy 17-cg0000",
+      "HP Envy 17m-cg0000",
+      "HP Envy 17-cg0019dx"
+    ],
+    "specs": [
+      { "label": "Layout", "value": "US English (QWERTY)" },
+      { "label": "Backlight", "value": "Yes" },
+      { "label": "Color", "value": "Grey or Silver" },
+      { "label": "Frame", "value": "Included" },
+      { "label": "Fitting", "value": "Direct replacement, no adhesive required" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 Months" }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Keyboard Questions",
+  "faqs": [
+    { "question": "How do I know this keyboard fits my laptop?", "answer": "This fits the HP Envy 17-cg, 17-cg0000, 17m-cg0000 and 17-cg0019dx, which share the same chassis. If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
+    { "question": "Is it backlit?", "answer": "Yes, this version includes the backlight cable, matching the original." },
+    { "question": "What colors are available?", "answer": "This keyboard is available in grey and silver — let us know your preference when ordering." },
+    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+  ]
+}

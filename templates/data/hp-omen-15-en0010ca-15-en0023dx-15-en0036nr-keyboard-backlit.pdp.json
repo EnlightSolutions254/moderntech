@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "title": "HP Omen 15-en0010ca/15-en0023dx/15-en0036nr Keyboard — White Backlit, US/UK Layout | [Store Name]",
+    "description": "Genuine replacement white backlit keyboard for the HP Omen 15-en0010ca, 15-en0023dx and 15-en0036nr. US/UK layout. Warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "HP Omen 15-en0010ca/15-en0023dx/15-en0036nr Keyboard (White Backlit) | [Store Name]",
+    "description": "Genuine white backlit replacement keyboard for the HP Omen 15-en0010ca/15-en0023dx/15-en0036nr. In stock, warranty included."
+  },
+  "category": {
+    "slug": "keyboards",
+    "url": "/shop/keyboards/",
+    "name": "Keyboards"
+  },
+  "product": {
+    "url": "/shop/keyboards/hp-omen-15-en0010ca-15-en0023dx-15-en0036nr-keyboard-backlit/",
+    "brand_slug": "hp",
+    "brand_name": "HP",
+    "sku": "KEY-HP-OMEN15EN0010CA15EN0023DX15EN0036NR-USUK-BL",
+    "type_label": "keyboard",
+    "type_label_cap": "Keyboard",
+    "name": "HP Omen 15-en0010ca/15-en0023dx/15-en0036nr Keyboard (White Backlit)",
+    "full_name": "HP Omen 15-en0010ca, 15-en0023dx, 15-en0036nr Replacement Keyboard — White Backlit, US/UK Layout",
+    "images": [
+      { "src": "assets/images/products/hp-keyboard-omen15en0010ca15en0023dx15en0036nr-backlit.webp", "alt": "Replacement white backlit keyboard for HP Omen 15-en0010ca/15-en0023dx/15-en0036nr" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "4,500",
+    "price_raw": "4500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Direct-fit backlit replacement keyboard for the HP Omen 15-en0010ca, 15-en0023dx and 15-en0036nr, which share the same chassis. White backlight, available in US or UK layout, with frame and backlight cable. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20Omen%2015-en0010ca%2F15-en0023dx%2F15-en0036nr%20Keyboard%20%28White%20Backlit%29%20%E2%80%94%20KES%204%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20HP%20Omen%2015-en0010ca%2F15-en0023dx%2F15-en0036nr%20Keyboard%20%28White%20Backlit%29",
+    "compatible_models": [
+      "HP Omen 15-en0010ca",
+      "HP Omen 15-en0023dx",
+      "HP Omen 15-en0036nr"
+    ],
+    "specs": [
+      { "label": "Layout", "value": "US or UK QWERTY (specify when ordering)" },
+      { "label": "Backlight", "value": "Yes (White)" },
+      { "label": "Color", "value": "Black with White Backlight" },
+      { "label": "Frame", "value": "Included" },
+      { "label": "Fitting", "value": "Direct replacement, no adhesive required" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 Months" }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Keyboard Questions",
+  "faqs": [
+    { "question": "How do I know this keyboard fits my laptop?", "answer": "This fits the HP Omen 15-en0010ca, 15-en0023dx and 15-en0036nr, which share the same chassis. If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
+    { "question": "Is it backlit?", "answer": "Yes, this version has a white backlight, matching the original." },
+    { "question": "Is it US or UK layout?", "answer": "Both layouts are available — let us know which you need when ordering." },
+    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+  ]
+}

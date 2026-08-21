@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "title": "HP 250 G10/255 G10/255r G10 Keyboard — Backlit, US Layout | [Store Name]",
+    "description": "Genuine replacement backlit keyboard for the HP 250 G10, 255 G10 and 255r G10. Available in black and grey. Warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "HP 250 G10/255 G10/255r G10 Keyboard (Backlit) | [Store Name]",
+    "description": "Genuine backlit replacement keyboard for the HP 250 G10/255 G10/255r G10. In stock, warranty included."
+  },
+  "category": {
+    "slug": "keyboards",
+    "url": "/shop/keyboards/",
+    "name": "Keyboards"
+  },
+  "product": {
+    "url": "/shop/keyboards/hp-250-g10-255-g10-255r-g10-keyboard-backlit/",
+    "brand_slug": "hp",
+    "brand_name": "HP",
+    "sku": "KEY-HP-250G10255G10255RG10-US-BL",
+    "type_label": "keyboard",
+    "type_label_cap": "Keyboard",
+    "name": "HP 250 G10/255 G10/255r G10 Keyboard (Backlit)",
+    "full_name": "HP 250 G10, 255 G10, 255r G10 Replacement Keyboard — Backlit, US Layout",
+    "images": [
+      { "src": "assets/images/products/hp-keyboard-250g10255g10255rg10-backlit.webp", "alt": "Replacement backlit keyboard for HP 250 G10/255 G10/255r G10" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "3,500",
+    "price_raw": "3500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Direct-fit backlit replacement keyboard for the HP 250 G10, 255 G10 and 255r G10 (Gen 10). US English layout with frame and backlight cable. Available in black and grey. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20250%20G10%2F255%20G10%2F255r%20G10%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%203%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20HP%20250%20G10%2F255%20G10%2F255r%20G10%20Keyboard%20%28Backlit%29",
+    "compatible_models": [
+      "HP 250 G10",
+      "HP 255 G10",
+      "HP 255r G10"
+    ],
+    "specs": [
+      { "label": "Layout", "value": "US English (QWERTY)" },
+      { "label": "Backlight", "value": "Yes" },
+      { "label": "Color", "value": "Black or Grey" },
+      { "label": "Frame", "value": "Included" },
+      { "label": "Fitting", "value": "Direct replacement, no adhesive required" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 Months" }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Keyboard Questions",
+  "faqs": [
+    { "question": "How do I know this keyboard fits my laptop?", "answer": "This fits the HP 250 G10, 255 G10 and 255r G10 (Gen 10). If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
+    { "question": "Is it backlit?", "answer": "Yes, this version includes the backlight cable, matching the original." },
+    { "question": "What colors are available?", "answer": "This keyboard is available in black and grey — let us know your preference when ordering." },
+    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+  ]
+}

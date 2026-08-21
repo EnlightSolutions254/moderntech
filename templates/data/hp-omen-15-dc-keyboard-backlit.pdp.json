@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "title": "HP Omen 15-dc Keyboard — Backlit, US Layout | [Store Name]",
+    "description": "Genuine replacement backlit keyboard for the HP Omen 15-dc. US layout. Warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "HP Omen 15-dc Keyboard (Backlit) | [Store Name]",
+    "description": "Genuine backlit replacement keyboard for the HP Omen 15-dc. In stock, warranty included."
+  },
+  "category": {
+    "slug": "keyboards",
+    "url": "/shop/keyboards/",
+    "name": "Keyboards"
+  },
+  "product": {
+    "url": "/shop/keyboards/hp-omen-15-dc-keyboard-backlit/",
+    "brand_slug": "hp",
+    "brand_name": "HP",
+    "sku": "KEY-HP-OMEN15DC-US-BL",
+    "type_label": "keyboard",
+    "type_label_cap": "Keyboard",
+    "name": "HP Omen 15-dc Keyboard (Backlit)",
+    "full_name": "HP Omen 15-dc Replacement Keyboard — Backlit, US Layout",
+    "images": [
+      { "src": "assets/images/products/hp-keyboard-omen15dc-backlit.webp", "alt": "Replacement backlit keyboard for HP Omen 15-dc" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "5,600",
+    "price_raw": "5600",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Direct-fit backlit replacement keyboard for the HP Omen 15-dc. US English layout with frame and backlight cable. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20Omen%2015-dc%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%205%2C600",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20HP%20Omen%2015-dc%20Keyboard%20%28Backlit%29",
+    "compatible_models": [
+      "HP Omen 15-dc"
+    ],
+    "specs": [
+      { "label": "Layout", "value": "US English (QWERTY)" },
+      { "label": "Backlight", "value": "Yes" },
+      { "label": "Color", "value": "Black" },
+      { "label": "Frame", "value": "Included" },
+      { "label": "Fitting", "value": "Direct replacement, no adhesive required" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 Months" }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Keyboard Questions",
+  "faqs": [
+    { "question": "How do I know this keyboard fits my laptop?", "answer": "This fits the HP Omen 15-dc. If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
+    { "question": "Is it backlit?", "answer": "Yes, this version includes the backlight cable, matching the original." },
+    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+  ]
+}

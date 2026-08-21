@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "title": "Toshiba Satellite P55W Keyboard — Non-Backlit, US Layout | [Store Name]",
+    "description": "Genuine replacement non-backlit keyboard for the Toshiba Satellite P55W. US layout. Warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Toshiba Satellite P55W Keyboard (Non-Backlit) | [Store Name]",
+    "description": "Genuine non-backlit replacement keyboard for the Toshiba Satellite P55W. In stock, warranty included."
+  },
+  "category": {
+    "slug": "keyboards",
+    "url": "/shop/keyboards/",
+    "name": "Keyboards"
+  },
+  "product": {
+    "url": "/shop/keyboards/toshiba-satellite-p55w-keyboard-non-backlit/",
+    "brand_slug": "toshiba",
+    "brand_name": "Toshiba",
+    "sku": "KEY-TOSH-P55W-US-NB",
+    "type_label": "keyboard",
+    "type_label_cap": "Keyboard",
+    "name": "Toshiba Satellite P55W Keyboard (Non-Backlit)",
+    "full_name": "Toshiba Satellite P55W Replacement Keyboard — Non-Backlit, US Layout",
+    "images": [
+      { "src": "assets/images/products/toshiba-keyboard-p55w-nonbacklit.webp", "alt": "Replacement non-backlit keyboard for Toshiba Satellite P55W" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "2,300",
+    "price_raw": "2300",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Direct-fit non-backlit replacement keyboard for the Toshiba Satellite P55W. US English layout with frame. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Toshiba%20Satellite%20P55W%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C300",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Toshiba%20Satellite%20P55W%20Keyboard%20%28Non-Backlit%29",
+    "compatible_models": [
+      "Toshiba Satellite P55W"
+    ],
+    "specs": [
+      { "label": "Layout", "value": "US English (QWERTY)" },
+      { "label": "Backlight", "value": "No" },
+      { "label": "Color", "value": "Black" },
+      { "label": "Frame", "value": "Included" },
+      { "label": "Fitting", "value": "Direct replacement, no adhesive required" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 Months" }
+    ],
+    "related": [
+      {
+        "url": "/shop/keyboards/toshiba-satellite-c850-keyboard-non-backlit/",
+        "image": "assets/images/products/toshiba-keyboard-c850-nonbacklit.webp",
+        "alt": "Replacement non-backlit keyboard for Toshiba Satellite C850",
+        "name": "Toshiba Satellite C850 Keyboard (Non-Backlit)",
+        "tags": ["C850"],
+        "price": "2,300",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Toshiba%20Satellite%20C850%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C300"
+      }
+    ]
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Keyboard Questions",
+  "faqs": [
+    { "question": "How do I know this keyboard fits my laptop?", "answer": "This fits the Toshiba Satellite P55W. If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
+    { "question": "Is it backlit?", "answer": "No, this is the non-backlit version." },
+    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+  ]
+}

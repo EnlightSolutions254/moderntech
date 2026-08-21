@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "title": "Toshiba Satellite Pro L750/C650/C660/L650/L670/L675/L755/L770 Series Keyboard — Non-Backlit, US Layout | [Store Name]",
+    "description": "Genuine replacement non-backlit keyboard for the Toshiba Satellite Pro L750, C650, C660, L650, L670, L675, L755, L770 series. US layout. Warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Toshiba Satellite Pro L750/C650/C660/L650/L670/L675/L755/L770 Keyboard (Non-Backlit) | [Store Name]",
+    "description": "Genuine non-backlit replacement keyboard for the Toshiba Satellite Pro L750/C650/C660/L650/L670/L675/L755/L770 series. In stock, warranty included."
+  },
+  "category": {
+    "slug": "keyboards",
+    "url": "/shop/keyboards/",
+    "name": "Keyboards"
+  },
+  "product": {
+    "url": "/shop/keyboards/toshiba-satellite-pro-l750-c650-c660-l650-l670-l675-l755-l770-keyboard-non-backlit/",
+    "brand_slug": "toshiba",
+    "brand_name": "Toshiba",
+    "sku": "KEY-TOSH-L750C650C660-US-NB",
+    "type_label": "keyboard",
+    "type_label_cap": "Keyboard",
+    "name": "Toshiba Satellite Pro L750/C650/C660/L650/L670/L675/L755/L770 Series Keyboard (Non-Backlit)",
+    "full_name": "Toshiba Satellite Pro L750, C650, C660, L650, L670, L675, L755, L770 Series Replacement Keyboard — Non-Backlit, US Layout",
+    "images": [
+      { "src": "assets/images/products/toshiba-keyboard-l750c650c660series-nonbacklit.webp", "alt": "Replacement non-backlit keyboard for Toshiba Satellite Pro L750/C650/C660/L650/L670/L675/L755/L770 series" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "2,100",
+    "price_raw": "2100",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Direct-fit non-backlit replacement keyboard for the Toshiba Satellite Pro L750, C650, C650D, C655, C655D, C660, C660D, L650, L650D, L670, L670D, L675, L675D, L755, L755D and L770 series, which share the same chassis. Black, US English layout. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Toshiba%20Satellite%20Pro%20L750%2FC650%2FC660%2FL650%2FL670%2FL675%2FL755%2FL770%20Series%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C100",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Toshiba%20Satellite%20Pro%20L750%2FC650%2FC660%2FL650%2FL670%2FL675%2FL755%2FL770%20Series%20Keyboard%20%28Non-Backlit%29",
+    "compatible_models": [
+      "Toshiba Satellite Pro L750",
+      "Toshiba Satellite C660",
+      "Toshiba Satellite C650",
+      "Toshiba Satellite C650D",
+      "Toshiba Satellite L650",
+      "Toshiba Satellite L650D",
+      "Toshiba Satellite C655",
+      "Toshiba Satellite C655D",
+      "Toshiba Satellite C660D",
+      "Toshiba Satellite L670",
+      "Toshiba Satellite L670D",
+      "Toshiba Satellite L675",
+      "Toshiba Satellite L675D",
+      "Toshiba Satellite L755",
+      "Toshiba Satellite L755D",
+      "Toshiba Satellite L770"
+    ],
+    "specs": [
+      { "label": "Layout", "value": "US English (QWERTY)" },
+      { "label": "Backlight", "value": "No" },
+      { "label": "Color", "value": "Black" },
+      { "label": "Frame", "value": "Included" },
+      { "label": "Fitting", "value": "Direct replacement, no adhesive required" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 Months" }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Keyboard Questions",
+  "faqs": [
+    { "question": "How do I know this keyboard fits my laptop?", "answer": "This fits the Toshiba Satellite Pro L750, C650, C660, L650, L670, L675, L755 and L770 series (including D variants), which share the same chassis. If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
+    { "question": "Is it backlit?", "answer": "No, this is the non-backlit version." },
+    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+  ]
+}

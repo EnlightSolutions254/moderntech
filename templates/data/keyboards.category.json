@@ -13,7 +13,7 @@
     "name": "Keyboards",
     "name_lower": "keyboards",
     "description": "Genuine replacement keyboards for HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook laptops. Every listing shows exact layout, backlighting and compatible models before you message us.",
-    "result_count": 27
+    "result_count": 46
   },
   "products": [
     {
@@ -311,6 +311,215 @@
       "tags": ["Latitude 7410", "Backlit"],
       "price": "3,500", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%207410%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%203%2C500",
+      "extra": true
+    },
+    {
+      "brand_slug": "toshiba", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/keyboards/toshiba-satellite-c850-keyboard-non-backlit/",
+      "image": "assets/images/products/toshiba-keyboard-c850-nonbacklit.webp",
+      "alt": "Replacement non-backlit keyboard for Toshiba Satellite C850",
+      "name": "Toshiba Satellite C850 Keyboard (Non-Backlit)",
+      "tags": ["C850"],
+      "price": "2,300", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Toshiba%20Satellite%20C850%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C300",
+      "extra": true
+    },
+    {
+      "brand_slug": "toshiba", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/keyboards/toshiba-satellite-p55w-keyboard-non-backlit/",
+      "image": "assets/images/products/toshiba-keyboard-p55w-nonbacklit.webp",
+      "alt": "Replacement non-backlit keyboard for Toshiba Satellite P55W",
+      "name": "Toshiba Satellite P55W Keyboard (Non-Backlit)",
+      "tags": ["P55W"],
+      "price": "2,300", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Toshiba%20Satellite%20P55W%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C300",
+      "extra": true
+    },
+    {
+      "brand_slug": "toshiba", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/keyboards/toshiba-satellite-pro-l750-c650-c660-l650-l670-l675-l755-l770-keyboard-non-backlit/",
+      "image": "assets/images/products/toshiba-keyboard-l750c650c660series-nonbacklit.webp",
+      "alt": "Replacement non-backlit keyboard for Toshiba Satellite Pro L750/C650/C660/L650/L670/L675/L755/L770 series",
+      "name": "Toshiba Satellite Pro L750/C650/C660/L650/L670/L675/L755/L770 Series Keyboard (Non-Backlit)",
+      "tags": ["L750/C650/C660 Series"],
+      "price": "2,100", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Toshiba%20Satellite%20Pro%20L750%2FC650%2FC660%2FL650%2FL670%2FL675%2FL755%2FL770%20Series%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C100",
+      "extra": true
+    },
+    {
+      "brand_slug": "toshiba", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/keyboards/toshiba-satellite-c850-9z-n7tsv-401-l850-s850-p875-keyboard-non-backlit/",
+      "image": "assets/images/products/toshiba-keyboard-c850l850s850p875series-nonbacklit.webp",
+      "alt": "Replacement non-backlit keyboard for Toshiba Satellite C850/L850/S850/P875 series",
+      "name": "Toshiba Satellite C850/L850/S850/P875 Series Keyboard (Non-Backlit)",
+      "tags": ["C850/L850/S850/P875 Series"],
+      "price": "2,100", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Toshiba%20Satellite%20C850%2FL850%2FS850%2FP875%20Series%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C100",
+      "extra": true
+    },
+    {
+      "brand_slug": "toshiba", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/keyboards/toshiba-c50-a-c50d-a-c55-a-c55d-a-c55-a-1nv-keyboard-non-backlit/",
+      "image": "assets/images/products/toshiba-keyboard-c50ac55aseries-nonbacklit.webp",
+      "alt": "Replacement non-backlit keyboard for Toshiba C50-A/C50D-A/C55-A/C55D-A/C55-A-1NV series",
+      "name": "Toshiba C50-A/C50D-A/C55-A/C55D-A/C55-A-1NV Series Keyboard (Non-Backlit)",
+      "tags": ["C50-A/C55-A Series"],
+      "price": "2,100", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Toshiba%20C50-A%2FC50D-A%2FC55-A%2FC55D-A%2FC55-A-1NV%20Series%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C100",
+      "extra": true
+    },
+    {
+      "brand_slug": "hp", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/keyboards/hp-omen-15x-15-ce000-15-ce0xx-keyboard-backlit/",
+      "image": "assets/images/products/hp-keyboard-omen15x15ce000ce0xx-backlit.webp",
+      "alt": "Replacement backlit keyboard for HP Omen 15X/15-ce000/15-ce0xx series",
+      "name": "HP Omen 15X/15-ce000/15-ce0xx Series Keyboard (Backlit)",
+      "tags": ["Omen 15X/15-ce Series", "Backlit"],
+      "price": "5,500", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20Omen%2015X%2F15-ce000%2F15-ce0xx%20Series%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%205%2C500",
+      "extra": true
+    },
+    {
+      "brand_slug": "hp", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/keyboards/hp-omen-15-dc-keyboard-backlit/",
+      "image": "assets/images/products/hp-keyboard-omen15dc-backlit.webp",
+      "alt": "Replacement backlit keyboard for HP Omen 15-dc",
+      "name": "HP Omen 15-dc Keyboard (Backlit)",
+      "tags": ["Omen 15-dc", "Backlit"],
+      "price": "5,600", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20Omen%2015-dc%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%205%2C600",
+      "extra": true
+    },
+    {
+      "brand_slug": "hp", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/keyboards/hp-omen-15-ax-keyboard-backlit/",
+      "image": "assets/images/products/hp-keyboard-omen15ax-backlit.webp",
+      "alt": "Replacement backlit keyboard for HP Omen 15-ax series",
+      "name": "HP Omen 15-ax Series Keyboard (Backlit)",
+      "tags": ["Omen 15-ax", "Backlit"],
+      "price": "5,500", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20Omen%2015-ax%20Series%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%205%2C500",
+      "extra": true
+    },
+    {
+      "brand_slug": "hp", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/keyboards/hp-250-g10-255-g10-255r-g10-keyboard-backlit/",
+      "image": "assets/images/products/hp-keyboard-250g10255g10255rg10-backlit.webp",
+      "alt": "Replacement backlit keyboard for HP 250 G10/255 G10/255r G10",
+      "name": "HP 250 G10/255 G10/255r G10 Keyboard (Backlit)",
+      "tags": ["250/255/255r G10", "Backlit"],
+      "price": "3,500", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20250%20G10%2F255%20G10%2F255r%20G10%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%203%2C500",
+      "extra": true
+    },
+    {
+      "brand_slug": "hp", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/keyboards/hp-zbook-15-g5-keyboard-backlit/",
+      "image": "assets/images/products/hp-keyboard-zbook15g5-backlit.webp",
+      "alt": "Replacement backlit keyboard for HP ZBook 15 G5",
+      "name": "HP ZBook 15 G5 Keyboard (Backlit)",
+      "tags": ["ZBook 15 G5", "Backlit"],
+      "price": "4,100", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20ZBook%2015%20G5%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%204%2C100",
+      "extra": true
+    },
+    {
+      "brand_slug": "hp", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/keyboards/hp-envy-17-cg-17-cg0000-17m-cg0000-17-cg0019dx-keyboard-backlit/",
+      "image": "assets/images/products/hp-keyboard-envy17cg17cg000017mcg000017cg0019dx-backlit.webp",
+      "alt": "Replacement backlit keyboard for HP Envy 17-cg/17-cg0000/17m-cg0000/17-cg0019dx",
+      "name": "HP Envy 17-cg/17-cg0000/17m-cg0000/17-cg0019dx Keyboard (Backlit)",
+      "tags": ["Envy 17-cg Series", "Backlit"],
+      "price": "3,500", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20Envy%2017-cg%2F17-cg0000%2F17m-cg0000%2F17-cg0019dx%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%203%2C500",
+      "extra": true
+    },
+    {
+      "brand_slug": "hp", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/keyboards/hp-envy-x360-15-ed-15-ee-17-ch-17-cg-keyboard-backlit/",
+      "image": "assets/images/products/hp-keyboard-envyx36015ed15ee17ch17cg-backlit.webp",
+      "alt": "Replacement backlit keyboard for HP Envy x360 15-ED/15-EE and Envy 17-CH/17m-CH/17-CG series",
+      "name": "HP Envy x360 15-ED/15-EE/17-CH/17-CG Series Keyboard (Backlit)",
+      "tags": ["Envy x360 15-ED/EE, 17-CH/CG Series", "Backlit"],
+      "price": "3,500", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20Envy%20x360%2015-ED%2F15-EE%2F17-CH%2F17-CG%20Series%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%203%2C500",
+      "extra": true
+    },
+    {
+      "brand_slug": "macbook", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/keyboards/macbook-air-a1466-a1369-2011-keyboard/",
+      "image": "assets/images/products/macbook-keyboard-a1466a1369-2011.webp",
+      "alt": "Replacement keyboard for MacBook Air 13-inch A1466 and A1369 (2011)",
+      "name": "MacBook Air 13 A1466/A1369 (2011) Keyboard",
+      "tags": ["A1466/A1369", "2011"],
+      "price": "3,500", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20Air%2013%20A1466%2FA1369%20%282011%29%20Keyboard%20%E2%80%94%20KES%203%2C500",
+      "extra": true
+    },
+    {
+      "brand_slug": "hp", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/keyboards/hp-pavilion-sleekbook-touchsmart-15-b-keyboard-non-backlit/",
+      "image": "assets/images/products/hp-keyboard-pavilion-sleekbook-touchsmart-15b-nonbacklit.webp",
+      "alt": "Replacement non-backlit keyboard for HP Pavilion Sleekbook and TouchSmart 15-B",
+      "name": "HP Pavilion Sleekbook/TouchSmart 15-B Keyboard (Non-Backlit)",
+      "tags": ["Sleekbook/TouchSmart 15-B"],
+      "price": "2,000", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20Pavilion%20Sleekbook%2FTouchSmart%2015-B%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C000",
+      "extra": true
+    },
+    {
+      "brand_slug": "hp", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/keyboards/hp-pavilion-gaming-15-cx00-keyboard-non-backlit/",
+      "image": "assets/images/products/hp-keyboard-pavilion-gaming-15cx00-nonbacklit.webp",
+      "alt": "Replacement non-backlit keyboard for HP Pavilion Gaming 15-cx00",
+      "name": "HP Pavilion Gaming 15-cx00 Keyboard (Non-Backlit)",
+      "tags": ["Pavilion Gaming 15-cx00"],
+      "price": "4,000", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20Pavilion%20Gaming%2015-cx00%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%204%2C000",
+      "extra": true
+    },
+    {
+      "brand_slug": "hp", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/keyboards/hp-omen-15-en0010ca-15-en0023dx-15-en0036nr-keyboard-backlit/",
+      "image": "assets/images/products/hp-keyboard-omen15en0010ca15en0023dx15en0036nr-backlit.webp",
+      "alt": "Replacement white backlit keyboard for HP Omen 15-en0010ca/15-en0023dx/15-en0036nr",
+      "name": "HP Omen 15-en0010ca/15-en0023dx/15-en0036nr Keyboard (White Backlit)",
+      "tags": ["Omen 15-en0010ca/023dx/036nr", "White Backlit"],
+      "price": "4,500", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20Omen%2015-en0010ca%2F15-en0023dx%2F15-en0036nr%20Keyboard%20%28White%20Backlit%29%20%E2%80%94%20KES%204%2C500",
+      "extra": true
+    },
+    {
+      "brand_slug": "acer", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/keyboards/acer-aspire-e5-473-series-keyboard-non-backlit/",
+      "image": "assets/images/products/acer-keyboard-aspire-e5473-series-nonbacklit.webp",
+      "alt": "Replacement non-backlit keyboard for Acer Aspire E5-473 series",
+      "name": "Acer Aspire E5-473 Series Keyboard (Non-Backlit)",
+      "tags": ["Aspire E5-473 Series"],
+      "price": "2,000", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Acer%20Aspire%20E5-473%20Series%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C000",
+      "extra": true
+    },
+    {
+      "brand_slug": "acer", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/keyboards/acer-aspire-v5-531-v5-551-v5-552-v5-573-keyboard-non-backlit/",
+      "image": "assets/images/products/acer-keyboard-aspire-v5531v5551v5552v5573-nonbacklit.webp",
+      "alt": "Replacement non-backlit keyboard for Acer Aspire V5-531/V5-551/V5-552/V5-573",
+      "name": "Acer Aspire V5-531/V5-551/V5-552/V5-573 Keyboard (Non-Backlit)",
+      "tags": ["Aspire V5-531/551/552/573"],
+      "price": "2,100", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Acer%20Aspire%20V5-531%2FV5-551%2FV5-552%2FV5-573%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C100",
+      "extra": true
+    },
+    {
+      "brand_slug": "asus", "stock": "in_stock", "badge_class": "badge--in-stock", "badge_label": "In Stock",
+      "url": "/shop/keyboards/asus-f415-f415ea-f415ja-f415fac-f415jf-keyboard-non-backlit/",
+      "image": "assets/images/products/asus-keyboard-f415-f415ea-f415ja-f415fac-f415jf-nonbacklit.webp",
+      "alt": "Replacement non-backlit keyboard for Asus F415/F415EA/F415JA/F415FAC/F415JF",
+      "name": "Asus F415/F415EA/F415JA/F415FAC/F415JF Keyboard (Non-Backlit)",
+      "tags": ["F415 Series"],
+      "price": "1,900", "cta_label": "Order on WhatsApp", "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%20F415%2FF415EA%2FF415JA%2FF415FAC%2FF415JF%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%201%2C900",
       "extra": true
     }
   ],

@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Toshiba C50-A/C50D-A/C55-A/C55D-A/C55-A-1NV Series Keyboard — Non-Backlit, US Layout | [Store Name]",
+    "description": "Genuine replacement non-backlit keyboard for the Toshiba Satellite C50-A, C50D-A, C55-A, C55D-A and C55-A-1NV series. US layout. Warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Toshiba C50-A/C50D-A/C55-A/C55D-A/C55-A-1NV Series Keyboard (Non-Backlit) | [Store Name]",
+    "description": "Genuine non-backlit replacement keyboard for the Toshiba Satellite C50-A/C50D-A/C55-A/C55D-A/C55-A-1NV series. In stock, warranty included."
+  },
+  "category": {
+    "slug": "keyboards",
+    "url": "/shop/keyboards/",
+    "name": "Keyboards"
+  },
+  "product": {
+    "url": "/shop/keyboards/toshiba-c50-a-c50d-a-c55-a-c55d-a-c55-a-1nv-keyboard-non-backlit/",
+    "brand_slug": "toshiba",
+    "brand_name": "Toshiba",
+    "sku": "KEY-TOSH-C50AC55A-US-NB",
+    "type_label": "keyboard",
+    "type_label_cap": "Keyboard",
+    "name": "Toshiba C50-A/C50D-A/C55-A/C55D-A/C55-A-1NV Series Keyboard (Non-Backlit)",
+    "full_name": "Toshiba Satellite C50-A, C50D-A, C55-A, C55D-A, C55-A-1NV Series Replacement Keyboard — Non-Backlit, US Layout",
+    "images": [
+      { "src": "assets/images/products/toshiba-keyboard-c50ac55aseries-nonbacklit.webp", "alt": "Replacement non-backlit keyboard for Toshiba C50-A/C50D-A/C55-A/C55D-A/C55-A-1NV series" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "2,100",
+    "price_raw": "2100",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Direct-fit non-backlit replacement keyboard for the Toshiba Satellite C50-A, C50D-A, C55-A, C55D-A and C55-A-1NV series, which share the same chassis. Black, US English layout. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Toshiba%20C50-A%2FC50D-A%2FC55-A%2FC55D-A%2FC55-A-1NV%20Series%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C100",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Toshiba%20C50-A%2FC50D-A%2FC55-A%2FC55D-A%2FC55-A-1NV%20Series%20Keyboard%20%28Non-Backlit%29",
+    "compatible_models": [
+      "Toshiba Satellite C50-A",
+      "Toshiba Satellite C50D-A",
+      "Toshiba Satellite C55-A",
+      "Toshiba Satellite C55D-A",
+      "Toshiba Satellite C55-A-1NV"
+    ],
+    "specs": [
+      { "label": "Layout", "value": "US English (QWERTY)" },
+      { "label": "Backlight", "value": "No" },
+      { "label": "Color", "value": "Black" },
+      { "label": "Frame", "value": "Included" },
+      { "label": "Fitting", "value": "Direct replacement, no adhesive required" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 Months" }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Keyboard Questions",
+  "faqs": [
+    { "question": "How do I know this keyboard fits my laptop?", "answer": "This fits the Toshiba Satellite C50-A, C50D-A, C55-A, C55D-A and C55-A-1NV series, which share the same chassis. If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
+    { "question": "Is it backlit?", "answer": "No, this is the non-backlit version." },
+    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+  ]
+}
