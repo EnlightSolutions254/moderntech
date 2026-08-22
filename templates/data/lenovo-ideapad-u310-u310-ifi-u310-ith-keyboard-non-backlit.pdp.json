@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "Lenovo IdeaPad U310/U310-IFI/U310-ITH Keyboard — Non-Backlit, US Layout | [Store Name]",
+    "description": "Genuine replacement non-backlit keyboard for the Lenovo IdeaPad U310, U310-IFI and U310-ITH. US layout. Warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Lenovo IdeaPad U310/U310-IFI/U310-ITH Keyboard (Non-Backlit) | [Store Name]",
+    "description": "Genuine non-backlit replacement keyboard for the Lenovo IdeaPad U310/U310-IFI/U310-ITH. In stock, warranty included."
+  },
+  "category": {
+    "slug": "keyboards",
+    "url": "/shop/keyboards/",
+    "name": "Keyboards"
+  },
+  "product": {
+    "url": "/shop/keyboards/lenovo-ideapad-u310-u310-ifi-u310-ith-keyboard-non-backlit/",
+    "brand_slug": "lenovo",
+    "brand_name": "Lenovo",
+    "sku": "KEY-LEN-U310U310IFIU310ITH-US-NB",
+    "type_label": "keyboard",
+    "type_label_cap": "Keyboard",
+    "name": "Lenovo IdeaPad U310/U310-IFI/U310-ITH Keyboard (Non-Backlit)",
+    "full_name": "Lenovo IdeaPad U310, U310-IFI, U310-ITH Replacement Keyboard — Non-Backlit, US Layout",
+    "images": [
+      { "src": "assets/images/products/lenovo-keyboard-ideapad-u310-u310ifi-u310ith-nonbacklit.webp", "alt": "Replacement non-backlit keyboard for Lenovo IdeaPad U310/U310-IFI/U310-ITH" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "2,100",
+    "price_raw": "2100",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Direct-fit non-backlit replacement keyboard for the Lenovo IdeaPad U310, U310-IFI and U310-ITH, which share the same chassis. US English layout with frame. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20IdeaPad%20U310%2FU310-IFI%2FU310-ITH%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C100",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Lenovo%20IdeaPad%20U310%2FU310-IFI%2FU310-ITH%20Keyboard%20%28Non-Backlit%29",
+    "compatible_models": [
+      "Lenovo IdeaPad U310",
+      "Lenovo IdeaPad U310-IFI",
+      "Lenovo IdeaPad U310-ITH"
+    ],
+    "specs": [
+      { "label": "Layout", "value": "US English (QWERTY)" },
+      { "label": "Backlight", "value": "No" },
+      { "label": "Color", "value": "Black" },
+      { "label": "Frame", "value": "Included" },
+      { "label": "Fitting", "value": "Direct replacement, no adhesive required" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 Months" }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Keyboard Questions",
+  "faqs": [
+    { "question": "How do I know this keyboard fits my laptop?", "answer": "This fits the Lenovo IdeaPad U310, U310-IFI and U310-ITH, which share the same chassis. If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
+    { "question": "Is it backlit?", "answer": "No, this is the non-backlit version." },
+    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+  ]
+}

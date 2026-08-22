@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "title": "Acer Aspire ES1/E5/E1/V3/3830/4830/4755 Series Keyboard — Non-Backlit, US Layout | [Store Name]",
+    "description": "Genuine replacement non-backlit keyboard for a wide range of Acer Aspire ES1, E5, E1, V3, 3830, 4830 and 4755 series laptops. US layout. Warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Acer Aspire ES1/E5/E1/V3/3830/4830/4755 Series Keyboard (Non-Backlit) | [Store Name]",
+    "description": "Genuine non-backlit replacement keyboard for the Acer Aspire ES1/E5/E1/V3/3830/4830/4755 series. In stock, warranty included."
+  },
+  "category": {
+    "slug": "keyboards",
+    "url": "/shop/keyboards/",
+    "name": "Keyboards"
+  },
+  "product": {
+    "url": "/shop/keyboards/acer-aspire-es1-e5-e1-v3-3830-4830-4755-series-keyboard-non-backlit/",
+    "brand_slug": "acer",
+    "brand_name": "Acer",
+    "sku": "KEY-ACER-ASPIREMULTISERIES-US-NB",
+    "type_label": "keyboard",
+    "type_label_cap": "Keyboard",
+    "name": "Acer Aspire ES1/E5/E1/V3/3830/4830/4755 Series Keyboard (Non-Backlit)",
+    "full_name": "Acer Aspire ES1-511, E5-411, E5-471, E1-470, E1-432, V3-472, E1-422, 3830, 4830, 4755, E1-472, E1-410, ES1-411, E1-430, E5-421, ES1-421, ES1-431, V3-431, V3-471 Replacement Keyboard — Non-Backlit, US Layout",
+    "images": [
+      { "src": "assets/images/products/acer-keyboard-aspire-multiseries-nonbacklit.webp", "alt": "Replacement non-backlit keyboard for Acer Aspire ES1/E5/E1/V3/3830/4830/4755 series" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "2,200",
+    "price_raw": "2200",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Direct-fit non-backlit replacement keyboard for a wide range of Acer Aspire models that share the same keyboard: ES1-511, E5-411, E5-471, E1-470, E1-432, V3-472, E1-422, 3830, 4830, 4755, E1-472, E1-410, ES1-411, E1-430, E5-421, ES1-421, ES1-431, V3-431, V3-471. US English layout with frame. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Acer%20Aspire%20ES1%2FE5%2FE1%2FV3%2F3830%2F4830%2F4755%20Series%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C200",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Acer%20Aspire%20ES1%2FE5%2FE1%2FV3%2F3830%2F4830%2F4755%20Series%20Keyboard%20%28Non-Backlit%29",
+    "compatible_models": [
+      "Acer Aspire ES1-511",
+      "Acer Aspire E5-411",
+      "Acer Aspire E5-471",
+      "Acer Aspire E1-470",
+      "Acer Aspire E1-432",
+      "Acer Aspire V3-472",
+      "Acer Aspire E1-422",
+      "Acer Aspire 3830",
+      "Acer Aspire 4830",
+      "Acer Aspire 4755",
+      "Acer Aspire E1-472",
+      "Acer Aspire E1-410",
+      "Acer Aspire ES1-411",
+      "Acer Aspire E1-430",
+      "Acer Aspire E5-421",
+      "Acer Aspire ES1-421",
+      "Acer Aspire ES1-431",
+      "Acer Aspire V3-431",
+      "Acer Aspire V3-471"
+    ],
+    "specs": [
+      { "label": "Layout", "value": "US English (QWERTY)" },
+      { "label": "Backlight", "value": "No" },
+      { "label": "Color", "value": "Black" },
+      { "label": "Frame", "value": "Included" },
+      { "label": "Fitting", "value": "Direct replacement, no adhesive required" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 Months" }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Keyboard Questions",
+  "faqs": [
+    { "question": "How do I know this keyboard fits my laptop?", "answer": "This fits a wide range of Acer Aspire models that share the same keyboard, including the ES1-511, E5-411, E5-471, E1-470, E1-432, V3-472, E1-422, 3830, 4830, 4755, E1-472, E1-410, ES1-411, E1-430, E5-421, ES1-421, ES1-431, V3-431 and V3-471. If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
+    { "question": "Is it backlit?", "answer": "No, this is the non-backlit version." },
+    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+  ]
+}

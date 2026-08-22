@@ -265,7 +265,7 @@
         <div class="product-grid" id="product-grid">
 
           <!-- Product cards rendered from category.products[] in the data file. -->
-          {{#each products}}<div class="product-card{{#if this.extra}} is-extra{{/if}}" data-brand="{{this.brand_slug}}" data-stock="{{this.stock}}"{{#if this.extra}} hidden{{/if}}>
+          {{#each products}}<div class="product-card{{#if this.extra}} is-extra{{/if}}" data-brand="{{this.brand_slug}}" data-stock="{{this.stock}}" data-page="{{this.page_num}}"{{#if this.extra}} hidden{{/if}}>
             <a href="{{this.url}}" class="product-card__media-link">
               <div class="media-frame media-frame--square">
                 <span class="badge {{this.badge_class}} product-card__badge">{{this.badge_label}}</span>
@@ -298,9 +298,19 @@
           </div>
         </div>
 
-        <div class="load-more-wrap">
-          <button type="button" class="btn btn--secondary" id="load-more">Load More {{category.name}}</button>
-        </div>
+        {{#if pagination.has_multiple}}<nav class="pagination" id="category-pagination" aria-label="{{category.name}} pages">
+          <button type="button" class="pagination__btn pagination__prev" id="pagination-prev" aria-label="Previous page" disabled>
+            <svg width="8" height="12" viewBox="0 0 8 12" aria-hidden="true"><path d="M7 1L2 6l5 5" stroke="currentColor" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </button>
+          <div class="pagination__pages">
+            {{#each pagination.pages}}<button type="button" class="pagination__btn pagination__page{{#if this.active}} is-active{{/if}}" data-page="{{this.num}}"{{#if this.active}} aria-current="page"{{/if}}>{{this.num}}</button>
+{{/each}}
+          </div>
+          <button type="button" class="pagination__btn pagination__next" id="pagination-next" aria-label="Next page">
+            <svg width="8" height="12" viewBox="0 0 8 12" aria-hidden="true"><path d="M1 1l5 5-5 5" stroke="currentColor" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </button>
+        </nav>
+{{/if}}
 
         {{#if technician_cta}}<!-- ============================================
              TECHNICIAN CTA (compact) — include for high-volume repair

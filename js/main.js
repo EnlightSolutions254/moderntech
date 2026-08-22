@@ -492,11 +492,25 @@
     }
   }
 
+  // Pagination state lives here (not inside the pagination block below) so
+  // applyFilters() can read it — filtering and paging share the same pass
+  // over the cards instead of fighting each other for the `hidden` attribute.
+  var paginationNav = document.getElementById("category-pagination");
+  var paginationCurrentPage = 1;
+  var paginationTotalPages = paginationNav
+    ? paginationNav.querySelectorAll(".pagination__page").length
+    : 1;
+
+  function hasActiveFilters() {
+    return getCheckedBrands().length > 0 || inStockOnly() || isPriceFilterActive();
+  }
+
   function applyFilters() {
     if (!productGrid) return;
     var brands = getCheckedBrands();
     var onlyInStock = inStockOnly();
     var priceRange = getSelectedPriceRange();
+    var filtersActive = hasActiveFilters();
     var cards = productGrid.querySelectorAll(".product-card");
     var visibleCount = 0;
 
@@ -504,13 +518,21 @@
       var cardBrand = card.getAttribute("data-brand");
       var cardStock = card.getAttribute("data-stock");
       var cardPrice = Number(card.getAttribute("data-price"));
+      var cardPage = parseInt(card.getAttribute("data-page"), 10) || 1;
       var matchesBrand = brands.length === 0 || brands.indexOf(cardBrand) !== -1;
       var matchesStock = !onlyInStock || cardStock === "in_stock";
       var matchesPrice = !priceRange || (cardPrice >= priceRange.min && cardPrice <= priceRange.max);
-      var visible = matchesBrand && matchesStock && matchesPrice;
+      // With no filters active, pagination decides visibility (only the
+      // current page's cards show). Once any filter is active, show every
+      // match across all pages — paging through filtered results isn't
+      // useful for a catalog this size, and pagination hides itself below.
+      var matchesPage = filtersActive || cardPage === paginationCurrentPage;
+      var visible = matchesBrand && matchesStock && matchesPrice && matchesPage;
       card.hidden = !visible;
       if (visible) visibleCount++;
     });
+
+    if (paginationNav) paginationNav.hidden = filtersActive || paginationTotalPages <= 1;
 
     if (emptyState) emptyState.hidden = visibleCount !== 0;
     if (resultCount) {
@@ -574,23 +596,38 @@
   }
 
   /* ------------------------------------------------------------------
-     12. Category page — "Load More" (client-side reveal of extra cards)
+     12. Category page — numbered pagination (10 products per page)
+     Replaces the old "Load More" reveal. Page state + the visibility
+     pass both live in applyFilters() above so paging and filtering
+     never fight over which cards are hidden.
      ------------------------------------------------------------------ */
-  var loadMoreBtn = document.getElementById("load-more");
-  if (loadMoreBtn && productGrid) {
-    // Nothing hidden to reveal (e.g. a category with every product shown
-    // up front) — don't show a button that would do nothing when clicked.
-    if (productGrid.querySelectorAll(".product-card.is-extra[hidden]").length === 0) {
-      loadMoreBtn.hidden = true;
+  if (paginationNav && productGrid) {
+    var paginationPrevBtn = document.getElementById("pagination-prev");
+    var paginationNextBtn = document.getElementById("pagination-next");
+    var paginationPageBtns = paginationNav.querySelectorAll(".pagination__page");
+
+    function goToPage(n) {
+      if (n < 1 || n > paginationTotalPages) return;
+      paginationCurrentPage = n;
+      paginationPageBtns.forEach(function (btn) {
+        var isActive = parseInt(btn.getAttribute("data-page"), 10) === paginationCurrentPage;
+        btn.classList.toggle("is-active", isActive);
+        if (isActive) { btn.setAttribute("aria-current", "page"); } else { btn.removeAttribute("aria-current"); }
+      });
+      if (paginationPrevBtn) paginationPrevBtn.disabled = paginationCurrentPage === 1;
+      if (paginationNextBtn) paginationNextBtn.disabled = paginationCurrentPage === paginationTotalPages;
+      applyFilters();
+      var gridTop = productGrid.getBoundingClientRect().top + window.pageYOffset - 90;
+      window.scrollTo({ top: gridTop, behavior: "smooth" });
     }
-    loadMoreBtn.addEventListener("click", function () {
-      var hiddenExtra = productGrid.querySelectorAll(".product-card.is-extra[hidden]");
-      var batch = Array.prototype.slice.call(hiddenExtra, 0, 8);
-      batch.forEach(function (card) { card.hidden = false; });
-      if (productGrid.querySelectorAll(".product-card.is-extra[hidden]").length === 0) {
-        loadMoreBtn.hidden = true;
-      }
+
+    paginationPageBtns.forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        goToPage(parseInt(btn.getAttribute("data-page"), 10));
+      });
     });
+    if (paginationPrevBtn) paginationPrevBtn.addEventListener("click", function () { goToPage(paginationCurrentPage - 1); });
+    if (paginationNextBtn) paginationNextBtn.addEventListener("click", function () { goToPage(paginationCurrentPage + 1); });
   }
 
   /* ------------------------------------------------------------------

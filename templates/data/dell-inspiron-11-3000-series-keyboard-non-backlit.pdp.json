@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "title": "Dell Inspiron 11-3000 Series Keyboard — Non-Backlit, US Layout | [Store Name]",
+    "description": "Genuine replacement non-backlit keyboard for the Dell Inspiron 11-3000 series (3147, 3148, 3138, P20T, 3152, 3153, 3157, 3158, 7130 2-in-1). US layout. Warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Dell Inspiron 11-3000 Series Keyboard (Non-Backlit) | [Store Name]",
+    "description": "Genuine non-backlit replacement keyboard for the Dell Inspiron 11-3000 series. In stock, warranty included."
+  },
+  "category": {
+    "slug": "keyboards",
+    "url": "/shop/keyboards/",
+    "name": "Keyboards"
+  },
+  "product": {
+    "url": "/shop/keyboards/dell-inspiron-11-3000-series-keyboard-non-backlit/",
+    "brand_slug": "dell",
+    "brand_name": "Dell",
+    "sku": "KEY-DELL-INSPIRON113000SERIES-US-NB",
+    "type_label": "keyboard",
+    "type_label_cap": "Keyboard",
+    "name": "Dell Inspiron 11-3000 Series Keyboard (Non-Backlit)",
+    "full_name": "Dell Inspiron 11-3000, 3147, 3148, 3138, P20T, 3152, 3153, 3157, 3158, 7130 2-in-1 Series Replacement Keyboard — Non-Backlit, US Layout",
+    "images": [
+      { "src": "assets/images/products/dell-keyboard-inspiron11-3000series-nonbacklit.webp", "alt": "Replacement non-backlit keyboard for Dell Inspiron 11-3000 series" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "2,000",
+    "price_raw": "2000",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Direct-fit non-backlit replacement keyboard for the Dell Inspiron 11-3000 series, covering the 3147, 3148, 3138, P20T, 3152, 3153, 3157, 3158 and 7130 2-in-1, which share the same chassis. US English layout with frame. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Inspiron%2011-3000%20Series%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C000",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Dell%20Inspiron%2011-3000%20Series%20Keyboard%20%28Non-Backlit%29",
+    "compatible_models": [
+      "Dell Inspiron 11-3000",
+      "Dell Inspiron 3147",
+      "Dell Inspiron 11-3148",
+      "Dell Inspiron 3138",
+      "Dell Inspiron P20T",
+      "Dell Inspiron 3152",
+      "Dell Inspiron 3153",
+      "Dell Inspiron 3157",
+      "Dell Inspiron 3158",
+      "Dell Inspiron 7130 2-in-1"
+    ],
+    "specs": [
+      { "label": "Layout", "value": "US English (QWERTY)" },
+      { "label": "Backlight", "value": "No" },
+      { "label": "Color", "value": "Black" },
+      { "label": "Frame", "value": "Included" },
+      { "label": "Fitting", "value": "Direct replacement, no adhesive required" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 Months" }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Keyboard Questions",
+  "faqs": [
+    { "question": "How do I know this keyboard fits my laptop?", "answer": "This fits the Dell Inspiron 11-3000 series, including the 3147, 3148, 3138, P20T, 3152, 3153, 3157, 3158 and 7130 2-in-1, which share the same chassis. If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
+    { "question": "Is it backlit?", "answer": "No, this is the non-backlit version." },
+    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+  ]
+}

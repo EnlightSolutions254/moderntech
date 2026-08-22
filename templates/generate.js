@@ -114,6 +114,24 @@ function generateCategory(dataFile) {
   const page = loadJson(dataFile);
   const tpl = fs.readFileSync(path.join(ROOT, 'category.template.html'), 'utf8');
 
+  // Pagination: real numbered pages instead of "Load More". PER_PAGE products
+  // show per page; page_num/extra are computed here (not stored in the data
+  // file) so a category's product list is the only thing authors maintain.
+  // extra stays true for every product past page 1 -- it still drives the
+  // template's `hidden` attribute, same as the old Load More markup did.
+  const PER_PAGE = 10;
+  const products = page.products || [];
+  products.forEach((p, i) => {
+    p.page_num = Math.floor(i / PER_PAGE) + 1;
+    p.extra = p.page_num > 1;
+  });
+  const totalPages = Math.max(1, Math.ceil(products.length / PER_PAGE));
+  page.pagination = {
+    total_pages: totalPages,
+    has_multiple: totalPages > 1,
+    pages: Array.from({ length: totalPages }, (_, i) => ({ num: i + 1, active: i === 0 }))
+  };
+
   const nav = buildNav(shared, page.category.slug, null);
   const context = deepMerge({ store: shared.store }, {
     store: shared.store,
