@@ -20,12 +20,12 @@
     ],
     "banners": [
       {
-        "image": "assets/images/products/hp-battery-840g3.jpg",
+        "image": "assets/images/products/hp-battery-hv03xl.webp",
         "badge_text": "Back In Stock",
-        "headline": "HP EliteBook Batteries Restocked",
-        "copy": "Genuine batteries for the 840 G3/G4 \u2014 tested before dispatch.",
+        "headline": "HP Batteries Back In Stock",
+        "copy": "Genuine batteries for HP x360 310 G2 and more \u2014 tested before dispatch.",
         "cta_text": "Shop HP Batteries",
-        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20an%20HP%20EliteBook%20840%20G3%2FG4%20Battery."
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20an%20HP%20HV03XL%20Battery."
       },
       {
         "image": "assets/images/products/lenovo-charger-65w.jpg",
@@ -44,7 +44,7 @@
         "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20a%20replacement%20laptop%20screen."
       },
       {
-        "image": "assets/images/products/hp-keyboard-840g3.jpg",
+        "image": "assets/images/products/lenovo-keyboard-x1carbon-gen3.webp",
         "badge_text": "Trade Pricing",
         "headline": "Bulk Pricing for Technicians",
         "copy": "Stock up on keyboards, hinges &amp; fans at technician rates.",
@@ -84,48 +84,48 @@
     "view_all_text": "View All Products",
     "products": [
       {
-        "name": "HP EliteBook 840 G3/G4 Battery",
-        "url": "/shop/laptop-batteries/hp-elitebook-840-g3-g4/",
-        "image": "assets/images/products/hp-battery-840g3.jpg",
-        "alt": "Replacement battery for HP EliteBook 840 G3/G4",
+        "name": "Lenovo L18C2PB3 Battery",
+        "url": "/shop/laptop-batteries/lenovo-l18c2pb3-ideapad-s145-v145-v15/",
+        "image": "assets/images/products/lenovo-battery-l18c2pb3.webp",
+        "alt": "Replacement battery \u2014 Lenovo L18C2PB3 Battery",
         "badge_type": "in-stock",
         "badge_text": "In Stock",
-        "tags": ["840 G3", "840 G4"],
-        "price": "KES 4,500",
-        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20EliteBook%20840%20G3%2FG4%20Battery%20%E2%80%94%20KES%204%2C500"
+        "tags": ["IdeaPad S145-14IWL", "IdeaPad S145-15IWL"],
+        "price": "KES 5,000",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20L18C2PB3%20Battery%20%E2%80%94%20KES%205%2C000"
       },
       {
-        "name": "Dell Latitude 5490 Battery",
-        "url": "/shop/laptop-batteries/dell-latitude-5490/",
-        "image": "assets/images/products/dell-battery-5490.jpg",
-        "alt": "Replacement battery for Dell Latitude 5490",
+        "name": "HP HV03XL Battery",
+        "url": "/shop/laptop-batteries/hp-hv03xl-x360-310-g2/",
+        "image": "assets/images/products/hp-battery-hv03xl.webp",
+        "alt": "Replacement battery \u2014 HP HV03XL Battery",
         "badge_type": "in-stock",
         "badge_text": "In Stock",
-        "tags": ["Latitude 5490", "Latitude 5491"],
-        "price": "KES 5,200",
-        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%205490%20Battery%20%E2%80%94%20KES%205%2C200"
+        "tags": ["HP x360 310 G2 (K12 Series)"],
+        "price": "KES 5,000",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20HV03XL%20Battery%20%E2%80%94%20KES%205%2C000"
       },
       {
-        "name": "Lenovo ThinkPad T480 Battery",
-        "url": "/shop/laptop-batteries/lenovo-thinkpad-t480/",
-        "image": "assets/images/products/lenovo-battery-t480.jpg",
-        "alt": "Replacement battery for Lenovo ThinkPad T480",
-        "badge_type": "low-stock",
-        "badge_text": "Only 2 left",
-        "tags": ["ThinkPad T480", "ThinkPad T480s"],
-        "price": "KES 4,800",
-        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20T480%20Battery%20%E2%80%94%20KES%204%2C800"
-      },
-      {
-        "name": "MacBook Pro 2019 13\" Battery",
-        "url": "/shop/laptop-batteries/macbook-pro-2019-13/",
-        "image": "assets/images/products/macbook-battery-pro13-2019.jpg",
-        "alt": "Replacement battery for MacBook Pro 2019 13 inch",
+        "name": "Lenovo ThinkPad X1 Carbon 3rd Gen Keyboard",
+        "url": "/shop/keyboards/lenovo-x1-carbon-3rd-gen-keyboard/",
+        "image": "assets/images/products/lenovo-keyboard-x1carbon-gen3.webp",
+        "alt": "Replacement backlit keyboard for Lenovo ThinkPad X1 Carbon 3rd Gen",
         "badge_type": "in-stock",
         "badge_text": "In Stock",
-        "tags": ["MacBook Pro 2019 13\""],
-        "price": "KES 8,900",
-        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20Pro%202019%2013%22%20Battery%20%E2%80%94%20KES%208%2C900"
+        "tags": ["X1 Carbon 3rd Gen", "Backlit"],
+        "price": "KES 8,500",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20X1%20Carbon%203rd%20Gen%20Keyboard%20%E2%80%94%20KES%208%2C500"
+      },
+      {
+        "name": "HP 15-j Keyboard (Backlit)",
+        "url": "/shop/keyboards/hp-15-j-keyboard-backlit/",
+        "image": "assets/images/products/hp-keyboard-15j-backlit.webp",
+        "alt": "Replacement backlit keyboard for HP Pavilion 15-j series",
+        "badge_type": "in-stock",
+        "badge_text": "In Stock",
+        "tags": ["15-j series"],
+        "price": "KES 3,500",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%2015-j%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%203%2C500"
       }
     ]
   },
