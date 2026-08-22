@@ -1462,7 +1462,9 @@ summary:focus-visible {
 
 /* --- PDPGallery --- */
 .pdp-gallery { margin-bottom: var(--space-4); }
-.pdp-gallery__desktop { display: none; }
+@media (max-width: 959px) {
+  .pdp-gallery__desktop { display: none; }
+}
 
 .pdp-gallery__track {
   display: flex;
