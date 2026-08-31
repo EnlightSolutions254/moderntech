@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "title": "Asus X540/X540L/X540LA/X540LJ/X540S Series Keyboard — Non-Backlit, US/UK Layout | [Store Name]",
+    "description": "Genuine replacement non-backlit keyboard for the Asus X540, X540L, X540LA, X540LJ, X540LJ4005 and X540S. Available in US or UK layout. Warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Asus X540/X540L/X540LA/X540LJ/X540S Series Keyboard (Non-Backlit) | [Store Name]",
+    "description": "Genuine non-backlit replacement keyboard for the Asus X540/X540L/X540LA/X540LJ/X540S series. In stock, warranty included."
+  },
+  "category": {
+    "slug": "keyboards",
+    "url": "/shop/keyboards/",
+    "name": "Keyboards"
+  },
+  "product": {
+    "url": "/shop/keyboards/asus-x540-x540l-x540la-x540lj-x540s-keyboard-non-backlit/",
+    "brand_slug": "asus",
+    "brand_name": "Asus",
+    "sku": "KEY-ASUS-X540X540LX540LAX540LJX540S-USUK-NB",
+    "type_label": "keyboard",
+    "type_label_cap": "Keyboard",
+    "name": "Asus X540/X540L/X540LA/X540LJ/X540S Series Keyboard (Non-Backlit)",
+    "full_name": "Asus X540, X540L, X540LA, X540LJ, X540LJ4005, X540S Series Replacement Keyboard — Non-Backlit, US/UK Layout",
+    "images": [
+      { "src": "assets/images/products/asus-keyboard-x540-series-nonbacklit.webp", "alt": "Replacement non-backlit keyboard for Asus X540/X540L/X540LA/X540LJ/X540S series" },
+      { "src": "assets/images/products/asus-keyboard-x540-series-nonbacklit-alt.webp", "alt": "Angled view of the replacement non-backlit keyboard for Asus X540/X540L/X540LA/X540LJ/X540S series" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "2,000",
+    "price_raw": "2000",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Direct-fit non-backlit replacement keyboard for the Asus X540, X540L, X540LA, X540LJ, X540LJ4005 and X540S, which share the same chassis. Black, available in US or UK layout. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%20X540%2FX540L%2FX540LA%2FX540LJ%2FX540S%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C000",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Asus%20X540%2FX540L%2FX540LA%2FX540LJ%2FX540S%20Keyboard%20%28Non-Backlit%29",
+    "compatible_models": [
+      "Asus X540",
+      "Asus X540L",
+      "Asus X540LA",
+      "Asus X540LJ",
+      "Asus X540LJ4005",
+      "Asus X540S"
+    ],
+    "specs": [
+      { "label": "Layout", "value": "US or UK QWERTY (specify when ordering)" },
+      { "label": "Backlight", "value": "No" },
+      { "label": "Color", "value": "Black" },
+      { "label": "Frame", "value": "Included" },
+      { "label": "Fitting", "value": "Direct replacement, no adhesive required" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 Months" }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Keyboard Questions",
+  "faqs": [
+    { "question": "How do I know this keyboard fits my laptop?", "answer": "This fits the Asus X540, X540L, X540LA, X540LJ, X540LJ4005 and X540S, which share the same chassis. If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
+    { "question": "Is it US or UK layout?", "answer": "Both layouts are available — let us know which you need when ordering." },
+    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+  ]
+}

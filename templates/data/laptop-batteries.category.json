@@ -13,7 +13,7 @@
     "name": "Laptop Batteries",
     "name_lower": "batteries",
     "description": "Genuine replacement batteries for HP, Lenovo and Dell laptops. Every listing shows exact compatible models, part numbers and price before you message us.",
-    "result_count": 24
+    "result_count": 45
   },
   "products": [
     {
@@ -25,11 +25,14 @@
       "stock": "in_stock",
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
-      "tags": ["ThinkPad X390 Yoga (20NN/20NQ)", "ThinkPad X13 Yoga 1st Gen (20SX/20SY)"],
-      "price": "5,800",
+      "tags": [
+        "ThinkPad X390 Yoga (20NN/20NQ)",
+        "ThinkPad X13 Yoga 1st Gen (20SX/20SY)"
+      ],
+      "price": "5,200",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
-      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20L18L3P72%20Battery%20%E2%80%94%20KES%205%2C800",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20L18L3P72%20Battery%20%E2%80%94%20KES%205%2C200",
       "extra": false
     },
     {
@@ -41,13 +44,16 @@
       "stock": "in_stock",
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
-      "tags": ["ThinkPad Yoga 260", "ThinkPad Yoga 370"],
-      "price": "5,600",
+      "tags": [
+        "ThinkPad Yoga 260",
+        "ThinkPad Yoga 370"
+      ],
+      "price": "4,800",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
-      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%2001AV432%20Battery%20%E2%80%94%20KES%205%2C600",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%2001AV432%20Battery%20%E2%80%94%20KES%204%2C800",
       "extra": false,
-      "tag_overflow": "+1 more"
+      "tag_overflow": "+2 more"
     },
     {
       "name": "Lenovo 45N1777 Battery",
@@ -58,7 +64,10 @@
       "stock": "in_stock",
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
-      "tags": ["ThinkPad T470", "ThinkPad T570"],
+      "tags": [
+        "ThinkPad T470",
+        "ThinkPad T570"
+      ],
       "price": "4,800",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -75,7 +84,10 @@
       "stock": "in_stock",
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
-      "tags": ["IdeaPad S540 Series", "IdeaPad C340 Series"],
+      "tags": [
+        "IdeaPad S540 Series",
+        "IdeaPad C340 Series"
+      ],
       "price": "5,000",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -92,7 +104,10 @@
       "stock": "in_stock",
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
-      "tags": ["IdeaPad S145-14IWL", "IdeaPad S145-15IWL"],
+      "tags": [
+        "IdeaPad S145-14IWL",
+        "IdeaPad S145-15IWL"
+      ],
       "price": "5,000",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -109,7 +124,10 @@
       "stock": "in_stock",
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
-      "tags": ["ThinkPad E480", "ThinkPad E490"],
+      "tags": [
+        "ThinkPad E480",
+        "ThinkPad E490"
+      ],
       "price": "5,500",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -126,7 +144,10 @@
       "stock": "in_stock",
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
-      "tags": ["ThinkPad T490", "ThinkPad T495"],
+      "tags": [
+        "ThinkPad T490",
+        "ThinkPad T495"
+      ],
       "price": "5,800",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -143,7 +164,10 @@
       "stock": "in_stock",
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
-      "tags": ["ThinkPad X1 Extreme Gen 1", "ThinkPad X1 Extreme Gen 2"],
+      "tags": [
+        "ThinkPad X1 Extreme Gen 1",
+        "ThinkPad X1 Extreme Gen 2"
+      ],
       "price": "7,000",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -160,11 +184,31 @@
       "stock": "in_stock",
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
-      "tags": ["ThinkPad T14s Gen 2"],
+      "tags": [
+        "ThinkPad T14s Gen 2"
+      ],
       "price": "7,500",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20L20M4P72%20Battery%20%E2%80%94%20KES%207%2C500",
+      "extra": false
+    },
+    {
+      "name": "Lenovo L15L4A01 Battery",
+      "url": "/shop/laptop-batteries/lenovo-l15l4a01-ideapad-100-15ibd/",
+      "image": "assets/images/products/lenovo-battery-l15l4a01.webp",
+      "alt": "Replacement battery — Lenovo L15L4A01 Battery",
+      "brand_slug": "lenovo",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "IdeaPad 100-15IBD"
+      ],
+      "price": "4,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20L15L4A01%20Battery%20%E2%80%94%20KES%204%2C500",
       "extra": false
     },
     {
@@ -176,7 +220,9 @@
       "stock": "in_stock",
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
-      "tags": ["HP x360 310 G2 (K12 Series)"],
+      "tags": [
+        "HP x360 310 G2 (K12 Series)"
+      ],
       "price": "5,000",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -192,7 +238,10 @@
       "stock": "in_stock",
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
-      "tags": ["Spectre x360 13-4000 Series", "Spectre x360 13-4100 Series"],
+      "tags": [
+        "Spectre x360 13-4000 Series",
+        "Spectre x360 13-4100 Series"
+      ],
       "price": "5,800",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -209,7 +258,10 @@
       "stock": "in_stock",
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
-      "tags": ["Pavilion Gaming 15-DK Series", "Pavilion Gaming 15-EC Series"],
+      "tags": [
+        "Pavilion Gaming 15-DK Series",
+        "Pavilion Gaming 15-EC Series"
+      ],
       "price": "5,500",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -226,7 +278,10 @@
       "stock": "in_stock",
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
-      "tags": ["ProBook 430 G8", "ProBook 440 G8"],
+      "tags": [
+        "ProBook 430 G8",
+        "ProBook 440 G8"
+      ],
       "price": "4,800",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -243,7 +298,10 @@
       "stock": "in_stock",
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
-      "tags": ["ZBook Studio G3", "ZBook Studio G4"],
+      "tags": [
+        "ZBook Studio G3",
+        "ZBook Studio G4"
+      ],
       "price": "6,500",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -260,7 +318,10 @@
       "stock": "in_stock",
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
-      "tags": ["EliteBook x360 1030 G3", "EliteBook x360 1040 G5"],
+      "tags": [
+        "EliteBook x360 1030 G3",
+        "EliteBook x360 1040 G5"
+      ],
       "price": "7,000",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -277,7 +338,10 @@
       "stock": "in_stock",
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
-      "tags": ["ENVY 13-ad000", "ENVY 13-ad001"],
+      "tags": [
+        "ENVY 13-ad000",
+        "ENVY 13-ad001"
+      ],
       "price": "6,000",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -294,7 +358,10 @@
       "stock": "in_stock",
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
-      "tags": ["ENVY 13-ba Series", "ENVY x360 13-ay Series"],
+      "tags": [
+        "ENVY 13-ba Series",
+        "ENVY x360 13-ay Series"
+      ],
       "price": "4,800",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -311,7 +378,10 @@
       "stock": "in_stock",
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
-      "tags": ["ENVY 13-AH Series", "ENVY 13-AQ Series"],
+      "tags": [
+        "ENVY 13-AH Series",
+        "ENVY 13-AQ Series"
+      ],
       "price": "5,000",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -328,7 +398,10 @@
       "stock": "in_stock",
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
-      "tags": ["ENVY 14-J Series", "ENVY 15-AE Series"],
+      "tags": [
+        "ENVY 14-J Series",
+        "ENVY 15-AE Series"
+      ],
       "price": "4,000",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -345,7 +418,9 @@
       "stock": "in_stock",
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
-      "tags": ["HSTNN-IB6Z family"],
+      "tags": [
+        "HSTNN-IB6Z family"
+      ],
       "price": "6,500",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -361,7 +436,10 @@
       "stock": "in_stock",
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
-      "tags": ["Latitude E5470", "Latitude E5570"],
+      "tags": [
+        "Latitude E5470",
+        "Latitude E5570"
+      ],
       "price": "6,000",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -378,7 +456,10 @@
       "stock": "in_stock",
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
-      "tags": ["Latitude 5300", "Latitude 5400"],
+      "tags": [
+        "Latitude 5300",
+        "Latitude 5400"
+      ],
       "price": "5,600",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -395,7 +476,10 @@
       "stock": "in_stock",
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
-      "tags": ["Latitude 5400", "Latitude 5500"],
+      "tags": [
+        "Latitude 5400",
+        "Latitude 5500"
+      ],
       "price": "5,600",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -412,13 +496,412 @@
       "stock": "in_stock",
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
-      "tags": ["Precision 7550", "Precision 7560"],
+      "tags": [
+        "Precision 7550",
+        "Precision 7560"
+      ],
       "price": "6,700",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20PKWVM%20Battery%20%E2%80%94%20KES%206%2C700",
       "extra": false,
       "tag_overflow": "+2 more"
+    },
+    {
+      "name": "Dell G5M10 Battery",
+      "url": "/shop/laptop-batteries/dell-g5m10-latitude-e5450-e5550-e5250/",
+      "image": "assets/images/products/dell-battery-g5m10.webp",
+      "alt": "Replacement battery — Dell G5M10 Battery",
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "Latitude E5450",
+        "Latitude E5550"
+      ],
+      "price": "4,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20G5M10%20Battery%20%E2%80%94%20KES%204%2C500",
+      "extra": false,
+      "tag_overflow": "+3 more"
+    },
+    {
+      "name": "Dell 3RNFD Battery",
+      "url": "/shop/laptop-batteries/dell-3rnfd-latitude-e7420-e7440-e7450/",
+      "image": "assets/images/products/dell-battery-3rnfd.webp",
+      "alt": "Replacement battery — Dell 3RNFD Battery",
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "Latitude E7420",
+        "Latitude E7440"
+      ],
+      "price": "4,800",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%203RNFD%20Battery%20%E2%80%94%20KES%204%2C800",
+      "extra": false,
+      "tag_overflow": "+1 more"
+    },
+    {
+      "name": "Dell YRDD6 Battery",
+      "url": "/shop/laptop-batteries/dell-yrdd6-inspiron-5488-5583-5593-5482-5585/",
+      "image": "assets/images/products/dell-battery-yrdd6.webp",
+      "alt": "Replacement battery — Dell YRDD6 Battery",
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "Inspiron 5488",
+        "Inspiron 5583"
+      ],
+      "price": "4,900",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20YRDD6%20Battery%20%E2%80%94%20KES%204%2C900",
+      "extra": false,
+      "tag_overflow": "+3 more"
+    },
+    {
+      "name": "Dell 33YDH Battery",
+      "url": "/shop/laptop-batteries/dell-33ydh-inspiron-7577-7773-7778-7779-7786/",
+      "image": "assets/images/products/dell-battery-33ydh.webp",
+      "alt": "Replacement battery — Dell 33YDH Battery",
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "Inspiron 15 7577",
+        "G5 15 5587"
+      ],
+      "price": "4,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%2033YDH%20Battery%20%E2%80%94%20KES%204%2C500",
+      "extra": false,
+      "tag_overflow": "+8 more"
+    },
+    {
+      "name": "Dell TRHFF Battery",
+      "url": "/shop/laptop-batteries/dell-trhff-latitude-3450-3550/",
+      "image": "assets/images/products/dell-battery-trhff.webp",
+      "alt": "Replacement battery — Dell TRHFF Battery",
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "Latitude 14 3450",
+        "Latitude 15 3550"
+      ],
+      "price": "4,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20TRHFF%20Battery%20%E2%80%94%20KES%204%2C500",
+      "extra": false
+    },
+    {
+      "name": "HP SP04XL Battery",
+      "url": "/shop/laptop-batteries/hp-sp04xl-spectre-x360-13-ap000/",
+      "image": "assets/images/products/hp-battery-sp04xl.webp",
+      "alt": "Replacement battery — HP SP04XL Battery",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "Spectre x360 13-ap000",
+        "Spectre x360 13t-ap000"
+      ],
+      "price": "4,700",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20SP04XL%20Battery%20%E2%80%94%20KES%204%2C700",
+      "extra": false
+    },
+    {
+      "name": "HP SG03XL Battery",
+      "url": "/shop/laptop-batteries/hp-sg03xl-envy-m7-u109dx-m7-u009dx-17t-u000/",
+      "image": "assets/images/products/hp-battery-sg03xl.webp",
+      "alt": "Replacement battery — HP SG03XL Battery",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "Envy M7-U109DX",
+        "Envy 17-U011NR"
+      ],
+      "price": "4,200",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20SG03XL%20Battery%20%E2%80%94%20KES%204%2C200",
+      "extra": false,
+      "tag_overflow": "+5 more"
+    },
+    {
+      "name": "HP SH03XL Battery",
+      "url": "/shop/laptop-batteries/hp-sh03xl-spectre-x360-13-ac0xx-13-w0xx/",
+      "image": "assets/images/products/hp-battery-sh03xl.webp",
+      "alt": "Replacement battery — HP SH03XL Battery",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "Spectre X360 13-AC0XX",
+        "Spectre X360 13-W0XX"
+      ],
+      "price": "5,100",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20SH03XL%20Battery%20%E2%80%94%20KES%205%2C100",
+      "extra": false,
+      "tag_overflow": "+6 more"
+    },
+    {
+      "name": "HP RX03XL Battery",
+      "url": "/shop/laptop-batteries/hp-rx03xl-elitebook-630-640-645-660-g11-probook-440-460/",
+      "image": "assets/images/products/hp-battery-rx03xl.webp",
+      "alt": "Replacement battery — HP RX03XL Battery",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "EliteBook 640 G11",
+        "ProBook 440 G11"
+      ],
+      "price": "5,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20RX03XL%20Battery%20%E2%80%94%20KES%205%2C500",
+      "extra": false,
+      "tag_overflow": "+4 more"
+    },
+    {
+      "name": "HP TT03XL Battery",
+      "url": "/shop/laptop-batteries/hp-tt03xl-elitebook-850-g5/",
+      "image": "assets/images/products/hp-battery-tt03xl.webp",
+      "alt": "Replacement battery — HP TT03XL Battery",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "EliteBook 850 G5",
+        "ZBook 15u G5"
+      ],
+      "price": "4,800",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20TT03XL%20Battery%20%E2%80%94%20KES%204%2C800",
+      "extra": false,
+      "tag_overflow": "+2 more"
+    },
+    {
+      "name": "Toshiba PA5185 Battery",
+      "url": "/shop/laptop-batteries/toshiba-pa5185-laptop-battery/",
+      "image": "assets/images/products/toshiba-battery-pa5185.webp",
+      "alt": "Replacement battery — Toshiba PA5185 Battery",
+      "brand_slug": "toshiba",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "Satellite C50",
+        "Satellite C55"
+      ],
+      "price": "3,000",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Toshiba%20PA5185%20Battery%20%E2%80%94%20KES%203%2C000",
+      "extra": false,
+      "tag_overflow": "+2 more"
+    },
+    {
+      "name": "Toshiba Satellite C55 PA5185 Battery",
+      "url": "/shop/laptop-batteries/toshiba-satellite-c55-pa5185-battery/",
+      "image": "assets/images/products/toshiba-battery-pa5185-c55.webp",
+      "alt": "Replacement battery — Toshiba Satellite C55 PA5185 Battery",
+      "brand_slug": "toshiba",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "Satellite C55",
+        "Satellite C55D"
+      ],
+      "price": "3,000",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Toshiba%20Satellite%20C55%20PA5185%20Battery%20%E2%80%94%20KES%203%2C000",
+      "extra": false,
+      "tag_overflow": "+2 more"
+    },
+    {
+      "name": "Toshiba PA5184U-1BRS Battery",
+      "url": "/shop/laptop-batteries/toshiba-satellite-5185-pa5184u-1brs/",
+      "image": "assets/images/products/toshiba-battery-pa5184u-1brs.webp",
+      "alt": "Replacement battery — Toshiba PA5184U-1BRS Battery",
+      "brand_slug": "toshiba",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "Satellite C55",
+        "Satellite L55"
+      ],
+      "price": "3,000",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Toshiba%20PA5184U-1BRS%20Battery%20%E2%80%94%20KES%203%2C000",
+      "extra": false,
+      "tag_overflow": "+2 more"
+    },
+    {
+      "name": "Lenovo X240 Battery",
+      "url": "/shop/laptop-batteries/lenovo-x240-thinkpad-internal/",
+      "image": "assets/images/products/lenovo-battery-x240.webp",
+      "alt": "Replacement battery — Lenovo X240 Battery",
+      "brand_slug": "lenovo",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "ThinkPad X240",
+        "ThinkPad T440"
+      ],
+      "price": "4,200",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20X240%20Battery%20%E2%80%94%20KES%204%2C200",
+      "extra": false,
+      "tag_overflow": "+3 more"
+    },
+    {
+      "name": "Lenovo T440 External Battery",
+      "url": "/shop/laptop-batteries/lenovo-t440-thinkpad-external/",
+      "image": "assets/images/products/lenovo-battery-t440-external.webp",
+      "alt": "Replacement battery — Lenovo T440 External Battery",
+      "brand_slug": "lenovo",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "ThinkPad T440",
+        "ThinkPad X240"
+      ],
+      "price": "4,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20T440%20External%20Battery%20%E2%80%94%20KES%204%2C500",
+      "extra": false,
+      "tag_overflow": "+3 more"
+    },
+    {
+      "name": "HP BL06XL Battery",
+      "url": "/shop/laptop-batteries/hp-bl06xl-elitebook-folio-1040/",
+      "image": "assets/images/products/hp-battery-bl06xl.webp",
+      "alt": "Replacement battery — HP BL06XL Battery",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "EliteBook Folio 1040 G0",
+        "EliteBook Folio 1040 G1"
+      ],
+      "price": "4,800",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20BL06XL%20Battery%20%E2%80%94%20KES%204%2C800",
+      "extra": false
+    },
+    {
+      "name": "Dell 6MT4T Battery",
+      "url": "/shop/laptop-batteries/dell-6mt4t-latitude-e5470/",
+      "image": "assets/images/products/dell-battery-6mt4t.webp",
+      "alt": "Replacement battery — Dell 6MT4T Battery",
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "Latitude E5470",
+        "Latitude E5570"
+      ],
+      "price": "4,800",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%206MT4T%20Battery%20%E2%80%94%20KES%204%2C800",
+      "extra": false,
+      "tag_overflow": "+2 more"
+    },
+    {
+      "name": "HP BP02XL Battery",
+      "url": "/shop/laptop-batteries/hp-bp02xl-pavilion-15-au/",
+      "image": "assets/images/products/hp-battery-bp02xl.webp",
+      "alt": "Replacement battery — HP BP02XL Battery",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "Pavilion 15-au",
+        "Pavilion 15-aw"
+      ],
+      "price": "4,700",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20BP02XL%20Battery%20%E2%80%94%20KES%204%2C700",
+      "extra": false
+    },
+    {
+      "name": "HP RR03XL Battery (Original)",
+      "url": "/shop/laptop-batteries/hp-rr03xl-probook-430-original/",
+      "image": "assets/images/products/hp-battery-rr03xl-original.webp",
+      "alt": "Replacement battery — HP RR03XL Battery (Original)",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "ProBook 430 G4",
+        "ProBook 440 G4"
+      ],
+      "price": "4,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20RR03XL%20Battery%20%28Original%29%20%E2%80%94%20KES%204%2C500",
+      "extra": false,
+      "tag_overflow": "+3 more"
+    },
+    {
+      "name": "HP RR03XL Battery (Compatible)",
+      "url": "/shop/laptop-batteries/hp-rr03xl-probook-430-generic/",
+      "image": "assets/images/products/hp-battery-rr03xl-generic.webp",
+      "alt": "Replacement battery — HP RR03XL Battery (Compatible)",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "ProBook 430 G4",
+        "ProBook 440 G4"
+      ],
+      "price": "3,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20RR03XL%20Battery%20%28Compatible%29%20%E2%80%94%20KES%203%2C500",
+      "extra": false,
+      "tag_overflow": "+3 more"
     }
   ],
   "technician_cta": {

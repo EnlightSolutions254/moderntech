@@ -149,6 +149,25 @@ function generatePdp(dataFile) {
   const page = loadJson(dataFile);
   const tpl = fs.readFileSync(path.join(ROOT, 'pdp.template.html'), 'utf8');
 
+  // Related products: auto-fill with other products from the same brand +
+  // category (e.g. other HP keyboards) so every PDP gets a populated
+  // "Customers Who Bought This Also Needed" carousel with no manual curation
+  // needed. A PDP that already has a manually curated `related` list (e.g. a
+  // specific backlit/non-backlit pairing) keeps it as-is -- this only fills
+  // in when the field is missing or empty.
+  if (!page.product.related || page.product.related.length === 0) {
+    const brandSlug = page.product.brand_slug;
+    const catSlug = page.category.slug;
+    const selfUrl = page.product.url;
+    const MAX_RELATED = 6;
+    page.product.related = loadAllPdpPages()
+      .filter(p => p.product && p.product.brand_slug === brandSlug
+        && p.category && p.category.slug === catSlug
+        && p.product.url !== selfUrl)
+      .map(mapPdpToProductCard)
+      .slice(0, MAX_RELATED);
+  }
+
   const nav = buildNav(shared, page.category.slug, page.product.brand_slug);
   const context = deepMerge({ store: shared.store }, {
     store: shared.store,

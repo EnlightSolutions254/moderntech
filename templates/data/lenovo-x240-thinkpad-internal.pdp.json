@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "Lenovo X240 Battery — ThinkPad X240, T440, T450, X250, X260 | Moderntech",
+    "description": "Genuine replacement Lenovo X240 internal battery, 11.1V, for ThinkPad X240, T440, T440s, T450, X250 and X260. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Lenovo X240 Battery | Moderntech",
+    "description": "Genuine Lenovo X240 replacement internal battery for ThinkPad X240/T440/T450 series. In stock, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/lenovo-x240-thinkpad-internal/",
+    "brand_slug": "lenovo",
+    "brand_name": "Lenovo",
+    "sku": "45N1110",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "name": "Lenovo X240 Battery",
+    "full_name": "Lenovo X240 Battery — ThinkPad X240, T440, T450, X250, X260 (Internal)",
+    "images": [
+      {
+        "src": "assets/images/products/lenovo-battery-x240.webp",
+        "alt": "Replacement battery — Lenovo X240 Battery"
+      },
+      {
+        "src": "assets/images/products/lenovo-battery-x240-alt.webp",
+        "alt": "Angled view of the Lenovo X240 Battery"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "price": "4,200",
+    "price_raw": "4200",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine OEM Lenovo X240 internal replacement battery, 11.1V, Li-ion. Fits ThinkPad X240, X240S, X250, X260, X270, T440, T440S, T450, T450S and L450 (3-cell, 24Wh). Also matches part numbers 45N1108, 45N1109, 45N1111, 45N1112, 45N1113. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20X240%20Battery%20%E2%80%94%20KES%204%2C200",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Lenovo%20X240%20Battery",
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "45N1110"
+      },
+      {
+        "label": "Compatible Models",
+        "value": "ThinkPad X240, X240S, X250, X260, X270, T440, T440S, T450, T450S, L450 (Internal battery)"
+      },
+      {
+        "label": "Alternate Part Numbers",
+        "value": "45N1108, 45N1109, 45N1111, 45N1112, 45N1113"
+      },
+      {
+        "label": "Voltage",
+        "value": "11.1V"
+      },
+      {
+        "label": "Capacity",
+        "value": "24Wh (3-cell)"
+      },
+      {
+        "label": "Battery Type",
+        "value": "Li-ion"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "How do I know this battery fits my laptop?",
+      "answer": "This fits the ThinkPad X240, T440 and T450 series (internal battery). Note these models use two batteries — internal and external — this listing is for the internal one. The part number on your old battery is the safest way to confirm. If you're unsure, send us a photo of the sticker on your battery on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is this an original or compatible battery?",
+      "answer": "We stock genuine OEM batteries — this is a genuine Lenovo 45N1110-family unit."
+    },
+    {
+      "question": "What warranty comes with this battery?",
+      "answer": "This battery carries a 6-month warranty."
+    }
+  ]
+}

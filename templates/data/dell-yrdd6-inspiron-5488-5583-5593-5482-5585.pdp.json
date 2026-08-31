@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "Dell YRDD6 Battery — Inspiron 5488, 5583, 5593, 5482, 5585 | Moderntech",
+    "description": "Genuine replacement Dell YRDD6 battery, 11.4V, for Inspiron 5488, 5583, 5593, 5482 and 5585 series. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Dell YRDD6 Battery | Moderntech",
+    "description": "Genuine Dell YRDD6 replacement battery for Inspiron 5488, 5583, 5593, 5482 and 5585. In stock, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/dell-yrdd6-inspiron-5488-5583-5593-5482-5585/",
+    "brand_slug": "dell",
+    "brand_name": "Dell",
+    "sku": "YRDD6",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "name": "Dell YRDD6 Battery",
+    "full_name": "Dell YRDD6 Battery — Inspiron 5488, 5583, 5593, 5482, 5585",
+    "images": [
+      {
+        "src": "assets/images/products/dell-battery-yrdd6.webp",
+        "alt": "Replacement battery — Dell YRDD6 Battery"
+      },
+      {
+        "src": "assets/images/products/dell-battery-yrdd6-alt.webp",
+        "alt": "Angled view of the Dell YRDD6 Battery"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "price": "4,900",
+    "price_raw": "4900",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine OEM Dell YRDD6 replacement battery, 11.4V, Li-ion. Fits Dell Inspiron 5488, 5583, 5593, 5482 and 5585 series (3-cell, 42Wh). Also matches part numbers 0YRDD6, 1VX1H, VM732, FDRHM, WJPC4. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20YRDD6%20Battery%20%E2%80%94%20KES%204%2C900",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Dell%20YRDD6%20Battery",
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "YRDD6"
+      },
+      {
+        "label": "Compatible Models",
+        "value": "Dell Inspiron 5488, Inspiron 5583, Inspiron 5593, Inspiron 5482, Inspiron 5585"
+      },
+      {
+        "label": "Alternate Part Numbers",
+        "value": "0YRDD6, 1VX1H, VM732, FDRHM, WJPC4"
+      },
+      {
+        "label": "Voltage",
+        "value": "11.4V"
+      },
+      {
+        "label": "Capacity",
+        "value": "42Wh (3-cell)"
+      },
+      {
+        "label": "Battery Type",
+        "value": "Li-ion"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "How do I know this battery fits my laptop?",
+      "answer": "This fits Dell Inspiron 5488, 5583, 5593, 5482 and 5585 series. The part number on your old battery is the safest way to confirm. If you're unsure, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is this an original or compatible battery?",
+      "answer": "We stock genuine OEM batteries — this is a genuine Dell YRDD6-family unit."
+    },
+    {
+      "question": "What warranty comes with this battery?",
+      "answer": "This battery carries a 6-month warranty."
+    }
+  ]
+}

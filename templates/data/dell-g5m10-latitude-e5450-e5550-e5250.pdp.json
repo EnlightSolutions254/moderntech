@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "title": "Dell G5M10 Battery — Latitude E5450, E5550, E5250 | Moderntech",
+    "description": "Genuine replacement Dell G5M10 battery, 7.4V 51Wh, for Latitude 14 E5450, Latitude 15 E5550 and Latitude 12 E5250. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Dell G5M10 Battery | Moderntech",
+    "description": "Genuine Dell G5M10 replacement battery for Latitude E5450, E5550 and E5250. In stock, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/dell-g5m10-latitude-e5450-e5550-e5250/",
+    "brand_slug": "dell",
+    "brand_name": "Dell",
+    "sku": "G5M10",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "name": "Dell G5M10 Battery",
+    "full_name": "Dell G5M10 Battery — Latitude 14 E5450, Latitude 15 E5550, Latitude 12 E5250",
+    "images": [
+      { "src": "assets/images/products/dell-battery-g5m10.webp", "alt": "Replacement battery — Dell G5M10 Battery" },
+      { "src": "assets/images/products/dell-battery-g5m10-alt.webp", "alt": "Angled view of the Dell G5M10 Battery" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "4,500",
+    "price_raw": "4500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine OEM Dell G5M10 replacement battery, 7.4V, 51Wh, 4-cell Li-Polymer. Fits Dell Latitude 14 E5450, Latitude 15 E5550 and Latitude 12 E5250, as well as Latitude 3150 and 3160. Also matches part numbers 8V5GX, R9XM9, WYJC2, 1KY05, 08V5GX, VMKXM, 5XFWC and PF59Y. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20G5M10%20Battery%20%E2%80%94%20KES%204%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Dell%20G5M10%20Battery",
+    "specs": [
+      { "label": "Part Number", "value": "G5M10" },
+      { "label": "Compatible Models", "value": "Latitude E5450, E5550, E5250, 3150, 3160" },
+      { "label": "Alternate Part Numbers", "value": "8V5GX, R9XM9, WYJC2, 1KY05, 08V5GX, VMKXM, 5XFWC, PF59Y" },
+      { "label": "Voltage", "value": "7.4V" },
+      { "label": "Capacity", "value": "51Wh" },
+      { "label": "Cells", "value": "4-Cell Li-Polymer" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "6 Months" }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    { "question": "How do I know this battery fits my laptop?", "answer": "This fits Dell Latitude 14 E5450, Latitude 15 E5550, Latitude 12 E5250, and Latitude 3150/3160. It does not fit the E5470, E5570 or E5270 refresh models, which use a different battery. If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
+    { "question": "Is this an original or compatible battery?", "answer": "We stock genuine OEM batteries — this is a genuine Dell G5M10 unit." },
+    { "question": "What warranty comes with this battery?", "answer": "This battery carries a 6-month warranty." }
+  ]
+}

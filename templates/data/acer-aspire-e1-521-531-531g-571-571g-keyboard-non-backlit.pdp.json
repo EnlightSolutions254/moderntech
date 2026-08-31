@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "title": "Acer Aspire E1-521/531/531G/571/571G Keyboard — Non-Backlit, US Layout | [Store Name]",
+    "description": "Genuine replacement non-backlit keyboard for the Acer Aspire E1-521, E1-531, E1-531G, E1-571 and E1-571G. US layout. Warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Acer Aspire E1-521/531/531G/571/571G Keyboard (Non-Backlit) | [Store Name]",
+    "description": "Genuine non-backlit replacement keyboard for the Acer Aspire E1-521/531/531G/571/571G. In stock, warranty included."
+  },
+  "category": {
+    "slug": "keyboards",
+    "url": "/shop/keyboards/",
+    "name": "Keyboards"
+  },
+  "product": {
+    "url": "/shop/keyboards/acer-aspire-e1-521-531-531g-571-571g-keyboard-non-backlit/",
+    "brand_slug": "acer",
+    "brand_name": "Acer",
+    "sku": "KEY-ACER-E1521531531G571571G-US-NB",
+    "type_label": "keyboard",
+    "type_label_cap": "Keyboard",
+    "name": "Acer Aspire E1-521/531/531G/571/571G Keyboard (Non-Backlit)",
+    "full_name": "Acer Aspire E1-521, E1-531, E1-531G, E1-571, E1-571G Replacement Keyboard — Non-Backlit, US Layout",
+    "images": [
+      { "src": "assets/images/products/acer-keyboard-aspire-e1-521-531-571-nonbacklit.webp", "alt": "Replacement non-backlit keyboard for Acer Aspire E1-521/531/531G/571/571G" },
+      { "src": "assets/images/products/acer-keyboard-aspire-e1-521-531-571-nonbacklit-alt.webp", "alt": "Angled view of the replacement non-backlit keyboard for Acer Aspire E1-521/531/531G/571/571G" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "2,500",
+    "price_raw": "2500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Direct-fit non-backlit replacement keyboard for the Acer Aspire E1-521, E1-531, E1-531G, E1-571 and E1-571G, which share the same chassis. US English layout with frame. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Acer%20Aspire%20E1-521%2F531%2F531G%2F571%2F571G%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Acer%20Aspire%20E1-521%2F531%2F531G%2F571%2F571G%20Keyboard%20%28Non-Backlit%29",
+    "compatible_models": [
+      "Acer Aspire E1-521",
+      "Acer Aspire E1-531",
+      "Acer Aspire E1-531G",
+      "Acer Aspire E1-571",
+      "Acer Aspire E1-571G"
+    ],
+    "specs": [
+      { "label": "Layout", "value": "US English (QWERTY)" },
+      { "label": "Backlight", "value": "No" },
+      { "label": "Color", "value": "Black" },
+      { "label": "Frame", "value": "Included" },
+      { "label": "Fitting", "value": "Direct replacement, no adhesive required" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 Months" }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Keyboard Questions",
+  "faqs": [
+    { "question": "How do I know this keyboard fits my laptop?", "answer": "This fits the Acer Aspire E1-521, E1-531, E1-531G, E1-571 and E1-571G, which share the same chassis. If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
+    { "question": "Is it backlit?", "answer": "No, this is the non-backlit version." },
+    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+  ]
+}

@@ -1,102 +1,56 @@
 {
   "meta": {
-    "title": "Lenovo L18L3P72 Battery — KES 5,800 | Moderntech",
-    "description": "Genuine Lenovo L18L3P72 battery — fits ThinkPad X390 Yoga and ThinkPad X13 Yoga 1st Gen. Tested before dispatch, with warranty support."
+    "title": "Lenovo L18L3P72 Battery — ThinkPad X390 Yoga, X13 Yoga 1st Gen | Moderntech",
+    "description": "Genuine replacement Lenovo L18L3P72 battery, 11.55V 51Wh, for ThinkPad X390 Yoga and ThinkPad X13 Yoga 1st Gen. In-stock pricing in KES, warranty included, order on WhatsApp."
   },
   "og": {
     "title": "Lenovo L18L3P72 Battery | Moderntech",
-    "description": "Genuine Lenovo L18L3P72 battery — fits ThinkPad X390 Yoga and ThinkPad X13 Yoga 1st Gen. Tested before dispatch, with warranty support."
+    "description": "Genuine Lenovo L18L3P72 replacement battery for ThinkPad X390 Yoga and X13 Yoga 1st Gen. In stock, warranty included, order on WhatsApp."
   },
   "category": {
     "slug": "laptop-batteries",
     "url": "/shop/laptop-batteries/",
     "name": "Laptop Batteries"
   },
-  "delivery_note": "Same-day delivery in Nairobi · Countrywide shipping available",
-  "faq_heading": "Battery Questions",
-  "faqs": [
-    {
-      "question": "How do I know this battery fits my laptop?",
-      "answer": "This listing shows exact compatible models and part numbers. If you're unsure of your laptop's exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm."
-    },
-    {
-      "question": "Are these original or compatible batteries?",
-      "answer": "It's stated clearly above — Original (OEM) or Replacement (OEM-equivalent)."
-    },
-    {
-      "question": "What warranty comes with this battery?",
-      "answer": "This battery carries a 6-month warranty."
-    }
-  ],
   "product": {
     "url": "/shop/laptop-batteries/lenovo-l18l3p72-x390-yoga-x13-yoga/",
-    "name": "Lenovo L18L3P72 Battery",
-    "full_name": "Lenovo L18L3P72 Battery (51Wh, ThinkPad X390 Yoga / X13 Yoga 1st Gen)",
-    "sku": "LENOVO-L18L3P72",
-    "brand_name": "Lenovo",
     "brand_slug": "lenovo",
-    "price": "5,800",
-    "price_raw": "5800",
-    "schema_availability": "https://schema.org/InStock",
-    "description": "Genuine Lenovo L18L3P72 battery — fits ThinkPad X390 Yoga and ThinkPad X13 Yoga 1st Gen. Tested before dispatch, with warranty support.",
+    "brand_name": "Lenovo",
+    "sku": "L18L3P72",
     "type_label": "battery",
     "type_label_cap": "Battery",
-    "badges": [
-      { "class": "badge--in-stock", "label": "In Stock" },
-      { "class": "badge--original", "label": "Genuine OEM" }
-    ],
+    "name": "Lenovo L18L3P72 Battery",
+    "full_name": "Lenovo L18L3P72 Battery — ThinkPad X390 Yoga, ThinkPad X13 Yoga 1st Gen",
     "images": [
       { "src": "assets/images/products/lenovo-battery-l18l3p72.webp", "alt": "Replacement battery — Lenovo L18L3P72 Battery" },
-      { "src": "assets/images/products/lenovo-battery-l18l3p72-1.webp", "alt": "Lenovo L18L3P72 Battery — packaging" }
+      { "src": "assets/images/products/lenovo-battery-l18l3p72-alt.webp", "alt": "Angled view of the Lenovo L18L3P72 Battery" }
     ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "5,200",
+    "price_raw": "5200",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine OEM Lenovo L18L3P72 replacement battery, 11.55V, 51Wh (4372mAh), Li-ion. Fits ThinkPad X390 Yoga (20NN/20NQ) and ThinkPad X13 Yoga 1st Gen (20SX/20SY) — the Yoga (convertible) variants only, not the standard clamshell X390/X13. Also matches part numbers L19M3P71, SB10T83171, 5B10W13928, SB10K97660, 02DL022, SB10T83170. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20L18L3P72%20Battery%20%E2%80%94%20KES%205%2C200",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Lenovo%20L18L3P72%20Battery",
     "specs": [
-      { "label": "Part Number / Compatible Codes", "value": "L18L3P72, L18M3P72, SB10T83170, SB10W13927, SB10K97659, 02DL021" },
-      { "label": "Battery Type", "value": "Genuine OEM" },
-      { "label": "Voltage / Capacity", "value": "11.55V, 51Wh (4372mAh typical) / 49Wh (4211mAh rated)" },
-      { "label": "Cell Configuration", "value": "3ICP6/80/73" },
-      { "label": "Condition", "value": "Brand New" },
+      { "label": "Part Number", "value": "L18L3P72" },
+      { "label": "Compatible Models", "value": "ThinkPad X390 Yoga (20NN/20NQ), ThinkPad X13 Yoga 1st Gen (20SX/20SY)" },
+      { "label": "Alternate Part Numbers", "value": "L19M3P71, SB10T83171, 5B10W13928, SB10K97660, 02DL022, SB10T83170" },
+      { "label": "Voltage", "value": "11.55V" },
+      { "label": "Capacity", "value": "51Wh (4372mAh)" },
+      { "label": "Battery Type", "value": "Li-ion" },
+      { "label": "Condition", "value": "New" },
       { "label": "Warranty", "value": "6 Months" }
     ],
-    "compatible_models": [
-      "ThinkPad X390 Yoga (20NN/20NQ)",
-      "ThinkPad X13 Yoga 1st Gen (20SX/20SY)"
-    ],
-    "related": [
-      {
-        "url": "/shop/laptop-batteries/lenovo-01av432-thinkpad-yoga-260-370-x380-yoga/",
-        "image": "assets/images/products/lenovo-battery-01av432.webp",
-        "alt": "Replacement battery — Lenovo 01AV432 Battery",
-        "badge_class": "badge--in-stock",
-        "badge_label": "In Stock",
-        "name": "Lenovo 01AV432 Battery",
-        "tags": ["ThinkPad Yoga 260", "ThinkPad Yoga 370"],
-        "price": "5,600",
-        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%2001AV432%20Battery%20%E2%80%94%20KES%205%2C600"
-      },
-      {
-        "url": "/shop/laptop-batteries/hp-pk03xl-spectre-x360-13-4000-series/",
-        "image": "assets/images/products/hp-battery-pk03xl.webp",
-        "alt": "Replacement battery — HP PK03XL Battery",
-        "badge_class": "badge--in-stock",
-        "badge_label": "In Stock",
-        "name": "HP PK03XL Battery",
-        "tags": ["Spectre x360 13-4000 Series", "Spectre x360 13-4100 Series"],
-        "price": "5,800",
-        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20PK03XL%20Battery%20%E2%80%94%20KES%205%2C800"
-      },
-      {
-        "url": "/shop/laptop-batteries/hp-rh03xl-probook-g8-series/",
-        "image": "assets/images/products/hp-battery-rh03xl.webp",
-        "alt": "Replacement battery — HP RH03XL Battery",
-        "badge_class": "badge--in-stock",
-        "badge_label": "In Stock",
-        "name": "HP RH03XL Battery",
-        "tags": ["ProBook 430 G8", "ProBook 440 G8"],
-        "price": "4,800",
-        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20RH03XL%20Battery%20%E2%80%94%20KES%204%2C800"
-      }
-    ],
-    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20L18L3P72%20Battery%20%E2%80%94%20KES%205%2C800",
-    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20this%20battery%20%28Lenovo%20L18L3P72%20Battery%29%20fits%20my%20laptop%3F"
-  }
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    { "question": "How do I know this battery fits my laptop?", "answer": "This fits the ThinkPad X390 Yoga and ThinkPad X13 Yoga 1st Gen — the convertible Yoga variants only, not the standard clamshell X390 or X13. If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
+    { "question": "Is this an original or compatible battery?", "answer": "We stock genuine OEM batteries — this is a genuine Lenovo L18L3P72 unit." },
+    { "question": "What warranty comes with this battery?", "answer": "This battery carries a 6-month warranty." }
+  ]
 }

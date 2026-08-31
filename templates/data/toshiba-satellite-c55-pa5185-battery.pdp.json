@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "Toshiba Satellite C55 PA5185 Battery | Moderntech",
+    "description": "Genuine replacement Toshiba PA5185U-1BRS battery, 14.4V, for Toshiba Satellite C55 series. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Toshiba Satellite C55 PA5185 Battery | Moderntech",
+    "description": "Genuine Toshiba PA5185 replacement battery for Satellite C55. In stock, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/toshiba-satellite-c55-pa5185-battery/",
+    "brand_slug": "toshiba",
+    "brand_name": "Toshiba",
+    "sku": "PA5185U-1BRS",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "name": "Toshiba PA5185 Battery",
+    "full_name": "Toshiba Satellite C55 PA5185 Battery",
+    "images": [
+      {
+        "src": "assets/images/products/toshiba-battery-pa5185-c55.webp",
+        "alt": "Replacement battery — Toshiba Satellite C55 PA5185 Battery"
+      },
+      {
+        "src": "assets/images/products/toshiba-battery-pa5185-c55-alt.webp",
+        "alt": "Angled view of the Toshiba Satellite C55 PA5185 Battery"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "price": "3,000",
+    "price_raw": "3000",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine OEM Toshiba PA5185U-1BRS replacement battery, 14.4V, Li-ion. Fits Toshiba Satellite C55, C55D and related C50/L55 series (4-cell, 45Wh). Also matches part numbers PA5184U-1BRS, PA5186U-1BRS, PA5195U-1BRS. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Toshiba%20Satellite%20C55%20PA5185%20Battery%20%E2%80%94%20KES%203%2C000",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Toshiba%20Satellite%20C55%20PA5185%20Battery",
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "PA5185U-1BRS"
+      },
+      {
+        "label": "Compatible Models",
+        "value": "Toshiba Satellite C55, Satellite C55D, Satellite C50, Satellite L55"
+      },
+      {
+        "label": "Alternate Part Numbers",
+        "value": "PA5184U-1BRS, PA5186U-1BRS, PA5195U-1BRS"
+      },
+      {
+        "label": "Voltage",
+        "value": "14.4V"
+      },
+      {
+        "label": "Capacity",
+        "value": "45Wh (4-cell)"
+      },
+      {
+        "label": "Battery Type",
+        "value": "Li-ion"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "How do I know this battery fits my laptop?",
+      "answer": "This fits Toshiba Satellite C55 and C55D series. The part number on your old battery is the safest way to confirm. If you're unsure, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is this an original or compatible battery?",
+      "answer": "We stock genuine OEM batteries — this is a genuine Toshiba PA5185U-1BRS-family unit."
+    },
+    {
+      "question": "What warranty comes with this battery?",
+      "answer": "This battery carries a 6-month warranty."
+    }
+  ]
+}

@@ -22,17 +22,13 @@
     "price": "7,500",
     "price_raw": "7500",
     "schema_availability": "https://schema.org/InStock",
-    "description": "Replacement battery (Model L20M4P72, FRU 5B10W51814, ASM SB10W51915) for the Lenovo ThinkPad T14s Gen 2 — the strongest confirmed application for this battery. Also cross-compatible with L20L4P72, L20C4P72, L20D4P72, SB10W51914 and SB10W51916. 4-cell, 57Wh typical / 55Wh rated, 15.36V Li-Ion, manufactured by Simplo Technology. Tested before dispatch, drop-in fit — no disassembly beyond the standard battery bay.",
+    "description": "Replacement battery (Model L20M4P72, FRU 5B10W51814, ASM SB10W51915) for the Lenovo ThinkPad T14s Gen 2 \u2014 the strongest confirmed application for this battery. Also cross-compatible with L20L4P72, L20C4P72, L20D4P72, SB10W51914 and SB10W51916. 4-cell, 57Wh typical / 55Wh rated, 15.36V Li-Ion, manufactured by Simplo Technology. Tested before dispatch, drop-in fit \u2014 no disassembly beyond the standard battery bay.",
     "type_label": "battery",
     "type_label_cap": "Battery",
     "images": [
       {
-        "src": "assets/images/products/IMG_1432.webp",
-        "alt": "Lenovo L20M4P72 Battery — label detail"
-      },
-      {
-        "src": "assets/images/products/IMG_1432.webp",
-        "alt": "Lenovo L20M4P72 Battery — front view"
+        "src": "assets/images/products/lenovo-battery-l20m4p72.webp",
+        "alt": "Lenovo L20M4P72 Battery \u2014 front view"
       }
     ],
     "badges": [
@@ -91,11 +87,11 @@
   "faqs": [
     {
       "question": "Do you offer warranty on this battery?",
-      "answer": "Yes — this battery carries a 6-month warranty from the date of purchase."
+      "answer": "Yes \u2014 this battery carries a 6-month warranty from the date of purchase."
     },
     {
       "question": "How do I install it?",
-      "answer": "It's a standard drop-in replacement — no disassembly beyond the battery bay. We can talk you through it on WhatsApp if needed."
+      "answer": "It's a standard drop-in replacement \u2014 no disassembly beyond the battery bay. We can talk you through it on WhatsApp if needed."
     },
     {
       "question": "Can I pay via M-Pesa?",

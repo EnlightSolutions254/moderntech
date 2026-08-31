@@ -13,7 +13,7 @@
     "name": "Keyboards",
     "name_lower": "keyboards",
     "description": "Genuine replacement keyboards for HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook laptops. Every listing shows exact layout, backlighting and compatible models before you message us.",
-    "result_count": 53
+    "result_count": 95
   },
   "products": [
     {
@@ -156,6 +156,57 @@
       "cta_label": "Order on WhatsApp",
       "cta_class": "btn--whatsapp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20Flex%205-14%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%203%2C500"
+    },
+    {
+      "brand_slug": "lenovo",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/lenovo-ideapad-g40-30-g40-45-g40-70-g40-80-g41-35-flex-2-14d-keyboard-non-backlit/",
+      "image": "assets/images/products/lenovo-keyboard-ideapad-g40-30-g40-45-g40-70-g40-80-g41-35-flex2-14d-nonbacklit.webp",
+      "alt": "Replacement non-backlit keyboard for Lenovo IdeaPad G40-30/G40-45/G40-70/G40-80/G41-35, Flex 2-14D",
+      "name": "Lenovo IdeaPad G40-30/G40-45/G40-70/G40-80/G41-35, Flex 2-14D Keyboard (Non-Backlit)",
+      "tags": [
+        "G40-30/G40-45/G40-70/G40-80/G41-35, Flex 2-14D"
+      ],
+      "price": "2,200",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20IdeaPad%20G40-30%2FG40-45%2FG40-70%2FG40-80%2FG41-35%2C%20Flex%202-14D%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C200"
+    },
+    {
+      "brand_slug": "lenovo",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/lenovo-b50-30-b50-45-b50-70-g50-30-g50-45-g50-70-g50-70m-z50-70-z50-75-keyboard-non-backlit/",
+      "image": "assets/images/products/lenovo-keyboard-b50-30-b50-45-b50-70-g50-30-g50-45-g50-70-g50-70m-z50-70-z50-75-nonbacklit.webp",
+      "alt": "Replacement non-backlit keyboard for Lenovo B50-30/B50-45/B50-70, G50-30/G50-45/G50-70/G50-70m, Z50-70/Z50-75 Series",
+      "name": "Lenovo B50-30/B50-45/B50-70, G50-30/G50-45/G50-70/G50-70m, Z50-70/Z50-75 Series Keyboard (Non-Backlit)",
+      "tags": [
+        "B50-30/B50-45/B50-70, G50-30/G50-45/G50-70/G50-70m, Z50-70/Z50-75"
+      ],
+      "price": "2,200",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20B50-30%2FB50-45%2FB50-70%2C%20G50-30%2FG50-45%2FG50-70%2FG50-70m%2C%20Z50-70%2FZ50-75%20Series%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C200"
+    },
+    {
+      "brand_slug": "lenovo",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/lenovo-ideapad-g500-g505-g505a-g510-g700-g710-g700a-g500am-keyboard-non-backlit/",
+      "image": "assets/images/products/lenovo-keyboard-ideapad-g500-g505-g505a-g510-g700-g710-g700a-g500am-nonbacklit.webp",
+      "alt": "Replacement non-backlit keyboard for Lenovo IdeaPad G500/G505/G505A/G510/G700/G710/G700A/G500AM",
+      "name": "Lenovo IdeaPad G500/G505/G505A/G510/G700/G710/G700A/G500AM Keyboard (Non-Backlit)",
+      "tags": [
+        "G500/G505/G505A/G510/G700/G710/G700A/G500AM"
+      ],
+      "price": "2,200",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20IdeaPad%20G500%2FG505%2FG505A%2FG510%2FG700%2FG710%2FG700A%2FG500AM%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C200"
     },
     {
       "brand_slug": "hp",
@@ -942,6 +993,700 @@
       "cta_label": "Order on WhatsApp",
       "cta_class": "btn--whatsapp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%20K54C%2FK54L%2FK54LY%2FX54C%2FX54L%2FX54LY%2FA54C%2FA54L%2FA54LY%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C000"
+    },
+    {
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/hp-probook-440-445-g9-g10-640-645-g8-elitebook-640-g9-g10-keyboard-backlit/",
+      "image": "assets/images/products/hp-keyboard-probook440-445-640-645-elitebook640-backlit.webp",
+      "alt": "Replacement backlit keyboard for HP ProBook 440/445 G9/G10, 640/645 G8 and EliteBook 640 G9/G10",
+      "name": "HP ProBook 440/445 G9/G10, 640/645 G8, EliteBook 640 G9/G10 Keyboard (Backlit)",
+      "tags": [
+        "ProBook 440/445/640/645, EliteBook 640",
+        "Backlit"
+      ],
+      "price": "4,000",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20ProBook%20440%2F445%20G9%2FG10%2C%20640%2F645%20G8%2C%20EliteBook%20640%20G9%2FG10%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%204%2C000"
+    },
+    {
+      "brand_slug": "acer",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/acer-aspire-e1-521-531-531g-571-571g-keyboard-non-backlit/",
+      "image": "assets/images/products/acer-keyboard-aspire-e1-521-531-571-nonbacklit.webp",
+      "alt": "Replacement non-backlit keyboard for Acer Aspire E1-521/531/531G/571/571G",
+      "name": "Acer Aspire E1-521/531/531G/571/571G Keyboard (Non-Backlit)",
+      "tags": [
+        "Aspire E1-521/531/571 Series"
+      ],
+      "price": "2,500",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Acer%20Aspire%20E1-521%2F531%2F531G%2F571%2F571G%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C500"
+    },
+    {
+      "brand_slug": "asus",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/asus-x540-x540l-x540la-x540lj-x540s-keyboard-non-backlit/",
+      "image": "assets/images/products/asus-keyboard-x540-series-nonbacklit.webp",
+      "alt": "Replacement non-backlit keyboard for Asus X540/X540L/X540LA/X540LJ/X540S series",
+      "name": "Asus X540/X540L/X540LA/X540LJ/X540S Series Keyboard (Non-Backlit)",
+      "tags": [
+        "X540 Series"
+      ],
+      "price": "2,000",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%20X540%2FX540L%2FX540LA%2FX540LJ%2FX540S%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C000"
+    },
+    {
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/dell-latitude-5500-5501-5510-5511-p80f-keyboard-non-backlit/",
+      "image": "assets/images/products/dell-keyboard-latitude5500-5501-5510-5511-p80f-nonbacklit.webp",
+      "alt": "Replacement non-backlit keyboard for Dell Latitude 5500/5501/5510/5511/P80F",
+      "name": "Dell Latitude 5500/5501/5510/5511/P80F Keyboard (Non-Backlit)",
+      "tags": [
+        "Latitude 5500/5510 Series",
+        "With Pointer"
+      ],
+      "price": "3,000",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%205500%2F5501%2F5510%2F5511%2FP80F%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%203%2C000"
+    },
+    {
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/dell-latitude-5500-5501-5510-5511-p80f-keyboard-backlit/",
+      "image": "assets/images/products/dell-keyboard-latitude5500-5501-5510-5511-p80f-backlit.webp",
+      "alt": "Replacement backlit keyboard for Dell Latitude 5500/5501/5510/5511/P80F",
+      "name": "Dell Latitude 5500/5501/5510/5511/P80F Keyboard (Backlit)",
+      "tags": [
+        "Latitude 5500/5510 Series",
+        "With Pointer",
+        "Backlit"
+      ],
+      "price": "4,100",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%205500%2F5501%2F5510%2F5511%2FP80F%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%204%2C100"
+    },
+    {
+      "brand_slug": "lenovo",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/lenovo-thinkpad-e531-e540-keyboard-backlit/",
+      "image": "assets/images/products/lenovo-keyboard-thinkpad-e531-e540-backlit.webp",
+      "alt": "Replacement backlit keyboard for Lenovo ThinkPad E531/E540",
+      "name": "Lenovo ThinkPad E531/E540 Keyboard (Backlit)",
+      "tags": [
+        "ThinkPad E531/E540",
+        "Backlit"
+      ],
+      "price": "4,000",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20E531%2FE540%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%204%2C000"
+    },
+    {
+      "brand_slug": "lenovo",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/lenovo-thinkpad-e531-e540-keyboard-non-backlit/",
+      "image": "assets/images/products/lenovo-keyboard-thinkpad-e531-e540-nonbacklit.webp",
+      "alt": "Replacement non-backlit keyboard for Lenovo ThinkPad E531/E540",
+      "name": "Lenovo ThinkPad E531/E540 Keyboard (Non-Backlit)",
+      "tags": [
+        "ThinkPad E531/E540"
+      ],
+      "price": "3,000",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20E531%2FE540%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%203%2C000"
+    },
+    {
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/hp-probook-6560b-6565b-6570b-6575b-elitebook-8560p-8570p-keyboard-non-backlit/",
+      "image": "assets/images/products/hp-keyboard-probook6560b-6570b-elitebook8560p-8570p-nonbacklit.webp",
+      "alt": "Replacement non-backlit keyboard for HP ProBook 6560b/6565b/6570b/6575b and EliteBook 8560p/8570p",
+      "name": "HP ProBook 6560b/6565b/6570b/6575b, EliteBook 8560p/8570p Keyboard (Non-Backlit)",
+      "tags": [
+        "ProBook 6560b/6570b, EliteBook 8560p/8570p"
+      ],
+      "price": "2,000",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20ProBook%206560b%2F6565b%2F6570b%2F6575b%2C%20EliteBook%208560p%2F8570p%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C000"
+    },
+    {
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/hp-elitebook-840-g3-840-g4-745-g3-g4-keyboard-backlit/",
+      "image": "assets/images/products/hp-keyboard-elitebook-840-g3-840-g4-745-g3-g4-backlit.webp",
+      "alt": "Replacement backlit keyboard for HP EliteBook 840 G3/G4, 745 G3/G4",
+      "name": "HP EliteBook 840 G3/G4, 745 G3/G4 Keyboard (Backlit)",
+      "tags": [
+        "EliteBook 840 G3/G4, 745 G3/G4",
+        "Backlit"
+      ],
+      "price": "3,400",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20EliteBook%20840%20G3%2FG4%2C%20745%20G3%2FG4%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%203%2C400"
+    },
+    {
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/hp-elitebook-840-g3-840-g4-745-g3-g4-keyboard-non-backlit/",
+      "image": "assets/images/products/hp-keyboard-elitebook-840-g3-840-g4-745-g3-g4-nonbacklit.webp",
+      "alt": "Replacement non-backlit keyboard for HP EliteBook 840 G3/G4, 745 G3/G4",
+      "name": "HP EliteBook 840 G3/G4, 745 G3/G4 Keyboard (Non-Backlit)",
+      "tags": [
+        "EliteBook 840 G3/G4, 745 G3/G4"
+      ],
+      "price": "2,200",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20EliteBook%20840%20G3%2FG4%2C%20745%20G3%2FG4%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C200"
+    },
+    {
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/hp-4540s-4740-4540-4740s-4545-4545s-keyboard-non-backlit/",
+      "image": "assets/images/products/hp-keyboard-4540s-4740s-4545s-nonbacklit.webp",
+      "alt": "Replacement non-backlit keyboard for HP 4540s/4740/4540/4740S/4545/4545S",
+      "name": "HP 4540s/4740/4540/4740S/4545/4545S Keyboard (Non-Backlit)",
+      "tags": [
+        "4540s/4740/4545 Series"
+      ],
+      "price": "2,000",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%204540s%2F4740%2F4540%2F4740S%2F4545%2F4545S%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C000"
+    },
+    {
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/dell-latitude-e5520-e5520m-e5530-e6520-e6530-keyboard-non-backlit/",
+      "image": "assets/images/products/dell-keyboard-latitude-e5520-e5530-e6520-e6530-nonbacklit.webp",
+      "alt": "Replacement non-backlit keyboard for Dell Latitude E5520/E5520M/E5530/E6520/E6530",
+      "name": "Dell Latitude E5520/E5520M/E5530/E6520/E6530 Keyboard (Non-Backlit)",
+      "tags": [
+        "Latitude E5520/E6520 Series"
+      ],
+      "price": "2,700",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%20E5520%2FE5520M%2FE5530%2FE6520%2FE6530%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C700"
+    },
+    {
+      "brand_slug": "lenovo",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/lenovo-thinkpad-e15-keyboard-non-backlit/",
+      "image": "assets/images/products/lenovo-keyboard-thinkpad-e15-nonbacklit.webp",
+      "alt": "Replacement non-backlit keyboard for Lenovo ThinkPad E15 Gen 1-4",
+      "name": "Lenovo ThinkPad E15 (Gen 1-4) Keyboard (Non-Backlit)",
+      "tags": [
+        "ThinkPad E15 Gen 1-4",
+        "With Pointer"
+      ],
+      "price": "3,000",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20E15%20%28Gen%201-4%29%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%203%2C000"
+    },
+    {
+      "brand_slug": "lenovo",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/lenovo-thinkpad-e15-keyboard-backlit/",
+      "image": "assets/images/products/lenovo-keyboard-thinkpad-e15-backlit.webp",
+      "alt": "Replacement backlit keyboard for Lenovo ThinkPad E15 Gen 1-4",
+      "name": "Lenovo ThinkPad E15 (Gen 1-4) Keyboard (Backlit)",
+      "tags": [
+        "ThinkPad E15 Gen 1-4",
+        "With Pointer",
+        "Backlit"
+      ],
+      "price": "4,000",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20E15%20%28Gen%201-4%29%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%204%2C000"
+    },
+    {
+      "brand_slug": "lenovo",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/lenovo-thinkpad-e580-e585-l580-keyboard-non-backlit/",
+      "image": "assets/images/products/lenovo-keyboard-thinkpad-e580-e585-l580-nonbacklit.webp",
+      "alt": "Replacement non-backlit keyboard for Lenovo ThinkPad E580/E585/L580",
+      "name": "Lenovo ThinkPad E580/E585/L580 Keyboard (Non-Backlit)",
+      "tags": [
+        "ThinkPad E580/E585/L580",
+        "With Pointer"
+      ],
+      "price": "3,200",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20E580%2FE585%2FL580%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%203%2C200"
+    },
+    {
+      "brand_slug": "lenovo",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/lenovo-thinkpad-e580-e585-l580-keyboard-backlit/",
+      "image": "assets/images/products/lenovo-keyboard-thinkpad-e580-e585-l580-backlit.webp",
+      "alt": "Replacement backlit keyboard for Lenovo ThinkPad E580/E585/L580",
+      "name": "Lenovo ThinkPad E580/E585/L580 Keyboard (Backlit)",
+      "tags": [
+        "ThinkPad E580/E585/L580",
+        "With Pointer",
+        "Backlit"
+      ],
+      "price": "4,200",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20E580%2FE585%2FL580%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%204%2C200"
+    },
+    {
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/hp-probook-4530s-4535s-4730s-keyboard-non-backlit-silver/",
+      "image": "assets/images/products/hp-keyboard-probook-4535s-4530s-4730s-nonbacklit-silver.webp",
+      "alt": "Replacement non-backlit keyboard with silver frame for HP ProBook 4530S/4535S/4730S",
+      "name": "HP ProBook 4530S/4535S/4730S Keyboard (Non-Backlit, Silver Frame)",
+      "tags": [
+        "ProBook 4530S/4535S/4730S",
+        "Silver Frame"
+      ],
+      "price": "2,300",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20ProBook%204530S%2F4535S%2F4730S%20Keyboard%20%28Non-Backlit%2C%20Silver%20Frame%29%20%E2%80%94%20KES%202%2C300"
+    },
+    {
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/dell-inspiron-7590-7591-2in1-keyboard-uk-backlit/",
+      "image": "assets/images/products/dell-keyboard-inspiron-7590-7591-2in1-uk-backlit.webp",
+      "alt": "Replacement backlit keyboard for Dell Inspiron 7590/7591 2-in-1",
+      "name": "Dell Inspiron 7590/7591 2-in-1 Keyboard (Backlit)",
+      "tags": [
+        "Inspiron 7590/7591 2-in-1",
+        "UK Layout",
+        "Backlit"
+      ],
+      "price": "3,700",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Inspiron%207590%2F7591%202-in-1%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%203%2C700"
+    },
+    {
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/dell-inspiron-7590-7591-2in1-keyboard-uk-non-backlit/",
+      "image": "assets/images/products/dell-keyboard-inspiron-7590-7591-2in1-uk-nonbacklit.webp",
+      "alt": "Replacement non-backlit keyboard for Dell Inspiron 7590/7591 2-in-1",
+      "name": "Dell Inspiron 7590/7591 2-in-1 Keyboard (Non-Backlit)",
+      "tags": [
+        "Inspiron 7590/7591 2-in-1",
+        "UK Layout"
+      ],
+      "price": "2,600",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Inspiron%207590%2F7591%202-in-1%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C600"
+    },
+    {
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/dell-latitude-5520-5521-precision-3560-3561-keyboard-backlit/",
+      "image": "assets/images/products/dell-keyboard-latitude-5520-5521-precision-3560-3561-backlit.webp",
+      "alt": "Replacement backlit keyboard for Dell Latitude 5520/5521, Precision 3560/3561",
+      "name": "Dell Latitude 5520/5521, Precision 3560/3561 Keyboard (Backlit)",
+      "tags": [
+        "Latitude 5520/5521, Precision 3560/3561",
+        "Backlit"
+      ],
+      "price": "4,100",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%205520%2F5521%2C%20Precision%203560%2F3561%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%204%2C100"
+    },
+    {
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/dell-latitude-5520-5521-precision-3560-3561-keyboard-non-backlit/",
+      "image": "assets/images/products/dell-keyboard-latitude-5520-5521-precision-3560-3561-nonbacklit.webp",
+      "alt": "Replacement non-backlit keyboard for Dell Latitude 5520/5521, Precision 3560/3561",
+      "name": "Dell Latitude 5520/5521, Precision 3560/3561 Keyboard (Non-Backlit)",
+      "tags": [
+        "Latitude 5520/5521, Precision 3560/3561"
+      ],
+      "price": "2,200",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%205520%2F5521%2C%20Precision%203560%2F3561%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C200"
+    },
+    {
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/dell-inspiron-15-5565-5567-5570-keyboard-backlit/",
+      "image": "assets/images/products/dell-keyboard-inspiron-15-5565-5567-5570-backlit.webp",
+      "alt": "Replacement backlit keyboard for Dell Inspiron 15-5565/15-5567/15-5570",
+      "name": "Dell Inspiron 15-5565/15-5567/15-5570 Keyboard (Backlit)",
+      "tags": [
+        "Inspiron 15-5565/15-5567/15-5570",
+        "Backlit",
+        "With Keypad"
+      ],
+      "price": "4,200",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Inspiron%2015-5565%2F15-5567%2F15-5570%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%204%2C200"
+    },
+    {
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/dell-inspiron-15-5565-5567-5570-keyboard-non-backlit/",
+      "image": "assets/images/products/dell-keyboard-inspiron-15-5565-5567-5570-nonbacklit.webp",
+      "alt": "Replacement non-backlit keyboard for Dell Inspiron 15-5565/15-5567/15-5570",
+      "name": "Dell Inspiron 15-5565/15-5567/15-5570 Keyboard (Non-Backlit)",
+      "tags": [
+        "Inspiron 15-5565/15-5567/15-5570",
+        "With Keypad"
+      ],
+      "price": "3,000",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Inspiron%2015-5565%2F15-5567%2F15-5570%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%203%2C000"
+    },
+    {
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/dell-latitude-5400-5401-keyboard-non-backlit/",
+      "image": "assets/images/products/dell-keyboard-latitude-5400-5401-nonbacklit.webp",
+      "alt": "Replacement non-backlit keyboard for Dell Latitude 5400/5401",
+      "name": "Dell Latitude 5400/5401 Keyboard (Non-Backlit)",
+      "tags": [
+        "Latitude 5400/5401",
+        "US International"
+      ],
+      "price": "2,500",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%205400%2F5401%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C500"
+    },
+    {
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/dell-latitude-5400-5401-keyboard-backlit/",
+      "image": "assets/images/products/dell-keyboard-latitude-5400-5401-backlit.webp",
+      "alt": "Replacement backlit keyboard for Dell Latitude 5400/5401",
+      "name": "Dell Latitude 5400/5401 Keyboard (Backlit)",
+      "tags": [
+        "Latitude 5400/5401",
+        "US International",
+        "Backlit"
+      ],
+      "price": "3,500",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%205400%2F5401%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%203%2C500"
+    },
+    {
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/dell-inspiron-14-5000-5442-5446-5447-5451-5458-5460-keyboard-backlit/",
+      "image": "assets/images/products/dell-keyboard-inspiron-14-5000-5442-5446-5447-5451-5458-5460-backlit.webp",
+      "alt": "Replacement backlit keyboard for Dell Inspiron 14-5000 Series 5442/5446/5447/5451/5458/5460",
+      "name": "Dell Inspiron 14-5000 Series Keyboard (Backlit)",
+      "tags": [
+        "Inspiron 14-5000 Series",
+        "Backlit"
+      ],
+      "price": "3,200",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Inspiron%2014-5000%20Series%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%203%2C200"
+    },
+    {
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/dell-inspiron-14-5000-5442-5446-5447-5451-5458-5460-keyboard-non-backlit/",
+      "image": "assets/images/products/dell-keyboard-inspiron-14-5000-5442-5446-5447-5451-5458-5460-nonbacklit.webp",
+      "alt": "Replacement non-backlit keyboard for Dell Inspiron 14-5000 Series 5442/5446/5447/5451/5458/5460",
+      "name": "Dell Inspiron 14-5000 Series Keyboard (Non-Backlit)",
+      "tags": [
+        "Inspiron 14-5000 Series"
+      ],
+      "price": "2,700",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Inspiron%2014-5000%20Series%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C700"
+    },
+    {
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/dell-inspiron-15-3000-15-5000-17-5000-series-keyboard-backlit/",
+      "image": "assets/images/products/dell-keyboard-inspiron-15-3000-15-5000-17-5000-series-backlit.webp",
+      "alt": "Replacement backlit keyboard with frame for Dell Inspiron 15 3000/15 5000/17 5000 Series",
+      "name": "Dell Inspiron 15 3000/15 5000/17 5000 Series Keyboard (Backlit)",
+      "tags": [
+        "Inspiron 15 3000/15 5000/17 5000 Series",
+        "With Frame",
+        "Backlit"
+      ],
+      "price": "3,200",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Inspiron%2015%203000%2F15%205000%2F17%205000%20Series%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%203%2C200"
+    },
+    {
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/dell-inspiron-15-3000-15-5000-17-5000-series-keyboard-non-backlit/",
+      "image": "assets/images/products/dell-keyboard-inspiron-15-3000-15-5000-17-5000-series-nonbacklit.webp",
+      "alt": "Replacement non-backlit keyboard with frame for Dell Inspiron 15 3000/15 5000/17 5000 Series",
+      "name": "Dell Inspiron 15 3000/15 5000/17 5000 Series Keyboard (Non-Backlit)",
+      "tags": [
+        "Inspiron 15 3000/15 5000/17 5000 Series",
+        "With Frame"
+      ],
+      "price": "2,400",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Inspiron%2015%203000%2F15%205000%2F17%205000%20Series%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C400"
+    },
+    {
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/dell-latitude-7420-7430-7520-7530-5420-5421-5430-5431-5440-keyboard-backlit/",
+      "image": "assets/images/products/dell-keyboard-latitude-7420-7430-7520-7530-5420-5421-5430-5431-5440-backlit.webp",
+      "alt": "Replacement backlit keyboard for Dell Latitude 7420/7430/7520/7530/5420/5421/5430/5431/5440",
+      "name": "Dell Latitude 7420/7430/7520/7530/5420/5421/5430/5431/5440 Keyboard (Backlit)",
+      "tags": [
+        "Latitude 7420/7430/7520/7530/5420/5421/5430/5431/5440",
+        "Backlit"
+      ],
+      "price": "3,600",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%207420%2F7430%2F7520%2F7530%2F5420%2F5421%2F5430%2F5431%2F5440%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%203%2C600"
+    },
+    {
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/dell-latitude-7420-7430-7520-7530-5420-5421-5430-5431-5440-keyboard-non-backlit/",
+      "image": "assets/images/products/dell-keyboard-latitude-7420-7430-7520-7530-5420-5421-5430-5431-5440-nonbacklit.webp",
+      "alt": "Replacement non-backlit keyboard for Dell Latitude 7420/7430/7520/7530/5420/5421/5430/5431/5440",
+      "name": "Dell Latitude 7420/7430/7520/7530/5420/5421/5430/5431/5440 Keyboard (Non-Backlit)",
+      "tags": [
+        "Latitude 7420/7430/7520/7530/5420/5421/5430/5431/5440"
+      ],
+      "price": "2,500",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%207420%2F7430%2F7520%2F7530%2F5420%2F5421%2F5430%2F5431%2F5440%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C500"
+    },
+    {
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/dell-latitude-7400-2-in-1-keyboard-backlit/",
+      "image": "assets/images/products/dell-keyboard-latitude-7400-2in1-backlit.webp",
+      "alt": "Replacement backlit keyboard for Dell Latitude 7400 2-in-1",
+      "name": "Dell Latitude 7400 2-in-1 Keyboard (Backlit)",
+      "tags": [
+        "Latitude 7400 2-in-1",
+        "Backlit"
+      ],
+      "price": "3,800",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%207400%202-in-1%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%203%2C800"
+    },
+    {
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/dell-latitude-7400-2-in-1-keyboard-non-backlit/",
+      "image": "assets/images/products/dell-keyboard-latitude-7400-2in1-nonbacklit.webp",
+      "alt": "Replacement non-backlit keyboard for Dell Latitude 7400 2-in-1",
+      "name": "Dell Latitude 7400 2-in-1 Keyboard (Non-Backlit)",
+      "tags": [
+        "Latitude 7400 2-in-1"
+      ],
+      "price": "2,800",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%207400%202-in-1%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C800"
+    },
+    {
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/dell-n4030-keyboard-non-backlit/",
+      "image": "assets/images/products/dell-keyboard-n4030-nonbacklit.webp",
+      "alt": "Replacement non-backlit keyboard for Dell N4030",
+      "name": "Dell N4030 Keyboard (Non-Backlit)",
+      "tags": [
+        "N4030"
+      ],
+      "price": "1,800",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20N4030%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%201%2C800"
+    },
+    {
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/dell-3521-keyboard-non-backlit/",
+      "image": "assets/images/products/dell-keyboard-3521-nonbacklit.webp",
+      "alt": "Replacement non-backlit keyboard for Dell 3521",
+      "name": "Dell 3521 Keyboard (Non-Backlit)",
+      "tags": [
+        "3521"
+      ],
+      "price": "2,100",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%203521%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C100"
+    },
+    {
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/dell-inspiron-13-7000-7347-7348-7352-7353-7359-keyboard-backlit/",
+      "image": "assets/images/products/dell-keyboard-inspiron-13-7000-7347-7348-7352-7353-7359-backlit.webp",
+      "alt": "Replacement backlit keyboard for Dell Inspiron 13 7000 Series 7347/7348/7352/7353/7359",
+      "name": "Dell Inspiron 13 7000 Series Keyboard (Backlit)",
+      "tags": [
+        "Inspiron 13 7000 Series",
+        "Backlit"
+      ],
+      "price": "3,700",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Inspiron%2013%207000%20Series%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%203%2C700"
+    },
+    {
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/dell-inspiron-13-7000-7347-7348-7352-7353-7359-keyboard-non-backlit/",
+      "image": "assets/images/products/dell-keyboard-inspiron-13-7000-7347-7348-7352-7353-7359-nonbacklit.webp",
+      "alt": "Replacement non-backlit keyboard for Dell Inspiron 13 7000 Series 7347/7348/7352/7353/7359",
+      "name": "Dell Inspiron 13 7000 Series Keyboard (Non-Backlit)",
+      "tags": [
+        "Inspiron 13 7000 Series"
+      ],
+      "price": "2,700",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Inspiron%2013%207000%20Series%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C700"
+    },
+    {
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/dell-inspiron-13-5368-5378-5578-5370-5379-5369-5579-7370-7373-7375-7368-7378-keyboard-backlit/",
+      "image": "assets/images/products/dell-keyboard-inspiron-13-5368-5378-5578-5370-5379-5369-5579-7370-7373-7375-7368-7378-backlit.webp",
+      "alt": "Replacement backlit keyboard for Dell Inspiron 13 5368/5378/5578/5370/5379/5369/5579/7370/7373/7375/7368/7378",
+      "name": "Dell Inspiron 13 5368/5378/5578/5370/5379/5369/5579/7370/7373/7375/7368/7378 Keyboard (Backlit)",
+      "tags": [
+        "Inspiron 13 Series",
+        "Backlit"
+      ],
+      "price": "3,400",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Inspiron%2013%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%203%2C400"
+    },
+    {
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/dell-inspiron-13-5368-5378-5578-5370-5379-5369-5579-7370-7373-7375-7368-7378-keyboard-non-backlit/",
+      "image": "assets/images/products/dell-keyboard-inspiron-13-5368-5378-5578-5370-5379-5369-5579-7370-7373-7375-7368-7378-nonbacklit.webp",
+      "alt": "Replacement non-backlit keyboard for Dell Inspiron 13 5368/5378/5578/5370/5379/5369/5579/7370/7373/7375/7368/7378",
+      "name": "Dell Inspiron 13 5368/5378/5578/5370/5379/5369/5579/7370/7373/7375/7368/7378 Keyboard (Non-Backlit)",
+      "tags": [
+        "Inspiron 13 Series"
+      ],
+      "price": "2,900",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Inspiron%2013%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C900"
     }
   ],
   "technician_cta": {

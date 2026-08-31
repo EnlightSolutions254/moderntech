@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "title": "Dell Inspiron 13 7000 Series (7347/7348/7352/7353/7359) Keyboard — Backlit, US Layout | [Store Name]",
+    "description": "Genuine replacement backlit keyboard for the Dell Inspiron 13 7000 Series: 7347, 7348, 7352, 7353, 7359, US English layout. Warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Dell Inspiron 13 7000 Series Keyboard (Backlit) | [Store Name]",
+    "description": "Genuine backlit replacement keyboard for the Dell Inspiron 13 7000 Series (7347/7348/7352/7353/7359). In stock, warranty included."
+  },
+  "category": {
+    "slug": "keyboards",
+    "url": "/shop/keyboards/",
+    "name": "Keyboards"
+  },
+  "product": {
+    "url": "/shop/keyboards/dell-inspiron-13-7000-7347-7348-7352-7353-7359-keyboard-backlit/",
+    "brand_slug": "dell",
+    "brand_name": "Dell",
+    "sku": "KEY-DELL-INS137000SERIES-US-BL",
+    "type_label": "keyboard",
+    "type_label_cap": "Keyboard",
+    "name": "Dell Inspiron 13 7000 Series Keyboard (Backlit)",
+    "full_name": "Dell Inspiron 13 7000 Series (7347, 7348, 7352, 7353, 7359) Replacement Keyboard — Backlit, US Layout",
+    "images": [
+      { "src": "assets/images/products/dell-keyboard-inspiron-13-7000-7347-7348-7352-7353-7359-backlit.webp", "alt": "Replacement backlit keyboard for Dell Inspiron 13 7000 Series 7347/7348/7352/7353/7359" },
+      { "src": "assets/images/products/dell-keyboard-inspiron-13-7000-7347-7348-7352-7353-7359-backlit-alt.webp", "alt": "Angled view of the replacement backlit keyboard for Dell Inspiron 13 7000 Series" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "3,700",
+    "price_raw": "3700",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Direct-fit backlit replacement keyboard for the Dell Inspiron 13 7000 Series, covering the 7347, 7348, 7352, 7353 and 7359, which share the same chassis. US English (QWERTY) layout with backlight to match the original. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Inspiron%2013%207000%20Series%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%203%2C700",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Dell%20Inspiron%2013%207000%20Series%20Keyboard%20%28Backlit%29",
+    "compatible_models": [
+      "Dell Inspiron 13-7347",
+      "Dell Inspiron 13-7348",
+      "Dell Inspiron 13-7352",
+      "Dell Inspiron 13-7353",
+      "Dell Inspiron 13-7359"
+    ],
+    "specs": [
+      { "label": "Layout", "value": "US English (QWERTY)" },
+      { "label": "Backlight", "value": "Yes" },
+      { "label": "Color", "value": "Black" },
+      { "label": "Frame", "value": "Included" },
+      { "label": "Fitting", "value": "Direct replacement, no adhesive required" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 Months" }
+    ],
+    "related": [
+      {
+        "url": "/shop/keyboards/dell-inspiron-13-7000-7347-7348-7352-7353-7359-keyboard-non-backlit/",
+        "image": "assets/images/products/dell-keyboard-inspiron-13-7000-7347-7348-7352-7353-7359-nonbacklit.webp",
+        "alt": "Replacement non-backlit keyboard for Dell Inspiron 13 7000 Series 7347/7348/7352/7353/7359",
+        "name": "Dell Inspiron 13 7000 Series Keyboard (Non-Backlit)",
+        "tags": ["Inspiron 13 7000 Series"],
+        "price": "2,700",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Inspiron%2013%207000%20Series%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C700"
+      }
+    ]
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Keyboard Questions",
+  "faqs": [
+    { "question": "How do I know this keyboard fits my laptop?", "answer": "This fits the Dell Inspiron 13 7000 Series, covering the 7347, 7348, 7352, 7353 and 7359, which share the same chassis. If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
+    { "question": "Is it backlit?", "answer": "Yes, this version includes backlighting to match the original. We also stock a non-backlit version for this series." },
+    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "title": "Lenovo ThinkPad E580/E585/L580 Keyboard — Backlit, With Pointer, US Layout | [Store Name]",
+    "description": "Genuine replacement backlit keyboard with pointer for the Lenovo ThinkPad E580, E585 and L580 (part 01YP680 / SN20P34095). Warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Lenovo ThinkPad E580/E585/L580 Keyboard (Backlit) | [Store Name]",
+    "description": "Genuine backlit replacement keyboard with pointer for the Lenovo ThinkPad E580/E585/L580. In stock, warranty included."
+  },
+  "category": {
+    "slug": "keyboards",
+    "url": "/shop/keyboards/",
+    "name": "Keyboards"
+  },
+  "product": {
+    "url": "/shop/keyboards/lenovo-thinkpad-e580-e585-l580-keyboard-backlit/",
+    "brand_slug": "lenovo",
+    "brand_name": "Lenovo",
+    "sku": "KEY-LEN-TPE580E585L580-US-BL",
+    "type_label": "keyboard",
+    "type_label_cap": "Keyboard",
+    "name": "Lenovo ThinkPad E580/E585/L580 Keyboard (Backlit)",
+    "full_name": "Lenovo ThinkPad E580, E585, L580 Replacement Keyboard — Backlit, With Pointer, US Layout",
+    "images": [
+      { "src": "assets/images/products/lenovo-keyboard-thinkpad-e580-e585-l580-backlit.webp", "alt": "Replacement backlit keyboard for Lenovo ThinkPad E580/E585/L580" },
+      { "src": "assets/images/products/lenovo-keyboard-thinkpad-e580-e585-l580-backlit-alt.webp", "alt": "Angled view of the replacement backlit keyboard for Lenovo ThinkPad E580/E585/L580" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "4,200",
+    "price_raw": "4200",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Direct-fit backlit replacement keyboard for the Lenovo ThinkPad E580, E585 and L580, which share the same chassis (part number 01YP680 / SN20P34095). US English layout with pointer (trackstick) and backlight cable. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20E580%2FE585%2FL580%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%204%2C200",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Lenovo%20ThinkPad%20E580%2FE585%2FL580%20Keyboard%20%28Backlit%29",
+    "compatible_models": [
+      "Lenovo ThinkPad E580",
+      "Lenovo ThinkPad E585",
+      "Lenovo ThinkPad L580"
+    ],
+    "specs": [
+      { "label": "Layout", "value": "US English (QWERTY)" },
+      { "label": "Backlight", "value": "Yes" },
+      { "label": "Pointer", "value": "Yes (Trackstick)" },
+      { "label": "Color", "value": "Black" },
+      { "label": "Part Number", "value": "01YP680 / SN20P34095" },
+      { "label": "Frame", "value": "Included" },
+      { "label": "Fitting", "value": "Direct replacement, no adhesive required" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 Months" }
+    ],
+    "related": [
+      {
+        "url": "/shop/keyboards/lenovo-thinkpad-e580-e585-l580-keyboard-non-backlit/",
+        "image": "assets/images/products/lenovo-keyboard-thinkpad-e580-e585-l580-nonbacklit.webp",
+        "alt": "Replacement non-backlit keyboard for Lenovo ThinkPad E580/E585/L580",
+        "name": "Lenovo ThinkPad E580/E585/L580 Keyboard (Non-Backlit)",
+        "tags": ["ThinkPad E580/E585/L580", "With Pointer"],
+        "price": "3,200",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20E580%2FE585%2FL580%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%203%2C200"
+      }
+    ]
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Keyboard Questions",
+  "faqs": [
+    { "question": "How do I know this keyboard fits my laptop?", "answer": "This fits the Lenovo ThinkPad E580, E585 and L580, which share the same chassis (part 01YP680 / SN20P34095). If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
+    { "question": "Does it come with the pointer/trackstick?", "answer": "Yes, this keyboard includes the pointer." },
+    { "question": "Is it backlit?", "answer": "Yes, this version includes the backlight cable, matching the original." },
+    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+  ]
+}

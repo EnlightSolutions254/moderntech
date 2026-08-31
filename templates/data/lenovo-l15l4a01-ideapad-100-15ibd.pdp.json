@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "Lenovo L15L4A01 Battery — IdeaPad 100-15IBD | Moderntech",
+    "description": "Genuine replacement Lenovo L15L4A01 battery, 14.4V, for IdeaPad 100-15IBD. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Lenovo L15L4A01 Battery | Moderntech",
+    "description": "Genuine Lenovo L15L4A01 replacement battery for IdeaPad 100-15IBD. In stock, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/lenovo-l15l4a01-ideapad-100-15ibd/",
+    "brand_slug": "lenovo",
+    "brand_name": "Lenovo",
+    "sku": "L15L4A01",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "name": "Lenovo L15L4A01 Battery",
+    "full_name": "Lenovo L15L4A01 Battery — IdeaPad 100-15IBD",
+    "images": [
+      {
+        "src": "assets/images/products/lenovo-battery-l15l4a01.webp",
+        "alt": "Replacement battery — Lenovo L15L4A01 Battery"
+      },
+      {
+        "src": "assets/images/products/lenovo-battery-l15l4a01-alt.webp",
+        "alt": "Angled view of the Lenovo L15L4A01 Battery"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "price": "4,500",
+    "price_raw": "4500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine OEM Lenovo L15L4A01 replacement battery, 14.4V, Li-ion. Fits Lenovo IdeaPad 100-15IBD (4-cell, 32Wh). Also matches part numbers L15L4E01, L15M4A01, L15S4A01. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20L15L4A01%20Battery%20%E2%80%94%20KES%204%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Lenovo%20L15L4A01%20Battery",
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "L15L4A01"
+      },
+      {
+        "label": "Compatible Models",
+        "value": "Lenovo IdeaPad 100-15IBD"
+      },
+      {
+        "label": "Alternate Part Numbers",
+        "value": "L15L4E01, L15M4A01, L15S4A01"
+      },
+      {
+        "label": "Voltage",
+        "value": "14.4V"
+      },
+      {
+        "label": "Capacity",
+        "value": "32Wh (4-cell)"
+      },
+      {
+        "label": "Battery Type",
+        "value": "Li-ion"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "How do I know this battery fits my laptop?",
+      "answer": "This fits the Lenovo IdeaPad 100-15IBD. The part number on your old battery is the safest way to confirm. If you're unsure, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is this an original or compatible battery?",
+      "answer": "We stock genuine OEM batteries — this is a genuine Lenovo L15L4A01-family unit."
+    },
+    {
+      "question": "What warranty comes with this battery?",
+      "answer": "This battery carries a 6-month warranty."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "title": "15.6\" Slim Laptop Screen — HD, 30/40 Pin, Non-Touch | [Store Name]",
+    "description": "Genuine replacement 15.6-inch slim laptop screen, HD (1366x768) resolution, 30/40 pin, non-touch. Fits most 15.6\" slim-bezel laptops. Warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "15.6\" Slim Laptop Screen (HD, Non-Touch) | [Store Name]",
+    "description": "Genuine 15.6-inch slim HD replacement laptop screen, 30/40 pin, non-touch. In stock, warranty included."
+  },
+  "category": {
+    "slug": "screens",
+    "url": "/shop/screens/",
+    "name": "Laptop Screens"
+  },
+  "product": {
+    "url": "/shop/screens/15-6-slim-30-40pin-hd-non-touch-screen/",
+    "brand_slug": "generic",
+    "brand_name": "Generic",
+    "sku": "SCR-156-SLIM-3040PIN-HD-NT",
+    "type_label": "screen",
+    "type_label_cap": "Screen",
+    "name": "15.6\" Slim Laptop Screen (HD, Non-Touch)",
+    "full_name": "15.6\" Slim Laptop Screen — HD (1366x768), 30/40 Pin, Non-Touch",
+    "images": [
+      { "src": "assets/images/products/laptop-screen-15-6-slim-30-40pin-hd-nontouch.webp", "alt": "15.6 inch slim HD non-touch laptop screen, 30/40 pin" },
+      { "src": "assets/images/products/laptop-screen-15-6-slim-30-40pin-hd-nontouch-alt.webp", "alt": "Angled view of the 15.6 inch slim HD non-touch laptop screen" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "6,500",
+    "price_raw": "6500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Direct-fit 15.6-inch slim laptop screen, HD resolution, compatible with both 30-pin and 40-pin connectors. Non-touch. Fits most slim-bezel 15.6\" laptops across HP, Dell, Lenovo, Acer, Asus and Toshiba. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%2015.6%22%20Slim%20Laptop%20Screen%20%28HD%2C%20Non-Touch%29%20%E2%80%94%20KES%206%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%2015.6%22%20Slim%20Laptop%20Screen%20%28HD%2C%20Non-Touch%29",
+    "specs": [
+      { "label": "Screen Size", "value": "15.6\"" },
+      { "label": "Resolution", "value": "HD (1366x768)" },
+      { "label": "Connector", "value": "30/40 Pin" },
+      { "label": "Panel Type", "value": "Slim" },
+      { "label": "Touch", "value": "No" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 Months" }
+    ],
+    "related": [
+      {
+        "url": "/shop/screens/15-6-slim-30-40pin-fhd-non-touch-screen/",
+        "image": "assets/images/products/laptop-screen-15-6-slim-30-40pin-fhd-nontouch.webp",
+        "alt": "15.6 inch slim FHD non-touch laptop screen, 30/40 pin",
+        "name": "15.6\" Slim Laptop Screen (FHD, Non-Touch)",
+        "tags": ["15.6\" Slim", "FHD"],
+        "price": "7,500",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%2015.6%22%20Slim%20Laptop%20Screen%20%28FHD%2C%20Non-Touch%29%20%E2%80%94%20KES%207%2C500"
+      }
+    ]
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Screen Questions",
+  "faqs": [
+    { "question": "How do I know this screen fits my laptop?", "answer": "This fits most 15.6\" slim-bezel laptops using a 30-pin or 40-pin connector at HD resolution. If you're unsure, send us your laptop model or a photo of the current screen's connector on WhatsApp and we'll confirm." },
+    { "question": "Is it touch screen?", "answer": "No, this is a non-touch panel. We also stock an FHD non-touch version." },
+    { "question": "What warranty comes with this screen?", "answer": "This screen carries a 3-month warranty against dead pixels and panel defects." }
+  ]
+}

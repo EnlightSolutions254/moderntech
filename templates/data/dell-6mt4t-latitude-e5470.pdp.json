@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "Dell 6MT4T Battery — Latitude E5270, E5470, E5570, Precision 3510 | Moderntech",
+    "description": "Genuine original Dell 6MT4T battery, 7.6V, for Latitude 12 E5270, 14 E5470, 15 E5570 and Precision 3510/M3510. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Dell 6MT4T Battery | Moderntech",
+    "description": "Genuine Dell 6MT4T replacement battery for Latitude E5270/E5470/E5570 and Precision 3510. In stock, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/dell-6mt4t-latitude-e5470/",
+    "brand_slug": "dell",
+    "brand_name": "Dell",
+    "sku": "6MT4T",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "name": "Dell 6MT4T Battery",
+    "full_name": "Genuine Dell 6MT4T Battery — Latitude 12 E5270, 14 E5470, 15 E5570, Precision 3510",
+    "images": [
+      {
+        "src": "assets/images/products/dell-battery-6mt4t.webp",
+        "alt": "Replacement battery — Dell 6MT4T Battery"
+      },
+      {
+        "src": "assets/images/products/dell-battery-6mt4t-alt.webp",
+        "alt": "Angled view of the Dell 6MT4T Battery"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "price": "4,800",
+    "price_raw": "4800",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine original Dell 6MT4T replacement battery, 7.6V, Li-ion. Fits Dell Latitude 12 E5270, Latitude 14 E5470, Latitude 15 E5570 and Precision 3510/M3510 (4-cell, 62Wh). Also matches part numbers 06MT4T, 7V69Y, 07V69Y, TXF9M, 0TXF9M, 79VRK, 079VRK, HK6DV, 0HK6DV, 451-BBUN, 451-BBUD. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%206MT4T%20Battery%20%E2%80%94%20KES%204%2C800",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Dell%206MT4T%20Battery",
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "6MT4T"
+      },
+      {
+        "label": "Compatible Models",
+        "value": "Latitude 12 E5270, Latitude 14 E5470, Latitude 15 E5570, Precision 3510, Precision M3510"
+      },
+      {
+        "label": "Alternate Part Numbers",
+        "value": "06MT4T, 7V69Y, 07V69Y, TXF9M, 0TXF9M, 79VRK, 079VRK, HK6DV, 0HK6DV, 451-BBUN, 451-BBUD"
+      },
+      {
+        "label": "Voltage",
+        "value": "7.6V"
+      },
+      {
+        "label": "Capacity",
+        "value": "62Wh (4-cell)"
+      },
+      {
+        "label": "Battery Type",
+        "value": "Li-ion"
+      },
+      {
+        "label": "Condition",
+        "value": "New (Original)"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "How do I know this battery fits my laptop?",
+      "answer": "This fits the Dell Latitude E5270, E5470, E5570 and Precision 3510/M3510 (62Wh, 4-cell version). Note these models also come with 47Wh and 84Wh battery options that look similar but aren't interchangeable — the part number on your old battery is the safest way to confirm. If you're unsure, send us a photo of the sticker on your battery on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is this an original or compatible battery?",
+      "answer": "We stock genuine OEM batteries — this is a genuine Dell 6MT4T unit."
+    },
+    {
+      "question": "What warranty comes with this battery?",
+      "answer": "This battery carries a 6-month warranty."
+    }
+  ]
+}

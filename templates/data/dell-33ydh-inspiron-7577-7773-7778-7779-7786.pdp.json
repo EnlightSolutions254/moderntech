@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "Dell 33YDH Battery — Inspiron 7577, 7773, 7778, 7779, 7786, G3, G5, G7 & More | Moderntech",
+    "description": "Genuine replacement Dell 33YDH battery, 15.2V, for Inspiron 15 7577, Inspiron 17 7773/7778/7779/7786, G3 15 3579, G3 17 3779, G5 15 5587, G7 15 7588, Latitude 13 3380, 14 3490, 15 3580/3590. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Dell 33YDH Battery | Moderntech",
+    "description": "Genuine Dell 33YDH replacement battery for Inspiron 15/17, G3, G5, G7 and Latitude series. In stock, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/dell-33ydh-inspiron-7577-7773-7778-7779-7786/",
+    "brand_slug": "dell",
+    "brand_name": "Dell",
+    "sku": "33YDH",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "name": "Dell 33YDH Battery",
+    "full_name": "Dell 33YDH Battery — Inspiron 7577, 7773, 7778, 7779, 7786, G3, G5, G7, Latitude",
+    "images": [
+      {
+        "src": "assets/images/products/dell-battery-33ydh.webp",
+        "alt": "Replacement battery — Dell 33YDH Battery"
+      },
+      {
+        "src": "assets/images/products/dell-battery-33ydh-alt.webp",
+        "alt": "Angled view of the Dell 33YDH Battery"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "price": "4,500",
+    "price_raw": "4500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine OEM Dell 33YDH replacement battery, 15.2V, Li-Polymer. Fits Dell Inspiron 15 7577, Inspiron 17 7773/7778/7779/7786, Dell G3 15 3579, G3 17 3779, G5 15 5587, G7 15 7588, and Latitude 13 3380, 14 3490, 15 3580/3590 (4-cell, 56Wh). Also matches part numbers PVHT1, 99NF2, W7NKD, 81PF3, P30E. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%2033YDH%20Battery%20%E2%80%94%20KES%204%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Dell%2033YDH%20Battery",
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "33YDH"
+      },
+      {
+        "label": "Compatible Models",
+        "value": "Dell Inspiron 15 7577, Inspiron 17 7773/7778/7779/7786, G3 15 3579, G3 17 3779, G5 15 5587, G7 15 7588, Latitude 13 3380, Latitude 14 3490, Latitude 15 3580/3590"
+      },
+      {
+        "label": "Alternate Part Numbers",
+        "value": "PVHT1, 99NF2, W7NKD, 81PF3, P30E"
+      },
+      {
+        "label": "Voltage",
+        "value": "15.2V"
+      },
+      {
+        "label": "Capacity",
+        "value": "56Wh (4-cell)"
+      },
+      {
+        "label": "Battery Type",
+        "value": "Li-Polymer"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "How do I know this battery fits my laptop?",
+      "answer": "This fits Dell Inspiron 15 7577, Inspiron 17 7773/7778/7779/7786, G3 15 3579, G3 17 3779, G5 15 5587, G7 15 7588, and Latitude 13 3380, 14 3490, 15 3580/3590. Note this is not compatible with the Latitude 13 3380 Chromebook — the part number on your old battery is the safest way to confirm. If you're unsure, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is this an original or compatible battery?",
+      "answer": "We stock genuine OEM batteries — this is a genuine Dell 33YDH-family unit."
+    },
+    {
+      "question": "What warranty comes with this battery?",
+      "answer": "This battery carries a 6-month warranty."
+    }
+  ]
+}

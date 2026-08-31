@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "title": "HP EliteBook 840 G3/G4, 745 G3/G4 Keyboard — Non-Backlit, US Layout | [Store Name]",
+    "description": "Genuine replacement non-backlit keyboard for the HP EliteBook 840 G3, 840 G4, 745 G3 and 745 G4, US English layout. Warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "HP EliteBook 840 G3/G4, 745 G3/G4 Keyboard (Non-Backlit) | [Store Name]",
+    "description": "Genuine non-backlit replacement keyboard for the HP EliteBook 840 G3/G4, 745 G3/G4. In stock, warranty included."
+  },
+  "category": {
+    "slug": "keyboards",
+    "url": "/shop/keyboards/",
+    "name": "Keyboards"
+  },
+  "product": {
+    "url": "/shop/keyboards/hp-elitebook-840-g3-840-g4-745-g3-g4-keyboard-non-backlit/",
+    "brand_slug": "hp",
+    "brand_name": "HP",
+    "sku": "KEY-HP-ELITEBOOK840G3G4-745G3G4-US-NB",
+    "type_label": "keyboard",
+    "type_label_cap": "Keyboard",
+    "name": "HP EliteBook 840 G3/G4, 745 G3/G4 Keyboard (Non-Backlit)",
+    "full_name": "HP EliteBook 840 G3, 840 G4, 745 G3, 745 G4 Replacement Keyboard — Non-Backlit, US Layout",
+    "images": [
+      { "src": "assets/images/products/hp-keyboard-elitebook-840-g3-840-g4-745-g3-g4-nonbacklit.webp", "alt": "Replacement non-backlit keyboard for HP EliteBook 840 G3/G4, 745 G3/G4" },
+      { "src": "assets/images/products/hp-keyboard-elitebook-840-g3-840-g4-745-g3-g4-nonbacklit-alt.webp", "alt": "Angled view of the replacement non-backlit keyboard for HP EliteBook 840 G3/G4, 745 G3/G4" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "2,200",
+    "price_raw": "2200",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Direct-fit non-backlit replacement keyboard for the HP EliteBook 840 G3, 840 G4, 745 G3 and 745 G4, which share the same chassis. US English (QWERTY) layout. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20EliteBook%20840%20G3%2FG4%2C%20745%20G3%2FG4%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C200",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20HP%20EliteBook%20840%20G3%2FG4%2C%20745%20G3%2FG4%20Keyboard%20%28Non-Backlit%29",
+    "compatible_models": [
+      "HP EliteBook 840 G3",
+      "HP EliteBook 840 G4",
+      "HP EliteBook 745 G3",
+      "HP EliteBook 745 G4"
+    ],
+    "specs": [
+      { "label": "Layout", "value": "US English (QWERTY)" },
+      { "label": "Backlight", "value": "No" },
+      { "label": "Color", "value": "Black" },
+      { "label": "Frame", "value": "Included" },
+      { "label": "Fitting", "value": "Direct replacement, no adhesive required" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 Months" }
+    ],
+    "related": [
+      {
+        "url": "/shop/keyboards/hp-elitebook-840-g3-840-g4-745-g3-g4-keyboard-backlit/",
+        "image": "assets/images/products/hp-keyboard-elitebook-840-g3-840-g4-745-g3-g4-backlit.webp",
+        "alt": "Replacement backlit keyboard for HP EliteBook 840 G3/G4, 745 G3/G4",
+        "name": "HP EliteBook 840 G3/G4, 745 G3/G4 Keyboard (Backlit)",
+        "tags": ["EliteBook 840 G3/G4, 745 G3/G4", "Backlit"],
+        "price": "3,400",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20EliteBook%20840%20G3%2FG4%2C%20745%20G3%2FG4%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%203%2C400"
+      }
+    ]
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Keyboard Questions",
+  "faqs": [
+    { "question": "How do I know this keyboard fits my laptop?", "answer": "This fits the HP EliteBook 840 G3, 840 G4, 745 G3 and 745 G4, which share the same chassis. If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
+    { "question": "Is it backlit?", "answer": "No, this is the non-backlit version. We also stock a backlit version for this series." },
+    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+  ]
+}

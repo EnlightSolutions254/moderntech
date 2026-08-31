@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "title": "Dell Latitude 5400/5401 Keyboard — Backlit, US International Layout | [Store Name]",
+    "description": "Genuine replacement backlit keyboard for the Dell Latitude 5400 and 5401, US International layout. Warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Dell Latitude 5400/5401 Keyboard (Backlit) | [Store Name]",
+    "description": "Genuine backlit replacement keyboard for the Dell Latitude 5400/5401, US International layout. In stock, warranty included."
+  },
+  "category": {
+    "slug": "keyboards",
+    "url": "/shop/keyboards/",
+    "name": "Keyboards"
+  },
+  "product": {
+    "url": "/shop/keyboards/dell-latitude-5400-5401-keyboard-backlit/",
+    "brand_slug": "dell",
+    "brand_name": "Dell",
+    "sku": "KEY-DELL-LAT54005401-USI-BL",
+    "type_label": "keyboard",
+    "type_label_cap": "Keyboard",
+    "name": "Dell Latitude 5400/5401 Keyboard (Backlit)",
+    "full_name": "Dell Latitude 5400, 5401 Replacement Keyboard — Backlit, US International Layout",
+    "images": [
+      { "src": "assets/images/products/dell-keyboard-latitude-5400-5401-backlit.webp", "alt": "Replacement backlit keyboard for Dell Latitude 5400/5401" },
+      { "src": "assets/images/products/dell-keyboard-latitude-5400-5401-backlit-alt.webp", "alt": "Angled view of the replacement backlit keyboard for Dell Latitude 5400/5401" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "3,500",
+    "price_raw": "3500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Direct-fit backlit replacement keyboard for the Dell Latitude 5400 and 5401, which share the same chassis. US International (QWERTY) layout with backlight to match the original. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%205400%2F5401%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%203%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Dell%20Latitude%205400%2F5401%20Keyboard%20%28Backlit%29",
+    "compatible_models": [
+      "Dell Latitude 5400",
+      "Dell Latitude 5401"
+    ],
+    "specs": [
+      { "label": "Layout", "value": "US International (QWERTY)" },
+      { "label": "Backlight", "value": "Yes" },
+      { "label": "Color", "value": "Black" },
+      { "label": "Frame", "value": "Included" },
+      { "label": "Fitting", "value": "Direct replacement, no adhesive required" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 Months" }
+    ],
+    "related": [
+      {
+        "url": "/shop/keyboards/dell-latitude-5400-5401-keyboard-non-backlit/",
+        "image": "assets/images/products/dell-keyboard-latitude-5400-5401-nonbacklit.webp",
+        "alt": "Replacement non-backlit keyboard for Dell Latitude 5400/5401",
+        "name": "Dell Latitude 5400/5401 Keyboard (Non-Backlit)",
+        "tags": ["Latitude 5400/5401", "US International"],
+        "price": "2,500",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%205400%2F5401%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C500"
+      }
+    ]
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Keyboard Questions",
+  "faqs": [
+    { "question": "How do I know this keyboard fits my laptop?", "answer": "This fits the Dell Latitude 5400 and 5401, which share the same chassis. If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
+    { "question": "What does US International layout mean?", "answer": "US International keeps the standard US key positions but adds support for typing accented characters and other symbols used in European languages." },
+    { "question": "Is it backlit?", "answer": "Yes, this version includes backlighting to match the original. We also stock a non-backlit version for this series." },
+    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+  ]
+}

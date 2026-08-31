@@ -13,9 +13,226 @@
     "name": "Laptop Screens",
     "name_lower": "screens",
     "description": "Genuine replacement screens for HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook laptops. Every listing shows exact panel size, resolution and compatible models before you message us.",
-    "result_count": 0
+    "result_count": 12
   },
-  "products": [],
+  "products": [
+    {
+      "brand_slug": "generic",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/screens/15-6-slim-30-40pin-hd-non-touch-screen/",
+      "image": "assets/images/products/laptop-screen-15-6-slim-30-40pin-hd-nontouch.webp",
+      "alt": "15.6 inch slim HD non-touch laptop screen, 30/40 pin",
+      "name": "15.6\" Slim Laptop Screen (HD, Non-Touch)",
+      "tags": [
+        "15.6\" Slim",
+        "HD"
+      ],
+      "price": "6,500",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%2015.6%22%20Slim%20Laptop%20Screen%20%28HD%2C%20Non-Touch%29%20%E2%80%94%20KES%206%2C500"
+    },
+    {
+      "brand_slug": "generic",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/screens/15-6-slim-30-40pin-fhd-non-touch-screen/",
+      "image": "assets/images/products/laptop-screen-15-6-slim-30-40pin-fhd-nontouch.webp",
+      "alt": "15.6 inch slim FHD non-touch laptop screen, 30/40 pin",
+      "name": "15.6\" Slim Laptop Screen (FHD, Non-Touch)",
+      "tags": [
+        "15.6\" Slim",
+        "FHD"
+      ],
+      "price": "7,500",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%2015.6%22%20Slim%20Laptop%20Screen%20%28FHD%2C%20Non-Touch%29%20%E2%80%94%20KES%207%2C500"
+    },
+    {
+      "brand_slug": "generic",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/screens/15-6-short-30-40pin-hd-non-touch-screen/",
+      "image": "assets/images/products/laptop-screen-15-6-short-30-40pin-hd-nontouch.webp",
+      "alt": "15.6 inch short HD non-touch laptop screen, 30/40 pin",
+      "name": "15.6\" Short Laptop Screen (HD, Non-Touch)",
+      "tags": [
+        "15.6\" Short",
+        "HD"
+      ],
+      "price": "7,000",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%2015.6%22%20Short%20Laptop%20Screen%20%28HD%2C%20Non-Touch%29%20%E2%80%94%20KES%207%2C000"
+    },
+    {
+      "brand_slug": "generic",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/screens/15-6-short-30-40pin-fhd-non-touch-screen/",
+      "image": "assets/images/products/laptop-screen-15-6-short-30-40pin-fhd-nontouch.webp",
+      "alt": "15.6 inch short FHD non-touch laptop screen, 30/40 pin",
+      "name": "15.6\" Short Laptop Screen (FHD, Non-Touch)",
+      "tags": [
+        "15.6\" Short",
+        "FHD"
+      ],
+      "price": "8,000",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%2015.6%22%20Short%20Laptop%20Screen%20%28FHD%2C%20Non-Touch%29%20%E2%80%94%20KES%208%2C000"
+    },
+    {
+      "brand_slug": "generic",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/screens/14-0-slim-30-40pin-hd-non-touch-screen/",
+      "image": "assets/images/products/laptop-screen-14-0-slim-30-40pin-hd-nontouch.webp",
+      "alt": "14.0 inch slim HD non-touch laptop screen, 30/40 pin",
+      "name": "14.0\" Slim Laptop Screen (HD, Non-Touch)",
+      "tags": [
+        "14.0\" Slim",
+        "HD"
+      ],
+      "price": "6,500",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%2014.0%22%20Slim%20Laptop%20Screen%20%28HD%2C%20Non-Touch%29%20%E2%80%94%20KES%206%2C500"
+    },
+    {
+      "brand_slug": "generic",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/screens/14-0-slim-30-40pin-fhd-non-touch-screen/",
+      "image": "assets/images/products/laptop-screen-14-0-slim-30-40pin-fhd-nontouch.webp",
+      "alt": "14.0 inch slim FHD non-touch laptop screen, 30/40 pin",
+      "name": "14.0\" Slim Laptop Screen (FHD, Non-Touch)",
+      "tags": [
+        "14.0\" Slim",
+        "FHD"
+      ],
+      "price": "7,500",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%2014.0%22%20Slim%20Laptop%20Screen%20%28FHD%2C%20Non-Touch%29%20%E2%80%94%20KES%207%2C500"
+    },
+    {
+      "brand_slug": "generic",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/screens/14-0-short-30-40pin-hd-non-touch-screen/",
+      "image": "assets/images/products/laptop-screen-14-0-short-30-40pin-hd-nontouch.webp",
+      "alt": "14.0 inch short HD non-touch laptop screen, 30/40 pin",
+      "name": "14.0\" Short Laptop Screen (HD, Non-Touch)",
+      "tags": [
+        "14.0\" Short",
+        "HD"
+      ],
+      "price": "7,000",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%2014.0%22%20Short%20Laptop%20Screen%20%28HD%2C%20Non-Touch%29%20%E2%80%94%20KES%207%2C000"
+    },
+    {
+      "brand_slug": "generic",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/screens/14-0-short-30-40pin-fhd-non-touch-screen/",
+      "image": "assets/images/products/laptop-screen-14-0-short-30-40pin-fhd-nontouch.webp",
+      "alt": "14.0 inch short FHD non-touch laptop screen, 30/40 pin",
+      "name": "14.0\" Short Laptop Screen (FHD, Non-Touch)",
+      "tags": [
+        "14.0\" Short",
+        "FHD"
+      ],
+      "price": "8,000",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%2014.0%22%20Short%20Laptop%20Screen%20%28FHD%2C%20Non-Touch%29%20%E2%80%94%20KES%208%2C000"
+    },
+    {
+      "brand_slug": "generic",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/screens/14-0-folded-30-40pin-fhd-non-touch-screen/",
+      "image": "assets/images/products/laptop-screen-14-0-folded-30-40pin-fhd-nontouch.webp",
+      "alt": "14.0 inch folded FHD non-touch laptop screen, 30/40 pin",
+      "name": "14.0\" Folded Laptop Screen (FHD, Non-Touch)",
+      "tags": [
+        "14.0\" Folded",
+        "FHD"
+      ],
+      "price": "8,500",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%2014.0%22%20Folded%20Laptop%20Screen%20%28FHD%2C%20Non-Touch%29%20%E2%80%94%20KES%208%2C500"
+    },
+    {
+      "brand_slug": "generic",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/screens/13-3-folded-30-40pin-fhd-non-touch-screen/",
+      "image": "assets/images/products/laptop-screen-13-3-folded-30-40pin-fhd-nontouch.webp",
+      "alt": "13.3 inch folded FHD non-touch laptop screen, 30/40 pin",
+      "name": "13.3\" Folded Laptop Screen (FHD, Non-Touch)",
+      "tags": [
+        "13.3\" Folded",
+        "FHD"
+      ],
+      "price": "8,500",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%2013.3%22%20Folded%20Laptop%20Screen%20%28FHD%2C%20Non-Touch%29%20%E2%80%94%20KES%208%2C500"
+    },
+    {
+      "brand_slug": "generic",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/screens/13-3-short-30-40pin-fhd-non-touch-screen/",
+      "image": "assets/images/products/laptop-screen-13-3-short-30-40pin-fhd-nontouch.webp",
+      "alt": "13.3 inch short FHD non-touch laptop screen, 30/40 pin",
+      "name": "13.3\" Short Laptop Screen (FHD, Non-Touch)",
+      "tags": [
+        "13.3\" Short",
+        "FHD"
+      ],
+      "price": "8,000",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%2013.3%22%20Short%20Laptop%20Screen%20%28FHD%2C%20Non-Touch%29%20%E2%80%94%20KES%208%2C000"
+    },
+    {
+      "brand_slug": "generic",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/screens/12-5-short-30-40pin-fhd-non-touch-screen/",
+      "image": "assets/images/products/laptop-screen-12-5-short-30-40pin-fhd-nontouch.webp",
+      "alt": "12.5 inch short FHD non-touch laptop screen, 30/40 pin",
+      "name": "12.5\" Short Laptop Screen (FHD, Non-Touch)",
+      "tags": [
+        "12.5\" Short",
+        "FHD"
+      ],
+      "price": "7,500",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%2012.5%22%20Short%20Laptop%20Screen%20%28FHD%2C%20Non-Touch%29%20%E2%80%94%20KES%207%2C500"
+    }
+  ],
   "technician_cta": {
     "heading": "Repair Technician? Get Bulk Pricing on Screens.",
     "body": "Volume pricing, priority stock holds and credit terms for repair shops and businesses.",
@@ -24,9 +241,18 @@
   },
   "faq_heading": "Screen Questions",
   "faqs": [
-    { "question": "How do I know this screen fits my laptop?", "answer": "Each listing shows the exact panel size and compatible models. If you're unsure of your laptop's exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
-    { "question": "Do you install the screen, or is it self-fit?", "answer": "We can install it for you in Nairobi, or ship it with fitting instructions if you're upcountry or prefer your own technician." },
-    { "question": "What warranty comes with a screen?", "answer": "Most screens carry a 3-month warranty against dead pixels and panel defects, listed on the individual product page." }
+    {
+      "question": "How do I know this screen fits my laptop?",
+      "answer": "Each listing shows the exact panel size and compatible models. If you're unsure of your laptop's exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Do you install the screen, or is it self-fit?",
+      "answer": "We can install it for you in Nairobi, or ship it with fitting instructions if you're upcountry or prefer your own technician."
+    },
+    {
+      "question": "What warranty comes with a screen?",
+      "answer": "Most screens carry a 3-month warranty against dead pixels and panel defects, listed on the individual product page."
+    }
   ],
   "empty_state": {
     "whatsapp_text": "Hi%2C%20I%27m%20looking%20for%20a%20laptop%20screen%20but%20couldn%27t%20find%20it%20on%20the%20site."

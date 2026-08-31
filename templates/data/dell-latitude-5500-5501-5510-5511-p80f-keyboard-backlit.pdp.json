@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "title": "Dell Latitude 5500/5501/5510/5511/P80F Keyboard — Backlit, US Layout | [Store Name]",
+    "description": "Genuine replacement backlit keyboard with pointer for the Dell Latitude 5500, 5501, 5510, 5511 and P80F. US layout, no palmrest cover. Warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Dell Latitude 5500/5501/5510/5511/P80F Keyboard (Backlit) | [Store Name]",
+    "description": "Genuine backlit replacement keyboard with pointer for the Dell Latitude 5500/5501/5510/5511/P80F. In stock, warranty included."
+  },
+  "category": {
+    "slug": "keyboards",
+    "url": "/shop/keyboards/",
+    "name": "Keyboards"
+  },
+  "product": {
+    "url": "/shop/keyboards/dell-latitude-5500-5501-5510-5511-p80f-keyboard-backlit/",
+    "brand_slug": "dell",
+    "brand_name": "Dell",
+    "sku": "KEY-DELL-LAT5500550155105511P80F-US-BL",
+    "type_label": "keyboard",
+    "type_label_cap": "Keyboard",
+    "name": "Dell Latitude 5500/5501/5510/5511/P80F Keyboard (Backlit)",
+    "full_name": "Dell Latitude 5500, 5501, 5510, 5511, P80F Replacement Keyboard — Backlit, With Pointer, No Palmrest Cover, US Layout",
+    "images": [
+      { "src": "assets/images/products/dell-keyboard-latitude5500-5501-5510-5511-p80f-backlit.webp", "alt": "Replacement backlit keyboard for Dell Latitude 5500/5501/5510/5511/P80F" },
+      { "src": "assets/images/products/dell-keyboard-latitude5500-5501-5510-5511-p80f-backlit-alt.webp", "alt": "Angled view of the replacement backlit keyboard for Dell Latitude 5500/5501/5510/5511/P80F" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "4,100",
+    "price_raw": "4100",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Direct-fit backlit replacement keyboard for the Dell Latitude 5500, 5501, 5510, 5511 and P80F, which share the same chassis. US English layout with pointer (trackstick) and backlight cable, keyboard only — no palmrest cover included. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%205500%2F5501%2F5510%2F5511%2FP80F%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%204%2C100",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Dell%20Latitude%205500%2F5501%2F5510%2F5511%2FP80F%20Keyboard%20%28Backlit%29",
+    "compatible_models": [
+      "Dell Latitude 5500",
+      "Dell Latitude 5501",
+      "Dell Latitude 5510",
+      "Dell Latitude 5511",
+      "Dell Latitude P80F"
+    ],
+    "specs": [
+      { "label": "Layout", "value": "US English (QWERTY)" },
+      { "label": "Backlight", "value": "Yes" },
+      { "label": "Pointer", "value": "Yes (Trackstick)" },
+      { "label": "Palmrest Cover", "value": "Not included — keyboard only" },
+      { "label": "Color", "value": "Black" },
+      { "label": "Fitting", "value": "Direct replacement, no adhesive required" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 Months" }
+    ],
+    "related": [
+      {
+        "url": "/shop/keyboards/dell-latitude-5500-5501-5510-5511-p80f-keyboard-non-backlit/",
+        "image": "assets/images/products/dell-keyboard-latitude5500-5501-5510-5511-p80f-nonbacklit.webp",
+        "alt": "Replacement non-backlit keyboard for Dell Latitude 5500/5501/5510/5511/P80F",
+        "name": "Dell Latitude 5500/5501/5510/5511/P80F Keyboard (Non-Backlit)",
+        "tags": ["Latitude 5500/5510 Series", "With Pointer"],
+        "price": "3,000",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%205500%2F5501%2F5510%2F5511%2FP80F%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%203%2C000"
+      }
+    ]
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Keyboard Questions",
+  "faqs": [
+    { "question": "How do I know this keyboard fits my laptop?", "answer": "This fits the Dell Latitude 5500, 5501, 5510, 5511 and P80F, which share the same chassis. If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
+    { "question": "Does this come with the palmrest cover?", "answer": "No — this is the keyboard only, without the surrounding palmrest cover." },
+    { "question": "Is it backlit?", "answer": "Yes, this version includes the backlight cable, matching the original." },
+    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+  ]
+}

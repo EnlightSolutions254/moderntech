@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "Dell 3RNFD Battery — Latitude E7420, E7440, E7450 | Moderntech",
+    "description": "Genuine replacement Dell 3RNFD battery, 7.4V, for Latitude E7420, E7440 and E7450 series. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Dell 3RNFD Battery | Moderntech",
+    "description": "Genuine Dell 3RNFD replacement battery for Latitude E7420, E7440 and E7450. In stock, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/dell-3rnfd-latitude-e7420-e7440-e7450/",
+    "brand_slug": "dell",
+    "brand_name": "Dell",
+    "sku": "3RNFD",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "name": "Dell 3RNFD Battery",
+    "full_name": "Dell 3RNFD Battery — Latitude E7420, E7440, E7450",
+    "images": [
+      {
+        "src": "assets/images/products/dell-battery-3rnfd.webp",
+        "alt": "Replacement battery — Dell 3RNFD Battery"
+      },
+      {
+        "src": "assets/images/products/dell-battery-3rnfd-alt.webp",
+        "alt": "Angled view of the Dell 3RNFD Battery"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "price": "4,800",
+    "price_raw": "4800",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine OEM Dell 3RNFD replacement battery, 7.4V, Li-ion. Fits Dell Latitude E7420, E7440 and E7450 series (4-cell, 47Wh variant). Also matches part numbers 34GKR, V8XN3, G95J5, 0909H5, 0G95J5, 5K1GW. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%203RNFD%20Battery%20%E2%80%94%20KES%204%2C800",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Dell%203RNFD%20Battery",
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "3RNFD"
+      },
+      {
+        "label": "Compatible Models",
+        "value": "Dell Latitude E7420, Dell Latitude E7440, Dell Latitude E7450"
+      },
+      {
+        "label": "Alternate Part Numbers",
+        "value": "34GKR, V8XN3, G95J5, 0909H5, 0G95J5, 5K1GW"
+      },
+      {
+        "label": "Voltage",
+        "value": "7.4V"
+      },
+      {
+        "label": "Capacity",
+        "value": "47Wh (4-cell)"
+      },
+      {
+        "label": "Battery Type",
+        "value": "Li-ion"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "How do I know this battery fits my laptop?",
+      "answer": "This fits Dell Latitude E7420, E7440 and E7450 series. The part number on your old battery is the safest way to confirm. If you're unsure, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is this an original or compatible battery?",
+      "answer": "We stock genuine OEM batteries — this is a genuine Dell 3RNFD-family unit."
+    },
+    {
+      "question": "What warranty comes with this battery?",
+      "answer": "This battery carries a 6-month warranty."
+    }
+  ]
+}

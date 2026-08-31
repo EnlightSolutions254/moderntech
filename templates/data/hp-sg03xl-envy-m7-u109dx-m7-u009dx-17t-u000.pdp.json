@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "HP SG03XL Battery — Envy M7-U109DX, M7-U009DX, 17t-U000 & More | Moderntech",
+    "description": "Genuine replacement HP SG03XL battery, 11.55V, for Envy M7-U109DX, M7-U009DX, 17t-U000, 17-U011NR, 17-U110NR, 17-U163CL and 17-U177CL. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "HP SG03XL Battery | Moderntech",
+    "description": "Genuine HP SG03XL replacement battery for Envy M7-U series and 17-U series. In stock, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/hp-sg03xl-envy-m7-u109dx-m7-u009dx-17t-u000/",
+    "brand_slug": "hp",
+    "brand_name": "HP",
+    "sku": "SG03XL",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "name": "HP SG03XL Battery",
+    "full_name": "HP SG03XL Battery — Envy M7-U109DX, M7-U009DX, 17t-U000, 17-U011NR, 17-U110NR, 17-U163CL, 17-U177CL",
+    "images": [
+      {
+        "src": "assets/images/products/hp-battery-sg03xl.webp",
+        "alt": "Replacement battery — HP SG03XL Battery"
+      },
+      {
+        "src": "assets/images/products/hp-battery-sg03xl-alt.webp",
+        "alt": "Angled view of the HP SG03XL Battery"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "price": "4,200",
+    "price_raw": "4200",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine OEM HP SG03XL replacement battery, 11.55V, Li-Polymer. Fits HP Envy M7-U109DX, M7-U009DX, 17t-U000, 17-U011NR, 17-U110NR, 17-U163CL and 17-U177CL (3-cell, 41.5Wh variant). Also matches part number 849048-421. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20SG03XL%20Battery%20%E2%80%94%20KES%204%2C200",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20HP%20SG03XL%20Battery",
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "SG03XL"
+      },
+      {
+        "label": "Compatible Models",
+        "value": "HP Envy M7-U109DX, M7-U009DX, 17t-U000, 17-U011NR, 17-U110NR, 17-U163CL, 17-U177CL"
+      },
+      {
+        "label": "Alternate Part Numbers",
+        "value": "849048-421"
+      },
+      {
+        "label": "Voltage",
+        "value": "11.55V"
+      },
+      {
+        "label": "Capacity",
+        "value": "41.5Wh (3-cell)"
+      },
+      {
+        "label": "Battery Type",
+        "value": "Li-Polymer"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "How do I know this battery fits my laptop?",
+      "answer": "This fits HP Envy M7-U109DX, M7-U009DX, 17t-U000, 17-U011NR, 17-U110NR, 17-U163CL and 17-U177CL. Note SG03XL also comes in a larger 61.6Wh 4-cell variant for the same model line — the part number on your old battery is the safest way to confirm. If you're unsure, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is this an original or compatible battery?",
+      "answer": "We stock genuine OEM batteries — this is a genuine HP SG03XL-family unit."
+    },
+    {
+      "question": "What warranty comes with this battery?",
+      "answer": "This battery carries a 6-month warranty."
+    }
+  ]
+}

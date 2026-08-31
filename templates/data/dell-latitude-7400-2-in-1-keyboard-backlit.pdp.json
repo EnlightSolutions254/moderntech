@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "title": "Dell Latitude 7400 2-in-1 Keyboard — Backlit, US Layout | [Store Name]",
+    "description": "Genuine replacement backlit keyboard for the Dell Latitude 7400 2-in-1, US English layout. Warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Dell Latitude 7400 2-in-1 Keyboard (Backlit) | [Store Name]",
+    "description": "Genuine backlit replacement keyboard for the Dell Latitude 7400 2-in-1. In stock, warranty included."
+  },
+  "category": {
+    "slug": "keyboards",
+    "url": "/shop/keyboards/",
+    "name": "Keyboards"
+  },
+  "product": {
+    "url": "/shop/keyboards/dell-latitude-7400-2-in-1-keyboard-backlit/",
+    "brand_slug": "dell",
+    "brand_name": "Dell",
+    "sku": "KEY-DELL-LAT7400-2IN1-US-BL",
+    "type_label": "keyboard",
+    "type_label_cap": "Keyboard",
+    "name": "Dell Latitude 7400 2-in-1 Keyboard (Backlit)",
+    "full_name": "Dell Latitude 7400 2-in-1 Replacement Keyboard — Backlit, US Layout",
+    "images": [
+      { "src": "assets/images/products/dell-keyboard-latitude-7400-2in1-backlit.webp", "alt": "Replacement backlit keyboard for Dell Latitude 7400 2-in-1" },
+      { "src": "assets/images/products/dell-keyboard-latitude-7400-2in1-backlit-alt.webp", "alt": "Angled view of the replacement backlit keyboard for Dell Latitude 7400 2-in-1" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "3,800",
+    "price_raw": "3800",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Direct-fit backlit replacement keyboard for the Dell Latitude 7400 2-in-1. US English (QWERTY) layout with backlight to match the original. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%207400%202-in-1%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%203%2C800",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Dell%20Latitude%207400%202-in-1%20Keyboard%20%28Backlit%29",
+    "compatible_models": [
+      "Dell Latitude 7400 2-in-1"
+    ],
+    "specs": [
+      { "label": "Layout", "value": "US English (QWERTY)" },
+      { "label": "Backlight", "value": "Yes" },
+      { "label": "Color", "value": "Black" },
+      { "label": "Frame", "value": "Included" },
+      { "label": "Fitting", "value": "Direct replacement, no adhesive required" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 Months" }
+    ],
+    "related": [
+      {
+        "url": "/shop/keyboards/dell-latitude-7400-2-in-1-keyboard-non-backlit/",
+        "image": "assets/images/products/dell-keyboard-latitude-7400-2in1-nonbacklit.webp",
+        "alt": "Replacement non-backlit keyboard for Dell Latitude 7400 2-in-1",
+        "name": "Dell Latitude 7400 2-in-1 Keyboard (Non-Backlit)",
+        "tags": ["Latitude 7400 2-in-1"],
+        "price": "2,800",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%207400%202-in-1%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C800"
+      }
+    ]
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Keyboard Questions",
+  "faqs": [
+    { "question": "How do I know this keyboard fits my laptop?", "answer": "This fits the Dell Latitude 7400 2-in-1. If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
+    { "question": "Is it backlit?", "answer": "Yes, this version includes backlighting to match the original. We also stock a non-backlit version for this model." },
+    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+  ]
+}

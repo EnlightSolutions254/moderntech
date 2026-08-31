@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "title": "HP RR03XL Battery (Compatible) — ProBook 430, 440, 450, 455, 470 G4 | Moderntech",
+    "description": "Compatible replacement RR03XL battery, 11.4V, for HP ProBook 430 G4, 440 G4, 450 G4, 455 G4 and 470 G4. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "HP RR03XL Battery (Compatible) | Moderntech",
+    "description": "Compatible RR03XL replacement battery for HP ProBook 430/440/450/455/470 G4. In stock, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/hp-rr03xl-probook-430-generic/",
+    "brand_slug": "hp",
+    "brand_name": "HP",
+    "sku": "RR03XL-COMPATIBLE",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "name": "HP RR03XL Battery (Compatible)",
+    "full_name": "RR03XL Battery (Compatible) — for HP ProBook 430 G4, 440 G4, 450 G4, 455 G4, 470 G4",
+    "images": [
+      {
+        "src": "assets/images/products/hp-battery-rr03xl-generic.webp",
+        "alt": "Replacement battery — HP RR03XL Battery (Compatible)"
+      },
+      {
+        "src": "assets/images/products/hp-battery-rr03xl-generic-alt.webp",
+        "alt": "Angled view of the HP RR03XL Battery (Compatible)"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "price": "3,500",
+    "price_raw": "3500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Compatible replacement RR03XL battery, 11.4V, Li-ion, built to OEM specifications for HP ProBook 430 G4, 440 G4, 450 G4, 455 G4 and 470 G4 (3-cell, 48Wh). Also matches part numbers RR03048XL, HSTNN-PB6W, HSTNN-LB7I, HSTNN-UB7C, HSTNN-Q01C, HSTNN-Q02C, HSTNN-Q03C, HSTNN-Q04C, HSTNN-Q06C, 851477-421, 851477-541, 851477-831, 851477-832, 851610-850. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20RR03XL%20Battery%20%28Compatible%29%20%E2%80%94%20KES%203%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20HP%20RR03XL%20Battery%20%28Compatible%29",
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "RR03XL"
+      },
+      {
+        "label": "Compatible Models",
+        "value": "HP ProBook 430 G4, 440 G4, 450 G4, 455 G4, 470 G4"
+      },
+      {
+        "label": "Alternate Part Numbers",
+        "value": "RR03048XL, HSTNN-PB6W, HSTNN-LB7I, HSTNN-UB7C, HSTNN-Q01C, HSTNN-Q02C, HSTNN-Q03C, HSTNN-Q04C, HSTNN-Q06C, 851477-421, 851477-541, 851477-831, 851477-832, 851610-850"
+      },
+      {
+        "label": "Voltage",
+        "value": "11.4V"
+      },
+      {
+        "label": "Capacity",
+        "value": "48Wh (3-cell)"
+      },
+      {
+        "label": "Battery Type",
+        "value": "Li-ion"
+      },
+      {
+        "label": "Condition",
+        "value": "New (Compatible)"
+      },
+      {
+        "label": "Warranty",
+        "value": "3 Months"
+      }
+    ],
+    "related": [
+      "/shop/laptop-batteries/hp-rr03xl-probook-430-original/"
+    ]
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "How do I know this battery fits my laptop?",
+      "answer": "This fits the HP ProBook 430 G4, 440 G4, 450 G4, 455 G4 and 470 G4. The part number on your old battery is the safest way to confirm. If you're unsure, send us a photo of the sticker on your battery on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is this an original or compatible battery?",
+      "answer": "This is a compatible (non-original) RR03XL replacement built to match OEM specs. We also stock the genuine original HP RR03XL — ask us on WhatsApp if you'd prefer that instead."
+    },
+    {
+      "question": "What warranty comes with this battery?",
+      "answer": "This battery carries a 3-month warranty."
+    }
+  ]
+}

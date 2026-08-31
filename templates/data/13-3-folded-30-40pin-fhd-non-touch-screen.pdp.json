@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "title": "13.3\" Folded Laptop Screen — FHD, 30/40 Pin, Non-Touch | [Store Name]",
+    "description": "Genuine replacement 13.3-inch folded laptop screen, FHD (1920x1080) resolution, 30/40 pin, non-touch. Fits most 13.3\" folded-bezel laptops. Warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "13.3\" Folded Laptop Screen (FHD, Non-Touch) | [Store Name]",
+    "description": "Genuine 13.3-inch folded FHD replacement laptop screen, 30/40 pin, non-touch. In stock, warranty included."
+  },
+  "category": {
+    "slug": "screens",
+    "url": "/shop/screens/",
+    "name": "Laptop Screens"
+  },
+  "product": {
+    "url": "/shop/screens/13-3-folded-30-40pin-fhd-non-touch-screen/",
+    "brand_slug": "generic",
+    "brand_name": "Generic",
+    "sku": "SCR-133-FOLDED-3040PIN-FHD-NT",
+    "type_label": "screen",
+    "type_label_cap": "Screen",
+    "name": "13.3\" Folded Laptop Screen (FHD, Non-Touch)",
+    "full_name": "13.3\" Folded Laptop Screen — FHD (1920x1080), 30/40 Pin, Non-Touch",
+    "images": [
+      { "src": "assets/images/products/laptop-screen-13-3-folded-30-40pin-fhd-nontouch.webp", "alt": "13.3 inch folded FHD non-touch laptop screen, 30/40 pin" },
+      { "src": "assets/images/products/laptop-screen-13-3-folded-30-40pin-fhd-nontouch-alt.webp", "alt": "Angled view of the 13.3 inch folded FHD non-touch laptop screen" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "8,500",
+    "price_raw": "8500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Direct-fit 13.3-inch folded laptop screen, FHD resolution, compatible with both 30-pin and 40-pin connectors. Non-touch. Fits most folded-bezel 13.3\" laptops across HP, Dell, Lenovo, Acer, Asus and Toshiba. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%2013.3%22%20Folded%20Laptop%20Screen%20%28FHD%2C%20Non-Touch%29%20%E2%80%94%20KES%208%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%2013.3%22%20Folded%20Laptop%20Screen%20%28FHD%2C%20Non-Touch%29",
+    "specs": [
+      { "label": "Screen Size", "value": "13.3\"" },
+      { "label": "Resolution", "value": "FHD (1920x1080)" },
+      { "label": "Connector", "value": "30/40 Pin" },
+      { "label": "Panel Type", "value": "Folded" },
+      { "label": "Touch", "value": "No" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 Months" }
+    ],
+    "related": [
+      {
+        "url": "/shop/screens/13-3-short-30-40pin-fhd-non-touch-screen/",
+        "image": "assets/images/products/laptop-screen-13-3-short-30-40pin-fhd-nontouch.webp",
+        "alt": "13.3 inch short FHD non-touch laptop screen, 30/40 pin",
+        "name": "13.3\" Short Laptop Screen (FHD, Non-Touch)",
+        "tags": ["13.3\" Short", "FHD"],
+        "price": "8,000",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%2013.3%22%20Short%20Laptop%20Screen%20%28FHD%2C%20Non-Touch%29%20%E2%80%94%20KES%208%2C000"
+      }
+    ]
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Screen Questions",
+  "faqs": [
+    { "question": "How do I know this screen fits my laptop?", "answer": "This fits most 13.3\" folded-bezel laptops using a 30-pin or 40-pin connector at FHD resolution. If you're unsure, send us your laptop model or a photo of the current screen's connector on WhatsApp and we'll confirm." },
+    { "question": "Is it touch screen?", "answer": "No, this is a non-touch panel." },
+    { "question": "What warranty comes with this screen?", "answer": "This screen carries a 3-month warranty against dead pixels and panel defects." }
+  ]
+}

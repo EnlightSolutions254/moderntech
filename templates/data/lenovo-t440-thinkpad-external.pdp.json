@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "Lenovo ThinkPad T440 External Battery (68+) — Original Lenovo | Moderntech",
+    "description": "Genuine original Lenovo 68+ external battery, 10.8V, for ThinkPad T440, T440s, T450, X240 and related models. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Lenovo ThinkPad T440 External Battery | Moderntech",
+    "description": "Genuine Lenovo 68+ external replacement battery for ThinkPad T440/X240 series. In stock, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/lenovo-t440-thinkpad-external/",
+    "brand_slug": "lenovo",
+    "brand_name": "Lenovo",
+    "sku": "45N1128",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "name": "Lenovo T440 External Battery",
+    "full_name": "Lenovo ThinkPad T440 External Battery (68+) — Original Lenovo",
+    "images": [
+      {
+        "src": "assets/images/products/lenovo-battery-t440-external.webp",
+        "alt": "Replacement battery — Lenovo T440 External Battery"
+      },
+      {
+        "src": "assets/images/products/lenovo-battery-t440-external-alt.webp",
+        "alt": "Angled view of the Lenovo T440 External Battery"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "price": "4,500",
+    "price_raw": "4500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine original Lenovo 68+ external replacement battery, 10.8V, Li-ion. Fits ThinkPad T440, T440s, T450, T450s, T460, X240, X250, X260, L450 (6-cell, 72Wh). Also matches part numbers 0C52861, 0C52862, 45N1126, 45N1127, 45N1136. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20T440%20External%20Battery%20%E2%80%94%20KES%204%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Lenovo%20T440%20External%20Battery",
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "45N1128"
+      },
+      {
+        "label": "Compatible Models",
+        "value": "ThinkPad T440, T440s, T450, T450s, T460, X240, X250, X260, L450 (External / 68+ battery)"
+      },
+      {
+        "label": "Alternate Part Numbers",
+        "value": "0C52861, 0C52862, 45N1126, 45N1127, 45N1136"
+      },
+      {
+        "label": "Voltage",
+        "value": "10.8V"
+      },
+      {
+        "label": "Capacity",
+        "value": "72Wh (6-cell)"
+      },
+      {
+        "label": "Battery Type",
+        "value": "Li-ion"
+      },
+      {
+        "label": "Condition",
+        "value": "New (Original)"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "How do I know this battery fits my laptop?",
+      "answer": "This fits the ThinkPad T440, T450, X240 and related series (external, 68+ battery). Note these models use two batteries — this listing is for the external, swappable one. The part number on your old battery is the safest way to confirm. If you're unsure, send us a photo of the sticker on your battery on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is this an original or compatible battery?",
+      "answer": "This is a genuine original Lenovo 45N1128 (68+) unit."
+    },
+    {
+      "question": "What warranty comes with this battery?",
+      "answer": "This battery carries a 6-month warranty."
+    }
+  ]
+}

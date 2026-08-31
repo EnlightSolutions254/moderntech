@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "HP BL06XL Battery — EliteBook Folio 1040 G0, G1 | Moderntech",
+    "description": "Genuine replacement HP BL06XL battery, 11.1V, for EliteBook Folio 1040 G0 and G1. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "HP BL06XL Battery | Moderntech",
+    "description": "Genuine HP BL06XL replacement battery for EliteBook Folio 1040 G0/G1. In stock, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/hp-bl06xl-elitebook-folio-1040/",
+    "brand_slug": "hp",
+    "brand_name": "HP",
+    "sku": "BL06XL",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "name": "HP BL06XL Battery",
+    "full_name": "Genuine HP BL06XL Battery — EliteBook Folio 1040 G0, G1",
+    "images": [
+      {
+        "src": "assets/images/products/hp-battery-bl06xl.webp",
+        "alt": "Replacement battery — HP BL06XL Battery"
+      },
+      {
+        "src": "assets/images/products/hp-battery-bl06xl-alt.webp",
+        "alt": "Angled view of the HP BL06XL Battery"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "price": "4,800",
+    "price_raw": "4800",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine HP BL06XL replacement battery, 11.1V, Li-ion. Fits HP EliteBook Folio 1040 G0 and G1 (6-cell, 42Wh). Also matches part numbers BL06042XL, BL06042XL-PL, HSTNN-DB5D, HSTNN-IB5D, HSTNN-W02C, 722236-171, 722236-1C1, 722236-271, 722236-2C1, 722297-001, 722297-005. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20BL06XL%20Battery%20%E2%80%94%20KES%204%2C800",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20HP%20BL06XL%20Battery",
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "BL06XL"
+      },
+      {
+        "label": "Compatible Models",
+        "value": "HP EliteBook Folio 1040 G0, EliteBook Folio 1040 G1"
+      },
+      {
+        "label": "Alternate Part Numbers",
+        "value": "BL06042XL, BL06042XL-PL, HSTNN-DB5D, HSTNN-IB5D, HSTNN-W02C, 722236-171, 722236-1C1, 722236-271, 722236-2C1, 722297-001, 722297-005"
+      },
+      {
+        "label": "Voltage",
+        "value": "11.1V"
+      },
+      {
+        "label": "Capacity",
+        "value": "42Wh (6-cell)"
+      },
+      {
+        "label": "Battery Type",
+        "value": "Li-ion"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "How do I know this battery fits my laptop?",
+      "answer": "This fits the HP EliteBook Folio 1040 G0 and G1. The part number on your old battery is the safest way to confirm. If you're unsure, send us a photo of the sticker on your battery on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is this an original or compatible battery?",
+      "answer": "We stock genuine OEM batteries — this is a genuine HP BL06XL unit."
+    },
+    {
+      "question": "What warranty comes with this battery?",
+      "answer": "This battery carries a 6-month warranty."
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "title": "Dell Inspiron 15-5565/15-5567/15-5570 Keyboard — Backlit, US Layout | [Store Name]",
+    "description": "Genuine replacement backlit keyboard with keypad for the Dell Inspiron 15-5565, 15-5567 and 15-5570, US English layout. Warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Dell Inspiron 15-5565/15-5567/15-5570 Keyboard (Backlit) | [Store Name]",
+    "description": "Genuine backlit replacement keyboard with keypad for the Dell Inspiron 15-5565/15-5567/15-5570. In stock, warranty included."
+  },
+  "category": {
+    "slug": "keyboards",
+    "url": "/shop/keyboards/",
+    "name": "Keyboards"
+  },
+  "product": {
+    "url": "/shop/keyboards/dell-inspiron-15-5565-5567-5570-keyboard-backlit/",
+    "brand_slug": "dell",
+    "brand_name": "Dell",
+    "sku": "KEY-DELL-INS155565556755570-US-BL",
+    "type_label": "keyboard",
+    "type_label_cap": "Keyboard",
+    "name": "Dell Inspiron 15-5565/15-5567/15-5570 Keyboard (Backlit)",
+    "full_name": "Dell Inspiron 15-5565, 15-5567, 15-5570 Replacement Keyboard — Backlit, With Keypad, US English Layout",
+    "images": [
+      { "src": "assets/images/products/dell-keyboard-inspiron-15-5565-5567-5570-backlit.webp", "alt": "Replacement backlit keyboard for Dell Inspiron 15-5565/15-5567/15-5570" },
+      { "src": "assets/images/products/dell-keyboard-inspiron-15-5565-5567-5570-backlit-alt.webp", "alt": "Angled view of the replacement backlit keyboard for Dell Inspiron 15-5565/15-5567/15-5570" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "4,200",
+    "price_raw": "4200",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Direct-fit backlit replacement keyboard for the Dell Inspiron 15-5565, 15-5567 and 15-5570, which share the same chassis. US English (QWERTY) layout with numeric keypad and backlight to match the original. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Inspiron%2015-5565%2F15-5567%2F15-5570%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%204%2C200",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Dell%20Inspiron%2015-5565%2F15-5567%2F15-5570%20Keyboard%20%28Backlit%29",
+    "compatible_models": [
+      "Dell Inspiron 15-5565",
+      "Dell Inspiron 15-5567",
+      "Dell Inspiron 15-5570"
+    ],
+    "specs": [
+      { "label": "Layout", "value": "US English (QWERTY)" },
+      { "label": "Backlight", "value": "Yes" },
+      { "label": "Keypad", "value": "Yes (Numeric)" },
+      { "label": "Color", "value": "Black" },
+      { "label": "Frame", "value": "Included" },
+      { "label": "Fitting", "value": "Direct replacement, no adhesive required" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 Months" }
+    ],
+    "related": [
+      {
+        "url": "/shop/keyboards/dell-inspiron-15-5565-5567-5570-keyboard-non-backlit/",
+        "image": "assets/images/products/dell-keyboard-inspiron-15-5565-5567-5570-nonbacklit.webp",
+        "alt": "Replacement non-backlit keyboard for Dell Inspiron 15-5565/15-5567/15-5570",
+        "name": "Dell Inspiron 15-5565/15-5567/15-5570 Keyboard (Non-Backlit)",
+        "tags": ["Inspiron 15-5565/15-5567/15-5570", "With Keypad"],
+        "price": "3,000",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Inspiron%2015-5565%2F15-5567%2F15-5570%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%203%2C000"
+      }
+    ]
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Keyboard Questions",
+  "faqs": [
+    { "question": "How do I know this keyboard fits my laptop?", "answer": "This fits the Dell Inspiron 15-5565, 15-5567 and 15-5570, which share the same chassis. If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
+    { "question": "Does it come with a numeric keypad?", "answer": "Yes, this keyboard includes the numeric keypad." },
+    { "question": "Is it backlit?", "answer": "Yes, this keyboard includes backlighting to match the original. We also stock a non-backlit version for this series." },
+    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "title": "HP ProBook 440/445 G9/G10, 640/645 G8, EliteBook 640 G9/G10 Keyboard — Backlit, US Layout | [Store Name]",
+    "description": "Genuine replacement backlit keyboard for the HP ProBook 440 G9, 445 G9, 440 G10, 445 G10, 640 G8, 645 G8 and EliteBook 640 G9, 640 G10. US layout. Warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "HP ProBook 440/445/640/645 &amp; EliteBook 640 Series Keyboard (Backlit) | [Store Name]",
+    "description": "Genuine backlit replacement keyboard for the HP ProBook 440/445 G9/G10, 640/645 G8 and EliteBook 640 G9/G10. In stock, warranty included."
+  },
+  "category": {
+    "slug": "keyboards",
+    "url": "/shop/keyboards/",
+    "name": "Keyboards"
+  },
+  "product": {
+    "url": "/shop/keyboards/hp-probook-440-445-g9-g10-640-645-g8-elitebook-640-g9-g10-keyboard-backlit/",
+    "brand_slug": "hp",
+    "brand_name": "HP",
+    "sku": "KEY-HP-PB440445G9G10PB640645G8EB640G9G10-US-BL",
+    "type_label": "keyboard",
+    "type_label_cap": "Keyboard",
+    "name": "HP ProBook 440/445 G9/G10, 640/645 G8, EliteBook 640 G9/G10 Keyboard (Backlit)",
+    "full_name": "HP ProBook 440 G9, 445 G9, 440 G10, 445 G10, 640 G8, 645 G8, EliteBook 640 G9, 640 G10 Replacement Keyboard — Backlit, US Layout",
+    "images": [
+      { "src": "assets/images/products/hp-keyboard-probook440-445-640-645-elitebook640-backlit.webp", "alt": "Replacement backlit keyboard for HP ProBook 440/445 G9/G10, 640/645 G8 and EliteBook 640 G9/G10" },
+      { "src": "assets/images/products/hp-keyboard-probook440-445-640-645-elitebook640-backlit-alt.webp", "alt": "Angled view of the replacement backlit keyboard for HP ProBook 440/445 G9/G10, 640/645 G8 and EliteBook 640 G9/G10" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "4,000",
+    "price_raw": "4000",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Direct-fit backlit replacement keyboard for the HP ProBook 440 G9, 445 G9, 440 G10, 445 G10, 640 G8, 645 G8 and EliteBook 640 G9, 640 G10, which share the same chassis. US English layout with frame and backlight cable. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20ProBook%20440%2F445%20G9%2FG10%2C%20640%2F645%20G8%2C%20EliteBook%20640%20G9%2FG10%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%204%2C000",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20HP%20ProBook%20440%2F445%20G9%2FG10%2C%20640%2F645%20G8%2C%20EliteBook%20640%20G9%2FG10%20Keyboard%20%28Backlit%29",
+    "compatible_models": [
+      "HP ProBook 440 G9",
+      "HP ProBook 445 G9",
+      "HP ProBook 440 G10",
+      "HP ProBook 445 G10",
+      "HP ProBook 640 G8",
+      "HP ProBook 645 G8",
+      "HP EliteBook 640 G9",
+      "HP EliteBook 640 G10"
+    ],
+    "specs": [
+      { "label": "Layout", "value": "US English (QWERTY)" },
+      { "label": "Backlight", "value": "Yes" },
+      { "label": "Color", "value": "Black" },
+      { "label": "Frame", "value": "Included" },
+      { "label": "Fitting", "value": "Direct replacement, no adhesive required" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 Months" }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Keyboard Questions",
+  "faqs": [
+    { "question": "How do I know this keyboard fits my laptop?", "answer": "This fits the HP ProBook 440 G9, 445 G9, 440 G10, 445 G10, 640 G8, 645 G8 and EliteBook 640 G9, 640 G10, which share the same chassis. If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
+    { "question": "Is it backlit?", "answer": "Yes, this version includes the backlight cable, matching the original." },
+    { "question": "Do you also stock a non-backlit version?", "answer": "Not currently for this series — please check back or ask us on WhatsApp." },
+    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+  ]
+}

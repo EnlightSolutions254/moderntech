@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "title": "Lenovo IdeaPad G500, G505, G505A, G510, G700, G710, G700A, G500AM Keyboard — Non-Backlit | [Store Name]",
+    "description": "Genuine replacement non-backlit keyboard for the Lenovo IdeaPad G500, G505, G505A, G510, G700, G710, G700A and G500AM, US English layout. Warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Lenovo IdeaPad G500/G505/G505A/G510/G700/G710/G700A/G500AM Keyboard (Non-Backlit) | [Store Name]",
+    "description": "Genuine non-backlit replacement keyboard for the Lenovo IdeaPad G500/G505/G505A/G510/G700/G710/G700A/G500AM. In stock, warranty included."
+  },
+  "category": {
+    "slug": "keyboards",
+    "url": "/shop/keyboards/",
+    "name": "Keyboards"
+  },
+  "product": {
+    "url": "/shop/keyboards/lenovo-ideapad-g500-g505-g505a-g510-g700-g710-g700a-g500am-keyboard-non-backlit/",
+    "brand_slug": "lenovo",
+    "brand_name": "Lenovo",
+    "sku": "KEY-LENOVO-G500-G710SERIES-US-NB",
+    "type_label": "keyboard",
+    "type_label_cap": "Keyboard",
+    "name": "Lenovo IdeaPad G500/G505/G505A/G510/G700/G710/G700A/G500AM Keyboard (Non-Backlit)",
+    "full_name": "Lenovo IdeaPad G500, G505, G505A, G510, G700, G710, G700A, G500AM Replacement Keyboard — Non-Backlit",
+    "images": [
+      { "src": "assets/images/products/lenovo-keyboard-ideapad-g500-g505-g505a-g510-g700-g710-g700a-g500am-nonbacklit.webp", "alt": "Replacement non-backlit keyboard for Lenovo IdeaPad G500/G505/G505A/G510/G700/G710/G700A/G500AM" },
+      { "src": "assets/images/products/lenovo-keyboard-ideapad-g500-g505-g505a-g510-g700-g710-g700a-g500am-nonbacklit-alt.webp", "alt": "Angled view of the replacement non-backlit keyboard for Lenovo IdeaPad G500/G505/G505A/G510/G700/G710/G700A/G500AM" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "2,200",
+    "price_raw": "2200",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Direct-fit non-backlit replacement keyboard for the Lenovo IdeaPad G500, G505, G505A, G510, G700, G710, G700A and G500AM, which share the same chassis. US English (QWERTY) layout. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20IdeaPad%20G500%2FG505%2FG505A%2FG510%2FG700%2FG710%2FG700A%2FG500AM%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C200",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Lenovo%20IdeaPad%20G500%2FG505%2FG505A%2FG510%2FG700%2FG710%2FG700A%2FG500AM%20Keyboard%20%28Non-Backlit%29",
+    "compatible_models": [
+      "Lenovo IdeaPad G500",
+      "Lenovo IdeaPad G505",
+      "Lenovo IdeaPad G505A",
+      "Lenovo IdeaPad G510",
+      "Lenovo IdeaPad G700",
+      "Lenovo IdeaPad G710",
+      "Lenovo IdeaPad G700A",
+      "Lenovo IdeaPad G500AM"
+    ],
+    "specs": [
+      { "label": "Layout", "value": "US English (QWERTY)" },
+      { "label": "Backlight", "value": "No" },
+      { "label": "Color", "value": "Black" },
+      { "label": "Frame", "value": "Included" },
+      { "label": "Fitting", "value": "Direct replacement, no adhesive required" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 Months" }
+    ]
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Keyboard Questions",
+  "faqs": [
+    { "question": "How do I know this keyboard fits my laptop?", "answer": "This fits the Lenovo IdeaPad G500, G505, G505A, G510, G700, G710, G700A and G500AM, which share the same chassis. If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
+    { "question": "Is it backlit?", "answer": "No, this model does not come with backlighting from the factory, so we only stock the non-backlit version." },
+    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+  ]
+}

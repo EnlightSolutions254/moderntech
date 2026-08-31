@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "Dell TRHFF Battery — Latitude 3450, 3550 | Moderntech",
+    "description": "Genuine replacement Dell TRHFF battery, 11.1V, for Latitude 14 3450 and Latitude 15 3550. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Dell TRHFF Battery | Moderntech",
+    "description": "Genuine Dell TRHFF replacement battery for Latitude 3450 and 3550. In stock, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/dell-trhff-latitude-3450-3550/",
+    "brand_slug": "dell",
+    "brand_name": "Dell",
+    "sku": "TRHFF",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "name": "Dell TRHFF Battery",
+    "full_name": "Dell TRHFF Battery — Latitude 3450, 3550",
+    "images": [
+      {
+        "src": "assets/images/products/dell-battery-trhff.webp",
+        "alt": "Replacement battery — Dell TRHFF Battery"
+      },
+      {
+        "src": "assets/images/products/dell-battery-trhff-alt.webp",
+        "alt": "Angled view of the Dell TRHFF Battery"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "price": "4,500",
+    "price_raw": "4500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine OEM Dell TRHFF replacement battery, 11.1V, Li-Polymer. Fits Dell Latitude 14 3450 and Latitude 15 3550 (3-cell, 43Wh variant). Also matches part numbers 1V2F6, 0DFVYN, 0PD19, 58DP4, P39F. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20TRHFF%20Battery%20%E2%80%94%20KES%204%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Dell%20TRHFF%20Battery",
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "TRHFF"
+      },
+      {
+        "label": "Compatible Models",
+        "value": "Dell Latitude 14 3450, Dell Latitude 15 3550"
+      },
+      {
+        "label": "Alternate Part Numbers",
+        "value": "1V2F6, 0DFVYN, 0PD19, 58DP4, P39F"
+      },
+      {
+        "label": "Voltage",
+        "value": "11.1V"
+      },
+      {
+        "label": "Capacity",
+        "value": "43Wh (3-cell)"
+      },
+      {
+        "label": "Battery Type",
+        "value": "Li-Polymer"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "How do I know this battery fits my laptop?",
+      "answer": "This fits Dell Latitude 14 3450 and Latitude 15 3550. Note there's also a higher-capacity 15.2V/56Wh variant sold under the same part number for related models — the part number on your old battery is the safest way to confirm. If you're unsure, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is this an original or compatible battery?",
+      "answer": "We stock genuine OEM batteries — this is a genuine Dell TRHFF-family unit."
+    },
+    {
+      "question": "What warranty comes with this battery?",
+      "answer": "This battery carries a 6-month warranty."
+    }
+  ]
+}

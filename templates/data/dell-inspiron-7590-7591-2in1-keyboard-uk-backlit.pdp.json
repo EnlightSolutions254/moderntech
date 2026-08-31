@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "title": "Dell Inspiron 7590/7591 2-in-1 Keyboard — Backlit, UK Layout | [Store Name]",
+    "description": "Genuine replacement backlit keyboard for the Dell Inspiron 7590 and 7591 2-in-1, UK English layout. Warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Dell Inspiron 7590/7591 2-in-1 Keyboard (Backlit) | [Store Name]",
+    "description": "Genuine backlit replacement keyboard for the Dell Inspiron 7590/7591 2-in-1, UK layout. In stock, warranty included."
+  },
+  "category": {
+    "slug": "keyboards",
+    "url": "/shop/keyboards/",
+    "name": "Keyboards"
+  },
+  "product": {
+    "url": "/shop/keyboards/dell-inspiron-7590-7591-2in1-keyboard-uk-backlit/",
+    "brand_slug": "dell",
+    "brand_name": "Dell",
+    "sku": "KEY-DELL-INS75907591-2IN1-UK-BL",
+    "type_label": "keyboard",
+    "type_label_cap": "Keyboard",
+    "name": "Dell Inspiron 7590/7591 2-in-1 Keyboard (Backlit)",
+    "full_name": "Dell Inspiron 7590, 7591 2-in-1 Replacement Keyboard — Backlit, UK English Layout",
+    "images": [
+      { "src": "assets/images/products/dell-keyboard-inspiron-7590-7591-2in1-uk-backlit.webp", "alt": "Replacement backlit keyboard for Dell Inspiron 7590/7591 2-in-1" },
+      { "src": "assets/images/products/dell-keyboard-inspiron-7590-7591-2in1-uk-backlit-alt.webp", "alt": "Angled view of the replacement backlit keyboard for Dell Inspiron 7590/7591 2-in-1" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "3,700",
+    "price_raw": "3700",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Direct-fit backlit replacement keyboard for the Dell Inspiron 7590 and 7591 2-in-1, which share the same chassis. UK English (QWERTY) layout with backlight to match the original. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Inspiron%207590%2F7591%202-in-1%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%203%2C700",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Dell%20Inspiron%207590%2F7591%202-in-1%20Keyboard%20%28Backlit%29",
+    "compatible_models": [
+      "Dell Inspiron 7590 2-in-1",
+      "Dell Inspiron 7591 2-in-1"
+    ],
+    "specs": [
+      { "label": "Layout", "value": "UK English (QWERTY)" },
+      { "label": "Backlight", "value": "Yes" },
+      { "label": "Color", "value": "Black" },
+      { "label": "Frame", "value": "Included" },
+      { "label": "Fitting", "value": "Direct replacement, no adhesive required" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 Months" }
+    ],
+    "related": [
+      {
+        "url": "/shop/keyboards/dell-inspiron-7590-7591-2in1-keyboard-uk-non-backlit/",
+        "image": "assets/images/products/dell-keyboard-inspiron-7590-7591-2in1-uk-nonbacklit.webp",
+        "alt": "Replacement non-backlit keyboard for Dell Inspiron 7590/7591 2-in-1",
+        "name": "Dell Inspiron 7590/7591 2-in-1 Keyboard (Non-Backlit)",
+        "tags": ["Inspiron 7590/7591 2-in-1", "UK Layout"],
+        "price": "2,600",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Inspiron%207590%2F7591%202-in-1%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C600"
+      }
+    ]
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Keyboard Questions",
+  "faqs": [
+    { "question": "How do I know this keyboard fits my laptop?", "answer": "This fits the Dell Inspiron 7590 and 7591 2-in-1, which share the same chassis. If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
+    { "question": "Is this the UK or US layout?", "answer": "This is the UK English layout, with the UK-specific key arrangement (\u00a3 symbol, enter key shape)." },
+    { "question": "Is it backlit?", "answer": "Yes, this version includes backlighting to match the original. We also stock a non-backlit version for this series." },
+    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+  ]
+}

@@ -1,141 +1,98 @@
 {
   "meta": {
-    "title": "Lenovo 01AV432 Battery — KES 5,600 | Moderntech",
-    "description": "Genuine Lenovo 01AV432 battery — fits ThinkPad Yoga 260, ThinkPad Yoga 370 and ThinkPad X380 Yoga. Tested before dispatch, with warranty support."
+    "title": "Lenovo 01AV432 Battery — ThinkPad Yoga 260, 370, X380 Yoga, X260 | Moderntech",
+    "description": "Genuine replacement Lenovo 01AV432 battery, 15.2V, for ThinkPad Yoga 260, Yoga 370, X380 Yoga and X260 series. In-stock pricing in KES, warranty included, order on WhatsApp."
   },
   "og": {
     "title": "Lenovo 01AV432 Battery | Moderntech",
-    "description": "Genuine Lenovo 01AV432 battery — fits ThinkPad Yoga 260, ThinkPad Yoga 370 and ThinkPad X380 Yoga. Tested before dispatch, with warranty support."
+    "description": "Genuine Lenovo 01AV432 replacement battery for ThinkPad Yoga 260, Yoga 370, X380 Yoga and X260. In stock, warranty included, order on WhatsApp."
   },
   "category": {
     "slug": "laptop-batteries",
     "url": "/shop/laptop-batteries/",
     "name": "Laptop Batteries"
   },
-  "delivery_note": "Same-day delivery in Nairobi · Countrywide shipping available",
-  "faq_heading": "Battery Questions",
-  "faqs": [
-    {
-      "question": "How do I know this battery fits my laptop?",
-      "answer": "This listing shows exact compatible models and part numbers. If you're unsure of your laptop's exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm."
-    },
-    {
-      "question": "Are these original or compatible batteries?",
-      "answer": "It's stated clearly above — Original (OEM) or Replacement (OEM-equivalent)."
-    },
-    {
-      "question": "What warranty comes with this battery?",
-      "answer": "This battery carries a 6-month warranty."
-    }
-  ],
   "product": {
     "url": "/shop/laptop-batteries/lenovo-01av432-thinkpad-yoga-260-370-x380-yoga/",
-    "name": "Lenovo 01AV432 Battery",
-    "full_name": "Lenovo 01AV432 Battery (51Wh, ThinkPad Yoga 260/370, X380 Yoga)",
-    "sku": "LENOVO-01AV432",
-    "brand_name": "Lenovo",
     "brand_slug": "lenovo",
-    "price": "5,600",
-    "price_raw": "5600",
-    "schema_availability": "https://schema.org/InStock",
-    "description": "Genuine Lenovo 01AV432 battery — fits ThinkPad Yoga 260, ThinkPad Yoga 370 and ThinkPad X380 Yoga. Tested before dispatch, with warranty support.",
+    "brand_name": "Lenovo",
+    "sku": "01AV432",
     "type_label": "battery",
     "type_label_cap": "Battery",
-    "badges": [
-      {
-        "class": "badge--in-stock",
-        "label": "In Stock"
-      },
-      {
-        "class": "badge--original",
-        "label": "Genuine OEM"
-      }
-    ],
+    "name": "Lenovo 01AV432 Battery",
+    "full_name": "Lenovo 01AV432 Battery — ThinkPad Yoga 260, Yoga 370, X380 Yoga, X260",
     "images": [
       {
         "src": "assets/images/products/lenovo-battery-01av432.webp",
         "alt": "Replacement battery — Lenovo 01AV432 Battery"
       },
       {
-        "src": "assets/images/products/lenovo-battery-01av432-1.webp",
-        "alt": "Replacement battery — Lenovo 01AV432 Battery"
+        "src": "assets/images/products/lenovo-battery-01av432-alt.webp",
+        "alt": "Angled view of the Lenovo 01AV432 Battery"
       }
     ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "price": "4,800",
+    "price_raw": "4800",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine OEM Lenovo 01AV432 replacement battery, 15.2V, Li-ion. Fits ThinkPad Yoga 260 (44Wh cell variant), ThinkPad Yoga 370, ThinkPad X380 Yoga and ThinkPad X260 (Yoga 12) series (51Wh cell variant). Also matches part numbers 01AV433, 01AV434, 00HW026, 00HW027. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%2001AV432%20Battery%20%E2%80%94%20KES%204%2C800",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Lenovo%2001AV432%20Battery",
     "specs": [
       {
-        "label": "Part Number / Compatible Codes",
-        "value": "01AV432, SB10K97591, 01AV433, 01AV434"
+        "label": "Part Number",
+        "value": "01AV432"
+      },
+      {
+        "label": "Compatible Models",
+        "value": "ThinkPad Yoga 260, ThinkPad Yoga 370, ThinkPad X380 Yoga, ThinkPad X260 (Yoga 12)"
+      },
+      {
+        "label": "Alternate Part Numbers",
+        "value": "01AV433, 01AV434, 00HW026, 00HW027"
+      },
+      {
+        "label": "Voltage",
+        "value": "15.2V"
+      },
+      {
+        "label": "Capacity",
+        "value": "44Wh (Yoga 260) / 51Wh (Yoga 370, X380 Yoga, X260)"
       },
       {
         "label": "Battery Type",
-        "value": "Genuine OEM"
-      },
-      {
-        "label": "Voltage / Capacity",
-        "value": "15.2V, 51Wh (3.26Ah)"
-      },
-      {
-        "label": "Cell Configuration",
-        "value": "4ICP5/53/88"
+        "value": "Li-ion"
       },
       {
         "label": "Condition",
-        "value": "Brand New"
+        "value": "New"
       },
       {
         "label": "Warranty",
         "value": "6 Months"
       }
     ],
-    "compatible_models": [
-      "ThinkPad Yoga 260",
-      "ThinkPad Yoga 370",
-      "ThinkPad X380 Yoga"
-    ],
-    "related": [
-      {
-        "url": "/shop/laptop-batteries/lenovo-l18l3p72-x390-yoga-x13-yoga/",
-        "image": "assets/images/products/lenovo-battery-l18l3p72.webp",
-        "alt": "Replacement battery — Lenovo L18L3P72 Battery",
-        "badge_class": "badge--in-stock",
-        "badge_label": "In Stock",
-        "name": "Lenovo L18L3P72 Battery",
-        "tags": [
-          "ThinkPad X390 Yoga (20NN/20NQ)",
-          "ThinkPad X13 Yoga 1st Gen (20SX/20SY)"
-        ],
-        "price": "5,800",
-        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20L18L3P72%20Battery%20%E2%80%94%20KES%205%2C800"
-      },
-      {
-        "url": "/shop/laptop-batteries/hp-hv03xl-x360-310-g2/",
-        "image": "assets/images/products/hp-battery-hv03xl.webp",
-        "alt": "Replacement battery — HP HV03XL Battery",
-        "badge_class": "badge--in-stock",
-        "badge_label": "In Stock",
-        "name": "HP HV03XL Battery",
-        "tags": [
-          "HP x360 310 G2 (K12 Series)"
-        ],
-        "price": "5,000",
-        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20HV03XL%20Battery%20%E2%80%94%20KES%205%2C000"
-      },
-      {
-        "url": "/shop/laptop-batteries/hp-pg03xl-pavilion-gaming-15-dk-omen-5x/",
-        "image": "assets/images/products/hp-battery-pg03xl.webp",
-        "alt": "Replacement battery — HP PG03XL Battery",
-        "badge_class": "badge--in-stock",
-        "badge_label": "In Stock",
-        "name": "HP PG03XL Battery",
-        "tags": [
-          "Pavilion Gaming 15-DK Series",
-          "Pavilion Gaming 15-EC Series"
-        ],
-        "price": "5,500",
-        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20PG03XL%20Battery%20%E2%80%94%20KES%205%2C500"
-      }
-    ],
-    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%2001AV432%20Battery%20%E2%80%94%20KES%205%2C600",
-    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20this%20battery%20%28Lenovo%2001AV432%20Battery%29%20fits%20my%20laptop%3F"
-  }
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "How do I know this battery fits my laptop?",
+      "answer": "This fits ThinkPad Yoga 260, Yoga 370, X380 Yoga and X260 series. Note Yoga 260 uses a 44Wh cell while Yoga 370/X380 Yoga/X260 use a 51Wh cell of the same part-number family — the part number on your old battery is the safest way to confirm. If you're unsure, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is this an original or compatible battery?",
+      "answer": "We stock genuine OEM batteries — this is a genuine Lenovo 01AV432-family unit."
+    },
+    {
+      "question": "What warranty comes with this battery?",
+      "answer": "This battery carries a 6-month warranty."
+    }
+  ]
 }

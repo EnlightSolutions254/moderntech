@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "title": "HP 4540s/4740/4540/4740S/4545/4545S Keyboard — Non-Backlit, US Layout | [Store Name]",
+    "description": "Genuine replacement non-backlit keyboard for the HP 4540s, 4740, 4540, 4740S, 4545 and 4545S. US layout. Warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "HP 4540s/4740/4540/4740S/4545/4545S Keyboard (Non-Backlit) | [Store Name]",
+    "description": "Genuine non-backlit replacement keyboard for the HP 4540s/4740/4540/4740S/4545/4545S. In stock, warranty included."
+  },
+  "category": {
+    "slug": "keyboards",
+    "url": "/shop/keyboards/",
+    "name": "Keyboards"
+  },
+  "product": {
+    "url": "/shop/keyboards/hp-4540s-4740-4540-4740s-4545-4545s-keyboard-non-backlit/",
+    "brand_slug": "hp",
+    "brand_name": "HP",
+    "sku": "KEY-HP-4540S4740454047400S45454545S-US-NB",
+    "type_label": "keyboard",
+    "type_label_cap": "Keyboard",
+    "name": "HP 4540s/4740/4540/4740S/4545/4545S Keyboard (Non-Backlit)",
+    "full_name": "HP 4540s, 4740, 4540, 4740S, 4545, 4545S Replacement Keyboard — Non-Backlit, US Layout",
+    "images": [
+      { "src": "assets/images/products/hp-keyboard-4540s-4740s-4545s-nonbacklit.webp", "alt": "Replacement non-backlit keyboard for HP 4540s/4740/4540/4740S/4545/4545S" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "2,000",
+    "price_raw": "2000",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Direct-fit non-backlit replacement keyboard for the HP 4540s, 4740, 4540, 4740S, 4545 and 4545S, which share the same chassis. US English layout with frame. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%204540s%2F4740%2F4540%2F4740S%2F4545%2F4545S%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C000",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20HP%204540s%2F4740%2F4540%2F4740S%2F4545%2F4545S%20Keyboard%20%28Non-Backlit%29",
+    "compatible_models": [
+      "HP 4540s",
+      "HP 4740",
+      "HP 4540",
+      "HP 4740S",
+      "HP 4545",
+      "HP 4545S"
+    ],
+    "specs": [
+      { "label": "Layout", "value": "US English (QWERTY)" },
+      { "label": "Backlight", "value": "No" },
+      { "label": "Color", "value": "Black" },
+      { "label": "Frame", "value": "Included" },
+      { "label": "Fitting", "value": "Direct replacement, no adhesive required" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 Months" }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Keyboard Questions",
+  "faqs": [
+    { "question": "How do I know this keyboard fits my laptop?", "answer": "This fits the HP 4540s, 4740, 4540, 4740S, 4545 and 4545S, which share the same chassis. If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
+    { "question": "Is it backlit?", "answer": "No, this is the non-backlit version." },
+    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+  ]
+}

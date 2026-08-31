@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "title": "HP SP04XL Battery — Spectre x360 13-ap000 | Moderntech",
+    "description": "Genuine replacement HP SP04XL / SP04061XL battery, 15.4V 61.4Wh, for Spectre x360 Convertible 13-ap000 series. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "HP SP04XL Battery | Moderntech",
+    "description": "Genuine HP SP04XL replacement battery for Spectre x360 13-ap000. In stock, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/hp-sp04xl-spectre-x360-13-ap000/",
+    "brand_slug": "hp",
+    "brand_name": "HP",
+    "sku": "SP04XL",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "name": "HP SP04XL Battery",
+    "full_name": "HP SP04XL Battery — Spectre x360 Convertible 13-ap000",
+    "images": [
+      { "src": "assets/images/products/hp-battery-sp04xl.webp", "alt": "Replacement battery — HP SP04XL Battery" },
+      { "src": "assets/images/products/hp-battery-sp04xl-alt.webp", "alt": "Angled view of the HP SP04XL Battery" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "4,700",
+    "price_raw": "4700",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine OEM HP SP04XL replacement battery, 15.4V, 61.4Wh (3990mAh), 4-cell Li-ion. Fits Spectre x360 Convertible 13-ap000 / 13t-ap000 series, including 13-ap0013dx, 13-ap0023dx, 13-ap0033dx and 13-ap0053dx. Also matches part numbers SP04061XL, L28764-005, HSTNN-OB1B, HSTNN-IB8R, L28538-1C1, L28538-AC1, TPN-Q185, TPN-Q203, TPN-Q204. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20SP04XL%20Battery%20%E2%80%94%20KES%204%2C700",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20HP%20SP04XL%20Battery",
+    "specs": [
+      { "label": "Part Number", "value": "SP04XL" },
+      { "label": "Compatible Models", "value": "Spectre x360 Convertible 13-ap000 / 13t-ap000 series" },
+      { "label": "Alternate Part Numbers", "value": "SP04061XL, L28764-005, HSTNN-OB1B, HSTNN-IB8R, L28538-1C1, L28538-AC1, TPN-Q185, TPN-Q203, TPN-Q204" },
+      { "label": "Voltage", "value": "15.4V" },
+      { "label": "Capacity", "value": "61.4Wh (3990mAh)" },
+      { "label": "Cells", "value": "4-Cell Li-ion" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "6 Months" }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    { "question": "How do I know this battery fits my laptop?", "answer": "This fits HP Spectre x360 Convertible 13-ap000 and 13t-ap000 series laptops. If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
+    { "question": "Is this an original or compatible battery?", "answer": "We stock genuine OEM batteries — this is a genuine HP SP04XL unit." },
+    { "question": "What warranty comes with this battery?", "answer": "This battery carries a 6-month warranty." }
+  ]
+}
