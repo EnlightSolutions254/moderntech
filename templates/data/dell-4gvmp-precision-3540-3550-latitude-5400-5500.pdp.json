@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "Dell 4GVMP Battery — Precision 3540/3550, Latitude 5400/5500 | Moderntech",
+    "description": "Genuine original Dell 4GVMP battery, 7.6V, for Precision 3540/3550 and Latitude 5400/5500 series. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Dell 4GVMP Battery | Moderntech",
+    "description": "Genuine Dell 4GVMP replacement battery for Precision 3540/3550 and Latitude 5400/5500. In stock, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/dell-4gvmp-precision-3540-3550-latitude-5400-5500/",
+    "brand_slug": "dell",
+    "brand_name": "Dell",
+    "sku": "4GVMP",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "name": "Dell 4GVMP Battery",
+    "full_name": "Genuine Dell 4GVMP Battery — Precision 3540/3550, Latitude 5400/5500 Series",
+    "images": [
+      {
+        "src": "assets/images/products/dell-battery-4gvmp.webp",
+        "alt": "Replacement battery — Dell 4GVMP Battery"
+      },
+      {
+        "src": "assets/images/products/dell-battery-4gvmp-alt.webp",
+        "alt": "Angled view of the Dell 4GVMP Battery"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "price": "5,500",
+    "price_raw": "5500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine original Dell 4GVMP replacement battery, 7.6V, Li-ion. Fits Dell Latitude 5400/5410/5500/5510, Precision 3540/3550 and Inspiron 7590/7591/7791 2-in-1 (2-in-1 variants only, not the standard clamshell models) (4-cell, 68Wh). Also matches part numbers RF7WM, X77XY, C5GV2, 9JRYT, MCV1G, 1V1XF, R8D7N. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%204GVMP%20Battery%20%E2%80%94%20KES%205%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Dell%204GVMP%20Battery",
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "4GVMP"
+      },
+      {
+        "label": "Compatible Models",
+        "value": "Latitude 5400, Latitude 5410, Latitude 5500, Latitude 5510, Precision 3540, Precision 3550, Inspiron 7590 2-in-1, Inspiron 7591 2-in-1, Inspiron 7791 2-in-1 (not the standard non-2-in-1 Inspiron 7590/7591/7791)"
+      },
+      {
+        "label": "Alternate Part Numbers",
+        "value": "RF7WM, X77XY, C5GV2, 9JRYT, MCV1G, 1V1XF, R8D7N"
+      },
+      {
+        "label": "Voltage",
+        "value": "7.6V"
+      },
+      {
+        "label": "Capacity",
+        "value": "68Wh, 8500mAh (4-cell)"
+      },
+      {
+        "label": "Battery Type",
+        "value": "Li-ion"
+      },
+      {
+        "label": "Condition",
+        "value": "New (Original)"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "How do I know this battery fits my laptop?",
+      "answer": "This fits the Dell Precision 3540/3550, Latitude 5400/5410/5500/5510, and the 2-in-1 versions of the Inspiron 7590/7591/7791 (not the standard clamshell versions). The part number on your old battery is the safest way to confirm. If you're unsure, send us a photo of the sticker on your battery on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is this an original or compatible battery?",
+      "answer": "We stock genuine OEM batteries — this is a genuine Dell 4GVMP unit."
+    },
+    {
+      "question": "What warranty comes with this battery?",
+      "answer": "This battery carries a 6-month warranty."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "Dell 7CJRC Battery — Latitude E7270/7270, E7470/7470 | Moderntech",
+    "description": "Genuine original Dell 7CJRC battery, 11.4V, for Latitude E7270/7270 and E7470/7470 series. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Dell 7CJRC Battery | Moderntech",
+    "description": "Genuine Dell 7CJRC replacement battery for Latitude E7270/7270 and E7470/7470. In stock, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/dell-7cjrc-latitude-7270-7470/",
+    "brand_slug": "dell",
+    "brand_name": "Dell",
+    "sku": "7CJRC",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "name": "Dell 7CJRC Battery",
+    "full_name": "Genuine Dell 7CJRC Battery — Latitude E7270/7270, E7470/7470 Series",
+    "images": [
+      {
+        "src": "assets/images/products/dell-battery-7cjrc.webp",
+        "alt": "Replacement battery — Dell 7CJRC Battery"
+      },
+      {
+        "src": "assets/images/products/dell-battery-7cjrc-alt.webp",
+        "alt": "Angled view of the Dell 7CJRC Battery"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "price": "4,700",
+    "price_raw": "4700",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine original Dell 7CJRC replacement battery, 11.4V, Li-ion. Fits Dell Latitude E7270/7270 and E7470/7470 Series (3-cell, 42Wh). Also matches part numbers KNM09, 21X15, TX283, V6VMN. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%207CJRC%20Battery%20%E2%80%94%20KES%204%2C700",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Dell%207CJRC%20Battery",
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "7CJRC"
+      },
+      {
+        "label": "Compatible Models",
+        "value": "Latitude E7270, Latitude 7270, Latitude E7470, Latitude 7470"
+      },
+      {
+        "label": "Alternate Part Numbers",
+        "value": "KNM09, 21X15, TX283, V6VMN"
+      },
+      {
+        "label": "Voltage",
+        "value": "11.4V"
+      },
+      {
+        "label": "Capacity",
+        "value": "42Wh, 3530mAh (3-cell)"
+      },
+      {
+        "label": "Battery Type",
+        "value": "Li-ion"
+      },
+      {
+        "label": "Condition",
+        "value": "New (Original)"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "How do I know this battery fits my laptop?",
+      "answer": "This fits the Dell Latitude E7270/7270 and E7470/7470 Series. The part number on your old battery is the safest way to confirm. If you're unsure, send us a photo of the sticker on your battery on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is this an original or compatible battery?",
+      "answer": "We stock genuine OEM batteries — this is a genuine Dell 7CJRC unit."
+    },
+    {
+      "question": "What warranty comes with this battery?",
+      "answer": "This battery carries a 6-month warranty."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "HP NP03XL Battery — Pavilion 13 X360, Envy X360 15-U | Moderntech",
+    "description": "Genuine replacement HP NP03XL battery, 11.4V, for Pavilion X360 13-A series and Envy X360 15-U series. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "HP NP03XL Battery | Moderntech",
+    "description": "Genuine HP NP03XL replacement battery for Pavilion X360 13-A and Envy X360 15-U series. In stock, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/hp-np03xl-pavilion-13-x360/",
+    "brand_slug": "hp",
+    "brand_name": "HP",
+    "sku": "NP03XL",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "name": "HP NP03XL Battery",
+    "full_name": "HP NP03XL Battery — Pavilion 13 X360, Envy X360 15-U",
+    "images": [
+      {
+        "src": "assets/images/products/hp-battery-np03xl.webp",
+        "alt": "Replacement battery — HP NP03XL Battery"
+      },
+      {
+        "src": "assets/images/products/hp-battery-np03xl-alt.webp",
+        "alt": "Angled view of the HP NP03XL Battery"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "price": "4,800",
+    "price_raw": "4800",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine OEM HP NP03XL replacement battery, 11.4V, Li-ion. Fits HP Pavilion X360 13-A series, Pavilion 13-b series and Envy X360 15-U series (3-cell, 43Wh). Also matches part numbers 760944-421, 760944-541, 761230-005, HSTNN-LB6L. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20NP03XL%20Battery%20%E2%80%94%20KES%204%2C800",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20HP%20NP03XL%20Battery",
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "NP03XL"
+      },
+      {
+        "label": "Compatible Models",
+        "value": "HP Pavilion X360 13-A, Pavilion 13-b, Envy X360 15-U"
+      },
+      {
+        "label": "Alternate Part Numbers",
+        "value": "760944-421, 760944-541, 761230-005, HSTNN-LB6L"
+      },
+      {
+        "label": "Voltage",
+        "value": "11.4V"
+      },
+      {
+        "label": "Capacity",
+        "value": "43Wh (3-cell)"
+      },
+      {
+        "label": "Battery Type",
+        "value": "Li-ion"
+      },
+      {
+        "label": "Condition",
+        "value": "New (Original)"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "How do I know this battery fits my laptop?",
+      "answer": "This fits HP Pavilion X360 13-A series and Envy X360 15-U series (also Pavilion 13-b series). Note NP03XL is not interchangeable with the similarly-shaped BI03XL or ON03XL used on the newer Pavilion X360 13-U — the part number on your old battery is the safest way to confirm. If you're unsure, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is this an original or compatible battery?",
+      "answer": "This is a genuine original HP NP03XL unit."
+    },
+    {
+      "question": "What warranty comes with this battery?",
+      "answer": "This battery carries a 6-month warranty."
+    }
+  ]
+}

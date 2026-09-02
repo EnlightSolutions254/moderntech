@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "title": "HP SD03XL Battery — Victus 15-fa / 15-fb Series | [Store Name]",
+    "description": "Genuine original HP SD03XL battery (L84394-005) for the HP Victus 15-fa and 15-fb series, also fits OMEN 15-ek/15-en. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "HP SD03XL Battery | [Store Name]",
+    "description": "Genuine original HP SD03XL battery for the Victus 15-fa/15-fb series. In stock, warranty included."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/hp-sd03xl-victus-15-fa-fb/",
+    "brand_slug": "hp",
+    "brand_name": "HP",
+    "sku": "BAT-HP-SD03XL",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "name": "HP SD03XL Battery (Original)",
+    "full_name": "HP SD03XL Original Battery — L84394-005, for Victus 15-fa/15-fb Series",
+    "images": [
+      { "src": "assets/images/products/hp-battery-sd03xl.webp", "alt": "Replacement battery — HP SD03XL Battery" },
+      { "src": "assets/images/products/hp-battery-sd03xl-alt.webp", "alt": "HP SD03XL Battery — alternate view" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "4,800",
+    "price_raw": "4800",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine original HP SD03XL battery (part number L84394-005) for the HP Victus 15-fa and 15-fb series. Also matches OEM part numbers L84394-006, L84357-171, L84357-AC1 and HSTNN-IB9L, and fits the OMEN 15-ek/15-en (same chassis). Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20SD03XL%20Battery%20%28Original%29%20%E2%80%94%20KES%204%2C800",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20HP%20SD03XL%20Battery%20%28Original%29",
+    "compatible_models": [
+      "HP Victus 15-fa",
+      "HP Victus 15-fa1000",
+      "HP Victus 15-fb",
+      "HP Victus 15-fb1000",
+      "HP OMEN 15-ek",
+      "HP OMEN 15-en"
+    ],
+    "specs": [
+      { "label": "Part Number", "value": "SD03XL / L84394-005" },
+      { "label": "Also Matches", "value": "L84394-006, L84357-171, L84357-AC1, HSTNN-IB9L" },
+      { "label": "Type", "value": "Original / Genuine HP" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "6 Months" }
+    ],
+    "related": [
+      {
+        "url": "/shop/laptop-batteries/hp-rr04xl-spectre-x360-13-aw/",
+        "image": "assets/images/products/hp-battery-rr04xl.webp",
+        "alt": "Replacement battery — HP RR04XL Battery",
+        "name": "HP RR04XL Battery (Original)",
+        "tags": ["Spectre x360 13-AW0000"],
+        "price": "5,500",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20RR04XL%20Battery%20%28Original%29%20%E2%80%94%20KES%205%2C500"
+      }
+    ]
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    { "question": "How do I know this battery fits my laptop?", "answer": "This fits the Victus 15-fa and 15-fb series, and also the OMEN 15-ek/15-en which share the same battery. Send us a photo of the sticker under your laptop on WhatsApp if you're unsure." },
+    { "question": "Is this an original or compatible battery?", "answer": "This is a genuine original HP battery, not a generic replacement." },
+    { "question": "What warranty comes with this battery?", "answer": "This battery carries a 6-month warranty." }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "Lenovo L17C4P72 Battery — ThinkPad X1 Extreme, P1 | Moderntech",
+    "description": "Genuine original Lenovo L17C4P72 battery, 15.36V, for ThinkPad X1 Extreme 1st/2nd Gen and ThinkPad P1 1st/2nd Gen. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Lenovo L17C4P72 Battery | Moderntech",
+    "description": "Genuine Lenovo L17C4P72 replacement battery for ThinkPad X1 Extreme 1st/2nd Gen and ThinkPad P1 1st/2nd Gen. In stock, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/lenovo-l17c4p72-thinkpad-x1-extreme-p1/",
+    "brand_slug": "lenovo",
+    "brand_name": "Lenovo",
+    "sku": "L17C4P72",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "name": "Lenovo L17C4P72 Battery",
+    "full_name": "Genuine Lenovo L17C4P72 Battery — ThinkPad X1 Extreme 1st/2nd Gen, ThinkPad P1 1st/2nd Gen",
+    "images": [
+      {
+        "src": "assets/images/products/lenovo-battery-l17c4p72.webp",
+        "alt": "Replacement battery — Lenovo L17C4P72 Battery"
+      },
+      {
+        "src": "assets/images/products/lenovo-battery-l17c4p72-alt.webp",
+        "alt": "Angled view of the Lenovo L17C4P72 Battery"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "price": "5,800",
+    "price_raw": "5800",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine original Lenovo L17C4P72 replacement battery, 15.36V, Li-ion. Fits ThinkPad X1 Extreme 1st Gen and 2nd Gen, and ThinkPad P1 1st Gen and Gen 2 (4-cell, 80Wh). Also matches part numbers L17M4P72, L18M4P71, L17L4P72, 01AY968, 01AY969, 01YU911, SB10Q76928, SB10Q76929, SB10S57317. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20L17C4P72%20Battery%20%E2%80%94%20KES%205%2C800",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Lenovo%20L17C4P72%20Battery",
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "L17C4P72"
+      },
+      {
+        "label": "Compatible Models",
+        "value": "ThinkPad X1 Extreme 1st Gen, ThinkPad X1 Extreme 2nd Gen, ThinkPad P1 1st Gen, ThinkPad P1 Gen 2"
+      },
+      {
+        "label": "Alternate Part Numbers",
+        "value": "L17M4P72, L18M4P71, L17L4P72, 01AY968, 01AY969, 01YU911, SB10Q76928, SB10Q76929, SB10S57317"
+      },
+      {
+        "label": "Voltage",
+        "value": "15.36V"
+      },
+      {
+        "label": "Capacity",
+        "value": "80Wh, 5235mAh (4-cell)"
+      },
+      {
+        "label": "Battery Type",
+        "value": "Li-ion"
+      },
+      {
+        "label": "Condition",
+        "value": "New (Original)"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "How do I know this battery fits my laptop?",
+      "answer": "This fits the ThinkPad X1 Extreme 1st Gen/2nd Gen and ThinkPad P1 1st Gen/Gen 2. The part number on your old battery is the safest way to confirm. If you're unsure, send us a photo of the sticker on your battery on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is this an original or compatible battery?",
+      "answer": "We stock genuine OEM batteries — this is a genuine Lenovo L17C4P72 unit."
+    },
+    {
+      "question": "What warranty comes with this battery?",
+      "answer": "This battery carries a 6-month warranty."
+    }
+  ]
+}

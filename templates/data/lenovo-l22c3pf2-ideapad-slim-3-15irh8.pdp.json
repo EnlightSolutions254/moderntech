@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "Lenovo L22C3PF2 Battery — IdeaPad Slim 3 15IRH8, V14/V15 G4 | Moderntech",
+    "description": "Genuine replacement Lenovo L22C3PF2 battery, 11.31V, for IdeaPad Slim 3 15IRH8 and V14/V15 G4 AMN/IAN series. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Lenovo L22C3PF2 Battery | Moderntech",
+    "description": "Genuine Lenovo L22C3PF2 replacement battery for IdeaPad Slim 3 15IRH8 and V14/V15 G4 series. In stock, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/lenovo-l22c3pf2-ideapad-slim-3-15irh8/",
+    "brand_slug": "lenovo",
+    "brand_name": "Lenovo",
+    "sku": "L22C3PF2",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "name": "Lenovo L22C3PF2 Battery",
+    "full_name": "Genuine Lenovo L22C3PF2 Battery — IdeaPad Slim 3 15IRH8, V14/V15 G4 AMN/IAN Series",
+    "images": [
+      {
+        "src": "assets/images/products/lenovo-battery-l22c3pf2.webp",
+        "alt": "Replacement battery — Lenovo L22C3PF2 Battery"
+      },
+      {
+        "src": "assets/images/products/lenovo-battery-l22c3pf2-alt.webp",
+        "alt": "Angled view of the Lenovo L22C3PF2 Battery"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "price": "5,300",
+    "price_raw": "5300",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine original Lenovo L22C3PF2 replacement battery, 11.31V, Li-ion. Fits Lenovo IdeaPad Slim 3 15IRH8, 14IAH8, 14IAN8, 14AMN8, 15IAN8, 15IRU8, 16IAH8 and V14/V15 G4 AMN/IAN series (3-cell, 47Wh). Also matches part numbers L22B3PF2, L22D3PF2, L22M3PF2, L22X3PF2, SB11K09308, SB11K09309, SB11K09310, SB11K09311, SB11K09312, SB11K09313, SB11K09314, SB11K09315, SB11K09316, SB11K09317. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20L22C3PF2%20Battery%20%E2%80%94%20KES%205%2C300",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Lenovo%20L22C3PF2%20Battery",
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "L22C3PF2"
+      },
+      {
+        "label": "Compatible Models",
+        "value": "IdeaPad Slim 3 15IRH8, 14IAH8, 14IAN8, 14AMN8, 15IAN8, 15IRU8, 16IAH8, V14 G4 AMN/IAN, V15 G4 AMN/IAN"
+      },
+      {
+        "label": "Alternate Part Numbers",
+        "value": "L22B3PF2, L22D3PF2, L22M3PF2, L22X3PF2, SB11K09308, SB11K09309, SB11K09310, SB11K09311, SB11K09312, SB11K09313, SB11K09314, SB11K09315, SB11K09316, SB11K09317"
+      },
+      {
+        "label": "Voltage",
+        "value": "11.31V"
+      },
+      {
+        "label": "Capacity",
+        "value": "47Wh (3-cell)"
+      },
+      {
+        "label": "Battery Type",
+        "value": "Li-ion"
+      },
+      {
+        "label": "Condition",
+        "value": "New (Original)"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "How do I know this battery fits my laptop?",
+      "answer": "This fits the Lenovo IdeaPad Slim 3 15IRH8 and related V14/V15 G4 series. The part number on your old battery is the safest way to confirm. If you're unsure, send us a photo of the sticker on your battery on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is this an original or compatible battery?",
+      "answer": "We stock genuine OEM batteries — this is a genuine Lenovo L22C3PF2 unit."
+    },
+    {
+      "question": "What warranty comes with this battery?",
+      "answer": "This battery carries a 6-month warranty."
+    }
+  ]
+}

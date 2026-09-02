@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "title": "HP RR04XL Battery — Spectre x360 13 Series | [Store Name]",
+    "description": "Genuine original HP RR04XL battery (L60373-005) for the HP Spectre x360 13 series. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "HP RR04XL Battery | [Store Name]",
+    "description": "Genuine original HP RR04XL battery for the Spectre x360 13 series. In stock, warranty included."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/hp-rr04xl-spectre-x360-13-aw/",
+    "brand_slug": "hp",
+    "brand_name": "HP",
+    "sku": "BAT-HP-RR04XL",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "name": "HP RR04XL Battery (Original)",
+    "full_name": "HP RR04XL Original Battery — L60373-005, for Spectre x360 13 Series",
+    "images": [
+      { "src": "assets/images/products/hp-battery-rr04xl.webp", "alt": "Replacement battery — HP RR04XL Battery" },
+      { "src": "assets/images/products/hp-battery-rr04xl-alt.webp", "alt": "HP RR04XL Battery — alternate view" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "5,500",
+    "price_raw": "5500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine original HP RR04XL battery (part number L60373-005) for the HP Spectre x360 13 series, including the 13-AW range. Also matches OEM part numbers HSTNN-DB9K and L60213-AC1. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20RR04XL%20Battery%20%28Original%29%20%E2%80%94%20KES%205%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20HP%20RR04XL%20Battery%20%28Original%29",
+    "compatible_models": [
+      "HP Spectre x360 13",
+      "HP Spectre x360 13-AW0000",
+      "HP Spectre x360 13-AW0900",
+      "HP Spectre x360 13-AW0001LA",
+      "HP Spectre x360 13-AW0023DX",
+      "HP Spectre x360 13-AW0105NC",
+      "HP Spectre x360 13-AW0200ND",
+      "HP Spectre x360 13-AW0015NG",
+      "HP Spectre x360 13-AW0050TU"
+    ],
+    "specs": [
+      { "label": "Part Number", "value": "RR04XL / L60373-005" },
+      { "label": "Also Matches", "value": "HSTNN-DB9K, L60213-AC1" },
+      { "label": "Type", "value": "Original / Genuine HP" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "6 Months" }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    { "question": "How do I know this battery fits my laptop?", "answer": "This fits the HP Spectre x360 13 series, including the 13-AW range. Send us a photo of the sticker under your laptop on WhatsApp if you're unsure." },
+    { "question": "Is this an original or compatible battery?", "answer": "This is a genuine original HP battery, not a generic replacement." },
+    { "question": "What warranty comes with this battery?", "answer": "This battery carries a 6-month warranty." }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "HP TF03XL Battery — Pavilion 15-CC, 15-CD, 15-CK, x360 14-BF | Moderntech",
+    "description": "Generic replacement HP TF03XL battery, 11.55V, for Pavilion 15-CC, 15-CD, 15-CK and Pavilion x360 14-BF/14-CD series. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "HP TF03XL Battery | Moderntech",
+    "description": "Generic HP TF03XL replacement battery for Pavilion 15-CC/15-CD/15-CK and x360 14-BF series. In stock, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/hp-tf03xl-pavilion-15-cc-15-cd-14-bf/",
+    "brand_slug": "hp",
+    "brand_name": "HP",
+    "sku": "TF03XL",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "name": "HP TF03XL Battery",
+    "full_name": "HP TF03XL Battery — Pavilion 15-CC, 15-CD, 15-CK, x360 14-BF",
+    "images": [
+      {
+        "src": "assets/images/products/hp-battery-tf03xl.webp",
+        "alt": "Replacement battery — HP TF03XL Battery"
+      },
+      {
+        "src": "assets/images/products/hp-battery-tf03xl-alt.webp",
+        "alt": "Angled view of the HP TF03XL Battery"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "price": "3,300",
+    "price_raw": "3300",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Generic replacement HP TF03XL battery, 11.55V, Li-Polymer. Fits HP Pavilion 15-CC, 15-CD, 15-CK and Pavilion x360 14-BF, 14-CD series (3-cell, 41.9Wh). Also matches part numbers 920046-421, 920070-855, HSTNN-UB7J, HSTNN-LB7X. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20TF03XL%20Battery%20%E2%80%94%20KES%203%2C300",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20HP%20TF03XL%20Battery",
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "TF03XL"
+      },
+      {
+        "label": "Compatible Models",
+        "value": "HP Pavilion 15-CC, 15-CD, 15-CK, Pavilion x360 14-BF, 14-CD"
+      },
+      {
+        "label": "Alternate Part Numbers",
+        "value": "920046-421, 920070-855, HSTNN-UB7J, HSTNN-LB7X"
+      },
+      {
+        "label": "Voltage",
+        "value": "11.55V"
+      },
+      {
+        "label": "Capacity",
+        "value": "41.9Wh (3-cell)"
+      },
+      {
+        "label": "Battery Type",
+        "value": "Li-Polymer"
+      },
+      {
+        "label": "Condition",
+        "value": "New (Generic)"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "How do I know this battery fits my laptop?",
+      "answer": "This fits HP Pavilion 15-CC, 15-CD, 15-CK and Pavilion x360 14-BF, 14-CD series. Note this uses a different connector from the similarly-named HT03XL and is not interchangeable with it — the part number on your old battery is the safest way to confirm. If you're unsure, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is this an original or compatible battery?",
+      "answer": "This is a generic (compatible) TF03XL-family battery, not an original HP unit."
+    },
+    {
+      "question": "What warranty comes with this battery?",
+      "answer": "This battery carries a 6-month warranty."
+    }
+  ]
+}

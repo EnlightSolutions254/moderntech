@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "Dell MFKVP Battery — Precision 15 7510/7520, 17 7710/7720 | Moderntech",
+    "description": "Genuine original Dell MFKVP battery, 11.4V, for Precision 15 7510/7520/M7510 and 17 7710/7720/M7710. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Dell MFKVP Battery | Moderntech",
+    "description": "Genuine Dell MFKVP replacement battery for Precision 7510/7520/7710/7720 series. In stock, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/dell-mfkvp-precision-7510-7710/",
+    "brand_slug": "dell",
+    "brand_name": "Dell",
+    "sku": "MFKVP",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "name": "Dell MFKVP Battery",
+    "full_name": "Genuine Dell MFKVP Battery — Precision 15 7510/7520/M7510, 17 7710/7720/M7710",
+    "images": [
+      {
+        "src": "assets/images/products/dell-battery-mfkvp.webp",
+        "alt": "Replacement battery — Dell MFKVP Battery"
+      },
+      {
+        "src": "assets/images/products/dell-battery-mfkvp-alt.webp",
+        "alt": "Angled view of the Dell MFKVP Battery"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "price": "5,300",
+    "price_raw": "5300",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine original Dell MFKVP replacement battery, 11.4V, Li-ion. Fits Dell Precision 15 7510, 7520, M7510 and Precision 17 7710, 7720, M7710 (6-cell, 91Wh). Also matches part numbers 0MFKVP, M28DH, 1G9VM, T05W1, 0FNY7, TWCPG, GR5D3, RDYCT, 451-BBSF, 451-BBSB, 451-BBSE. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20MFKVP%20Battery%20%E2%80%94%20KES%205%2C300",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Dell%20MFKVP%20Battery",
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "MFKVP"
+      },
+      {
+        "label": "Compatible Models",
+        "value": "Precision 15 7510, Precision 15 7520, Precision M7510, Precision 17 7710, Precision 17 7720, Precision M7710"
+      },
+      {
+        "label": "Alternate Part Numbers",
+        "value": "0MFKVP, M28DH, 1G9VM, T05W1, 0FNY7, TWCPG, GR5D3, RDYCT, 451-BBSF, 451-BBSB, 451-BBSE"
+      },
+      {
+        "label": "Voltage",
+        "value": "11.4V"
+      },
+      {
+        "label": "Capacity",
+        "value": "91Wh (6-cell)"
+      },
+      {
+        "label": "Battery Type",
+        "value": "Li-ion"
+      },
+      {
+        "label": "Condition",
+        "value": "New (Original)"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "How do I know this battery fits my laptop?",
+      "answer": "This fits the Dell Precision 15 7510, 7520, M7510 and Precision 17 7710, 7720, M7710. The part number on your old battery is the safest way to confirm. If you're unsure, send us a photo of the sticker on your battery on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is this an original or compatible battery?",
+      "answer": "We stock genuine OEM batteries — this is a genuine Dell MFKVP unit."
+    },
+    {
+      "question": "What warranty comes with this battery?",
+      "answer": "This battery carries a 6-month warranty."
+    }
+  ]
+}

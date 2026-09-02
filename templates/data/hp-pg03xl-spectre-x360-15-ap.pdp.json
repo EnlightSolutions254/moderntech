@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "HP PG03XL 65Wh Battery — Spectre x360 15-AP | Moderntech",
+    "description": "Genuine original HP PG03XL (65Wh) battery, 11.55V, for Spectre x360 15-AP011DX and 15-AP000 series. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "HP PG03XL 65Wh Battery | Moderntech",
+    "description": "Genuine HP PG03XL (65Wh) replacement battery for Spectre x360 15-AP series. In stock, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/hp-pg03xl-spectre-x360-15-ap/",
+    "brand_slug": "hp",
+    "brand_name": "HP",
+    "sku": "PG03XL-65WH",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "name": "HP PG03XL 65Wh Battery",
+    "full_name": "Genuine HP PG03XL (65Wh) Battery — Spectre x360 15-AP011DX, 15-AP000 Series",
+    "images": [
+      {
+        "src": "assets/images/products/hp-battery-pg03xl-65wh.webp",
+        "alt": "Replacement battery — HP PG03XL 65Wh Battery"
+      },
+      {
+        "src": "assets/images/products/hp-battery-pg03xl-65wh-alt.webp",
+        "alt": "Angled view of the HP PG03XL 65Wh Battery"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "price": "5,300",
+    "price_raw": "5300",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine original HP PG03XL replacement battery (65Wh 'Shape-B' variant), 11.55V, Li-ion. Fits HP Spectre x360 15-AP011DX, 15-AP012DX and the wider 15-AP000 series (4-cell, 65Wh). Important: PG03XL exists in two incompatible shapes — this is the 65Wh Spectre x360 15-AP variant, not the 52.5Wh Pavilion Gaming variant. Also matches part numbers PG03064XL, 831532-421, 831532-422, 831758-005, 831731-850, HSTNN-LB7C, TPN-Q168. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20PG03XL%2065Wh%20Battery%20%E2%80%94%20KES%205%2C300",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20HP%20PG03XL%2065Wh%20Battery",
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "PG03XL (65Wh, Shape-B)"
+      },
+      {
+        "label": "Compatible Models",
+        "value": "HP Spectre x360 15-AP011DX, 15-AP012DX, 15-AP000 series (15-AP000NA/NF/NX, 15-AP001NF/NX, 15-AP002NF/NG and other 15-AP0XX variants)"
+      },
+      {
+        "label": "Alternate Part Numbers",
+        "value": "PG03064XL, 831532-421, 831532-422, 831758-005, 831731-850, HSTNN-LB7C, TPN-Q168"
+      },
+      {
+        "label": "Voltage",
+        "value": "11.55V"
+      },
+      {
+        "label": "Capacity",
+        "value": "65Wh, ~5430-5680mAh (4-cell)"
+      },
+      {
+        "label": "Battery Type",
+        "value": "Li-ion"
+      },
+      {
+        "label": "Condition",
+        "value": "New (Original)"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "How do I know this battery fits my laptop?",
+      "answer": "This fits the HP Spectre x360 15-AP series. Note that HP reused the PG03XL part number for two different, incompatible battery shapes — this is the 65Wh version for the Spectre x360 15-AP series, not the 52.5Wh version used in some Pavilion Gaming models. If you're unsure, send us a photo of the sticker on your battery on WhatsApp and we'll confirm which one you need."
+    },
+    {
+      "question": "Is this an original or compatible battery?",
+      "answer": "We stock genuine OEM batteries — this is a genuine HP PG03XL (65Wh) unit."
+    },
+    {
+      "question": "What warranty comes with this battery?",
+      "answer": "This battery carries a 6-month warranty."
+    }
+  ]
+}

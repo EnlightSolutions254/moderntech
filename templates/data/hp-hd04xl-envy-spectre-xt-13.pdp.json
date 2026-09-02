@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "title": "HP HD04XL Battery — Envy Spectre XT 13 / Spectre XT Pro 13-b000 | [Store Name]",
+    "description": "Genuine original HP HD04XL battery (685989-001) for the Envy Spectre XT 13 series and Spectre XT Pro 13-b000. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "HP HD04XL Battery | [Store Name]",
+    "description": "Genuine original HP HD04XL battery for the Envy Spectre XT 13 series and Spectre XT Pro 13-b000. In stock, warranty included."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/hp-hd04xl-envy-spectre-xt-13/",
+    "brand_slug": "hp",
+    "brand_name": "HP",
+    "sku": "BAT-HP-HD04XL",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "name": "HP HD04XL Battery (Original)",
+    "full_name": "HP HD04XL Original Battery — 685989-001, for Envy Spectre XT 13 Series &amp; Spectre XT Pro 13-b000",
+    "images": [
+      { "src": "assets/images/products/hp-battery-hd04xl.webp", "alt": "Replacement battery — HP HD04XL Battery" },
+      { "src": "assets/images/products/hp-battery-hd04xl-alt.webp", "alt": "HP HD04XL Battery — alternate view" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "5,500",
+    "price_raw": "5500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine original HP HD04XL battery (part number 685989-001) for the HP Envy Spectre XT 13 series and Spectre XT Pro 13-b000. Also matches OEM part numbers TPN-C104, HSTNN-IB3V, 685866-1B1 and 685866-1B. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20HD04XL%20Battery%20%28Original%29%20%E2%80%94%20KES%205%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20HP%20HD04XL%20Battery%20%28Original%29",
+    "compatible_models": [
+      "HP Envy Spectre XT 13",
+      "HP Envy Spectre XT 13-2000eg",
+      "HP Envy Spectre XT 13-2021tu",
+      "HP Envy Spectre XT 13-2113tu",
+      "HP Envy Spectre XT 13-2120tu",
+      "HP Envy Spectre XT 13-ef2003",
+      "HP Envy Spectre XT 13-2095ca",
+      "HP Envy Spectre XT 13t-2000",
+      "HP Spectre XT Pro 13-b000"
+    ],
+    "specs": [
+      { "label": "Part Number", "value": "HD04XL / 685989-001" },
+      { "label": "Also Matches", "value": "TPN-C104, HSTNN-IB3V, 685866-1B1, 685866-1B" },
+      { "label": "Type", "value": "Original / Genuine HP" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "6 Months" }
+    ],
+    "related": [
+      {
+        "url": "/shop/laptop-batteries/hp-rr04xl-spectre-x360-13-aw/",
+        "image": "assets/images/products/hp-battery-rr04xl.webp",
+        "alt": "Replacement battery — HP RR04XL Battery",
+        "name": "HP RR04XL Battery (Original)",
+        "tags": ["Spectre x360 13-AW0000"],
+        "price": "5,500",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20RR04XL%20Battery%20%28Original%29%20%E2%80%94%20KES%205%2C500"
+      }
+    ]
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    { "question": "How do I know this battery fits my laptop?", "answer": "This fits the Envy Spectre XT 13 series and Spectre XT Pro 13-b000. Send us a photo of the sticker under your laptop on WhatsApp if you're unsure." },
+    { "question": "Is this an original or compatible battery?", "answer": "This is a genuine original HP battery, not a generic replacement." },
+    { "question": "What warranty comes with this battery?", "answer": "This battery carries a 6-month warranty." }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "Lenovo L18M3P73 Battery — ThinkPad T490, T495, P43s, T14, P14s | Moderntech",
+    "description": "Genuine replacement Lenovo L18M3P73 battery, 11.52V, for ThinkPad T490, T495, P43s, T14 (Gen 1/2) and P14s (Gen 1/2). In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Lenovo L18M3P73 Battery | Moderntech",
+    "description": "Genuine Lenovo L18M3P73 replacement battery for ThinkPad T490/T495/P43s/T14/P14s series. In stock, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/lenovo-l18m3p73-thinkpad-t490-t495/",
+    "brand_slug": "lenovo",
+    "brand_name": "Lenovo",
+    "sku": "L18M3P73",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "name": "Lenovo L18M3P73 Battery",
+    "full_name": "Genuine Lenovo L18M3P73 Battery — ThinkPad T490, T495, P43s, T14, P14s",
+    "images": [
+      {
+        "src": "assets/images/products/lenovo-battery-l18m3p73.webp",
+        "alt": "Replacement battery — Lenovo L18M3P73 Battery"
+      },
+      {
+        "src": "assets/images/products/lenovo-battery-l18m3p73-alt.webp",
+        "alt": "Angled view of the Lenovo L18M3P73 Battery"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "price": "5,500",
+    "price_raw": "5500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine original Lenovo L18M3P73 replacement battery, 11.52V, Li-ion. Fits Lenovo ThinkPad T490, T495, P43s, T14 Gen 1, T14 Gen 2, P14s Gen 1 and P14s Gen 2 (3-cell, 51Wh). Also matches part numbers L18L3P73, L18M3P74, L18C3P71, L18C3P72, L18M4P73, L18M4P74, 02DL007, 02DL008, 02DL009, 02DL010, SB10K97645, SB10K97646, SB10K97647, SB10K97648, SB10T83122, SB10T83148, SB10T83149, SB10T83197. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20L18M3P73%20Battery%20%E2%80%94%20KES%205%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Lenovo%20L18M3P73%20Battery",
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "L18M3P73"
+      },
+      {
+        "label": "Compatible Models",
+        "value": "ThinkPad T490, T495, P43s, T14 Gen 1, T14 Gen 2, P14s Gen 1, P14s Gen 2"
+      },
+      {
+        "label": "Alternate Part Numbers",
+        "value": "L18L3P73, L18M3P74, L18C3P71, L18C3P72, L18M4P73, L18M4P74, 02DL007, 02DL008, 02DL009, 02DL010, SB10K97645, SB10K97646, SB10K97647, SB10K97648, SB10T83122, SB10T83148, SB10T83149, SB10T83197"
+      },
+      {
+        "label": "Voltage",
+        "value": "11.52V"
+      },
+      {
+        "label": "Capacity",
+        "value": "51Wh (3-cell)"
+      },
+      {
+        "label": "Battery Type",
+        "value": "Li-ion"
+      },
+      {
+        "label": "Condition",
+        "value": "New (Original)"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "How do I know this battery fits my laptop?",
+      "answer": "This fits the Lenovo ThinkPad T490, T495, P43s, T14 (Gen 1/2) and P14s (Gen 1/2). The part number on your old battery is the safest way to confirm. If you're unsure, send us a photo of the sticker on your battery on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is this an original or compatible battery?",
+      "answer": "We stock genuine OEM batteries — this is a genuine Lenovo L18M3P73 unit."
+    },
+    {
+      "question": "What warranty comes with this battery?",
+      "answer": "This battery carries a 6-month warranty."
+    }
+  ]
+}

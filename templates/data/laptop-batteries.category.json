@@ -13,9 +13,69 @@
     "name": "Laptop Batteries",
     "name_lower": "batteries",
     "description": "Genuine replacement batteries for HP, Lenovo and Dell laptops. Every listing shows exact compatible models, part numbers and price before you message us.",
-    "result_count": 45
+    "result_count": 69
   },
   "products": [
+    {
+      "name": "HP SD03XL Battery (Original)",
+      "url": "/shop/laptop-batteries/hp-sd03xl-victus-15-fa-fb/",
+      "image": "assets/images/products/hp-battery-sd03xl.webp",
+      "alt": "Replacement battery — HP SD03XL Battery (Original)",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "Victus 15-fa",
+        "Victus 15-fb"
+      ],
+      "price": "4,800",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20SD03XL%20Battery%20%28Original%29%20%E2%80%94%20KES%204%2C800",
+      "extra": false,
+      "tag_overflow": "+4 more"
+    },
+    {
+      "name": "HP HD04XL Battery (Original)",
+      "url": "/shop/laptop-batteries/hp-hd04xl-envy-spectre-xt-13/",
+      "image": "assets/images/products/hp-battery-hd04xl.webp",
+      "alt": "Replacement battery — HP HD04XL Battery (Original)",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "Envy Spectre XT 13-2000eg",
+        "Spectre XT Pro 13-b000"
+      ],
+      "price": "5,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20HD04XL%20Battery%20%28Original%29%20%E2%80%94%20KES%205%2C500",
+      "extra": false,
+      "tag_overflow": "+7 more"
+    },
+    {
+      "name": "HP RR04XL Battery (Original)",
+      "url": "/shop/laptop-batteries/hp-rr04xl-spectre-x360-13-aw/",
+      "image": "assets/images/products/hp-battery-rr04xl.webp",
+      "alt": "Replacement battery — HP RR04XL Battery (Original)",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "Spectre x360 13-AW0000",
+        "Spectre x360 13-AW0900"
+      ],
+      "price": "5,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20RR04XL%20Battery%20%28Original%29%20%E2%80%94%20KES%205%2C500",
+      "extra": false,
+      "tag_overflow": "+7 more"
+    },
     {
       "name": "Lenovo L18L3P72 Battery",
       "url": "/shop/laptop-batteries/lenovo-l18l3p72-x390-yoga-x13-yoga/",
@@ -902,6 +962,412 @@
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20RR03XL%20Battery%20%28Compatible%29%20%E2%80%94%20KES%203%2C500",
       "extra": false,
       "tag_overflow": "+3 more"
+    },
+    {
+      "name": "Dell G5M10 Battery",
+      "url": "/shop/laptop-batteries/dell-g5m10-latitude-e5450/",
+      "image": "assets/images/products/dell-battery-g5m10.webp",
+      "alt": "Replacement battery — Dell G5M10 Battery",
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "Latitude E5450",
+        "Latitude E5550"
+      ],
+      "price": "4,200",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20G5M10%20Battery%20%E2%80%94%20KES%204%2C200",
+      "extra": false
+    },
+    {
+      "name": "Dell MFKVP Battery",
+      "url": "/shop/laptop-batteries/dell-mfkvp-precision-7510-7710/",
+      "image": "assets/images/products/dell-battery-mfkvp.webp",
+      "alt": "Replacement battery — Dell MFKVP Battery",
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "Precision 7510",
+        "Precision 7710"
+      ],
+      "price": "5,300",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20MFKVP%20Battery%20%E2%80%94%20KES%205%2C300",
+      "extra": false,
+      "tag_overflow": "+4 more"
+    },
+    {
+      "name": "Lenovo L17M2PB3 Battery",
+      "url": "/shop/laptop-batteries/lenovo-l17m2pb3-v130-v330-v530/",
+      "image": "assets/images/products/lenovo-battery-l17m2pb3.webp",
+      "alt": "Replacement battery — Lenovo L17M2PB3 Battery",
+      "brand_slug": "lenovo",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "V330-15IKB",
+        "V530-15IKB"
+      ],
+      "price": "5,100",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20L17M2PB3%20Battery%20%E2%80%94%20KES%205%2C100",
+      "extra": false,
+      "tag_overflow": "+5 more"
+    },
+    {
+      "name": "Lenovo L22C3PF2 Battery",
+      "url": "/shop/laptop-batteries/lenovo-l22c3pf2-ideapad-slim-3-15irh8/",
+      "image": "assets/images/products/lenovo-battery-l22c3pf2.webp",
+      "alt": "Replacement battery — Lenovo L22C3PF2 Battery",
+      "brand_slug": "lenovo",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "IdeaPad Slim 3 15IRH8",
+        "V15 G4"
+      ],
+      "price": "5,300",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20L22C3PF2%20Battery%20%E2%80%94%20KES%205%2C300",
+      "extra": false,
+      "tag_overflow": "+5 more"
+    },
+    {
+      "name": "HP BM04XL Battery",
+      "url": "/shop/laptop-batteries/hp-bm04xl-elitebook-x360-1030-g3/",
+      "image": "assets/images/products/hp-battery-bm04xl.webp",
+      "alt": "Replacement battery — HP BM04XL Battery",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "EliteBook x360 1030 G3",
+        "EliteBook x360 1030 G4"
+      ],
+      "price": "5,200",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20BM04XL%20Battery%20%E2%80%94%20KES%205%2C200",
+      "extra": false
+    },
+    {
+      "name": "HP CC03XL Original Battery",
+      "url": "/shop/laptop-batteries/hp-cc03xl-elitebook-830-835-840-845-g7-g8-probook-635-aero-zbook-firefly-14/",
+      "image": "assets/images/products/hp-battery-cc03xl.webp",
+      "alt": "Replacement battery — HP CC03XL Original Battery",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "EliteBook 830/835/840/845 G7-G8",
+        "ProBook 635 Aero G7-G8"
+      ],
+      "price": "4,800",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20CC03XL%20Original%20Battery%20%E2%80%94%20KES%204%2C800",
+      "extra": false,
+      "tag_overflow": "+1 more"
+    },
+    {
+      "name": "Lenovo L18M3P73 Battery",
+      "url": "/shop/laptop-batteries/lenovo-l18m3p73-thinkpad-t490-t495/",
+      "image": "assets/images/products/lenovo-battery-l18m3p73.webp",
+      "alt": "Replacement battery — Lenovo L18M3P73 Battery",
+      "brand_slug": "lenovo",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "ThinkPad T490",
+        "ThinkPad T495"
+      ],
+      "price": "5,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20L18M3P73%20Battery%20%E2%80%94%20KES%205%2C500",
+      "extra": false,
+      "tag_overflow": "+5 more"
+    },
+    {
+      "name": "HP OM03XL Battery (Original)",
+      "url": "/shop/laptop-batteries/hp-om03xl-elitebook-x360-1030-g2-original/",
+      "image": "assets/images/products/hp-battery-om03xl-original.webp",
+      "alt": "Replacement battery — HP OM03XL Battery (Original)",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "EliteBook x360 1030 G2"
+      ],
+      "price": "4,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20OM03XL%20Battery%20%28Original%29%20%E2%80%94%20KES%204%2C500",
+      "extra": false
+    },
+    {
+      "name": "HP OM03XL Battery (Compatible)",
+      "url": "/shop/laptop-batteries/hp-om03xl-elitebook-x360-1030-g2-generic/",
+      "image": "assets/images/products/hp-battery-om03xl-generic.webp",
+      "alt": "Replacement battery — HP OM03XL Battery (Compatible)",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "EliteBook x360 1030 G2"
+      ],
+      "price": "3,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20OM03XL%20Battery%20%28Compatible%29%20%E2%80%94%20KES%203%2C500",
+      "extra": false
+    },
+    {
+      "name": "Acer AP16M5J Battery",
+      "url": "/shop/laptop-batteries/acer-ap16m5j-aspire-a314-a315/",
+      "image": "assets/images/products/acer-battery-ap16m5j.webp",
+      "alt": "Replacement battery — Acer AP16M5J Battery",
+      "brand_slug": "acer",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "Aspire A315-21",
+        "Aspire A315-53"
+      ],
+      "price": "4,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Acer%20AP16M5J%20Battery%20%E2%80%94%20KES%204%2C500",
+      "extra": false,
+      "tag_overflow": "+4 more"
+    },
+    {
+      "name": "HP HT03XL Battery",
+      "url": "/shop/laptop-batteries/hp-ht03xl-pavilion-15-cs-15-da-250g7/",
+      "image": "assets/images/products/hp-battery-ht03xl.webp",
+      "alt": "Replacement battery — HP HT03XL Battery",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "Pavilion 15-CS",
+        "Pavilion 15-DA"
+      ],
+      "price": "4,200",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20HT03XL%20Battery%20%E2%80%94%20KES%204%2C200",
+      "extra": false,
+      "tag_overflow": "+6 more"
+    },
+    {
+      "name": "HP TF03XL Battery",
+      "url": "/shop/laptop-batteries/hp-tf03xl-pavilion-15-cc-15-cd-14-bf/",
+      "image": "assets/images/products/hp-battery-tf03xl.webp",
+      "alt": "Replacement battery — HP TF03XL Battery",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "Pavilion 15-CC",
+        "Pavilion x360 14-BF"
+      ],
+      "price": "3,300",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20TF03XL%20Battery%20%E2%80%94%20KES%203%2C300",
+      "extra": false,
+      "tag_overflow": "+2 more"
+    },
+    {
+      "name": "HP NP03XL Battery",
+      "url": "/shop/laptop-batteries/hp-np03xl-pavilion-13-x360/",
+      "image": "assets/images/products/hp-battery-np03xl.webp",
+      "alt": "Replacement battery — HP NP03XL Battery",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "Pavilion X360 13-A",
+        "Envy X360 15-U"
+      ],
+      "price": "4,800",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20NP03XL%20Battery%20%E2%80%94%20KES%204%2C800",
+      "extra": false,
+      "tag_overflow": "+1 more"
+    },
+    {
+      "name": "HP CX03XL Battery",
+      "url": "/shop/laptop-batteries/hp-cx03xl-elitebook-x360-830-g7-g8/",
+      "image": "assets/images/products/hp-battery-cx03xl.webp",
+      "alt": "Replacement battery — HP CX03XL Battery",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "EliteBook x360 830 G7",
+        "EliteBook x360 830 G8"
+      ],
+      "price": "4,800",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20CX03XL%20Battery%20%E2%80%94%20KES%204%2C800",
+      "extra": false
+    },
+    {
+      "name": "Lenovo L17C4P72 Battery",
+      "url": "/shop/laptop-batteries/lenovo-l17c4p72-thinkpad-x1-extreme-p1/",
+      "image": "assets/images/products/lenovo-battery-l17c4p72.webp",
+      "alt": "Replacement battery — Lenovo L17C4P72 Battery",
+      "brand_slug": "lenovo",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "ThinkPad X1 Extreme 1st/2nd Gen",
+        "ThinkPad P1 1st Gen/Gen 2"
+      ],
+      "price": "5,800",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20L17C4P72%20Battery%20%E2%80%94%20KES%205%2C800",
+      "extra": false
+    },
+    {
+      "name": "Dell GHJC5 Battery",
+      "url": "/shop/laptop-batteries/dell-ghjc5-latitude-9420-9430-2in1/",
+      "image": "assets/images/products/dell-battery-ghjc5.webp",
+      "alt": "Replacement battery — Dell GHJC5 Battery",
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "Latitude 9420",
+        "Latitude 9430 2-in-1"
+      ],
+      "price": "5,200",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20GHJC5%20Battery%20%E2%80%94%20KES%205%2C200",
+      "extra": false
+    },
+    {
+      "name": "HP PG03XL 65Wh Battery",
+      "url": "/shop/laptop-batteries/hp-pg03xl-spectre-x360-15-ap/",
+      "image": "assets/images/products/hp-battery-pg03xl-65wh.webp",
+      "alt": "Replacement battery — HP PG03XL 65Wh Battery",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "Spectre x360 15-AP011DX",
+        "Spectre x360 15-AP000 Series"
+      ],
+      "price": "5,300",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20PG03XL%2065Wh%20Battery%20%E2%80%94%20KES%205%2C300",
+      "extra": false
+    },
+    {
+      "name": "Dell 4GVMP Battery",
+      "url": "/shop/laptop-batteries/dell-4gvmp-precision-3540-3550-latitude-5400-5500/",
+      "image": "assets/images/products/dell-battery-4gvmp.webp",
+      "alt": "Replacement battery — Dell 4GVMP Battery",
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "Precision 3540/3550",
+        "Latitude 5400/5500"
+      ],
+      "price": "5,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%204GVMP%20Battery%20%E2%80%94%20KES%205%2C500",
+      "extra": false
+    },
+    {
+      "name": "Dell 7CJRC Battery",
+      "url": "/shop/laptop-batteries/dell-7cjrc-latitude-7270-7470/",
+      "image": "assets/images/products/dell-battery-7cjrc.webp",
+      "alt": "Replacement battery — Dell 7CJRC Battery",
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "Latitude E7270/7270",
+        "Latitude E7470/7470"
+      ],
+      "price": "4,700",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%207CJRC%20Battery%20%E2%80%94%20KES%204%2C700",
+      "extra": false
+    },
+    {
+      "name": "Dell H5CKD Battery",
+      "url": "/shop/laptop-batteries/dell-h5ckd-inspiron-5400-5408-5508-latitude-3410-3510/",
+      "image": "assets/images/products/dell-battery-h5ckd.webp",
+      "alt": "Replacement battery — Dell H5CKD Battery",
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "Inspiron 5400/5408/5508",
+        "Latitude 3410/3510"
+      ],
+      "price": "5,800",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20H5CKD%20Battery%20%E2%80%94%20KES%205%2C800",
+      "extra": false
+    },
+    {
+      "name": "Dell R8D7N Battery",
+      "url": "/shop/laptop-batteries/dell-r8d7n-latitude-5400-5410-5500-5510/",
+      "image": "assets/images/products/dell-battery-r8d7n.webp",
+      "alt": "Replacement battery — Dell R8D7N Battery",
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "Latitude 5400/5500",
+        "Precision 3540/3550"
+      ],
+      "price": "4,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20R8D7N%20Battery%20%E2%80%94%20KES%204%2C500",
+      "extra": false
     }
   ],
   "technician_cta": {

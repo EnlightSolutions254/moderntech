@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "Dell H5CKD Battery — Inspiron 5400/5408/5508, Latitude 3410/3510 | Moderntech",
+    "description": "Genuine original Dell H5CKD battery, 15V, for Inspiron 5400/5406/5408/5409/5508/5509, Latitude 3410/3510 and more. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Dell H5CKD Battery | Moderntech",
+    "description": "Genuine Dell H5CKD replacement battery for Inspiron 5400/5408/5508, Latitude 3410/3510. In stock, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/dell-h5ckd-inspiron-5400-5408-5508-latitude-3410-3510/",
+    "brand_slug": "dell",
+    "brand_name": "Dell",
+    "sku": "H5CKD",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "name": "Dell H5CKD Battery",
+    "full_name": "Genuine Dell H5CKD Battery — Inspiron 5400/5408/5508, Latitude 3410/3510 Series",
+    "images": [
+      {
+        "src": "assets/images/products/dell-battery-h5ckd.webp",
+        "alt": "Replacement battery — Dell H5CKD Battery"
+      },
+      {
+        "src": "assets/images/products/dell-battery-h5ckd-alt.webp",
+        "alt": "Angled view of the Dell H5CKD Battery"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "price": "5,800",
+    "price_raw": "5800",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine original Dell H5CKD replacement battery, 15V, Li-ion. Fits Dell Inspiron 5400, 5406, 5408, 5409, 5500, 5501, 5502, 5508, 5509, Inspiron 7300/7405/7500/7506 2-in-1 (Silver variants only, not the Black 2-in-1 variants), Latitude 3410/3510, and Vostro 5300/5301/5401/5402/5501/5502 (4-cell, 53Wh). Also matches part numbers 9077G, TXD03, 7T8CD. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20H5CKD%20Battery%20%E2%80%94%20KES%205%2C800",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Dell%20H5CKD%20Battery",
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "H5CKD"
+      },
+      {
+        "label": "Compatible Models",
+        "value": "Inspiron 5400, 5406, 5408, 5409, 5500, 5501, 5502, 5508, 5509, Inspiron 7300/7405/7500/7506 2-in-1 (Silver), Latitude 3410, Latitude 3510, Vostro 5300/5301/5401/5402/5501/5502"
+      },
+      {
+        "label": "Alternate Part Numbers",
+        "value": "9077G, TXD03, 7T8CD"
+      },
+      {
+        "label": "Voltage",
+        "value": "15V"
+      },
+      {
+        "label": "Capacity",
+        "value": "53Wh, 3360mAh (4-cell)"
+      },
+      {
+        "label": "Battery Type",
+        "value": "Li-ion"
+      },
+      {
+        "label": "Condition",
+        "value": "New (Original)"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "How do I know this battery fits my laptop?",
+      "answer": "This fits a wide range of Inspiron, Latitude and Vostro models — but note that some of these laptops use two different battery shapes (H5CKD 53Wh 4-cell, or JK6Y6 40Wh 3-cell). The part number on your old battery is the safest way to confirm. If you're unsure, send us a photo of the sticker on your battery on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is this an original or compatible battery?",
+      "answer": "We stock genuine OEM batteries — this is a genuine Dell H5CKD unit."
+    },
+    {
+      "question": "What warranty comes with this battery?",
+      "answer": "This battery carries a 6-month warranty."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "HP CX03XL Battery — EliteBook x360 830 G7, G8 | Moderntech",
+    "description": "Genuine original HP CX03XL battery, 11.55V, for EliteBook x360 830 G7 and G8. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "HP CX03XL Battery | Moderntech",
+    "description": "Genuine HP CX03XL replacement battery for EliteBook x360 830 G7/G8. In stock, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/hp-cx03xl-elitebook-x360-830-g7-g8/",
+    "brand_slug": "hp",
+    "brand_name": "HP",
+    "sku": "CX03XL",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "name": "HP CX03XL Battery",
+    "full_name": "Genuine HP CX03XL Battery — EliteBook x360 830 G7, G8",
+    "images": [
+      {
+        "src": "assets/images/products/hp-battery-cx03xl.webp",
+        "alt": "Replacement battery — HP CX03XL Battery"
+      },
+      {
+        "src": "assets/images/products/hp-battery-cx03xl-alt.webp",
+        "alt": "Angled view of the HP CX03XL Battery"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "price": "4,800",
+    "price_raw": "4800",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine original HP CX03XL replacement battery, 11.55V, Li-Polymer. Fits HP EliteBook x360 830 G7 and EliteBook x360 830 G8 (3-cell, 53Wh). Not compatible with the non-x360 EliteBook 830 G7/G8. Also matches part numbers CX03053XL, L77624-421, L77624-422, L77624-1C1, L77624-1C2, L78551-005, HSTNN-LB8R, HSTNN-IB9G. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20CX03XL%20Battery%20%E2%80%94%20KES%204%2C800",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20HP%20CX03XL%20Battery",
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "CX03XL"
+      },
+      {
+        "label": "Compatible Models",
+        "value": "HP EliteBook x360 830 G7, HP EliteBook x360 830 G8 (not compatible with non-x360 EliteBook 830 G7/G8)"
+      },
+      {
+        "label": "Alternate Part Numbers",
+        "value": "CX03053XL, L77624-421, L77624-422, L77624-1C1, L77624-1C2, L78551-005, HSTNN-LB8R, HSTNN-IB9G"
+      },
+      {
+        "label": "Voltage",
+        "value": "11.55V"
+      },
+      {
+        "label": "Capacity",
+        "value": "53Wh, 4400mAh (3-cell)"
+      },
+      {
+        "label": "Battery Type",
+        "value": "Li-Polymer"
+      },
+      {
+        "label": "Condition",
+        "value": "New (Original)"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "How do I know this battery fits my laptop?",
+      "answer": "This fits the HP EliteBook x360 830 G7 and G8 — it does not fit the standard (non-x360) EliteBook 830 G7/G8. The part number on your old battery is the safest way to confirm. If you're unsure, send us a photo of the sticker on your battery on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is this an original or compatible battery?",
+      "answer": "We stock genuine OEM batteries — this is a genuine HP CX03XL unit."
+    },
+    {
+      "question": "What warranty comes with this battery?",
+      "answer": "This battery carries a 6-month warranty."
+    }
+  ]
+}

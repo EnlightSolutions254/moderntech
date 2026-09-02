@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "HP HT03XL Battery — Pavilion 15-CS, 15-DA, 250 G7 | Moderntech",
+    "description": "Genuine replacement HP HT03XL battery, 11.55V, for Pavilion 15-CS, 15-DA series and HP 250 G7. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "HP HT03XL Battery | Moderntech",
+    "description": "Genuine HP HT03XL replacement battery for Pavilion 15-CS/15-DA and 250 G7. In stock, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/hp-ht03xl-pavilion-15-cs-15-da-250g7/",
+    "brand_slug": "hp",
+    "brand_name": "HP",
+    "sku": "HT03XL",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "name": "HP HT03XL Battery",
+    "full_name": "HP HT03XL Battery — Pavilion 15-CS, 15-DA, 250 G7",
+    "images": [
+      {
+        "src": "assets/images/products/hp-battery-ht03xl.webp",
+        "alt": "Replacement battery — HP HT03XL Battery"
+      },
+      {
+        "src": "assets/images/products/hp-battery-ht03xl-alt.webp",
+        "alt": "Angled view of the HP HT03XL Battery"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "price": "4,200",
+    "price_raw": "4200",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine OEM HP HT03XL replacement battery, 11.55V, Li-ion. Fits HP Pavilion 15-CS, 15-DA, 15-DB, 15-DW, 14-CE, 14-CF, 17-BY, 17-CA series and HP 250 G7, 255 G7 (3-cell, 41.9Wh). Also matches part numbers L11119-855, L11421-2C2, HSTNN-UB7J, HSTNN-DB8R. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20HT03XL%20Battery%20%E2%80%94%20KES%204%2C200",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20HP%20HT03XL%20Battery",
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "HT03XL"
+      },
+      {
+        "label": "Compatible Models",
+        "value": "HP Pavilion 15-CS, 15-DA, 15-DB, 15-DW, 14-CE, 14-CF, 17-BY, 17-CA, HP 250 G7, 255 G7"
+      },
+      {
+        "label": "Alternate Part Numbers",
+        "value": "L11119-855, L11421-2C2, HSTNN-UB7J, HSTNN-DB8R"
+      },
+      {
+        "label": "Voltage",
+        "value": "11.55V"
+      },
+      {
+        "label": "Capacity",
+        "value": "41.9Wh (3-cell)"
+      },
+      {
+        "label": "Battery Type",
+        "value": "Li-ion"
+      },
+      {
+        "label": "Condition",
+        "value": "New (Original)"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "How do I know this battery fits my laptop?",
+      "answer": "This fits HP Pavilion 15-CS, 15-DA series and HP 250 G7 (also 15-DB, 15-DW, 14-CE, 14-CF, 17-BY, 17-CA, 255 G7). Note the similarly-named TF03XL uses a different connector and is not interchangeable — the part number on your old battery is the safest way to confirm. If you're unsure, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is this an original or compatible battery?",
+      "answer": "This is a genuine original HP HT03XL unit."
+    },
+    {
+      "question": "What warranty comes with this battery?",
+      "answer": "This battery carries a 6-month warranty."
+    }
+  ]
+}

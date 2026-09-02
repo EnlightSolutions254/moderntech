@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "HP BM04XL Battery — EliteBook x360 1030 G3, G4 | Moderntech",
+    "description": "Genuine original HP BM04XL battery, 7.7V, for EliteBook x360 1030 G3 and G4. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "HP BM04XL Battery | Moderntech",
+    "description": "Genuine HP BM04XL replacement battery for EliteBook x360 1030 G3/G4. In stock, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/hp-bm04xl-elitebook-x360-1030-g3/",
+    "brand_slug": "hp",
+    "brand_name": "HP",
+    "sku": "BM04XL",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "name": "HP BM04XL Battery",
+    "full_name": "Genuine HP BM04XL Battery — EliteBook x360 1030 G3, G4",
+    "images": [
+      {
+        "src": "assets/images/products/hp-battery-bm04xl.webp",
+        "alt": "Replacement battery — HP BM04XL Battery"
+      },
+      {
+        "src": "assets/images/products/hp-battery-bm04xl-alt.webp",
+        "alt": "Angled view of the HP BM04XL Battery"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "price": "5,200",
+    "price_raw": "5200",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine original HP BM04XL replacement battery, 7.7V, Li-ion. Fits HP EliteBook x360 1030 G3 and x360 1030 G4 (4-cell, 56.2Wh). Also matches part numbers BM04056XL, BM04056XL-PL, HSTNN-DB8L, HSTNN-UB7L, L02031-241, L02031-2C1, L02031-541, L02475-855, L02478-855. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20BM04XL%20Battery%20%E2%80%94%20KES%205%2C200",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20HP%20BM04XL%20Battery",
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "BM04XL"
+      },
+      {
+        "label": "Compatible Models",
+        "value": "HP EliteBook x360 1030 G3, HP EliteBook x360 1030 G4"
+      },
+      {
+        "label": "Alternate Part Numbers",
+        "value": "BM04056XL, BM04056XL-PL, HSTNN-DB8L, HSTNN-UB7L, L02031-241, L02031-2C1, L02031-541, L02475-855, L02478-855"
+      },
+      {
+        "label": "Voltage",
+        "value": "7.7V"
+      },
+      {
+        "label": "Capacity",
+        "value": "56.2Wh (4-cell)"
+      },
+      {
+        "label": "Battery Type",
+        "value": "Li-ion"
+      },
+      {
+        "label": "Condition",
+        "value": "New (Original)"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "How do I know this battery fits my laptop?",
+      "answer": "This fits the HP EliteBook x360 1030 G3 and G4. The part number on your old battery is the safest way to confirm. If you're unsure, send us a photo of the sticker on your battery on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is this an original or compatible battery?",
+      "answer": "We stock genuine OEM batteries — this is a genuine HP BM04XL unit."
+    },
+    {
+      "question": "What warranty comes with this battery?",
+      "answer": "This battery carries a 6-month warranty."
+    }
+  ]
+}

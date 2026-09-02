@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "title": "HP OM03XL Battery (Original) — EliteBook x360 1030 G2 | Moderntech",
+    "description": "Genuine original HP OM03XL battery, 11.55V, for EliteBook x360 1030 G2. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "HP OM03XL Battery (Original) | Moderntech",
+    "description": "Genuine original HP OM03XL replacement battery for EliteBook x360 1030 G2. In stock, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/hp-om03xl-elitebook-x360-1030-g2-original/",
+    "brand_slug": "hp",
+    "brand_name": "HP",
+    "sku": "OM03XL",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "name": "HP OM03XL Battery (Original)",
+    "full_name": "Genuine HP OM03XL Battery (Original) — EliteBook x360 1030 G2",
+    "images": [
+      {
+        "src": "assets/images/products/hp-battery-om03xl-original.webp",
+        "alt": "Replacement battery — HP OM03XL Battery (Original)"
+      },
+      {
+        "src": "assets/images/products/hp-battery-om03xl-original-alt.webp",
+        "alt": "Angled view of the HP OM03XL Battery (Original)"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "price": "4,500",
+    "price_raw": "4500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine original HP OM03XL replacement battery, 11.55V, Li-ion. Fits HP EliteBook x360 1030 G2 (3-cell, 57Wh). Also matches part numbers OM03057XL, 863167-171, 863167-1B1, 863280-855, HSN-I04C, HSTNN-IB70, HSTNN-IB7O. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20OM03XL%20Battery%20%28Original%29%20%E2%80%94%20KES%204%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20HP%20OM03XL%20Battery%20%28Original%29",
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "OM03XL"
+      },
+      {
+        "label": "Compatible Models",
+        "value": "HP EliteBook x360 1030 G2"
+      },
+      {
+        "label": "Alternate Part Numbers",
+        "value": "OM03057XL, 863167-171, 863167-1B1, 863280-855, HSN-I04C, HSTNN-IB70, HSTNN-IB7O"
+      },
+      {
+        "label": "Voltage",
+        "value": "11.55V"
+      },
+      {
+        "label": "Capacity",
+        "value": "57Wh (3-cell)"
+      },
+      {
+        "label": "Battery Type",
+        "value": "Li-ion"
+      },
+      {
+        "label": "Condition",
+        "value": "New (Original)"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "related": [
+      "/shop/laptop-batteries/hp-om03xl-elitebook-x360-1030-g2-generic/"
+    ]
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "How do I know this battery fits my laptop?",
+      "answer": "This fits the HP EliteBook x360 1030 G2. Note HP made two versions of this battery with different tab spacing on the connector — the part number on your old battery is the safest way to confirm. If you're unsure, send us a photo of the sticker on your battery on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is this an original or compatible battery?",
+      "answer": "This is a genuine original HP OM03XL unit. We also stock a lower-cost compatible/generic version of this battery — ask us on WhatsApp if you'd like pricing for that instead."
+    },
+    {
+      "question": "What warranty comes with this battery?",
+      "answer": "This battery carries a 6-month warranty."
+    }
+  ]
+}

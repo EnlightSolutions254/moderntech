@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "Acer AP16M5J Battery — Aspire A314-31, A315-21/33/41G/53/56 | Moderntech",
+    "description": "Genuine replacement Acer AP16M5J battery, 7.7V, for Aspire A314-31, A315-21, A315-33, A315-41G, A315-53, A315-56. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Acer AP16M5J Battery | Moderntech",
+    "description": "Genuine Acer AP16M5J replacement battery for Aspire A314/A315 series. In stock, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/acer-ap16m5j-aspire-a314-a315/",
+    "brand_slug": "acer",
+    "brand_name": "Acer",
+    "sku": "AP16M5J",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "name": "Acer AP16M5J Battery",
+    "full_name": "Genuine Acer AP16M5J Battery — Aspire A314-31, A315-21/33/41G/53/56",
+    "images": [
+      {
+        "src": "assets/images/products/acer-battery-ap16m5j.webp",
+        "alt": "Replacement battery — Acer AP16M5J Battery"
+      },
+      {
+        "src": "assets/images/products/acer-battery-ap16m5j-alt.webp",
+        "alt": "Angled view of the Acer AP16M5J Battery"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "price": "4,500",
+    "price_raw": "4500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine original Acer AP16M5J replacement battery, 7.7V, Li-ion. Fits Acer Aspire A314-31, A315-21, A315-33, A315-41G, A315-53 and A315-56 (2-cell, 37Wh). Also matches part numbers KT.00205.004, KT00205004, KT.00205.005, KT00205005, 2ICP4/80/104. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Acer%20AP16M5J%20Battery%20%E2%80%94%20KES%204%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Acer%20AP16M5J%20Battery",
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "AP16M5J"
+      },
+      {
+        "label": "Compatible Models",
+        "value": "Aspire A314-31, A315-21, A315-33, A315-41G, A315-53, A315-56"
+      },
+      {
+        "label": "Alternate Part Numbers",
+        "value": "KT.00205.004, KT00205004, KT.00205.005, KT00205005, 2ICP4/80/104"
+      },
+      {
+        "label": "Voltage",
+        "value": "7.7V"
+      },
+      {
+        "label": "Capacity",
+        "value": "37Wh (2-cell)"
+      },
+      {
+        "label": "Battery Type",
+        "value": "Li-ion"
+      },
+      {
+        "label": "Condition",
+        "value": "New (Original)"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "How do I know this battery fits my laptop?",
+      "answer": "This fits the Acer Aspire A314-31, A315-21, A315-33, A315-41G and A315-53. Note: most A315-56 units ship with a different battery (AP19B5K), so for that model in particular, please confirm by the part number on your old battery before ordering. If you're unsure, send us a photo of the sticker on your battery on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is this an original or compatible battery?",
+      "answer": "We stock genuine OEM batteries — this is a genuine Acer AP16M5J unit."
+    },
+    {
+      "question": "What warranty comes with this battery?",
+      "answer": "This battery carries a 6-month warranty."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "Lenovo L17M2PB3 Battery — V130, V330, V530 Series | Moderntech",
+    "description": "Genuine replacement Lenovo L17M2PB3 battery, 7.6V, for V130-15IGM/15IKB, V330-15IKB/15ISK, V530-14IKB/15IKB. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Lenovo L17M2PB3 Battery | Moderntech",
+    "description": "Genuine Lenovo L17M2PB3 replacement battery for V130/V330/V530 series. In stock, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/lenovo-l17m2pb3-v130-v330-v530/",
+    "brand_slug": "lenovo",
+    "brand_name": "Lenovo",
+    "sku": "L17M2PB3",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "name": "Lenovo L17M2PB3 Battery",
+    "full_name": "Genuine Lenovo L17M2PB3 Battery — V130-15IGM/15IKB, V330-15IKB/15ISK, V530-14IKB/15IKB",
+    "images": [
+      {
+        "src": "assets/images/products/lenovo-battery-l17m2pb3.webp",
+        "alt": "Replacement battery — Lenovo L17M2PB3 Battery"
+      },
+      {
+        "src": "assets/images/products/lenovo-battery-l17m2pb3-alt.webp",
+        "alt": "Angled view of the Lenovo L17M2PB3 Battery"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "price": "5,100",
+    "price_raw": "5100",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine original Lenovo L17M2PB3 replacement battery, 7.6V, Li-ion. Fits Lenovo V130-15IGM, V130-15IKB, V330-14ISK, V330-15IKB, V330-15ISK, V530-14IKB and V530-15IKB (2-cell, 30Wh). Also matches part numbers L17C2PB3, L17L2PB3, L17C2PB4, L17L2PB4, L17M2PB4, 5B10P53995, 5B10P53998, 5B10P53999, 5B10P54000, 5B10P54004, 5B10P54005, 5B10R32998, 5B10R33563, 5B10R38759, 5B10R38760, 5B10W67297, 5B10W67318, 5B10W67362, 5B10W67381, 5B10W67423. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20L17M2PB3%20Battery%20%E2%80%94%20KES%205%2C100",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Lenovo%20L17M2PB3%20Battery",
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "L17M2PB3"
+      },
+      {
+        "label": "Compatible Models",
+        "value": "V130-15IGM, V130-15IKB, V330-14ISK, V330-15IKB, V330-15ISK, V530-14IKB, V530-15IKB"
+      },
+      {
+        "label": "Alternate Part Numbers",
+        "value": "L17C2PB3, L17L2PB3, L17C2PB4, L17L2PB4, L17M2PB4, 5B10P53995, 5B10P53998, 5B10P53999, 5B10P54000, 5B10P54004, 5B10P54005, 5B10R32998, 5B10R33563, 5B10R38759, 5B10R38760, 5B10W67297, 5B10W67318, 5B10W67362, 5B10W67381, 5B10W67423"
+      },
+      {
+        "label": "Voltage",
+        "value": "7.6V"
+      },
+      {
+        "label": "Capacity",
+        "value": "30Wh (2-cell)"
+      },
+      {
+        "label": "Battery Type",
+        "value": "Li-ion"
+      },
+      {
+        "label": "Condition",
+        "value": "New (Original)"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "How do I know this battery fits my laptop?",
+      "answer": "This fits the Lenovo V130-15IGM, V130-15IKB, V330-14ISK, V330-15IKB, V330-15ISK, V530-14IKB and V530-15IKB. The part number on your old battery is the safest way to confirm. If you're unsure, send us a photo of the sticker on your battery on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is this an original or compatible battery?",
+      "answer": "We stock genuine OEM batteries — this is a genuine Lenovo L17M2PB3 unit."
+    },
+    {
+      "question": "What warranty comes with this battery?",
+      "answer": "This battery carries a 6-month warranty."
+    }
+  ]
+}

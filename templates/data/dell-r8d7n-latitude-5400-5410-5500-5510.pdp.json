@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "Dell R8D7N Battery — Latitude 5400/5410/5500/5510 | Moderntech",
+    "description": "Genuine original Dell R8D7N battery, 11.4V, for Latitude 5400/5410/5500/5510, Precision 3540/3550 and Inspiron 7590/7591/7791 2-in-1. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Dell R8D7N Battery | Moderntech",
+    "description": "Genuine Dell R8D7N replacement battery for Latitude 5400/5410/5500/5510. In stock, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/dell-r8d7n-latitude-5400-5410-5500-5510/",
+    "brand_slug": "dell",
+    "brand_name": "Dell",
+    "sku": "R8D7N",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "name": "Dell R8D7N Battery",
+    "full_name": "Genuine Dell R8D7N Battery — Latitude 5400/5410/5500/5510 Series",
+    "images": [
+      {
+        "src": "assets/images/products/dell-battery-r8d7n.webp",
+        "alt": "Replacement battery — Dell R8D7N Battery"
+      },
+      {
+        "src": "assets/images/products/dell-battery-r8d7n-alt.webp",
+        "alt": "Angled view of the Dell R8D7N Battery"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "price": "4,500",
+    "price_raw": "4500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine original Dell R8D7N replacement battery, 11.4V, Li-ion. Fits Dell Latitude 5400/5410/5500/5510, Precision 3540/3550 and Inspiron 7590/7591/7791 2-in-1 (2-in-1 variants only, not the standard clamshell models) (3-cell, 51Wh). Note: these laptops also take the higher-capacity 4GVMP (7.6V, 68Wh, 4-cell) — the two are not interchangeable, confirm your battery's part number before ordering. Also matches part numbers W8GMW, 49HG8, TNT6H, H82T6. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20R8D7N%20Battery%20%E2%80%94%20KES%204%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Dell%20R8D7N%20Battery",
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "R8D7N"
+      },
+      {
+        "label": "Compatible Models",
+        "value": "Latitude 5400, Latitude 5410, Latitude 5500, Latitude 5510, Precision 3540, Precision 3550, Inspiron 7590 2-in-1, Inspiron 7591 2-in-1, Inspiron 7791 2-in-1 (not the standard non-2-in-1 Inspiron 7590/7591/7791)"
+      },
+      {
+        "label": "Alternate Part Numbers",
+        "value": "W8GMW, 49HG8, TNT6H, H82T6"
+      },
+      {
+        "label": "Voltage",
+        "value": "11.4V"
+      },
+      {
+        "label": "Capacity",
+        "value": "51Wh, 4255mAh (3-cell)"
+      },
+      {
+        "label": "Battery Type",
+        "value": "Li-ion"
+      },
+      {
+        "label": "Condition",
+        "value": "New (Original)"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "How do I know this battery fits my laptop?",
+      "answer": "These laptops can take either this R8D7N (11.4V, 51Wh) or the higher-capacity 4GVMP (7.6V, 68Wh) — they are not interchangeable. The part number on your old battery is the safest way to confirm. If you're unsure, send us a photo of the sticker on your battery on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is this an original or compatible battery?",
+      "answer": "We stock genuine OEM batteries — this is a genuine Dell R8D7N unit."
+    },
+    {
+      "question": "What warranty comes with this battery?",
+      "answer": "This battery carries a 6-month warranty."
+    }
+  ]
+}
