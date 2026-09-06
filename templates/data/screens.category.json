@@ -13,7 +13,7 @@
     "name": "Laptop Screens",
     "name_lower": "screens",
     "description": "Genuine replacement screens for HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook laptops. Every listing shows exact panel size, resolution and compatible models before you message us.",
-    "result_count": 12
+    "result_count": 13
   },
   "products": [
     {
@@ -231,6 +231,24 @@
       "cta_label": "Order on WhatsApp",
       "cta_class": "btn--whatsapp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%2012.5%22%20Short%20Laptop%20Screen%20%28FHD%2C%20Non-Touch%29%20%E2%80%94%20KES%207%2C500"
+    },
+    {
+      "brand_slug": "lenovo",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/screens/lenovo-flex-5-14-touch-screen/",
+      "image": "assets/images/products/laptop-screen-lenovo-flex-5-14-touch.webp",
+      "alt": "Touch screen for Lenovo Flex 5-14",
+      "name": "Lenovo Flex 5-14 Touch Screen",
+      "tags": [
+        "Flex 5-14",
+        "Touch"
+      ],
+      "price": "18,500",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20Flex%205-14%20Touch%20Screen%20%E2%80%94%20KES%2018%2C500"
     }
   ],
   "technician_cta": {

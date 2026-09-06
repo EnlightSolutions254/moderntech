@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Dell Latitude 7200/7210 2-in-1 Keyboard (Backlit, US) | Moderntech",
+    "description": "Genuine replacement backlit US-layout keyboard for Dell Latitude 7200/7210 2-in-1, part numbers K18M and 24D3M. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Dell Latitude 7200/7210 2-in-1 Keyboard | Moderntech",
+    "description": "Genuine backlit US keyboard for Dell Latitude 7200/7210 2-in-1. In stock, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "keyboards",
+    "url": "/shop/keyboards/",
+    "name": "Keyboards"
+  },
+  "product": {
+    "url": "/shop/keyboards/dell-latitude-7200-7210-2-in-1-keyboard-backlit/",
+    "brand_slug": "dell",
+    "brand_name": "Dell",
+    "sku": "K18M",
+    "type_label": "keyboard",
+    "type_label_cap": "Keyboard",
+    "name": "Dell Latitude 7200/7210 2-in-1 Keyboard",
+    "full_name": "Dell Latitude 7200/7210 2-in-1 Keyboard — Backlit, US Layout",
+    "images": [
+      {
+        "src": "assets/images/products/dell-keyboard-latitude-7200-7210-2in1-backlit.webp",
+        "alt": "Replacement backlit US-layout keyboard for Dell Latitude 7200/7210 2-in-1"
+      },
+      {
+        "src": "assets/images/products/dell-keyboard-latitude-7200-7210-2in1-backlit-alt.webp",
+        "alt": "Angled view of the Dell Latitude 7200/7210 2-in-1 keyboard"
+      }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "25,000",
+    "price_raw": "25000",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine replacement backlit keyboard for Dell Latitude 7200 2-in-1 and Latitude 7210 2-in-1. US (QWERTY) layout, backlit. Also matches part numbers K18M and 24D3M. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%207200%2F7210%202-in-1%20Keyboard%20%28Backlit%2C%20US%29%20%E2%80%94%20KES%2025%2C000",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Dell%20Latitude%207200%2F7210%202-in-1%20Keyboard",
+    "specs": [
+      { "label": "Part Number", "value": "K18M" },
+      { "label": "Compatible Models", "value": "Latitude 7200 2-in-1, Latitude 7210 2-in-1" },
+      { "label": "Alternate Part Numbers", "value": "24D3M" },
+      { "label": "Layout", "value": "US (QWERTY)" },
+      { "label": "Backlight", "value": "Backlit" },
+      { "label": "Condition", "value": "New (Original)" },
+      { "label": "Warranty", "value": "3 Months" }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Keyboard Questions",
+  "faqs": [
+    { "question": "How do I know this keyboard fits my laptop?", "answer": "This fits the Dell Latitude 7200 2-in-1 and 7210 2-in-1. The part number on the back of your current keyboard (K18M or 24D3M) is the safest way to confirm. If you're unsure, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
+    { "question": "Is this backlit?", "answer": "Yes, this is the backlit version in a US (QWERTY) layout." },
+    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+  ]
+}

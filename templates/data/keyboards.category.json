@@ -13,7 +13,7 @@
     "name": "Keyboards",
     "name_lower": "keyboards",
     "description": "Genuine replacement keyboards for HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook laptops. Every listing shows exact layout, backlighting and compatible models before you message us.",
-    "result_count": 95
+    "result_count": 97
   },
   "products": [
     {
@@ -1687,6 +1687,42 @@
       "cta_label": "Order on WhatsApp",
       "cta_class": "btn--whatsapp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Inspiron%2013%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C900"
+    },
+    {
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/dell-latitude-7200-7210-2-in-1-keyboard-backlit/",
+      "image": "assets/images/products/dell-keyboard-latitude-7200-7210-2in1-backlit.webp",
+      "alt": "Replacement backlit US-layout keyboard for Dell Latitude 7200/7210 2-in-1",
+      "name": "Dell Latitude 7200/7210 2-in-1 Keyboard (Backlit, US)",
+      "tags": [
+        "Latitude 7200/7210 2-in-1",
+        "Backlit"
+      ],
+      "price": "25,000",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%207200%2F7210%202-in-1%20Keyboard%20%28Backlit%2C%20US%29%20%E2%80%94%20KES%2025%2C000"
+    },
+    {
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/dell-latitude-7320-detachable-keyboard-backlit/",
+      "image": "assets/images/products/dell-keyboard-latitude-7320-detachable-backlit.webp",
+      "alt": "Replacement backlit US-layout keyboard for Dell Latitude 7320 Detachable",
+      "name": "Dell Latitude 7320 Detachable Keyboard (Backlit, US)",
+      "tags": [
+        "Latitude 7320 Detachable",
+        "Backlit"
+      ],
+      "price": "22,000",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%207320%20Detachable%20Keyboard%20%28Backlit%2C%20US%29%20%E2%80%94%20KES%2022%2C000"
     }
   ],
   "technician_cta": {
