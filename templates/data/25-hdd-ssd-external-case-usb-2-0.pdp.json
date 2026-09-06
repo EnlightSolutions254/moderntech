@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "title": "2.5\" HDD/SSD External Case – USB 2.0 Enclosure | Moderntech",
+    "description": "2.5-inch HDD/SSD external case with USB 2.0 interface. Tool-free, driverless, plug and play. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "2.5\" HDD/SSD External Case | Moderntech",
+    "description": "Turn a 2.5-inch HDD or SSD into an external USB drive. In stock, order on WhatsApp."
+  },
+  "category": {
+    "slug": "accessories",
+    "url": "/shop/accessories/",
+    "name": "Accessories"
+  },
+  "product": {
+    "url": "/shop/accessories/25-hdd-ssd-external-case-usb-2-0/",
+    "brand_slug": "universal",
+    "brand_name": "Universal",
+    "sku": "ENC-25-USB2",
+    "type_label": "enclosure",
+    "type_label_cap": "Enclosure",
+    "name": "2.5\" HDD/SSD External Case",
+    "full_name": "2.5\" HDD/SSD External Case – USB 2.0",
+    "images": [
+      {
+        "src": "assets/images/products/hdd-ssd-external-case.webp",
+        "alt": "2.5 inch HDD/SSD external case, USB 2.0"
+      },
+      {
+        "src": "assets/images/products/hdd-ssd-external-case-alt.webp",
+        "alt": "2.5 inch HDD/SSD external case with drive slot open"
+      }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "500",
+    "price_raw": "500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "2.5\" HDD/SSD external case that converts an internal 2.5-inch drive into an external USB drive. Tool-free, driverless, plug-and-play design over a USB 2.0 interface. Note: USB 2.0 is the enclosure's maximum interface speed, so even a fast SSD installed inside will be capped by the USB 2.0 connection.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%202.5%22%20HDD%2FSSD%20External%20Case%20%E2%80%94%20KES%20500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%202.5%22%20HDD%2FSSD%20External%20Case",
+    "specs": [
+      { "label": "Product Type", "value": "2.5\" HDD/SSD External Case" },
+      { "label": "Interface", "value": "USB 2.0" },
+      { "label": "Purpose", "value": "Converts a 2.5-inch internal HDD or SSD into an external USB drive" },
+      { "label": "Installation", "value": "Tool-free" },
+      { "label": "Drivers", "value": "Driverless / plug and play" },
+      { "label": "Drive Size Supported", "value": "2.5-inch HDD/SSD" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "6 Months" }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "External Case Questions",
+  "faqs": [
+    { "question": "Will my SSD run at full speed in this case?", "answer": "No — this enclosure's interface is USB 2.0, so even a fast SSD will be capped at USB 2.0 speeds. If you need full SSD speed, you'll want a USB 3.0/3.1 enclosure instead." },
+    { "question": "Does it fit both HDDs and SSDs?", "answer": "Yes, it's built for any standard 2.5-inch HDD or SSD." },
+    { "question": "Do I need any tools or drivers to set it up?", "answer": "No — it's tool-free and driverless, just slot the drive in and plug it into a USB port." },
+    { "question": "What warranty comes with this case?", "answer": "This enclosure carries a 6-month warranty." }
+  ]
+}

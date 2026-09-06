@@ -14,7 +14,8 @@
     { "slug": "keyboards", "name": "Keyboards", "url": "/shop/keyboards/", "icon": "&#8996;" },
     { "slug": "hinges", "name": "Hinges", "url": "/shop/hinges/", "icon": "&#128295;" },
     { "slug": "cooling-fans", "name": "Cooling Fans", "url": "/shop/cooling-fans/", "icon": "&#128168;" },
-    { "slug": "casings", "name": "Casings", "url": "/shop/casings/", "icon": "&#129520;" }
+    { "slug": "casings", "name": "Casings", "url": "/shop/casings/", "icon": "&#129520;" },
+    { "slug": "accessories", "name": "Accessories", "url": "/shop/accessories/", "icon": "&#128092;" }
   ],
   "brands": [
     { "slug": "hp", "name": "HP", "url": "/brand/hp/" },

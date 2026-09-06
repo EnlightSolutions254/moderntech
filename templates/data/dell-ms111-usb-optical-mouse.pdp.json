@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "title": "Dell MS111 USB Optical Mouse – Wired Mouse in Kenya | Moderntech",
+    "description": "Genuine Dell MS111 wired USB optical mouse designed for comfortable everyday computing, office work and productivity. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Dell MS111 USB Optical Mouse | Moderntech",
+    "description": "Genuine Dell MS111 wired USB optical mouse. In stock, order on WhatsApp."
+  },
+  "category": {
+    "slug": "accessories",
+    "url": "/shop/accessories/",
+    "name": "Accessories"
+  },
+  "product": {
+    "url": "/shop/accessories/dell-ms111-usb-optical-mouse/",
+    "brand_slug": "dell",
+    "brand_name": "Dell",
+    "sku": "MS111",
+    "type_label": "mouse",
+    "type_label_cap": "Mouse",
+    "name": "Dell MS111 USB Optical Mouse",
+    "full_name": "Dell MS111 USB Optical Mouse – Wired Black",
+    "images": [
+      {
+        "src": "assets/images/products/dell-mouse-ms111.webp",
+        "alt": "Dell MS111 USB Optical Mouse — wired black"
+      },
+      {
+        "src": "assets/images/products/dell-mouse-ms111-alt.webp",
+        "alt": "Dell MS111 mouse in original retail packaging"
+      }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "450",
+    "price_raw": "450",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine Dell MS111 wired USB optical mouse. Designed for comfort and productivity, with reliable optical tracking, a compact ergonomic design, and plug-and-play operation. Suitable for laptops and desktop computers running Windows or other USB-compatible systems. Ideal for office, school and home use.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20MS111%20USB%20Optical%20Mouse%20%E2%80%94%20KES%20450",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Dell%20MS111%20USB%20Optical%20Mouse",
+    "specs": [
+      { "label": "Brand", "value": "Dell" },
+      { "label": "Model", "value": "MS111" },
+      { "label": "Product Type", "value": "USB Optical Mouse" },
+      { "label": "Connection", "value": "Wired USB" },
+      { "label": "Tracking", "value": "Optical sensor" },
+      { "label": "Color", "value": "Black" },
+      { "label": "Buttons", "value": "Left click, right click, scroll wheel" },
+      { "label": "Cable", "value": "Integrated USB cable" },
+      { "label": "Design", "value": "Compact ergonomic design" },
+      { "label": "Intended Use", "value": "Office, business, home and general computing" },
+      { "label": "Compatibility", "value": "Windows PCs and other USB-compatible computers" },
+      { "label": "Packaging", "value": "Original-style Dell retail box" },
+      { "label": "Condition", "value": "New (Genuine Dell)" },
+      { "label": "Warranty", "value": "6 Months" }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Mouse Questions",
+  "faqs": [
+    { "question": "Is this a genuine Dell mouse?", "answer": "Yes — this is a genuine Dell MS111 USB Optical Mouse, sold in Dell's original-style retail packaging." },
+    { "question": "Will this work with my laptop brand?", "answer": "Yes — it's a standard wired USB mouse, so it works with any laptop or desktop with a free USB port, regardless of brand." },
+    { "question": "What warranty comes with this mouse?", "answer": "This mouse carries a 6-month warranty." }
+  ]
+}

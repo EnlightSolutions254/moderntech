@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "title": "Universal 65W USB-C Charger | Moderntech",
+    "description": "Universal 65W USB-C laptop charger with multiple connector tips. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Universal 65W USB-C Charger | Moderntech",
+    "description": "Universal 65W USB-C charger, works across USB-C laptop brands. In stock, order on WhatsApp."
+  },
+  "category": {
+    "slug": "accessories",
+    "url": "/shop/accessories/",
+    "name": "Accessories"
+  },
+  "product": {
+    "url": "/shop/accessories/universal-65w-usb-c-charger/",
+    "brand_slug": "universal",
+    "brand_name": "Universal",
+    "sku": "CHG-USBC-65W",
+    "type_label": "charger",
+    "type_label_cap": "Charger",
+    "name": "Universal 65W USB-C Charger",
+    "full_name": "Universal 65W USB-C Laptop Charger",
+    "images": [
+      {
+        "src": "assets/images/products/universal-65w-usb-c-charger.webp",
+        "alt": "Universal 65W USB-C laptop charger"
+      },
+      {
+        "src": "assets/images/products/universal-65w-usb-c-charger-alt.webp",
+        "alt": "USB-C charger cable and plug"
+      }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "2,800",
+    "price_raw": "2800",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Universal 65W USB-C PD charger. Works with any laptop that charges over USB-C — Dell, HP, Lenovo, Asus, MacBook and more. Includes 1.8m cable.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Universal%2065W%20USB-C%20Charger%20%E2%80%94%20KES%202%2C800",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Universal%2065W%20USB-C%20Charger",
+    "specs": [
+      { "label": "Output", "value": "65W (5V/9V/12V/15V/20V USB PD)" },
+      { "label": "Connector", "value": "USB-C" },
+      { "label": "Compatible With", "value": "Any USB-C PD laptop (Dell, HP, Lenovo, Asus, MacBook)" },
+      { "label": "Cable Length", "value": "1.8m" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "6 Months" }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Charger Questions",
+  "faqs": [
+    { "question": "Will this work with my laptop?", "answer": "If your laptop charges via a USB-C port, yes. Send us your laptop model on WhatsApp if you're not sure it charges over USB-C." },
+    { "question": "Is 65W enough for my laptop?", "answer": "65W covers most ultrabooks and business laptops. Larger gaming or workstation laptops may need more — check your original charger's wattage or ask us." },
+    { "question": "What warranty comes with this charger?", "answer": "This charger carries a 6-month warranty." }
+  ]
+}

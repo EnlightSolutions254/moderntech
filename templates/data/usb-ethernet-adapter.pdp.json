@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "title": "USB Ethernet Adapter – Wired Network Adapter | Moderntech",
+    "description": "USB Ethernet adapter with RJ45 port for wired network connectivity. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "USB Ethernet Adapter | Moderntech",
+    "description": "USB Ethernet adapter, RJ45 wired network connectivity. In stock, order on WhatsApp."
+  },
+  "category": {
+    "slug": "accessories",
+    "url": "/shop/accessories/",
+    "name": "Accessories"
+  },
+  "product": {
+    "url": "/shop/accessories/usb-ethernet-adapter/",
+    "brand_slug": "universal",
+    "brand_name": "Universal",
+    "sku": "ETH-ADPT-USB",
+    "type_label": "adapter",
+    "type_label_cap": "Adapter",
+    "name": "USB Ethernet Adapter",
+    "full_name": "USB Ethernet Adapter – Wired Network Adapter",
+    "images": [
+      {
+        "src": "assets/images/products/usb-ethernet-adapter.webp",
+        "alt": "USB Ethernet adapter — gray, RJ45 port"
+      },
+      {
+        "src": "assets/images/products/usb-ethernet-adapter-alt.webp",
+        "alt": "USB Ethernet adapter connector end"
+      }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "2,500",
+    "price_raw": "2500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "USB Ethernet adapter that adds a wired RJ45 network port to any compatible laptop or device, useful when you need a stable wired connection or your laptop has no built-in Ethernet port. Compact plastic housing with an integrated cable.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20USB%20Ethernet%20Adapter%20%E2%80%94%20KES%202%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20USB%20Ethernet%20Adapter",
+    "specs": [
+      { "label": "Product Type", "value": "Ethernet Adapter" },
+      { "label": "Color", "value": "Gray" },
+      { "label": "Connection", "value": "Wired adapter" },
+      { "label": "Housing", "value": "Compact rectangular plastic enclosure" },
+      { "label": "Cable", "value": "Integrated gray cable" },
+      { "label": "Ethernet Port", "value": "RJ45" },
+      { "label": "Certifications", "value": "CE, RoHS, FCC" },
+      { "label": "Use", "value": "Provides wired Ethernet/network connectivity to a compatible computer or device" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "6 Months" }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Ethernet Adapter Questions",
+  "faqs": [
+    { "question": "Will this work with my laptop?", "answer": "It works with any laptop or device that has a free USB port. If your laptop only has USB-C, let us know on WhatsApp and we'll confirm the right connector." },
+    { "question": "What speed does this support?", "answer": "Send us a photo of the connector end and the reverse side on WhatsApp and we'll confirm the exact speed for your unit before you order." },
+    { "question": "What warranty comes with this adapter?", "answer": "This adapter carries a 6-month warranty." }
+  ]
+}
