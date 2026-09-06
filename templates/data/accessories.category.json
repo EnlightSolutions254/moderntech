@@ -1,66 +1,36 @@
 {
   "meta": {
-    "title": "Laptop Accessories — Bags, Chargers, Mice | Moderntech",
-    "description": "Laptop bags, universal chargers, and wireless mice in Nairobi. In-stock pricing in KES, warranty included, order on WhatsApp."
+    "title": "Laptop Accessories — Mouse, External Cases | Moderntech",
+    "description": "Wired mice and external drive cases in Nairobi. In-stock pricing in KES, warranty included, order on WhatsApp."
   },
   "og": {
     "title": "Laptop Accessories | Moderntech",
-    "description": "Laptop bags, chargers, and mice in stock. Warranty included, order on WhatsApp."
+    "description": "Mice and external drive cases in stock. Warranty included, order on WhatsApp."
   },
   "category": {
     "slug": "accessories",
     "url": "/shop/accessories/",
     "name": "Accessories",
     "name_lower": "accessories",
-    "description": "Laptop bags, universal chargers, and wireless mice — everything you need alongside your repair.",
-    "result_count": 4
+    "description": "Mice, external drive cases and other everyday laptop accessories.",
+    "result_count": 2
   },
   "empty_state": {
     "whatsapp_text": "Hi%2C%20I%27m%20looking%20for%20a%20laptop%20accessory%20you%20may%20not%20have%20listed."
   },
   "technician_cta": {
     "heading": "Repair Technician? Get Bulk Pricing on Accessories.",
-    "body": "Volume pricing on bags, chargers and mice for repair shops and resellers.",
+    "body": "Volume pricing on mice and external cases for repair shops and resellers.",
     "cta_label": "Chat About Bulk Pricing",
     "whatsapp_text": "Hi%2C%20I%27m%20a%20technician%20interested%20in%20bulk%20pricing%20on%20accessories."
   },
   "faq_heading": "Accessory Questions",
   "faqs": [
-    { "question": "Will a charger or mouse work with any laptop brand?", "answer": "Our universal chargers and mice work across brands — check the specs on each listing for exact compatibility (e.g. connector tip size for chargers)." },
-    { "question": "Do bags fit all laptop sizes?", "answer": "Each bag listing states the maximum screen size it fits. If you're unsure, send us your laptop's screen size on WhatsApp and we'll confirm." },
-    { "question": "What warranty comes with accessories?", "answer": "Chargers and mice carry a 6-month warranty; bags carry a 3-month warranty against manufacturing defects." }
+    { "question": "Will a mouse work with any laptop brand?", "answer": "Our mice work across brands via standard USB — check the specs on each listing for exact compatibility." },
+    { "question": "Will an external case fit my drive?", "answer": "Each case listing states the drive size and interface it supports. If you're unsure, send us your drive's size on WhatsApp and we'll confirm." },
+    { "question": "What warranty comes with accessories?", "answer": "Mice and external cases carry a 6-month warranty." }
   ],
   "products": [
-    {
-      "url": "/shop/accessories/laptop-bag-15-6-inch/",
-      "brand_slug": "universal",
-      "stock": "in_stock",
-      "badge_class": "badge--in-stock",
-      "badge_label": "In Stock",
-      "image": "assets/images/products/laptop-bag-15-6.webp",
-      "alt": "15.6 inch laptop bag",
-      "name": "15.6\" Laptop Bag",
-      "tags": ["Up to 15.6\"", "Water-resistant"],
-      "price": "2,200",
-      "cta_class": "btn--whatsapp",
-      "cta_label": "Order on WhatsApp",
-      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%2015.6%22%20Laptop%20Bag%20%E2%80%94%20KES%202%2C200"
-    },
-    {
-      "url": "/shop/accessories/usb-ethernet-adapter/",
-      "brand_slug": "universal",
-      "stock": "in_stock",
-      "badge_class": "badge--in-stock",
-      "badge_label": "In Stock",
-      "image": "assets/images/products/usb-ethernet-adapter.webp",
-      "alt": "USB Ethernet adapter — gray, RJ45 port",
-      "name": "USB Ethernet Adapter",
-      "tags": ["RJ45", "Wired"],
-      "price": "2,500",
-      "cta_class": "btn--whatsapp",
-      "cta_label": "Order on WhatsApp",
-      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20USB%20Ethernet%20Adapter%20%E2%80%94%20KES%202%2C500"
-    },
     {
       "url": "/shop/accessories/dell-ms111-usb-optical-mouse/",
       "brand_slug": "dell",

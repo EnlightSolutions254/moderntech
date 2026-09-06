@@ -8,12 +8,12 @@
     "description": "USB Ethernet adapter, RJ45 wired network connectivity. In stock, order on WhatsApp."
   },
   "category": {
-    "slug": "accessories",
-    "url": "/shop/accessories/",
-    "name": "Accessories"
+    "slug": "chargers",
+    "url": "/shop/chargers/",
+    "name": "Chargers & Adapters"
   },
   "product": {
-    "url": "/shop/accessories/usb-ethernet-adapter/",
+    "url": "/shop/chargers/usb-ethernet-adapter/",
     "brand_slug": "universal",
     "brand_name": "Universal",
     "sku": "ETH-ADPT-USB",

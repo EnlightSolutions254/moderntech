@@ -13,9 +13,25 @@
     "name": "Chargers &amp; Adapters",
     "name_lower": "chargers",
     "description": "Genuine and compatible power adapters for HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook laptops. Every listing shows exact wattage, connector type and price before you message us.",
-    "result_count": 0
+    "result_count": 1
   },
-  "products": [],
+  "products": [
+    {
+      "url": "/shop/chargers/usb-ethernet-adapter/",
+      "brand_slug": "universal",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "image": "assets/images/products/usb-ethernet-adapter.webp",
+      "alt": "USB Ethernet adapter — gray, RJ45 port",
+      "name": "USB Ethernet Adapter",
+      "tags": ["RJ45", "Wired"],
+      "price": "2,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20USB%20Ethernet%20Adapter%20%E2%80%94%20KES%202%2C500"
+    }
+  ],
   "faq_heading": "Charger Questions",
   "faqs": [
     { "question": "How do I know this charger fits my laptop?", "answer": "Each listing shows the wattage and connector type. If you're unsure, send us a photo of your original charger or your laptop model on WhatsApp and we'll confirm before you order." },
