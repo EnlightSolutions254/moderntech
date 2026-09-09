@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "title": "HP 250 G7 Full Casing Kit — Top Cover, Bezel, Palmrest &amp; Bottom Base | [Store Name]",
+    "description": "Complete replacement casing kit for the HP 250 G7 (also fits 255 G7 / 256 G7) — LCD back cover, bezel, hinges, palmrest with touchpad, and bottom base. Warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "HP 250 G7 Full Casing Kit | [Store Name]",
+    "description": "Complete replacement casing kit for the HP 250 G7 / 255 G7 / 256 G7. In stock, warranty included."
+  },
+  "category": {
+    "slug": "casings",
+    "url": "/shop/casings/",
+    "name": "Casings"
+  },
+  "product": {
+    "url": "/shop/casings/hp-250-g7-full-casing/",
+    "brand_slug": "hp",
+    "brand_name": "HP",
+    "sku": "CAS-HP-250G7-FULL",
+    "type_label": "casing",
+    "type_label_cap": "Casing",
+    "name": "HP 250 G7 Full Casing Kit",
+    "full_name": "HP 250 G7 Full Casing Kit — LCD Back Cover, Bezel, Hinges, Palmrest &amp; Bottom Base",
+    "images": [
+      { "src": "assets/images/products/hp-casing-250g7-partcd.webp", "alt": "HP 250 G7 upper palmrest with keyboard tray and touchpad" },
+      { "src": "assets/images/products/hp-casing-250g7-partab.webp", "alt": "HP 250 G7 LCD back cover and screen bezel" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "9,500",
+    "price_raw": "9500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Complete replacement body kit for the HP 250 G7, also fitting the 255 G7 and 256 G7 (same chassis). Includes every external panel: the LCD back cover, screen bezel and hinges (Part AB), plus the upper palmrest with keyboard cutout and touchpad, and the bottom base (Part CD). This is the full kit — if you only need one section, see Part AB or Part CD separately. Keyboard sold separately. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20250%20G7%20Full%20Casing%20Kit%20%E2%80%94%20KES%209%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20HP%20250%20G7%20Full%20Casing%20Kit",
+    "compatible_models": [
+      "HP 250 G7",
+      "HP 255 G7",
+      "HP 256 G7"
+    ],
+    "specs": [
+      { "label": "Includes", "value": "LCD back cover, bezel, hinges, upper palmrest with touchpad, bottom base" },
+      { "label": "Keyboard", "value": "Sold separately — not included" },
+      { "label": "Color", "value": "Black / Grey" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 Months" }
+    ],
+    "related": [
+      {
+        "url": "/shop/casings/hp-250-g7-casing-part-ab/",
+        "image": "assets/images/products/hp-casing-250g7-partab.webp",
+        "alt": "HP 250 G7 LCD back cover and screen bezel",
+        "name": "HP 250 G7 Casing — Part AB (Lid)",
+        "tags": ["Part AB", "LCD Back Cover"],
+        "price": "4,500",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20250%20G7%20Casing%20%E2%80%94%20Part%20AB%20%28Lid%29%20%E2%80%94%20KES%204%2C500"
+      },
+      {
+        "url": "/shop/casings/hp-250-g7-casing-part-cd/",
+        "image": "assets/images/products/hp-casing-250g7-partcd.webp",
+        "alt": "HP 250 G7 upper palmrest with keyboard tray and touchpad",
+        "name": "HP 250 G7 Casing — Part CD (Chassis)",
+        "tags": ["Part CD", "Palmrest + Base"],
+        "price": "4,500",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20250%20G7%20Casing%20%E2%80%94%20Part%20CD%20%28Chassis%29%20%E2%80%94%20KES%204%2C500"
+      }
+    ]
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Casing Questions",
+  "faqs": [
+    { "question": "How do I know this fits my laptop?", "answer": "This fits the HP 250 G7, 255 G7 and 256 G7, which share the same body. Send us a photo of your laptop on WhatsApp if you're unsure." },
+    { "question": "What's the difference between the Full Kit, Part AB and Part CD?", "answer": "Part AB is the screen lid section (LCD back cover, bezel, hinges). Part CD is the chassis section (palmrest with touchpad and the bottom base). The Full Kit includes both, for when the whole body needs replacing." },
+    { "question": "Does this include the keyboard?", "answer": "No, the keyboard is sold separately." },
+    { "question": "Can I fit this myself?", "answer": "It involves a full teardown of the laptop, so most customers have it fitted by us. We can talk you through it on WhatsApp if you'd rather do it yourself." }
+  ]
+}

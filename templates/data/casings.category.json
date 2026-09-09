@@ -13,9 +13,58 @@
     "name": "Casings",
     "name_lower": "casings",
     "description": "Replacement top covers, bottom casings and palmrests for cracked, dented or badly worn laptop bodies — priced and listed by exact model so you know it fits before you order.",
-    "result_count": 0
+    "result_count": 3
   },
-  "products": [],
+  "products": [
+    {
+      "name": "HP 250 G7 Full Casing Kit",
+      "url": "/shop/casings/hp-250-g7-full-casing/",
+      "image": "assets/images/products/hp-casing-250g7-partcd.webp",
+      "alt": "HP 250 G7 upper palmrest with keyboard tray and touchpad",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": ["Full Kit", "250/255/256 G7"],
+      "price": "9,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20250%20G7%20Full%20Casing%20Kit%20%E2%80%94%20KES%209%2C500",
+      "extra": false
+    },
+    {
+      "name": "HP 250 G7 Casing — Part AB (Lid)",
+      "url": "/shop/casings/hp-250-g7-casing-part-ab/",
+      "image": "assets/images/products/hp-casing-250g7-partab.webp",
+      "alt": "HP 250 G7 LCD back cover and screen bezel",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": ["Part AB", "LCD Back Cover"],
+      "price": "4,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20250%20G7%20Casing%20%E2%80%94%20Part%20AB%20%28Lid%29%20%E2%80%94%20KES%204%2C500",
+      "extra": false
+    },
+    {
+      "name": "HP 250 G7 Casing — Part CD (Chassis)",
+      "url": "/shop/casings/hp-250-g7-casing-part-cd/",
+      "image": "assets/images/products/hp-casing-250g7-partcd.webp",
+      "alt": "HP 250 G7 upper palmrest with keyboard tray and touchpad",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": ["Part CD", "Palmrest + Base"],
+      "price": "4,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20250%20G7%20Casing%20%E2%80%94%20Part%20CD%20%28Chassis%29%20%E2%80%94%20KES%204%2C500",
+      "extra": false
+    }
+  ],
   "faq_heading": "Casing Questions",
   "faqs": [
     { "question": "How do I know this casing fits my laptop?", "answer": "Each listing shows the exact compatible model and which panel it covers (top cover, bottom cover or palmrest). If you're unsure, send us a photo of your laptop on WhatsApp and we'll confirm." },
