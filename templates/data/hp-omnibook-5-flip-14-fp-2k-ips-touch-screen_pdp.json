@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "title": "HP OmniBook 5 Flip 14-fp 2K IPS Touch Screen | [Store Name]",
+    "description": "Genuine replacement touch screen for HP OmniBook 5 Flip 14-fp0000. 14\" 2K (1920x1200) IPS, multi-touch, 300 nits, 62.5% sRGB. Warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "HP OmniBook 5 Flip 14-fp 2K IPS Touch Screen | [Store Name]",
+    "description": "Genuine 14\" WUXGA IPS touch replacement screen for HP OmniBook 5 Flip 14-fp. In stock, warranty included."
+  },
+  "category": {
+    "slug": "screens",
+    "url": "/shop/screens/",
+    "name": "Laptop Screens"
+  },
+  "product": {
+    "url": "/shop/screens/hp-omnibook-5-flip-14-fp-2k-ips-touch-screen/",
+    "brand_slug": "hp",
+    "brand_name": "HP",
+    "sku": "SCR-HP-OMNIBOOK5FLIP-14FP-2K-IPS-TOUCH",
+    "type_label": "screen",
+    "type_label_cap": "Screen",
+    "name": "HP OmniBook 5 Flip 14-fp 2K Touch Screen (IPS)",
+    "full_name": "HP OmniBook 5 Flip 14-fp 14\" WUXGA 2K (1920x1200) IPS Multi-Touch Screen, 60Hz",
+    "images": [
+      { "src": "assets/images/products/laptop-screen-hp-omnibook-5-flip-14-fp-2k-ips-touch.webp", "alt": "HP OmniBook 5 Flip 14-fp 14 inch 2K WUXGA IPS touch screen replacement" },
+      { "src": "assets/images/products/laptop-screen-hp-omnibook-5-flip-14-fp-2k-ips-touch-alt.webp", "alt": "Angled view of the HP OmniBook 5 Flip 14-fp 2K IPS touch screen" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "19,500",
+    "price_raw": "19500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine replacement touch screen for the HP OmniBook 5 Flip 14-fp 2-in-1 convertible, WUXGA/2K IPS configuration (1920x1200, 16:10, 60Hz, 300 nits, 62.5% sRGB, edge-to-edge glass, micro-edge, EDP 30-pin connector, capacitive multi-touch). Unlike some other OmniBook 14-inch series, the 14-fp ships with this single panel option across its SKUs (e.g. 14-fp0013dx, 14-fp0023dx, 14-fp0057nr) — no OLED variant. Send us your model number or a photo of the sticker under your laptop on WhatsApp if you'd like us to double-check fit before dispatch. 360-degree hinge supports laptop, tent, stand and tablet modes. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20OmniBook%205%20Flip%2014-fp%202K%20Touch%20Screen%20%28IPS%29%20%E2%80%94%20KES%2019%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20HP%20OmniBook%205%20Flip%2014-fp%202K%20Touch%20Screen%20%28IPS%29",
+    "specs": [
+      { "label": "Screen Size", "value": "14\"" },
+      { "label": "Resolution", "value": "2K / WUXGA (1920x1200)" },
+      { "label": "Panel Type", "value": "IPS" },
+      { "label": "Aspect Ratio", "value": "16:10" },
+      { "label": "Touch", "value": "Yes (Multi-Touch)" },
+      { "label": "Refresh Rate", "value": "60Hz" },
+      { "label": "Brightness", "value": "300 nits" },
+      { "label": "Color Gamut", "value": "62.5% sRGB" },
+      { "label": "Screen Finish", "value": "Edge-to-edge glass, micro-edge" },
+      { "label": "Connector", "value": "eDP 30-Pin" },
+      { "label": "Compatible Series", "value": "HP OmniBook 5 Flip 14-fp0000 (single panel option, e.g. 14-fp0013dx, 14-fp0023dx, 14-fp0057nr)" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 Months" }
+    ],
+    "related": [
+      {
+        "url": "/shop/screens/hp-envy-x360-14-fc-2k-ips-touch-screen/",
+        "image": "assets/images/products/laptop-screen-hp-envy-x360-14-fc-2k-ips-touch.webp",
+        "alt": "HP Envy x360 14-fc 14 inch 2K WUXGA IPS touch screen replacement",
+        "name": "HP Envy x360 14-fc 2K Touch Screen (IPS)",
+        "tags": ["HP Envy x360 14-fc", "2K IPS Touch"],
+        "price": "23,000",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20Envy%20x360%2014-fc%202K%20Touch%20Screen%20%28IPS%29%20%E2%80%94%20KES%2023%2C000"
+      },
+      {
+        "url": "/shop/screens/hp-omnibook-x-flip-14-fm-2k-ips-touch-screen/",
+        "image": "assets/images/products/laptop-screen-hp-omnibook-x-flip-14-fm-2k-ips-touch.webp",
+        "alt": "HP OmniBook X Flip 14-fm 14 inch 2K IPS touch screen replacement",
+        "name": "HP OmniBook X Flip 14-fm 2K Touch Screen (IPS)",
+        "tags": ["HP OmniBook X Flip 14-fm", "2K IPS Touch"],
+        "price": "23,000",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20OmniBook%20X%20Flip%2014-fm%202K%20Touch%20Screen%20%28IPS%29%20%E2%80%94%20KES%2023%2C000"
+      }
+    ]
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Screen Questions",
+  "faqs": [
+    { "question": "Does the OmniBook 5 Flip 14-fp come in an OLED version too?", "answer": "No — unlike some other OmniBook 14-inch series, the 14-fp ships with a single WUXGA IPS touch panel across its SKUs. This listing is the correct panel for the whole 14-fp0000 range." },
+    { "question": "Is it touch screen?", "answer": "Yes, this is a capacitive multi-touch IPS panel, matching the OmniBook 5 Flip's 360-degree convertible hinge." },
+    { "question": "What warranty comes with this screen?", "answer": "This screen carries a 3-month warranty against dead pixels and panel defects." }
+  ]
+}

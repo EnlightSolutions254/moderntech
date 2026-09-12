@@ -1,0 +1,147 @@
+{
+  "meta": {
+    "title": "HP OmniBook X Flip 14-fm 2K Touch Screen (IPS) | [Store Name]",
+    "description": "Genuine replacement touch screen for HP OmniBook X Flip 14-fm (2K IPS configurations, e.g. 14-fm0505sa). 14\" 2K (1920x1200) IPS, multi-touch, Gorilla Glass 3. Warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "HP OmniBook X Flip 14-fm 2K Touch Screen (IPS) | [Store Name]",
+    "description": "Genuine 14\" 2K IPS touch replacement screen for HP OmniBook X Flip 14-fm. In stock, warranty included."
+  },
+  "category": {
+    "slug": "screens",
+    "url": "/shop/screens/",
+    "name": "Laptop Screens"
+  },
+  "product": {
+    "url": "/shop/screens/hp-omnibook-x-flip-14-fm-2k-ips-touch-screen/",
+    "brand_slug": "hp",
+    "brand_name": "HP",
+    "sku": "SCR-HP-OMNIBOOKXFLIP-14FM-2K-IPS-TOUCH",
+    "type_label": "screen",
+    "type_label_cap": "Screen",
+    "name": "HP OmniBook X Flip 14-fm 2K Touch Screen (IPS)",
+    "full_name": "HP OmniBook X Flip 14-fm 14\" 2K (1920x1200) IPS Multi-Touch Screen",
+    "images": [
+      {
+        "src": "assets/images/products/laptop-screen-hp-omnibook-x-flip-14-fm-2k-ips-touch.webp",
+        "alt": "HP OmniBook X Flip 14-fm 14 inch 2K IPS touch screen replacement"
+      },
+      {
+        "src": "assets/images/products/laptop-screen-hp-omnibook-x-flip-14-fm-2k-ips-touch-alt.webp",
+        "alt": "Angled view of the HP OmniBook X Flip 14-fm 2K IPS touch screen"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "price": "23,000",
+    "price_raw": "23000",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine replacement touch screen for the HP OmniBook X Flip 14-fm 2-in-1 convertible, 2K IPS configuration (1920x1200, 400 nits, 62.5% sRGB, Corning Gorilla Glass 3, multi-touch). Fits 14-fm0000-series units built with the 2K IPS panel, such as the 14-fm0505sa. Because the 14-fm series covers both 2K IPS and 3K OLED builds, send us your full model number (e.g. 14-fm0505sa) or a photo of the sticker under your laptop on WhatsApp so we can confirm fit before dispatch. Supports laptop, tablet, tent and reverse modes. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20OmniBook%20X%20Flip%2014-fm%202K%20Touch%20Screen%20%28IPS%29%20%E2%80%94%20KES%2023%2C000",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20HP%20OmniBook%20X%20Flip%2014-fm%202K%20Touch%20Screen%20%28IPS%29",
+    "specs": [
+      {
+        "label": "Screen Size",
+        "value": "14\""
+      },
+      {
+        "label": "Resolution",
+        "value": "2K (1920x1200)"
+      },
+      {
+        "label": "Panel Type",
+        "value": "IPS"
+      },
+      {
+        "label": "Aspect Ratio",
+        "value": "16:10"
+      },
+      {
+        "label": "Touch",
+        "value": "Yes (Multi-Touch)"
+      },
+      {
+        "label": "Brightness",
+        "value": "Up to 400 nits"
+      },
+      {
+        "label": "Color Gamut",
+        "value": "62.5% sRGB"
+      },
+      {
+        "label": "Screen Finish",
+        "value": "Edge-to-edge glass, micro-edge"
+      },
+      {
+        "label": "Display Interface",
+        "value": "eDP"
+      },
+      {
+        "label": "Protection",
+        "value": "Corning Gorilla Glass 3"
+      },
+      {
+        "label": "Compatible Series",
+        "value": "HP OmniBook X Flip 14-fm (2K IPS builds, e.g. 14-fm0505sa)"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      },
+      {
+        "label": "Warranty",
+        "value": "3 Months"
+      }
+    ],
+    "related": [
+      {
+        "url": "/shop/screens/hp-omnibook-x-flip-14-fm-3k-oled-touch-screen/",
+        "image": "assets/images/products/laptop-screen-hp-omnibook-x-flip-14-fm-3k-oled-touch.webp",
+        "alt": "HP OmniBook X Flip 14-fm 14 inch 3K OLED touch screen replacement",
+        "name": "HP OmniBook X Flip 14-fm 3K Touch Screen (OLED)",
+        "tags": [
+          "HP OmniBook X Flip 14-fm",
+          "3K OLED Touch"
+        ],
+        "price": "23,000",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20OmniBook%20X%20Flip%2014-fm%203K%20Touch%20Screen%20%28OLED%29%20%E2%80%94%20KES%2023%2C000"
+      },
+      {
+        "url": "/shop/screens/lenovo-flex-5-14-touch-screen/",
+        "image": "assets/images/products/laptop-screen-lenovo-flex-5-14-touch.webp",
+        "alt": "Touch screen for Lenovo Flex 5-14",
+        "name": "Lenovo Flex 5-14 Touch Screen",
+        "tags": [
+          "Flex 5-14",
+          "Touch"
+        ],
+        "price": "18,500",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20Flex%205-14%20Touch%20Screen%20%E2%80%94%20KES%2018%2C500"
+      }
+    ]
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Screen Questions",
+  "faqs": [
+    {
+      "question": "How do I know this is the right variant for my OmniBook X Flip 14-fm?",
+      "answer": "The 14-fm series ships with two different touch panels: 2K IPS (this listing) and 3K OLED. Send us your full model number (e.g. 14-fm0505sa or 14-fm0003ni) or a photo of the label under your laptop on WhatsApp and we'll confirm which one you need before you order."
+    },
+    {
+      "question": "Is it touch screen?",
+      "answer": "Yes, this is a multi-touch IPS panel with Corning Gorilla Glass 3 protection, matching the OmniBook X Flip's 2-in-1 laptop, tablet, tent and reverse modes."
+    },
+    {
+      "question": "What warranty comes with this screen?",
+      "answer": "This screen carries a 3-month warranty against dead pixels and panel defects."
+    }
+  ]
+}

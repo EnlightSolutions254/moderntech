@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "title": "HP OmniBook 7 14-fs 3K OLED Screen (Non-Touch) | [Store Name]",
+    "description": "Genuine replacement screen for HP OmniBook 7 14-fs0000 (3K OLED configurations). 14\" 3K (2880x1800) OLED, non-touch, 48-120Hz, 400 nits, 100% DCI-P3. Warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "HP OmniBook 7 14-fs 3K OLED Screen (Non-Touch) | [Store Name]",
+    "description": "Genuine 14\" 3K OLED non-touch replacement screen for HP OmniBook 7 14-fs. In stock, warranty included."
+  },
+  "category": {
+    "slug": "screens",
+    "url": "/shop/screens/",
+    "name": "Laptop Screens"
+  },
+  "product": {
+    "url": "/shop/screens/hp-omnibook-7-14-fs-3k-oled-non-touch-screen/",
+    "brand_slug": "hp",
+    "brand_name": "HP",
+    "sku": "SCR-HP-OMNIBOOK7-14FS-3K-OLED-NT",
+    "type_label": "screen",
+    "type_label_cap": "Screen",
+    "name": "HP OmniBook 7 14-fs 3K Screen (OLED, Non-Touch)",
+    "full_name": "HP OmniBook 7 14-fs 14\" 3K (2880x1800) OLED Non-Touch Screen, 48-120Hz",
+    "images": [
+      { "src": "assets/images/products/laptop-screen-hp-omnibook-7-14-fs-3k-oled-nontouch.webp", "alt": "HP OmniBook 7 14-fs 14 inch 3K OLED non-touch screen replacement" },
+      { "src": "assets/images/products/laptop-screen-hp-omnibook-7-14-fs-3k-oled-nontouch-alt.webp", "alt": "Angled view of the HP OmniBook 7 14-fs 3K OLED non-touch screen" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "21,000",
+    "price_raw": "21000",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine replacement screen for the HP OmniBook 7 14-fs clamshell laptop, 3K OLED configuration (2880x1800, 16:10, variable 48-120Hz refresh, 400 nits peak brightness, 100% DCI-P3 color gamut). Non-touch. Fits 14-fs0000-series units built with the OLED panel, part of HP's MIL-STD-810H tested 14-inch OmniBook 7 lineup. Because the 14-fs series covers both WUXGA IPS and 3K OLED builds, send us your full model number or a photo of the sticker under your laptop on WhatsApp so we can confirm fit before dispatch. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20OmniBook%207%2014-fs%203K%20Screen%20%28OLED%2C%20Non-Touch%29%20%E2%80%94%20KES%2021%2C000",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20HP%20OmniBook%207%2014-fs%203K%20Screen%20%28OLED%2C%20Non-Touch%29",
+    "specs": [
+      { "label": "Screen Size", "value": "14\"" },
+      { "label": "Resolution", "value": "3K (2880x1800)" },
+      { "label": "Panel Type", "value": "OLED" },
+      { "label": "Aspect Ratio", "value": "16:10" },
+      { "label": "Touch", "value": "No" },
+      { "label": "Refresh Rate", "value": "48-120Hz (Variable)" },
+      { "label": "Brightness", "value": "400 nits" },
+      { "label": "Color Gamut", "value": "100% DCI-P3" },
+      { "label": "Compatible Series", "value": "HP OmniBook 7 14-fs0000 (3K OLED builds)" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 Months" }
+    ],
+    "related": [
+      {
+        "url": "/shop/screens/hp-omnibook-7-14-fs-2k-ips-non-touch-screen/",
+        "image": "assets/images/products/laptop-screen-hp-omnibook-7-14-fs-2k-ips-nontouch.webp",
+        "alt": "HP OmniBook 7 14-fs 14 inch 2K WUXGA IPS non-touch screen replacement",
+        "name": "HP OmniBook 7 14-fs 2K Screen (IPS, Non-Touch)",
+        "tags": ["HP OmniBook 7 14-fs", "2K IPS Non-Touch"],
+        "price": "9,500",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20OmniBook%207%2014-fs%202K%20Screen%20%28IPS%2C%20Non-Touch%29%20%E2%80%94%20KES%209%2C500"
+      },
+      {
+        "url": "/shop/screens/hp-omnibook-x-flip-14-fm-3k-oled-touch-screen/",
+        "image": "assets/images/products/laptop-screen-hp-omnibook-x-flip-14-fm-3k-oled-touch.webp",
+        "alt": "HP OmniBook X Flip 14-fm 14 inch 3K OLED touch screen replacement",
+        "name": "HP OmniBook X Flip 14-fm 3K Touch Screen (OLED)",
+        "tags": ["HP OmniBook X Flip 14-fm", "3K OLED Touch"],
+        "price": "23,000",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20OmniBook%20X%20Flip%2014-fm%203K%20Touch%20Screen%20%28OLED%29%20%E2%80%94%20KES%2023%2C000"
+      }
+    ]
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Screen Questions",
+  "faqs": [
+    { "question": "How do I know this is the right variant for my OmniBook 7 14-fs?", "answer": "The 14-fs series ships with two different panels: 3K OLED (this listing) and WUXGA IPS. Send us your full model number or a photo of the label under your laptop on WhatsApp and we'll confirm which one you need before you order." },
+    { "question": "Is it touch screen?", "answer": "No, this is a non-touch panel — the OmniBook 7 14-fs is a standard clamshell laptop, not a 2-in-1 convertible." },
+    { "question": "What warranty comes with this screen?", "answer": "This screen carries a 3-month warranty against dead pixels and panel defects." }
+  ]
+}

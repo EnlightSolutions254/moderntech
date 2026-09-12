@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "title": "HP Envy x360 14-fc 3K OLED Touch Screen | [Store Name]",
+    "description": "Genuine replacement touch screen for HP Envy x360 14-fc0000 (2.8K OLED configurations, e.g. 14-fc0005na, 14-fc0097nr). 14\" 2.8K (2880x1800) OLED, 48-120Hz, multi-touch, Gorilla Glass NBT. Warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "HP Envy x360 14-fc 3K OLED Touch Screen | [Store Name]",
+    "description": "Genuine 14\" 2.8K OLED touch replacement screen for HP Envy x360 14-fc. In stock, warranty included."
+  },
+  "category": {
+    "slug": "screens",
+    "url": "/shop/screens/",
+    "name": "Laptop Screens"
+  },
+  "product": {
+    "url": "/shop/screens/hp-envy-x360-14-fc-3k-oled-touch-screen/",
+    "brand_slug": "hp",
+    "brand_name": "HP",
+    "sku": "SCR-HP-ENVYX360-14FC-3K-OLED-TOUCH",
+    "type_label": "screen",
+    "type_label_cap": "Screen",
+    "name": "HP Envy x360 14-fc 3K Touch Screen (OLED)",
+    "full_name": "HP Envy x360 14-fc 14\" 2.8K (2880x1800) OLED Multi-Touch Screen, 48-120Hz",
+    "images": [
+      { "src": "assets/images/products/laptop-screen-hp-envy-x360-14-fc-3k-oled-touch.webp", "alt": "HP Envy x360 14-fc 14 inch 2.8K OLED touch screen replacement" },
+      { "src": "assets/images/products/laptop-screen-hp-envy-x360-14-fc-3k-oled-touch-alt.webp", "alt": "Angled view of the HP Envy x360 14-fc 3K OLED touch screen" }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "price": "23,000",
+    "price_raw": "23000",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Genuine replacement touch screen for the HP Envy x360 14-fc 2-in-1 convertible, 2.8K OLED configuration (2880x1800, adaptive 48-120Hz refresh, 0.2ms response time, SDR 400 nits / HDR 500 nits, 100% DCI-P3, edge-to-edge glass with micro-edge bezel, Corning Gorilla Glass NBT, multi-touch, IMAX-certified panel). Fits 14-fc0000-series units built with the 2.8K OLED panel, such as the 14-fc0005na, 14-fc0097nr and 14-fc0009na. Because the 14-fc series covers both WUXGA IPS and 2.8K OLED builds, send us your full model number or a photo of the sticker under your laptop on WhatsApp so we can confirm fit before dispatch. 360-degree hinge supports laptop, tent, stand and tablet modes. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20Envy%20x360%2014-fc%203K%20Touch%20Screen%20%28OLED%29%20%E2%80%94%20KES%2023%2C000",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20HP%20Envy%20x360%2014-fc%203K%20Touch%20Screen%20%28OLED%29",
+    "specs": [
+      { "label": "Screen Size", "value": "14\"" },
+      { "label": "Resolution", "value": "2.8K (2880x1800)" },
+      { "label": "Panel Type", "value": "OLED" },
+      { "label": "Aspect Ratio", "value": "16:10" },
+      { "label": "Touch", "value": "Yes (Multi-Touch)" },
+      { "label": "Refresh Rate", "value": "48-120Hz (Adaptive)" },
+      { "label": "Response Time", "value": "0.2 ms" },
+      { "label": "Brightness", "value": "SDR 400 nits / HDR 500 nits" },
+      { "label": "Color Gamut", "value": "100% DCI-P3" },
+      { "label": "Screen Finish", "value": "Edge-to-edge glass, micro-edge" },
+      { "label": "Protection", "value": "Corning Gorilla Glass NBT" },
+      { "label": "Compatible Series", "value": "HP Envy x360 14-fc0000 (2.8K OLED builds, e.g. 14-fc0005na, 14-fc0097nr, 14-fc0009na)" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 Months" }
+    ],
+    "related": [
+      {
+        "url": "/shop/screens/hp-envy-x360-14-fc-2k-ips-touch-screen/",
+        "image": "assets/images/products/laptop-screen-hp-envy-x360-14-fc-2k-ips-touch.webp",
+        "alt": "HP Envy x360 14-fc 14 inch 2K WUXGA IPS touch screen replacement",
+        "name": "HP Envy x360 14-fc 2K Touch Screen (IPS)",
+        "tags": ["HP Envy x360 14-fc", "2K IPS Touch"],
+        "price": "23,000",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20Envy%20x360%2014-fc%202K%20Touch%20Screen%20%28IPS%29%20%E2%80%94%20KES%2023%2C000"
+      },
+      {
+        "url": "/shop/screens/hp-omnibook-x-flip-14-fm-3k-oled-touch-screen/",
+        "image": "assets/images/products/laptop-screen-hp-omnibook-x-flip-14-fm-3k-oled-touch.webp",
+        "alt": "HP OmniBook X Flip 14-fm 14 inch 3K OLED touch screen replacement",
+        "name": "HP OmniBook X Flip 14-fm 3K Touch Screen (OLED)",
+        "tags": ["HP OmniBook X Flip 14-fm", "3K OLED Touch"],
+        "price": "23,000",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20OmniBook%20X%20Flip%2014-fm%203K%20Touch%20Screen%20%28OLED%29%20%E2%80%94%20KES%2023%2C000"
+      }
+    ]
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Screen Questions",
+  "faqs": [
+    { "question": "How do I know this is the right variant for my Envy x360 14-fc?", "answer": "The 14-fc series ships with two different touch panels: 2.8K OLED (this listing) and WUXGA IPS. Send us your full model number (e.g. 14-fc0005na or 14-fc0097nr) or a photo of the label under your laptop on WhatsApp and we'll confirm which one you need before you order." },
+    { "question": "Is it touch screen?", "answer": "Yes, this is a multi-touch OLED panel with adaptive 48-120Hz refresh and Corning Gorilla Glass NBT protection, matching the Envy x360's 360-degree convertible hinge." },
+    { "question": "What warranty comes with this screen?", "answer": "This screen carries a 3-month warranty against dead pixels and panel defects." }
+  ]
+}
