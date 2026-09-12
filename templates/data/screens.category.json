@@ -13,7 +13,7 @@
     "name": "Laptop Screens",
     "name_lower": "screens",
     "description": "Genuine replacement screens for HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook laptops. Every listing shows exact panel size, resolution and compatible models before you message us.",
-    "result_count": 20
+    "result_count": 21
   },
   "products": [
     {
@@ -25,10 +25,7 @@
       "image": "assets/images/products/laptop-screen-15-6-slim-30-40pin-hd-nontouch.webp",
       "alt": "15.6 inch slim HD non-touch laptop screen, 30/40 pin",
       "name": "15.6\" Slim Laptop Screen (HD, Non-Touch)",
-      "tags": [
-        "15.6\" Slim",
-        "HD"
-      ],
+      "tags": ["15.6\" Slim", "HD"],
       "price": "6,500",
       "cta_label": "Order on WhatsApp",
       "cta_class": "btn--whatsapp",
@@ -43,10 +40,7 @@
       "image": "assets/images/products/laptop-screen-15-6-slim-30-40pin-fhd-nontouch.webp",
       "alt": "15.6 inch slim FHD non-touch laptop screen, 30/40 pin",
       "name": "15.6\" Slim Laptop Screen (FHD, Non-Touch)",
-      "tags": [
-        "15.6\" Slim",
-        "FHD"
-      ],
+      "tags": ["15.6\" Slim", "FHD"],
       "price": "7,500",
       "cta_label": "Order on WhatsApp",
       "cta_class": "btn--whatsapp",
@@ -61,10 +55,7 @@
       "image": "assets/images/products/laptop-screen-15-6-short-30-40pin-hd-nontouch.webp",
       "alt": "15.6 inch short HD non-touch laptop screen, 30/40 pin",
       "name": "15.6\" Short Laptop Screen (HD, Non-Touch)",
-      "tags": [
-        "15.6\" Short",
-        "HD"
-      ],
+      "tags": ["15.6\" Short", "HD"],
       "price": "7,000",
       "cta_label": "Order on WhatsApp",
       "cta_class": "btn--whatsapp",
@@ -79,10 +70,7 @@
       "image": "assets/images/products/laptop-screen-15-6-short-30-40pin-fhd-nontouch.webp",
       "alt": "15.6 inch short FHD non-touch laptop screen, 30/40 pin",
       "name": "15.6\" Short Laptop Screen (FHD, Non-Touch)",
-      "tags": [
-        "15.6\" Short",
-        "FHD"
-      ],
+      "tags": ["15.6\" Short", "FHD"],
       "price": "8,000",
       "cta_label": "Order on WhatsApp",
       "cta_class": "btn--whatsapp",
@@ -97,10 +85,7 @@
       "image": "assets/images/products/laptop-screen-14-0-slim-30-40pin-hd-nontouch.webp",
       "alt": "14.0 inch slim HD non-touch laptop screen, 30/40 pin",
       "name": "14.0\" Slim Laptop Screen (HD, Non-Touch)",
-      "tags": [
-        "14.0\" Slim",
-        "HD"
-      ],
+      "tags": ["14.0\" Slim", "HD"],
       "price": "6,500",
       "cta_label": "Order on WhatsApp",
       "cta_class": "btn--whatsapp",
@@ -115,10 +100,7 @@
       "image": "assets/images/products/laptop-screen-14-0-slim-30-40pin-fhd-nontouch.webp",
       "alt": "14.0 inch slim FHD non-touch laptop screen, 30/40 pin",
       "name": "14.0\" Slim Laptop Screen (FHD, Non-Touch)",
-      "tags": [
-        "14.0\" Slim",
-        "FHD"
-      ],
+      "tags": ["14.0\" Slim", "FHD"],
       "price": "7,500",
       "cta_label": "Order on WhatsApp",
       "cta_class": "btn--whatsapp",
@@ -133,10 +115,7 @@
       "image": "assets/images/products/laptop-screen-14-0-short-30-40pin-hd-nontouch.webp",
       "alt": "14.0 inch short HD non-touch laptop screen, 30/40 pin",
       "name": "14.0\" Short Laptop Screen (HD, Non-Touch)",
-      "tags": [
-        "14.0\" Short",
-        "HD"
-      ],
+      "tags": ["14.0\" Short", "HD"],
       "price": "7,000",
       "cta_label": "Order on WhatsApp",
       "cta_class": "btn--whatsapp",
@@ -151,10 +130,7 @@
       "image": "assets/images/products/laptop-screen-14-0-short-30-40pin-fhd-nontouch.webp",
       "alt": "14.0 inch short FHD non-touch laptop screen, 30/40 pin",
       "name": "14.0\" Short Laptop Screen (FHD, Non-Touch)",
-      "tags": [
-        "14.0\" Short",
-        "FHD"
-      ],
+      "tags": ["14.0\" Short", "FHD"],
       "price": "8,000",
       "cta_label": "Order on WhatsApp",
       "cta_class": "btn--whatsapp",
@@ -169,10 +145,7 @@
       "image": "assets/images/products/laptop-screen-14-0-folded-30-40pin-fhd-nontouch.webp",
       "alt": "14.0 inch folded FHD non-touch laptop screen, 30/40 pin",
       "name": "14.0\" Folded Laptop Screen (FHD, Non-Touch)",
-      "tags": [
-        "14.0\" Folded",
-        "FHD"
-      ],
+      "tags": ["14.0\" Folded", "FHD"],
       "price": "8,500",
       "cta_label": "Order on WhatsApp",
       "cta_class": "btn--whatsapp",
@@ -187,10 +160,7 @@
       "image": "assets/images/products/laptop-screen-13-3-folded-30-40pin-fhd-nontouch.webp",
       "alt": "13.3 inch folded FHD non-touch laptop screen, 30/40 pin",
       "name": "13.3\" Folded Laptop Screen (FHD, Non-Touch)",
-      "tags": [
-        "13.3\" Folded",
-        "FHD"
-      ],
+      "tags": ["13.3\" Folded", "FHD"],
       "price": "8,500",
       "cta_label": "Order on WhatsApp",
       "cta_class": "btn--whatsapp",
@@ -205,10 +175,7 @@
       "image": "assets/images/products/laptop-screen-13-3-short-30-40pin-fhd-nontouch.webp",
       "alt": "13.3 inch short FHD non-touch laptop screen, 30/40 pin",
       "name": "13.3\" Short Laptop Screen (FHD, Non-Touch)",
-      "tags": [
-        "13.3\" Short",
-        "FHD"
-      ],
+      "tags": ["13.3\" Short", "FHD"],
       "price": "8,000",
       "cta_label": "Order on WhatsApp",
       "cta_class": "btn--whatsapp",
@@ -223,10 +190,7 @@
       "image": "assets/images/products/laptop-screen-12-5-short-30-40pin-fhd-nontouch.webp",
       "alt": "12.5 inch short FHD non-touch laptop screen, 30/40 pin",
       "name": "12.5\" Short Laptop Screen (FHD, Non-Touch)",
-      "tags": [
-        "12.5\" Short",
-        "FHD"
-      ],
+      "tags": ["12.5\" Short", "FHD"],
       "price": "7,500",
       "cta_label": "Order on WhatsApp",
       "cta_class": "btn--whatsapp",
@@ -241,10 +205,7 @@
       "image": "assets/images/products/laptop-screen-lenovo-flex-5-14-touch.webp",
       "alt": "Touch screen for Lenovo Flex 5-14",
       "name": "Lenovo Flex 5-14 Touch Screen",
-      "tags": [
-        "Flex 5-14",
-        "Touch"
-      ],
+      "tags": ["Flex 5-14", "Touch"],
       "price": "18,500",
       "cta_label": "Order on WhatsApp",
       "cta_class": "btn--whatsapp",
@@ -259,10 +220,7 @@
       "image": "assets/images/products/laptop-screen-hp-omnibook-x-flip-14-fm-2k-ips-touch.webp",
       "alt": "HP OmniBook X Flip 14-fm 14 inch 2K IPS touch screen replacement",
       "name": "HP OmniBook X Flip 14-fm 2K Touch Screen (IPS)",
-      "tags": [
-        "HP OmniBook X Flip 14-fm",
-        "2K IPS Touch"
-      ],
+      "tags": ["HP OmniBook X Flip 14-fm", "2K IPS Touch"],
       "price": "23,000",
       "cta_label": "Order on WhatsApp",
       "cta_class": "btn--whatsapp",
@@ -277,10 +235,7 @@
       "image": "assets/images/products/laptop-screen-hp-omnibook-x-flip-14-fm-3k-oled-touch.webp",
       "alt": "HP OmniBook X Flip 14-fm 14 inch 3K OLED touch screen replacement",
       "name": "HP OmniBook X Flip 14-fm 3K Touch Screen (OLED)",
-      "tags": [
-        "HP OmniBook X Flip 14-fm",
-        "3K OLED Touch"
-      ],
+      "tags": ["HP OmniBook X Flip 14-fm", "3K OLED Touch"],
       "price": "23,000",
       "cta_label": "Order on WhatsApp",
       "cta_class": "btn--whatsapp",
@@ -295,10 +250,7 @@
       "image": "assets/images/products/laptop-screen-hp-envy-x360-14-fc-2k-ips-touch.webp",
       "alt": "HP Envy x360 14-fc 14 inch 2K WUXGA IPS touch screen replacement",
       "name": "HP Envy x360 14-fc 2K Touch Screen (IPS)",
-      "tags": [
-        "HP Envy x360 14-fc",
-        "2K IPS Touch"
-      ],
+      "tags": ["HP Envy x360 14-fc", "2K IPS Touch"],
       "price": "23,000",
       "cta_label": "Order on WhatsApp",
       "cta_class": "btn--whatsapp",
@@ -313,10 +265,7 @@
       "image": "assets/images/products/laptop-screen-hp-envy-x360-14-fc-3k-oled-touch.webp",
       "alt": "HP Envy x360 14-fc 14 inch 2.8K OLED touch screen replacement",
       "name": "HP Envy x360 14-fc 3K Touch Screen (OLED)",
-      "tags": [
-        "HP Envy x360 14-fc",
-        "3K OLED Touch"
-      ],
+      "tags": ["HP Envy x360 14-fc", "3K OLED Touch"],
       "price": "23,000",
       "cta_label": "Order on WhatsApp",
       "cta_class": "btn--whatsapp",
@@ -331,10 +280,7 @@
       "image": "assets/images/products/laptop-screen-hp-omnibook-7-14-fs-2k-ips-nontouch.webp",
       "alt": "HP OmniBook 7 14-fs 14 inch 2K WUXGA IPS non-touch screen replacement",
       "name": "HP OmniBook 7 14-fs 2K Screen (IPS, Non-Touch)",
-      "tags": [
-        "HP OmniBook 7 14-fs",
-        "2K IPS Non-Touch"
-      ],
+      "tags": ["HP OmniBook 7 14-fs", "2K IPS Non-Touch"],
       "price": "9,500",
       "cta_label": "Order on WhatsApp",
       "cta_class": "btn--whatsapp",
@@ -349,10 +295,7 @@
       "image": "assets/images/products/laptop-screen-hp-omnibook-7-14-fs-3k-oled-nontouch.webp",
       "alt": "HP OmniBook 7 14-fs 14 inch 3K OLED non-touch screen replacement",
       "name": "HP OmniBook 7 14-fs 3K Screen (OLED, Non-Touch)",
-      "tags": [
-        "HP OmniBook 7 14-fs",
-        "3K OLED Non-Touch"
-      ],
+      "tags": ["HP OmniBook 7 14-fs", "3K OLED Non-Touch"],
       "price": "21,000",
       "cta_label": "Order on WhatsApp",
       "cta_class": "btn--whatsapp",
@@ -367,14 +310,26 @@
       "image": "assets/images/products/laptop-screen-hp-omnibook-5-flip-14-fp-2k-ips-touch.webp",
       "alt": "HP OmniBook 5 Flip 14-fp 14 inch 2K WUXGA IPS touch screen replacement",
       "name": "HP OmniBook 5 Flip 14-fp 2K Touch Screen (IPS)",
-      "tags": [
-        "HP OmniBook 5 Flip 14-fp",
-        "2K IPS Touch"
-      ],
+      "tags": ["HP OmniBook 5 Flip 14-fp", "2K IPS Touch"],
       "price": "19,500",
       "cta_label": "Order on WhatsApp",
       "cta_class": "btn--whatsapp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20OmniBook%205%20Flip%2014-fp%202K%20Touch%20Screen%20%28IPS%29%20%E2%80%94%20KES%2019%2C500"
+    },
+    {
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/screens/hp-envy-x360-15-es-fhd-ips-touch-screen/",
+      "image": "assets/images/products/laptop-screen-hp-envy-x360-15-es-fhd-ips-touch.webp",
+      "alt": "HP Envy x360 15-es 15.6 inch FHD IPS touch screen replacement",
+      "name": "HP Envy x360 15-es FHD Touch Screen (IPS)",
+      "tags": ["HP Envy x360 15-es", "FHD IPS Touch"],
+      "price": "23,000",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20Envy%20x360%2015-es%20FHD%20Touch%20Screen%20%28IPS%29%20%E2%80%94%20KES%2023%2C000"
     }
   ],
   "technician_cta": {
