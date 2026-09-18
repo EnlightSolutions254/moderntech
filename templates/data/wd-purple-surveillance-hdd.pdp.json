@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "title": "WD Purple Surveillance HDD (1TB–6TB) | Price in Kenya | Moderntech",
+    "description": "Western Digital WD Purple 3.5-inch surveillance hard drives for CCTV, NVR and DVR systems. Available in 1TB, 2TB, 4TB and 6TB. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "WD Purple Surveillance HDD | Moderntech",
+    "description": "WD Purple surveillance-grade hard drives, built for 24/7 CCTV recording. 1TB–6TB in stock in Nairobi."
+  },
+  "category": {
+    "slug": "accessories",
+    "url": "/shop/accessories/",
+    "name": "Accessories"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "product": {
+    "url": "/shop/accessories/wd-purple-surveillance-hdd/",
+    "name": "WD Purple Surveillance HDD",
+    "full_name": "Western Digital WD Purple 3.5\" Surveillance Hard Drive (CCTV/NVR/DVR)",
+    "sku": "HDD-WD-PURPLE-35-SURV",
+    "brand_name": "Western Digital",
+    "brand_slug": "wd",
+    "price": "4,500",
+    "price_raw": "4500",
+    "schema_availability": "https://schema.org/InStock",
+    "type_label": "surveillance hard drive",
+    "type_label_cap": "Surveillance Hard Drive",
+    "images": [
+      {
+        "src": "assets/images/products/wd-purple-surveillance-hdd.webp",
+        "alt": "Western Digital WD Purple surveillance hard drive, label view"
+      },
+      {
+        "src": "assets/images/products/wd-purple-surveillance-hdd-alt.webp",
+        "alt": "Western Digital WD Purple surveillance hard drive, angled view"
+      }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" },
+      { "class": "badge--warranty", "label": "Warranty Included" }
+    ],
+    "description": "Western Digital WD Purple surveillance-grade hard drive, purpose-built for always-on CCTV, NVR and DVR recording rather than general desktop use. 3.5-inch internal form factor, handling continuous 24/7 write workloads from multiple camera streams. Price shown (KES 4,500) is for the 1TB model — see the Capacity & Pricing note below for other sizes we stock, and tell us the capacity you need when you message us on WhatsApp.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20a%20WD%20Purple%20Surveillance%20HDD%20%E2%80%94%20please%20let%20me%20know%20availability%20for%20my%20chosen%20capacity",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20WD%20Purple%20Surveillance%20HDD%20will%20work%20with%20my%20CCTV%2FNVR%2FDVR%20system%3F",
+    "specs": [
+      { "label": "Brand", "value": "Western Digital (WD)" },
+      { "label": "Series", "value": "WD Purple" },
+      { "label": "Type", "value": "Surveillance HDD (CCTV/NVR/DVR)" },
+      { "label": "Form Factor", "value": "3.5-inch internal" },
+      { "label": "Workload Design", "value": "24/7 continuous surveillance recording" },
+      { "label": "Capacity & Pricing", "value": "1TB — KES 4,500 · 2TB — KES 7,000 · 4TB — KES 14,000 · 6TB — KES 21,000" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "Included — ask on WhatsApp for current term" }
+    ],
+    "compatible_models": [
+      "CCTV DVR systems with a free 3.5\" SATA bay",
+      "NVR systems with a free 3.5\" SATA bay",
+      "Desktop PCs with a free 3.5\" SATA bay (general storage use)"
+    ],
+    "related": [
+      {
+        "url": "/shop/accessories/25-hdd-ssd-external-case-usb-2-0/",
+        "image": "assets/images/products/hdd-ssd-external-case.webp",
+        "alt": "2.5 inch HDD/SSD external case, USB 2.0",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "2.5\" HDD/SSD External Case",
+        "tags": ["USB 2.0", "Tool-free"],
+        "price": "500",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%202.5%22%20HDD%2FSSD%20External%20Case%20%E2%80%94%20KES%20500"
+      }
+    ]
+  },
+  "faq_heading": "Surveillance HDD Questions",
+  "faqs": [
+    { "question": "What capacities and prices do you have?", "answer": "1TB — KES 4,500, 2TB — KES 7,000, 4TB — KES 14,000, and 6TB — KES 21,000. Tell us the capacity you want when you message us on WhatsApp." },
+    { "question": "Is this different from a normal desktop hard drive?", "answer": "Yes — WD Purple drives are built specifically for surveillance workloads: continuous 24/7 recording from multiple camera streams, which puts more sustained write load on the drive than typical desktop use." },
+    { "question": "Will this fit my DVR or NVR?", "answer": "It fits any DVR/NVR with a free 3.5-inch SATA bay. Send us your DVR/NVR model on WhatsApp if you're not sure, and we'll confirm before you order." },
+    { "question": "What warranty comes with this drive?", "answer": "This drive comes with a warranty — message us on WhatsApp for the current term before ordering." }
+  ]
+}

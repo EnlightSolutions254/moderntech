@@ -1,26 +1,26 @@
 {
   "meta": {
-    "title": "Laptop Accessories — Mouse, External Cases | Moderntech",
-    "description": "Wired mice and external drive cases in Nairobi. In-stock pricing in KES, warranty included, order on WhatsApp."
+    "title": "Laptop Accessories — Mouse, RAM, External Cases | Moderntech",
+    "description": "Wired mice, laptop RAM upgrades and external drive cases in Nairobi. In-stock pricing in KES, warranty included, order on WhatsApp."
   },
   "og": {
     "title": "Laptop Accessories | Moderntech",
-    "description": "Mice and external drive cases in stock. Warranty included, order on WhatsApp."
+    "description": "Mice, RAM and external drive cases in stock. Warranty included, order on WhatsApp."
   },
   "category": {
     "slug": "accessories",
     "url": "/shop/accessories/",
     "name": "Accessories",
     "name_lower": "accessories",
-    "description": "Mice, external drive cases and other everyday laptop accessories.",
-    "result_count": 2
+    "description": "Mice, laptop RAM upgrades, external drive cases, surveillance hard drives and other everyday laptop accessories.",
+    "result_count": 4
   },
   "empty_state": {
     "whatsapp_text": "Hi%2C%20I%27m%20looking%20for%20a%20laptop%20accessory%20you%20may%20not%20have%20listed."
   },
   "technician_cta": {
     "heading": "Repair Technician? Get Bulk Pricing on Accessories.",
-    "body": "Volume pricing on mice and external cases for repair shops and resellers.",
+    "body": "Volume pricing on mice, RAM and external cases for repair shops and resellers.",
     "cta_label": "Chat About Bulk Pricing",
     "whatsapp_text": "Hi%2C%20I%27m%20a%20technician%20interested%20in%20bulk%20pricing%20on%20accessories."
   },
@@ -28,7 +28,9 @@
   "faqs": [
     { "question": "Will a mouse work with any laptop brand?", "answer": "Our mice work across brands via standard USB — check the specs on each listing for exact compatibility." },
     { "question": "Will an external case fit my drive?", "answer": "Each case listing states the drive size and interface it supports. If you're unsure, send us your drive's size on WhatsApp and we'll confirm." },
-    { "question": "What warranty comes with accessories?", "answer": "Mice and external cases carry a 6-month warranty." }
+    { "question": "Will a RAM module fit my laptop?", "answer": "Check the type (DDR4 vs DDR5) and form factor on the listing, then send us your laptop model on WhatsApp and we'll confirm compatibility before you order." },
+    { "question": "What warranty comes with accessories?", "answer": "Mice and external cases carry a 6-month warranty; RAM and surveillance drives ship with warranty as noted on each listing." },
+    { "question": "What's the difference between a surveillance HDD and a normal one?", "answer": "Surveillance drives like WD Purple are built for continuous 24/7 recording from CCTV/NVR/DVR systems, which is a heavier sustained workload than typical desktop use." }
   ],
   "products": [
     {
@@ -60,6 +62,36 @@
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%202.5%22%20HDD%2FSSD%20External%20Case%20%E2%80%94%20KES%20500"
+    },
+    {
+      "url": "/shop/accessories/sk-hynix-32gb-ddr5-5600-sodimm/",
+      "brand_slug": "sk-hynix",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "image": "assets/images/products/sk-hynix-32gb-ddr5-5600-sodimm.webp",
+      "alt": "SK Hynix 32GB DDR5-5600 SODIMM laptop RAM, label view",
+      "name": "SK Hynix 32GB DDR5-5600 SODIMM",
+      "tags": ["DDR5", "32GB", "SODIMM"],
+      "price": "35,000",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20SK%20Hynix%2032GB%20DDR5-5600%20SODIMM%20Laptop%20RAM%20%E2%80%94%20KES%2035%2C000"
+    },
+    {
+      "url": "/shop/accessories/wd-purple-surveillance-hdd/",
+      "brand_slug": "wd",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "image": "assets/images/products/wd-purple-surveillance-hdd.webp",
+      "alt": "Western Digital WD Purple surveillance hard drive, label view",
+      "name": "WD Purple Surveillance HDD (1TB–6TB)",
+      "tags": ["Surveillance HDD", "3.5\"", "1TB–6TB"],
+      "price": "4,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20a%20WD%20Purple%20Surveillance%20HDD%20%E2%80%94%20please%20let%20me%20know%20availability%20for%20my%20chosen%20capacity"
     }
   ]
 }

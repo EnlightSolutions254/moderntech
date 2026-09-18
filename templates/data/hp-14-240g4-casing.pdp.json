@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "title": "HP 14-AC/14-AY/14-AF/240 G4 Casing — Part AB (LCD Back Cover & Front Bezel) | Price in Kenya | Moderntech",
+    "description": "Replacement Part AB casing — LCD back cover and front bezel — for HP 14-AC, 14-AY, 14-AF and 240 G4. In stock, order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "HP 14-AC/14-AY/14-AF/240 G4 Casing | Moderntech",
+    "description": "Part AB — LCD back cover and front bezel — for HP 14-AC, 14-AY, 14-AF and 240 G4. In stock in Nairobi, warranty included."
+  },
+  "category": {
+    "slug": "casings",
+    "url": "/shop/casings/",
+    "name": "Casings"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "product": {
+    "url": "/shop/casings/hp-14-240g4-casing/",
+    "name": "HP 14-AC/14-AY/14-AF/240 G4 Casing (Part AB)",
+    "full_name": "Replacement Casing for HP 14-AC, 14-AY, 14-AF & 240 G4 — Part AB (LCD Back Cover & Front Bezel)",
+    "sku": "HP-CS-14-240G4-AB",
+    "brand_name": "HP",
+    "brand_slug": "hp",
+    "price": "3,500",
+    "price_raw": "3500",
+    "schema_availability": "https://schema.org/InStock",
+    "type_label": "casing",
+    "type_label_cap": "Casing",
+    "images": [
+      {
+        "src": "assets/images/products/hp-casing-14-240g4-partab.webp",
+        "alt": "HP 14-AC/14-AY/14-AF/240 G4 LCD back cover and front bezel, Part AB"
+      }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" },
+      { "class": "badge--warranty", "label": "Warranty Included" }
+    ],
+    "description": "Replacement Part AB casing for the HP 14-AC, 14-AY, 14-AF and 240 G4 — covers the LCD back cover and front bezel only. This model is sold as Part AB alone; message us on WhatsApp to confirm your exact model before ordering.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20an%20HP%2014-AC%2F14-AY%2F14-AF%2F240%20G4%20Casing%20%E2%80%94%20Part%20AB%20%28LCD%20Back%20Cover%20%26%20Front%20Bezel%29%20%E2%80%94%20KES%203%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20HP%2014-AC%2F14-AY%2F14-AF%2F240%20G4%20Casing%20fits%20my%20laptop%3F",
+    "specs": [
+      { "label": "Part Covered", "value": "Part AB — LCD back cover and front bezel" },
+      { "label": "Material", "value": "ABS plastic" },
+      { "label": "Includes", "value": "Casing panel, screw set" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 months (manufacturing defects)" }
+    ],
+    "compatible_models": [
+      "HP 14-AC",
+      "HP 14-AY",
+      "HP 14-AF",
+      "HP 240 G4"
+    ],
+    "related": []
+  },
+  "faq_heading": "Casing Questions",
+  "faqs": [
+    { "question": "What does this casing cover?", "answer": "This is Part AB — the LCD back cover and front bezel around the screen only. The palmrest and base (Part CD) are not included with this listing." },
+    { "question": "Which exact models does this fit?", "answer": "HP 14-AC, 14-AY, 14-AF and 240 G4. If you're unsure which one you have, send us a photo of your laptop on WhatsApp and we'll confirm." },
+    { "question": "Can I fit this myself?", "answer": "It involves a full teardown of the laptop, so most customers have it fitted by us. We can talk you through it on WhatsApp if you'd rather do it yourself." },
+    { "question": "What warranty comes with a casing?", "answer": "Every casing here carries a 3-month warranty against manufacturing defects such as cracking or misaligned mounting points." }
+  ]
+}

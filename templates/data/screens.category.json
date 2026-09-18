@@ -13,7 +13,7 @@
     "name": "Laptop Screens",
     "name_lower": "screens",
     "description": "Genuine replacement screens for HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook laptops. Every listing shows exact panel size, resolution and compatible models before you message us.",
-    "result_count": 21
+    "result_count": 22
   },
   "products": [
     {
@@ -330,6 +330,21 @@
       "cta_label": "Order on WhatsApp",
       "cta_class": "btn--whatsapp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20Envy%20x360%2015-es%20FHD%20Touch%20Screen%20%28IPS%29%20%E2%80%94%20KES%2023%2C000"
+    },
+    {
+      "brand_slug": "macbook",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/screens/macbook-pro-13-a2338-screen-assembly/",
+      "image": "assets/images/products/macbook-pro-13-a2338-screen-assembly.webp",
+      "alt": "MacBook Pro 13-inch A2338 full display assembly, Space Gray, front view",
+      "name": "MacBook Pro 13\" (A2338) Screen Assembly",
+      "tags": ["MacBook Pro 13\" A2338", "Space Gray", "Full Assembly"],
+      "price": "38,000",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20Pro%2013%22%20%28A2338%29%20Screen%20Assembly%20%E2%80%94%20Space%20Gray%20%E2%80%94%20KES%2038%2C000"
     }
   ],
   "technician_cta": {

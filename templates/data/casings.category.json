@@ -13,63 +13,158 @@
     "name": "Casings",
     "name_lower": "casings",
     "description": "Replacement top covers, bottom casings and palmrests for cracked, dented or badly worn laptop bodies — priced and listed by exact model so you know it fits before you order.",
-    "result_count": 3
+    "result_count": 7
   },
   "products": [
     {
-      "name": "HP 250 G7 Full Casing Kit",
-      "url": "/shop/casings/hp-250-g7-full-casing/",
-      "image": "assets/images/products/hp-casing-250g7-partcd.webp",
-      "alt": "HP 250 G7 upper palmrest with keyboard tray and touchpad",
+      "name": "HP 250 G7 Casing (Full Kit / Part AB / Part CD)",
+      "url": "/shop/casings/hp-250-g7-casing/",
+      "image": "assets/images/products/hp-casing-250g7-full.webp",
+      "alt": "HP 250 G7 full casing kit — lid and chassis together",
       "brand_slug": "hp",
       "stock": "in_stock",
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
-      "tags": ["Full Kit", "250/255/256 G7"],
-      "price": "9,500",
-      "cta_class": "btn--whatsapp",
-      "cta_label": "Order on WhatsApp",
-      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20250%20G7%20Full%20Casing%20Kit%20%E2%80%94%20KES%209%2C500",
-      "extra": false
-    },
-    {
-      "name": "HP 250 G7 Casing — Part AB (Lid)",
-      "url": "/shop/casings/hp-250-g7-casing-part-ab/",
-      "image": "assets/images/products/hp-casing-250g7-partab.webp",
-      "alt": "HP 250 G7 LCD back cover and screen bezel",
-      "brand_slug": "hp",
-      "stock": "in_stock",
-      "badge_class": "badge--in-stock",
-      "badge_label": "In Stock",
-      "tags": ["Part AB", "LCD Back Cover"],
+      "tags": [
+        "250/255/256 G7",
+        "Full Kit or Individual Parts"
+      ],
       "price": "4,500",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
-      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20250%20G7%20Casing%20%E2%80%94%20Part%20AB%20%28Lid%29%20%E2%80%94%20KES%204%2C500",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20an%20HP%20250%20G7%20casing%20%E2%80%94%20please%20let%20me%20know%3A%20Full%20Kit%2C%20Part%20AB%2C%20or%20Part%20CD",
       "extra": false
     },
     {
-      "name": "HP 250 G7 Casing — Part CD (Chassis)",
-      "url": "/shop/casings/hp-250-g7-casing-part-cd/",
-      "image": "assets/images/products/hp-casing-250g7-partcd.webp",
-      "alt": "HP 250 G7 upper palmrest with keyboard tray and touchpad",
+      "name": "Lenovo G50-70 Casing (Full Kit / Part AB / Part CD)",
+      "url": "/shop/casings/lenovo-g50-70-casing/",
+      "image": "assets/images/products/lenovo-casing-g5070-full.webp",
+      "alt": "Lenovo G50-70 full casing kit — lid and chassis together",
+      "brand_slug": "lenovo",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "G50-70",
+        "Full Kit or Individual Parts"
+      ],
+      "price": "3,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20a%20Lenovo%20G50-70%20casing%20%E2%80%94%20please%20let%20me%20know%3A%20Full%20Kit%2C%20Part%20AB%2C%20or%20Part%20CD",
+      "extra": false
+    },
+    {
+      "name": "Acer E1-571 Casing (Full Kit / Part AB / Part CD)",
+      "url": "/shop/casings/acer-e1-571-casing/",
+      "image": "assets/images/products/acer-casing-e1571-full.webp",
+      "alt": "Acer E1-571 full casing kit — lid and chassis together",
+      "brand_slug": "acer",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "E1-571",
+        "Full Kit or Individual Parts"
+      ],
+      "price": "4,000",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20an%20Acer%20E1-571%20casing%20%E2%80%94%20please%20let%20me%20know%3A%20Full%20Kit%2C%20Part%20AB%2C%20or%20Part%20CD",
+      "extra": false
+    },
+    {
+      "name": "Lenovo 130-15IKB Casing (Full Kit / Part AB / Part CD)",
+      "url": "/shop/casings/lenovo-130-15ikb-casing/",
+      "image": "assets/images/products/lenovo-casing-13015ikb-full.webp",
+      "alt": "Lenovo 130-15IKB full casing kit — lid and chassis together",
+      "brand_slug": "lenovo",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "130-15IKB",
+        "Full Kit or Individual Parts"
+      ],
+      "price": "5,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20a%20Lenovo%20130-15IKB%20casing%20%E2%80%94%20please%20let%20me%20know%3A%20Full%20Kit%2C%20Part%20AB%2C%20or%20Part%20CD",
+      "extra": false
+    },
+    {
+      "name": "HP 14-AC/14-AY/14-AF/240 G4 Casing (Part AB)",
+      "url": "/shop/casings/hp-14-240g4-casing/",
+      "image": "assets/images/products/hp-casing-14-240g4-partab.webp",
+      "alt": "HP 14-AC/14-AY/14-AF/240 G4 LCD back cover and front bezel, Part AB",
       "brand_slug": "hp",
       "stock": "in_stock",
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
-      "tags": ["Part CD", "Palmrest + Base"],
+      "tags": [
+        "14-AC/14-AY/14-AF/240 G4",
+        "Part AB Only"
+      ],
+      "price": "3,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20an%20HP%2014-AC%2F14-AY%2F14-AF%2F240%20G4%20Casing%20%E2%80%94%20Part%20AB%20%28LCD%20Back%20Cover%20%26%20Front%20Bezel%29%20%E2%80%94%20KES%203%2C500",
+      "extra": false
+    },
+    {
+      "name": "HP 15-AU Casing (Full Kit / Part AB / Part CD)",
+      "url": "/shop/casings/hp-15-au-casing/",
+      "image": "assets/images/products/hp-casing-15au-full.webp",
+      "alt": "HP 15-AU full casing kit — lid and chassis together",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "15-AU",
+        "Full Kit or Individual Parts"
+      ],
+      "price": "7,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20an%20HP%2015-AU%20casing%20%E2%80%94%20please%20let%20me%20know%3A%20Full%20Kit%2C%20Part%20AB%2C%20or%20Part%20CD",
+      "extra": false
+    },
+    {
+      "name": "HP 250 G7/15-DA/255 G7 Full Casing (Black or Gray)",
+      "url": "/shop/casings/hp-250g7-15da-255g7-casing/",
+      "image": "assets/images/products/hp-casing-250g7-15da-255g7-full.webp",
+      "alt": "HP 250 G7/15-DA/255 G7 full casing kit — lid and chassis together",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "250 G7/15-DA/255 G7",
+        "Full Kit or Individual Parts",
+        "Black or Gray"
+      ],
       "price": "4,500",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
-      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20250%20G7%20Casing%20%E2%80%94%20Part%20CD%20%28Chassis%29%20%E2%80%94%20KES%204%2C500",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20an%20HP%20250%20G7%2F15-DA%2F255%20G7%20Full%20Casing%20%E2%80%94%20please%20let%20me%20know%3A%20Full%20Kit%2C%20Part%20AB%2C%20or%20Part%20CD%2C%20and%20which%20color%20%28Black%20or%20Gray%29",
       "extra": false
     }
   ],
   "faq_heading": "Casing Questions",
   "faqs": [
-    { "question": "How do I know this casing fits my laptop?", "answer": "Each listing shows the exact compatible model and which panel it covers (top cover, bottom cover or palmrest). If you're unsure, send us a photo of your laptop on WhatsApp and we'll confirm." },
-    { "question": "Does the casing come with a keyboard or trackpad fitted?", "answer": "This is stated on each product page — some palmrests include the trackpad, others are the bare panel only." },
-    { "question": "Can I fit this myself?", "answer": "It involves a full teardown of the laptop, so most customers have it fitted by us. We can talk you through it on WhatsApp if you'd rather do it yourself." }
+    {
+      "question": "How do I know this casing fits my laptop?",
+      "answer": "Each listing shows the exact compatible model and which panel it covers (top cover, bottom cover or palmrest). If you're unsure, send us a photo of your laptop on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Does the casing come with a keyboard or trackpad fitted?",
+      "answer": "This is stated on each product page — some palmrests include the trackpad, others are the bare panel only."
+    },
+    {
+      "question": "Can I fit this myself?",
+      "answer": "It involves a full teardown of the laptop, so most customers have it fitted by us. We can talk you through it on WhatsApp if you'd rather do it yourself."
+    }
   ],
   "empty_state": {
     "whatsapp_text": "Hi%2C%20I%27m%20looking%20for%20a%20laptop%20casing%20but%20couldn%27t%20find%20it%20on%20the%20site."

@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "title": "SK Hynix 32GB DDR5-5600 SODIMM Laptop RAM | Price in Kenya | Moderntech",
+    "description": "SK Hynix 32GB DDR5-5600 (PC5-5600B) SODIMM laptop memory, 2Rx8. In stock, warranty included, order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "SK Hynix 32GB DDR5-5600 SODIMM Laptop RAM | Moderntech",
+    "description": "32GB DDR5-5600 laptop memory module. In stock in Nairobi, warranty included."
+  },
+  "category": {
+    "slug": "accessories",
+    "url": "/shop/accessories/",
+    "name": "Accessories"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "product": {
+    "url": "/shop/accessories/sk-hynix-32gb-ddr5-5600-sodimm/",
+    "name": "SK Hynix 32GB DDR5-5600 SODIMM",
+    "full_name": "SK Hynix 32GB DDR5-5600 (PC5-5600B) SODIMM Laptop Memory, 2Rx8",
+    "sku": "RAM-SKHYNIX-32GB-DDR5-5600-SODIMM",
+    "brand_name": "SK hynix",
+    "brand_slug": "sk-hynix",
+    "price": "35,000",
+    "price_raw": "35000",
+    "schema_availability": "https://schema.org/InStock",
+    "type_label": "RAM module",
+    "type_label_cap": "RAM Module",
+    "images": [
+      {
+        "src": "assets/images/products/sk-hynix-32gb-ddr5-5600-sodimm.webp",
+        "alt": "SK Hynix 32GB DDR5-5600 SODIMM laptop RAM, label view"
+      },
+      {
+        "src": "assets/images/products/sk-hynix-32gb-ddr5-5600-sodimm-alt.webp",
+        "alt": "SK Hynix 32GB DDR5-5600 SODIMM laptop RAM, angled view"
+      }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" },
+      { "class": "badge--warranty", "label": "Warranty Included" }
+    ],
+    "description": "Genuine SK Hynix 32GB DDR5-5600 (PC5-5600B) SODIMM laptop memory module, 2Rx8 rank. Sourced from Korea. Note: this is laptop (SODIMM) memory, not desktop DIMM RAM — confirm your laptop supports DDR5 before ordering. Part number HMCG88AGBSA095N BA (verify against your existing module if you're matching an exact pair, as the label can be hard to read).",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20SK%20Hynix%2032GB%20DDR5-5600%20SODIMM%20Laptop%20RAM%20%28SKU%3A%20RAM-SKHYNIX-32GB-DDR5-5600-SODIMM%29%20%E2%80%94%20KES%2035%2C000",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20SK%20Hynix%2032GB%20DDR5-5600%20SODIMM%20will%20work%20in%20my%20laptop%3F",
+    "specs": [
+      { "label": "Brand", "value": "SK hynix" },
+      { "label": "Type", "value": "DDR5 SODIMM (laptop memory)" },
+      { "label": "Capacity", "value": "32 GB" },
+      { "label": "Rank", "value": "2Rx8" },
+      { "label": "Speed", "value": "DDR5-5600 (PC5-5600B)" },
+      { "label": "Form Factor", "value": "SODIMM" },
+      { "label": "Part Number", "value": "HMCG88AGBSA095N BA" },
+      { "label": "Country of Origin", "value": "Korea" },
+      { "label": "Condition", "value": "Tested, fully functional" },
+      { "label": "Warranty", "value": "Included — ask on WhatsApp for current term" }
+    ],
+    "compatible_models": [
+      "Any laptop with a free DDR5 SODIMM slot"
+    ],
+    "related": [
+      {
+        "url": "/shop/accessories/25-hdd-ssd-external-case-usb-2-0/",
+        "image": "assets/images/products/hdd-ssd-external-case.webp",
+        "alt": "2.5 inch HDD/SSD external case, USB 2.0",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "2.5\" HDD/SSD External Case",
+        "tags": ["USB 2.0", "Tool-free"],
+        "price": "500",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%202.5%22%20HDD%2FSSD%20External%20Case%20%E2%80%94%20KES%20500"
+      },
+      {
+        "url": "/shop/accessories/dell-ms111-usb-optical-mouse/",
+        "image": "assets/images/products/dell-mouse-ms111.webp",
+        "alt": "Dell MS111 USB Optical Mouse — wired black",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "Dell MS111 USB Optical Mouse",
+        "tags": ["Wired USB", "Optical"],
+        "price": "450",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20MS111%20USB%20Optical%20Mouse%20%E2%80%94%20KES%20450"
+      }
+    ]
+  },
+  "faq_heading": "RAM Questions",
+  "faqs": [
+    { "question": "Is this desktop or laptop RAM?", "answer": "This is laptop RAM — a SODIMM module. It will not fit a desktop motherboard, which uses larger DIMM sticks." },
+    { "question": "Will this work with my laptop?", "answer": "Your laptop needs a free SODIMM slot that supports DDR5 memory. DDR5 is not backward-compatible with DDR4 slots. Send us your laptop model on WhatsApp and we'll confirm before you order." },
+    { "question": "Can I mix this with my existing RAM?", "answer": "Mixing is usually fine as long as both sticks are DDR5 and your laptop supports the combined capacity, but for guaranteed dual-channel performance matching speed and rank helps. Message us your existing stick's details and we'll advise." },
+    { "question": "What warranty comes with this module?", "answer": "This module comes with a warranty — message us on WhatsApp for the current term before ordering." }
+  ]
+}

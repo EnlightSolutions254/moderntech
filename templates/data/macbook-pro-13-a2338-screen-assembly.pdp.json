@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "title": "MacBook Pro 13\" (A2338) Screen Assembly — Space Gray | Price in Kenya | Moderntech",
+    "description": "Full display assembly (LCD + lid) for MacBook Pro 13-inch A2338, Space Gray. In stock, order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "MacBook Pro 13\" (A2338) Screen Assembly | Moderntech",
+    "description": "Full LCD + lid display assembly for the MacBook Pro 13-inch A2338 in Space Gray. In stock in Nairobi."
+  },
+  "category": {
+    "slug": "screens",
+    "url": "/shop/screens/",
+    "name": "Laptop Screens"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "product": {
+    "url": "/shop/screens/macbook-pro-13-a2338-screen-assembly/",
+    "name": "MacBook Pro 13\" (A2338) Screen Assembly",
+    "full_name": "MacBook Pro 13-inch (A2338) Full Display Assembly — Space Gray",
+    "sku": "SCR-MACBOOK-A2338-13-ASSY-SG",
+    "brand_name": "MacBook",
+    "brand_slug": "macbook",
+    "price": "38,000",
+    "price_raw": "38000",
+    "schema_availability": "https://schema.org/InStock",
+    "type_label": "screen assembly",
+    "type_label_cap": "Screen Assembly",
+    "images": [
+      {
+        "src": "assets/images/products/macbook-pro-13-a2338-screen-assembly.webp",
+        "alt": "MacBook Pro 13-inch A2338 full display assembly, Space Gray, front view"
+      },
+      {
+        "src": "assets/images/products/macbook-pro-13-a2338-screen-assembly-alt.webp",
+        "alt": "MacBook Pro 13-inch A2338 full display assembly, Space Gray, angled view"
+      }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock — 8 units" },
+      { "class": "badge--warranty", "label": "Warranty Included" }
+    ],
+    "description": "Full display assembly for the MacBook Pro 13-inch (Model A2338), in Space Gray. Includes the LCD panel and lid/rear housing as one complete unit — a straight swap for a cracked screen, damaged lid or failed display. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20Pro%2013%22%20%28A2338%29%20Screen%20Assembly%20%E2%80%94%20Space%20Gray%20%28SKU%3A%20SCR-MACBOOK-A2338-13-ASSY-SG%29%20%E2%80%94%20KES%2038%2C000",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20MacBook%20Pro%2013%22%20%28A2338%29%20Screen%20Assembly%20fits%20my%20MacBook%3F",
+    "specs": [
+      { "label": "Model Number", "value": "A2338" },
+      { "label": "Component", "value": "LCD / Display" },
+      { "label": "Assembly Type", "value": "Full assembly (LCD + lid/rear housing)" },
+      { "label": "Color", "value": "Space Gray" },
+      { "label": "Condition", "value": "Tested, fully functional" },
+      { "label": "Warranty", "value": "Included — ask on WhatsApp for current term" }
+    ],
+    "compatible_models": [
+      "MacBook Pro 13-inch (A2338, M1, 2020)"
+    ],
+    "related": []
+  },
+  "faq_heading": "Questions About This Screen Assembly",
+  "faqs": [
+    { "question": "How do I know this fits my MacBook?", "answer": "This is matched to the MacBook Pro 13-inch, model A2338. Check the model number on the bottom of your MacBook, or send us a photo on WhatsApp and we'll confirm before you order." },
+    { "question": "Does this include the lid, or just the screen panel?", "answer": "This is the full assembly — the LCD panel and lid/rear housing come as one complete unit, ready to swap in." },
+    { "question": "Does the color need to match?", "answer": "This listing is Space Gray. If your MacBook is a different color, message us on WhatsApp and we'll let you know what's available." },
+    { "question": "What warranty comes with this assembly?", "answer": "This assembly comes with a warranty — message us on WhatsApp for the current term before ordering." }
+  ]
+}

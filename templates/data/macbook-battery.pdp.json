@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "title": "MacBook Battery — Pro 16\" & Air 13\" | Price in Kenya | Moderntech",
+    "description": "Genuine replacement batteries for MacBook Pro 16-inch and MacBook Air 13-inch (M1/M2). In stock, order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "MacBook Battery | Moderntech",
+    "description": "Replacement batteries for MacBook Pro 16-inch and MacBook Air 13-inch models. In stock in Nairobi."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "product": {
+    "url": "/shop/laptop-batteries/macbook-battery/",
+    "name": "MacBook Battery",
+    "full_name": "Replacement Battery for MacBook Pro 16-inch and MacBook Air 13-inch",
+    "sku": "BAT-MACBOOK-MULTI",
+    "brand_name": "MacBook",
+    "brand_slug": "macbook",
+    "price": "7,000",
+    "price_raw": "7000",
+    "schema_availability": "https://schema.org/InStock",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "images": [
+      {
+        "src": "assets/images/products/macbook-battery.webp",
+        "alt": "Replacement MacBook battery, label view"
+      },
+      {
+        "src": "assets/images/products/macbook-battery-alt.webp",
+        "alt": "Replacement MacBook battery, angled view"
+      }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" },
+      { "class": "badge--warranty", "label": "Warranty Included" }
+    ],
+    "description": "Replacement batteries for MacBook Pro 16-inch and MacBook Air 13-inch models. Price shown (KES 7,000) is for the MacBook Air 13-inch M1 (2020) model — see the Model & Pricing note below for the other MacBooks we stock batteries for, and tell us your MacBook's model number when you message us on WhatsApp so we send the right one.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20a%20MacBook%20battery%20%E2%80%94%20my%20MacBook%27s%20model%20number%20is%3A",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20which%20battery%20fits%20my%20MacBook%3F%20The%20model%20number%20on%20the%20bottom%20is%3A",
+    "specs": [
+      { "label": "Model & Pricing", "value": "A2485 (→ A2527) — MacBook Pro 16\" 2021 — KES 9,500 · A2141 (→ A2113) — MacBook Pro 16\" 2019 — KES 8,500 · A2669 — MacBook Air 13\" M2 2022 — KES 7,500 · A2337 (→ A2389) — MacBook Air 13\" M1 2020 — KES 7,000" },
+      { "label": "Condition", "value": "Tested, fully functional" },
+      { "label": "Warranty", "value": "Included — ask on WhatsApp for current term" }
+    ],
+    "compatible_models": [
+      "MacBook Pro 16-inch (A2485, 2021) — battery likely A2527, to be confirmed against the battery's own label",
+      "MacBook Pro 16-inch (A2141, 2019) — battery A2113, 11.36V, ~8,790mAh, 98.8Wh",
+      "MacBook Air 13-inch M2 (A2669, 2022) — battery A2669, 11.54V, 4,561mAh, 52.6Wh",
+      "MacBook Air 13-inch M1 (A2337, 2020) — battery A2389, 11.39V, 4,380mAh, 49.9Wh"
+    ],
+    "related": []
+  },
+  "faq_heading": "MacBook Battery Questions",
+  "faqs": [
+    { "question": "Which MacBook models do you have batteries for?", "answer": "MacBook Pro 16-inch (A2485/2021 and A2141/2019) and MacBook Air 13-inch (A2669/M2/2022 and A2337/M1/2020). Check the model number on the bottom of your MacBook and message us on WhatsApp to confirm before ordering." },
+    { "question": "How much does each one cost?", "answer": "A2485 (Pro 16\", 2021) — KES 9,500. A2141 (Pro 16\", 2019) — KES 8,500. A2669 (Air 13\" M2) — KES 7,500. A2337 (Air 13\" M1) — KES 7,000." },
+    { "question": "How do I find my MacBook's model number?", "answer": "It's printed on the bottom case of your MacBook, usually starting with 'Model: A' followed by 4 digits. Send us a photo on WhatsApp if you're not sure which one you have." },
+    { "question": "What warranty comes with a MacBook battery?", "answer": "Every battery here comes with a warranty — message us on WhatsApp for the current term before ordering." }
+  ]
+}
