@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "HP 14-AC/14-AY/14-AF/240 G4 Casing — Part AB (LCD Back Cover & Front Bezel) | Price in Kenya | Moderntech",
-    "description": "Replacement Part AB casing — LCD back cover and front bezel — for HP 14-AC, 14-AY, 14-AF and 240 G4. In stock, order via WhatsApp, delivery countrywide."
+    "title": "HP 14-AC/14-AY/14-AF/240 G4/240 G5 Casing — Full Kit, Part AB & Part CD | Price in Kenya | Moderntech",
+    "description": "Replacement casing for HP 14-AC, 14-AY, 14-AF, 240 G4 and 240 G5 — full kit, lid (Part AB) or bottom case (Part CD). In stock, order via WhatsApp, delivery countrywide."
   },
   "og": {
-    "title": "HP 14-AC/14-AY/14-AF/240 G4 Casing | Moderntech",
-    "description": "Part AB — LCD back cover and front bezel — for HP 14-AC, 14-AY, 14-AF and 240 G4. In stock in Nairobi, warranty included."
+    "title": "HP 14-AC/14-AY/14-AF/240 G4/240 G5 Casing | Moderntech",
+    "description": "Full casing kit or individual panels for HP 14-AC, 14-AY, 14-AF, 240 G4 and 240 G5. In stock in Nairobi, warranty included."
   },
   "category": {
     "slug": "casings",
@@ -15,33 +15,70 @@
   "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
   "product": {
     "url": "/shop/casings/hp-14-240g4-casing/",
-    "name": "HP 14-AC/14-AY/14-AF/240 G4 Casing (Part AB)",
-    "full_name": "Replacement Casing for HP 14-AC, 14-AY, 14-AF & 240 G4 — Part AB (LCD Back Cover & Front Bezel)",
-    "sku": "HP-CS-14-240G4-AB",
+    "name": "HP 14-AC/14-AY/14-AF/240 G4/240 G5 Casing",
+    "full_name": "Replacement Casing for HP 14-AC, 14-AY, 14-AF, 240 G4 and 240 G5 — Full Kit, Part AB (Lid) or Part CD (Bottom Case)",
+    "sku": "HP-CS-14-240G4-240G5-MULTI",
     "brand_name": "HP",
     "brand_slug": "hp",
-    "price": "3,500",
-    "price_raw": "3500",
+    "price": "4,400",
+    "price_raw": "4400",
     "schema_availability": "https://schema.org/InStock",
     "type_label": "casing",
     "type_label_cap": "Casing",
     "images": [
       {
         "src": "assets/images/products/hp-casing-14-240g4-partab.webp",
-        "alt": "HP 14-AC/14-AY/14-AF/240 G4 LCD back cover and front bezel, Part AB"
+        "alt": "HP 14-AC/14-AY/14-AF/240 G4/240 G5 LCD back cover and screen bezel, Part AB"
+      },
+      {
+        "src": "assets/images/products/hp-casing-14-240g4-partcd.webp",
+        "alt": "HP 14-AC/14-AY/14-AF/240 G4/240 G5 bottom case with palmrest and touchpad, Part CD"
+      },
+      {
+        "src": "assets/images/products/hp-casing-14-240g4-full.webp",
+        "alt": "HP 14-AC/14-AY/14-AF/240 G4/240 G5 full casing kit — lid and bottom case together"
       }
     ],
     "badges": [
       { "class": "badge--in-stock", "label": "In Stock" },
+      { "class": "badge--new-oem", "label": "New OEM-Equivalent" },
       { "class": "badge--warranty", "label": "Warranty Included" }
     ],
-    "description": "Replacement Part AB casing for the HP 14-AC, 14-AY, 14-AF and 240 G4 — covers the LCD back cover and front bezel only. This model is sold as Part AB alone; message us on WhatsApp to confirm your exact model before ordering.",
-    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20an%20HP%2014-AC%2F14-AY%2F14-AF%2F240%20G4%20Casing%20%E2%80%94%20Part%20AB%20%28LCD%20Back%20Cover%20%26%20Front%20Bezel%29%20%E2%80%94%20KES%203%2C500",
-    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20HP%2014-AC%2F14-AY%2F14-AF%2F240%20G4%20Casing%20fits%20my%20laptop%3F",
+    "description": "Replacement casing for the HP 14-AC, 14-AY, 14-AF, 240 G4 and 240 G5 series. Available as the full kit (lid and bottom case together) or as individual panels if you only need one side replaced — see \"Choose Your Part\" below for exactly what's included in each option and its price, then tell us which one you need when you message us on WhatsApp.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20an%20HP%2014-AC%2F14-AY%2F14-AF%2F240%20G4%2F240%20G5%20casing%20%E2%80%94%20please%20let%20me%20know%3A%20Full%20Kit%2C%20Part%20AB%2C%20or%20Part%20CD",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20HP%2014-AC%2F14-AY%2F14-AF%2F240%20G4%2F240%20G5%20Casing%20fits%20my%20laptop%3F",
+    "part_options": [
+      {
+        "label": "Part AB",
+        "name": "Part AB — Lid (LCD Back Cover)",
+        "description": "The lid only: LCD back cover and screen bezel.",
+        "image": "assets/images/products/hp-casing-14-240g4-partab.webp",
+        "alt": "HP 14-AC/14-AY/14-AF/240 G4/240 G5 LCD back cover and screen bezel, Part AB",
+        "price": "4,400",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%2014-AC%2F14-AY%2F14-AF%2F240%20G4%2F240%20G5%20Casing%20%E2%80%94%20Part%20AB%20%28Lid%29%20%E2%80%94%20KES%204%2C400"
+      },
+      {
+        "label": "Part CD",
+        "name": "Part CD — Bottom Case",
+        "description": "Bottom case with keyboard tray and touchpad housing.",
+        "image": "assets/images/products/hp-casing-14-240g4-partcd.webp",
+        "alt": "HP 14-AC/14-AY/14-AF/240 G4/240 G5 bottom case with palmrest and touchpad, Part CD",
+        "price": "4,400",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%2014-AC%2F14-AY%2F14-AF%2F240%20G4%2F240%20G5%20Casing%20%E2%80%94%20Part%20CD%20%28Bottom%20Case%29%20%E2%80%94%20KES%204%2C400"
+      },
+      {
+        "label": "Full Kit",
+        "name": "Full Kit — Part AB + Part CD",
+        "description": "Both panels together.",
+        "image": "assets/images/products/hp-casing-14-240g4-full.webp",
+        "alt": "HP 14-AC/14-AY/14-AF/240 G4/240 G5 full casing kit — lid and bottom case together",
+        "price": "8,500",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%2014-AC%2F14-AY%2F14-AF%2F240%20G4%2F240%20G5%20Full%20Casing%20Kit%20%E2%80%94%20KES%208%2C500"
+      }
+    ],
     "specs": [
-      { "label": "Part Covered", "value": "Part AB — LCD back cover and front bezel" },
       { "label": "Material", "value": "ABS plastic" },
-      { "label": "Includes", "value": "Casing panel, screw set" },
+      { "label": "Includes", "value": "Casing panel(s), screw set, rubber feet" },
       { "label": "Condition", "value": "New" },
       { "label": "Warranty", "value": "3 months (manufacturing defects)" }
     ],
@@ -49,14 +86,16 @@
       "HP 14-AC",
       "HP 14-AY",
       "HP 14-AF",
-      "HP 240 G4"
+      "HP 240 G4",
+      "HP 240 G5"
     ],
     "related": []
   },
   "faq_heading": "Casing Questions",
   "faqs": [
-    { "question": "What does this casing cover?", "answer": "This is Part AB — the LCD back cover and front bezel around the screen only. The palmrest and base (Part CD) are not included with this listing." },
-    { "question": "Which exact models does this fit?", "answer": "HP 14-AC, 14-AY, 14-AF and 240 G4. If you're unsure which one you have, send us a photo of your laptop on WhatsApp and we'll confirm." },
+    { "question": "What's the difference between Part AB, Part CD and the Full Kit?", "answer": "Part AB is the lid — the LCD back cover and screen bezel. Part CD is the bottom case, keyboard tray and touchpad housing. The Full Kit is both parts together." },
+    { "question": "Do I need both parts?", "answer": "Only if both are damaged. If just one side is cracked or broken, you only need that part — tell us which on WhatsApp and we'll confirm the price." },
+    { "question": "Does the casing come with a keyboard or trackpad fitted?", "answer": "No — these are bare panels. The keyboard and trackpad transfer over from your existing casing." },
     { "question": "Can I fit this myself?", "answer": "It involves a full teardown of the laptop, so most customers have it fitted by us. We can talk you through it on WhatsApp if you'd rather do it yourself." },
     { "question": "What warranty comes with a casing?", "answer": "Every casing here carries a 3-month warranty against manufacturing defects such as cracking or misaligned mounting points." }
   ]

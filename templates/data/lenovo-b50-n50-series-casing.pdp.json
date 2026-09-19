@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "title": "Lenovo B50/B51/N50 Series Casing — Full Kit, Part AB & Part CD | Price in Kenya | Moderntech",
+    "description": "Replacement casing for Lenovo B50-30/B50-45/B50-70/B50-80, B51-30, B51-80, N50-45/N50-70/N50-80 (Black) — full kit, lid (Part AB) or bottom case (Part CD). In stock, order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Lenovo B50/B51/N50 Series Casing | Moderntech",
+    "description": "Full casing kit or individual panels for Lenovo B50, B51 and N50 series laptops. In stock in Nairobi, warranty included."
+  },
+  "category": {
+    "slug": "casings",
+    "url": "/shop/casings/",
+    "name": "Casings"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "product": {
+    "url": "/shop/casings/lenovo-b50-n50-series-casing/",
+    "name": "Lenovo B50/B51/N50 Series Casing",
+    "full_name": "Replacement Casing for Lenovo B50-30/B50-45/B50-70/B50-80, B51-30, B51-80, N50-45/N50-70/N50-80 (Black) — Full Kit, Part AB (Lid) or Part CD (Bottom Case)",
+    "sku": "LNV-CS-B50N50-MULTI",
+    "brand_name": "Lenovo",
+    "brand_slug": "lenovo",
+    "price": "4,500",
+    "price_raw": "4500",
+    "schema_availability": "https://schema.org/InStock",
+    "type_label": "casing",
+    "type_label_cap": "Casing",
+    "images": [
+      {
+        "src": "assets/images/products/lenovo-casing-b50n50series-partab.webp",
+        "alt": "Lenovo B50/B51/N50 series LCD back cover and screen bezel, Black, Part AB"
+      },
+      {
+        "src": "assets/images/products/lenovo-casing-b50n50series-partcd.webp",
+        "alt": "Lenovo B50/B51/N50 series bottom case, Black, Part CD"
+      },
+      {
+        "src": "assets/images/products/lenovo-casing-b50n50series-full.webp",
+        "alt": "Lenovo B50/B51/N50 series full casing kit — lid and bottom case together"
+      }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" },
+      { "class": "badge--new-oem", "label": "New OEM-Equivalent" },
+      { "class": "badge--warranty", "label": "Warranty Included" }
+    ],
+    "description": "Replacement casing for the Lenovo B50-30, B50-45, B50-70, B50-80, B51-30, B51-80, N50-45, N50-70 and N50-80 series (Black). Available as the full kit (lid and bottom case together) or as individual panels if you only need one side replaced — see \"Choose Your Part\" below for exactly what's included in each option and its price, then tell us which one you need when you message us on WhatsApp.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20a%20Lenovo%20B50%2FB51%2FN50%20series%20casing%20%E2%80%94%20please%20let%20me%20know%3A%20Full%20Kit%2C%20Part%20AB%2C%20or%20Part%20CD",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20Lenovo%20B50%2FB51%2FN50%20series%20Casing%20fits%20my%20laptop%3F",
+    "part_options": [
+      {
+        "label": "Part AB",
+        "name": "Part AB — Lid (LCD Back Cover)",
+        "description": "The lid only: LCD back cover and screen bezel, Black.",
+        "image": "assets/images/products/lenovo-casing-b50n50series-partab.webp",
+        "alt": "Lenovo B50/B51/N50 series LCD back cover and screen bezel, Black, Part AB",
+        "price": "4,500",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20B50%2FB51%2FN50%20series%20Casing%20%E2%80%94%20Part%20AB%20%28Lid%29%20%E2%80%94%20KES%204%2C500"
+      },
+      {
+        "label": "Part CD",
+        "name": "Part CD — Bottom Case",
+        "description": "Bottom case, Black — keyboard tray and touchpad housing.",
+        "image": "assets/images/products/lenovo-casing-b50n50series-partcd.webp",
+        "alt": "Lenovo B50/B51/N50 series bottom case, Black, Part CD",
+        "price": "4,500",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20B50%2FB51%2FN50%20series%20Casing%20%E2%80%94%20Part%20CD%20%28Bottom%20Case%29%20%E2%80%94%20KES%204%2C500"
+      },
+      {
+        "label": "Full Kit",
+        "name": "Full Kit — Part AB + Part CD",
+        "description": "Both panels together, at a combined price.",
+        "image": "assets/images/products/lenovo-casing-b50n50series-full.webp",
+        "alt": "Lenovo B50/B51/N50 series full casing kit — lid and bottom case together",
+        "price": "9,000",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20B50%2FB51%2FN50%20series%20Full%20Casing%20Kit%20%E2%80%94%20KES%209%2C000"
+      }
+    ],
+    "specs": [
+      { "label": "Material", "value": "ABS plastic" },
+      { "label": "Color", "value": "Black" },
+      { "label": "Includes", "value": "Casing panel(s), screw set, rubber feet" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 months (manufacturing defects)" }
+    ],
+    "compatible_models": [
+      "Lenovo B50-30", "Lenovo B50-45", "Lenovo B50-70", "Lenovo B50-80",
+      "Lenovo B51-30", "Lenovo B51-80",
+      "Lenovo N50-45", "Lenovo N50-70", "Lenovo N50-80"
+    ],
+    "related": []
+  },
+  "faq_heading": "Casing Questions",
+  "faqs": [
+    { "question": "What's the difference between Part AB, Part CD and the Full Kit?", "answer": "Part AB is the lid — the LCD back cover and screen bezel. Part CD is the bottom case. The Full Kit is both parts together at a combined price." },
+    { "question": "Do I need both parts?", "answer": "Only if both are damaged. If just one side is cracked or broken, you only need that part — tell us which on WhatsApp and we'll confirm the price." },
+    { "question": "Does the casing come with a keyboard or trackpad fitted?", "answer": "No — these are bare panels. The keyboard and trackpad transfer over from your existing casing." },
+    { "question": "Can I fit this myself?", "answer": "It involves a full teardown of the laptop, so most customers have it fitted by us. We can talk you through it on WhatsApp if you'd rather do it yourself." },
+    { "question": "What warranty comes with a casing?", "answer": "Every casing here carries a 3-month warranty against manufacturing defects such as cracking or misaligned mounting points." }
+  ]
+}

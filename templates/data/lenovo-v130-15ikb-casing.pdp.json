@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "title": "Lenovo V130-15IKB Casing — Full Kit, Part AB & Part CD | Price in Kenya | Moderntech",
+    "description": "Replacement casing for Lenovo V130-15IKB — full kit, lid (Part AB) or palmrest and base (Part CD), sold separately or as a full kit. In stock, order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Lenovo V130-15IKB Casing | Moderntech",
+    "description": "Full casing kit or individual panels for Lenovo V130-15IKB. In stock in Nairobi, warranty included."
+  },
+  "category": {
+    "slug": "casings",
+    "url": "/shop/casings/",
+    "name": "Casings"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "product": {
+    "url": "/shop/casings/lenovo-v130-15ikb-casing/",
+    "name": "Lenovo V130-15IKB Casing",
+    "full_name": "Replacement Casing for Lenovo V130-15IKB — Full Kit, Part AB (Lid) or Part CD (Chassis)",
+    "sku": "LNV-CS-V13015IKB-MULTI",
+    "brand_name": "Lenovo",
+    "brand_slug": "lenovo",
+    "price": "5,700",
+    "price_raw": "5700",
+    "schema_availability": "https://schema.org/InStock",
+    "type_label": "casing",
+    "type_label_cap": "Casing",
+    "images": [
+      {
+        "src": "assets/images/products/lenovo-casing-v13015ikb-partab.webp",
+        "alt": "Lenovo V130-15IKB LCD back cover and screen bezel, Part AB"
+      },
+      {
+        "src": "assets/images/products/lenovo-casing-v13015ikb-partcd.webp",
+        "alt": "Lenovo V130-15IKB upper palmrest with keyboard tray and touchpad, Part CD"
+      },
+      {
+        "src": "assets/images/products/lenovo-casing-v13015ikb-full.webp",
+        "alt": "Lenovo V130-15IKB full casing kit — lid and chassis together"
+      }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" },
+      { "class": "badge--warranty", "label": "Warranty Included" }
+    ],
+    "description": "Replacement casing for the Lenovo V130-15IKB. Available as the full kit (both lid and chassis) or as individual panels if you only need one side replaced — see \"Choose Your Part\" below for exactly what's included in each option and its price, then tell us which one you need when you message us on WhatsApp.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20a%20Lenovo%20V130-15IKB%20casing%20%E2%80%94%20please%20let%20me%20know%3A%20Full%20Kit%2C%20Part%20AB%2C%20or%20Part%20CD",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20Lenovo%20V130-15IKB%20Casing%20fits%20my%20laptop%3F",
+    "part_options": [
+      {
+        "label": "Part AB",
+        "name": "Part AB — Lid (LCD Back Cover)",
+        "description": "The lid only: LCD back cover and screen bezel.",
+        "image": "assets/images/products/lenovo-casing-v13015ikb-partab.webp",
+        "alt": "Lenovo V130-15IKB LCD back cover and screen bezel, Part AB",
+        "price": "5,700",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20V130-15IKB%20Casing%20%E2%80%94%20Part%20AB%20%28Lid%29%20%E2%80%94%20KES%205%2C700"
+      },
+      {
+        "label": "Part CD",
+        "name": "Part CD — Palmrest + Base",
+        "description": "Upper palmrest with keyboard tray and touchpad housing.",
+        "image": "assets/images/products/lenovo-casing-v13015ikb-partcd.webp",
+        "alt": "Lenovo V130-15IKB upper palmrest with keyboard tray and touchpad, Part CD",
+        "price": "5,700",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20V130-15IKB%20Casing%20%E2%80%94%20Part%20CD%20%28Chassis%29%20%E2%80%94%20KES%205%2C700"
+      },
+      {
+        "label": "Full Kit",
+        "name": "Full Kit — Part AB + Part CD",
+        "description": "Both panels together, at a combined price.",
+        "image": "assets/images/products/lenovo-casing-v13015ikb-full.webp",
+        "alt": "Lenovo V130-15IKB full casing kit — lid and chassis together",
+        "price": "11,400",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20V130-15IKB%20Full%20Casing%20Kit%20%E2%80%94%20KES%2011%2C400"
+      }
+    ],
+    "specs": [
+      { "label": "Material", "value": "ABS plastic" },
+      { "label": "Includes", "value": "Casing panel(s), screw set, rubber feet" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "3 months (manufacturing defects)" }
+    ],
+    "compatible_models": [
+      "Lenovo V130-15IKB"
+    ],
+    "related": []
+  },
+  "faq_heading": "Casing Questions",
+  "faqs": [
+    { "question": "What's the difference between Part AB, Part CD and the Full Kit?", "answer": "Part AB is the lid — the LCD back cover and screen bezel. Part CD is the palmrest, keyboard tray and touchpad housing. The Full Kit is both parts together at a combined price." },
+    { "question": "Do I need both parts?", "answer": "Only if both are damaged. If just one side is cracked or broken, you only need that part — tell us which on WhatsApp and we'll confirm the price." },
+    { "question": "Does the casing come with a keyboard or trackpad fitted?", "answer": "No — these are bare panels. The trackpad housing is part of Part CD, but the keyboard and trackpad itself transfer over from your existing casing." },
+    { "question": "Can I fit this myself?", "answer": "It involves a full teardown of the laptop, so most customers have it fitted by us. We can talk you through it on WhatsApp if you'd rather do it yourself." },
+    { "question": "What warranty comes with a casing?", "answer": "Every casing here carries a 3-month warranty against manufacturing defects such as cracking or misaligned mounting points." }
+  ]
+}
