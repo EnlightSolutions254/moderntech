@@ -1,0 +1,189 @@
+{
+  "_confirm": [
+    "Repairs > Charging Faults mentions the charging port. Remove that wording if you do not repair charging ports.",
+    "How A Repair Works, steps 2 to 4: quote before work starts, drop-off arrangement, tested before hand-back. Edit to match how you really work.",
+    "Optional: add your repair warranty as another entry in why.points, e.g. 'X-month warranty on repairs'.",
+    "Photos: replace the two files in assets/images/repairs/ and update the alt text in page.image and why.image to describe them."
+  ],
+  "meta": {
+    "title": "Laptop Repairs in Nairobi | Zanatechnologies Laptop Parts Kenya",
+    "description": "Laptop repairs in Nairobi using genuine parts: screens, batteries, keyboards, hinges, fans, casings and charging faults. Send your model on WhatsApp for a diagnosis and quote."
+  },
+  "og": {
+    "title": "Laptop Repairs in Nairobi | Zanatechnologies",
+    "description": "Screen, battery, keyboard, hinge, fan and casing repairs using genuine parts. Diagnosis and quote on WhatsApp."
+  },
+  "page": {
+    "heading": "Laptop Repairs In Nairobi, Fitted With Genuine Parts",
+    "intro": "Cracked screen, dead battery or a laptop that won't charge? Tell us the model and the problem. We diagnose it, give you a price, and fix it with the same genuine parts we sell across Kenya.",
+    "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20book%20a%20laptop%20repair.%20My%20laptop%20model%20and%20the%20problem%20are%3A%20",
+    "cta_label": "Book a Repair on WhatsApp",
+    "secondary_cta_label": "Diagnose the Problem",
+    "secondary_cta_url": "/repair-help/",
+    "trust_row": [
+      {
+        "icon": "✓",
+        "label": "Genuine parts"
+      },
+      {
+        "icon": "✓",
+        "label": "Diagnosis on WhatsApp"
+      },
+      {
+        "icon": "✓",
+        "label": "All major laptop brands"
+      }
+    ],
+    "image": {
+      "src": "/assets/images/repairs/laptop-repair-bench.webp",
+      "alt": "A laptop opened up on the repair bench at Zanatechnologies",
+      "width": 1200,
+      "height": 800
+    }
+  },
+  "repairs": {
+    "heading": "What We Repair",
+    "copy": "The faults we see most often, and the parts we fit to fix them.",
+    "items": [
+      {
+        "icon": "🖥",
+        "label": "Screen Replacement",
+        "desc": "Cracked, flickering, lined or blank screen. We fit a genuine replacement panel matched to your model."
+      },
+      {
+        "icon": "🔋",
+        "label": "Battery Replacement",
+        "desc": "Laptop dies quickly or won't hold a charge. We replace it with a tested battery that fits your exact model."
+      },
+      {
+        "icon": "🔌",
+        "label": "Charging Faults",
+        "desc": "Won't charge or only runs on the cable. We find whether it's the charger, the battery or the charging port."
+      },
+      {
+        "icon": "⌃",
+        "label": "Keyboard Replacement",
+        "desc": "Keys not working, sticking or a whole keyboard not responding. We fit a compatible replacement, backlit where the model has one."
+      },
+      {
+        "icon": "🔧",
+        "label": "Hinge Repair",
+        "desc": "Screen wobbles, won't stay in position or cracks near the hinge when you open the lid."
+      },
+      {
+        "icon": "💨",
+        "label": "Fan and Overheating Fixes",
+        "desc": "Laptop runs hot, shuts down under load or the fan is loud. We replace worn fans and check for blocked airflow."
+      },
+      {
+        "icon": "🧰",
+        "label": "Casing and Palm Rest Replacement",
+        "desc": "Cracked or broken body, palm rest or bottom cover. We fit a replacement casing for your model."
+      },
+      {
+        "icon": "❓",
+        "label": "Not Sure What's Wrong?",
+        "desc": "Send us the symptoms and we'll diagnose the fault, so you know what needs fixing before you commit."
+      }
+    ]
+  },
+  "how_it_works": {
+    "heading": "How A Repair Works",
+    "steps": [
+      {
+        "title": "Message us on WhatsApp",
+        "desc": "Send your laptop brand and model, a short description of the problem, and a photo of the fault if you can."
+      },
+      {
+        "title": "We diagnose and quote",
+        "desc": "We tell you what's wrong and what the repair will cost before any work starts."
+      },
+      {
+        "title": "Drop off your laptop",
+        "desc": "We confirm where and when to bring it on WhatsApp."
+      },
+      {
+        "title": "We fix it and hand it back",
+        "desc": "Your laptop is repaired with a genuine part and tested before you collect it."
+      }
+    ]
+  },
+  "why": {
+    "heading": "Repairs Backed By Our Own Parts Stock",
+    "copy": "Most repair delays come from waiting on a part. We stock laptop batteries, chargers, screens, keyboards, hinges, fans and casings ourselves, so we can start your repair with the right part instead of sending you off to find one.",
+    "image": {
+      "src": "/assets/images/repairs/laptop-parts-fitted.webp",
+      "alt": "A replacement laptop part being fitted during a repair",
+      "width": 1200,
+      "height": 800
+    },
+    "points": [
+      {
+        "label": "Genuine parts, tested, not old take-outs"
+      },
+      {
+        "label": "Compatibility checked against your exact model number"
+      },
+      {
+        "label": "The same stock repair shops across Nairobi buy from us"
+      }
+    ]
+  },
+  "parts": {
+    "heading": "Prefer To Fit It Yourself?",
+    "copy": "You can buy any of these parts on their own, delivered same day in Nairobi and in 1–2 days to major towns.",
+    "items": [
+      {
+        "url": "/shop/laptop-batteries/",
+        "icon": "🔋",
+        "name": "Laptop Batteries"
+      },
+      {
+        "url": "/shop/screens/",
+        "icon": "🖥",
+        "name": "Laptop Screens"
+      },
+      {
+        "url": "/shop/keyboards/",
+        "icon": "⌃",
+        "name": "Keyboards"
+      },
+      {
+        "url": "/shop/chargers/",
+        "icon": "⚡",
+        "name": "Chargers and Adapters"
+      }
+    ],
+    "trade_note": "Run a repair shop?",
+    "trade_link_label": "See trade pricing for technicians."
+  },
+  "faqs_heading": "Laptop Repair Questions",
+  "faqs": [
+    {
+      "q": "How much does a laptop repair cost?",
+      "a": "It depends on your laptop model and the part it needs. Send us the model and the problem on WhatsApp and we'll give you a quote."
+    },
+    {
+      "q": "How long does a repair take?",
+      "a": "It depends on the fault and whether the part is in stock. We'll give you an estimate when you message us."
+    },
+    {
+      "q": "Which laptop brands do you repair?",
+      "a": "We stock parts for HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook. Send us your model and we'll confirm we can help."
+    },
+    {
+      "q": "I don't know what's wrong with my laptop. Where do I start?",
+      "a": "Message us what you're seeing, including any error messages or sounds, and we'll help you work out the fault. The Diagnose the Problem button at the top of this page also opens our symptom guide."
+    },
+    {
+      "q": "Can I just buy the part and fit it myself?",
+      "a": "Yes. Browse the parts in the shop, or send your laptop model on WhatsApp and we'll confirm the right part before you order."
+    }
+  ],
+  "final_cta": {
+    "heading": "Ready To Get Your Laptop Fixed?",
+    "copy": "Message us your laptop model and the problem. We'll take it from there.",
+    "cta_text": "Book a Repair on WhatsApp",
+    "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20book%20a%20laptop%20repair.%20My%20laptop%20model%20and%20the%20problem%20are%3A%20"
+  }
+}

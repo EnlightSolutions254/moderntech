@@ -1,0 +1,8 @@
+{
+  "name": "zanatechnologies-image-tools",
+  "private": true,
+  "description": "Helper scripts for the Zanatechnologies site (image watermarking).",
+  "dependencies": {
+    "sharp": "^0.34.0"
+  }
+}

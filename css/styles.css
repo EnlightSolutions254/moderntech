@@ -1941,3 +1941,34 @@ summary:focus-visible {
 /* --- Sticky WhatsApp bar, refined --- */
 .sticky-whatsapp--premium { border-radius: var(--radius-lg) var(--radius-lg) 0 0; }
 .sticky-whatsapp--premium .sticky-whatsapp__link { box-shadow: none; }
+
+/* ==========================================================================
+   Laptop repair page (/laptop-repair/)
+   ========================================================================== */
+.repair-photo { margin: 0; }
+.repair-photo img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+  border-radius: var(--radius-lg);
+  background: var(--color-border);
+  box-shadow: var(--elevation-2);
+}
+/* Hero: keep the headline first on mobile, photo below it. On desktop the
+   photo sits to the right (the base .hero__visual rules give it 40% width). */
+.hero__inner .repair-photo { order: 1; }
+
+.repair-split { display: flex; flex-direction: column; gap: var(--space-5); }
+.repair-split__text p { color: var(--color-text-muted); margin-top: var(--space-2); max-width: 60ch; }
+.repair-checks { list-style: none; margin: var(--space-4) 0 0; padding: 0; display: flex; flex-direction: column; gap: var(--space-2); }
+.repair-checks li { display: flex; gap: var(--space-2); align-items: flex-start; font-weight: 600; color: var(--color-primary); }
+.repair-checks span { color: var(--color-success); }
+.repair-note { margin-top: var(--space-4); color: var(--color-text-muted); }
+.repair-note a { font-weight: 600; color: var(--color-primary); text-decoration: underline; }
+
+@media (min-width: 960px) {
+  .repair-split { flex-direction: row; align-items: center; gap: var(--space-6); }
+  .repair-split > * { flex: 1 1 0; min-width: 0; }
+}

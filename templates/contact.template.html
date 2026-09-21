@@ -9,14 +9,14 @@
 <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/apple-touch-icon.png">
 <title>{{meta.title}}</title>
 <meta name="description" content="{{meta.description}}">
-<link rel="canonical" href="https://{{store.domain}}{{category.url}}">
+<link rel="canonical" href="https://{{store.domain}}/contact.html">
 
 <!-- Open Graph -->
 <meta property="og:type" content="website">
 <meta property="og:title" content="{{og.title}}">
 <meta property="og:description" content="{{og.description}}">
 <meta property="og:locale" content="en_KE">
-<meta property="og:url" content="https://{{store.domain}}{{category.url}}">
+<meta property="og:url" content="https://{{store.domain}}/contact.html">
 
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="/css/styles.css">
@@ -28,17 +28,17 @@
   "@type": "BreadcrumbList",
   "itemListElement": [
     { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://{{store.domain}}/" },
-    { "@type": "ListItem", "position": 2, "name": "{{category.name}}", "item": "https://{{store.domain}}{{category.url}}" }
+    { "@type": "ListItem", "position": 2, "name": "Contact", "item": "https://{{store.domain}}/contact.html" }
   ]
 }
 </script>
-<!-- CollectionPage / ItemList structured data (category listing) -->
+<!-- ContactPage structured data -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "CollectionPage",
-  "name": "{{category.name}} — Kenya",
-  "url": "https://{{store.domain}}{{category.url}}"
+  "@type": "ContactPage",
+  "name": "{{meta.title}}",
+  "url": "https://{{store.domain}}/contact.html"
 }
 </script>
 </head>
@@ -92,6 +92,7 @@
           </ul>
         </li>
         <li class="site-nav__item"><a class="site-nav__link" href="/technicians.html">Technicians</a></li>
+        <li class="site-nav__item"><a class="site-nav__link" href="/laptop-repair/">Laptop Repairs</a></li>
         <li class="site-nav__item"><a class="site-nav__link" href="/repair-help/">Repair Help</a></li>
       </ul>
     </nav>
@@ -159,6 +160,7 @@
 
     <ul class="mobile-drawer__flat-links">
       <li><a href="/technicians.html">Technicians &amp; Bulk Orders</a></li>
+      <li><a href="/laptop-repair/">Laptop Repairs</a></li>
       <li><a href="/repair-help/">Repair Help</a></li>
       <li><a href="/about.html">About Us</a></li>
       <li><a href="/faq.html">FAQ</a></li>
@@ -368,6 +370,7 @@
         <li><a href="/about.html">About Us</a></li>
         <li><a href="/faq.html">FAQ</a></li>
         <li><a href="/technicians.html">Technicians &amp; Bulk Orders</a></li>
+        <li><a href="/laptop-repair/">Laptop Repairs</a></li>
         <li><a href="/repair-help/">Repair Help</a></li>
         <li><a href="/contact.html">Contact</a></li>
       </ul>

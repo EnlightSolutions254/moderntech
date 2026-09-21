@@ -337,7 +337,7 @@ function generateHome(dataFile) {
 }
 
 // ---------------------------------------------------------------------------
-// Simple company pages: About, FAQ, Technicians, Contact, Repair Help.
+// Simple company pages: About, FAQ, Technicians, Contact, Repair Help, Laptop Repair.
 // None of these are data-driven across many instances the way categories/
 // PDPs/brands are -- each is a single page -- but they reuse the exact same
 // shared.json + template-engine pipeline so header/nav/footer stay in sync
@@ -376,6 +376,10 @@ function generateContact(dataFile) {
 
 function generateRepairHelp(dataFile) {
   renderSimplePage({ dataFile, templateName: 'repair-help.template.html', outUrl: '/repair-help/', label: 'repair-help' });
+}
+
+function generateLaptopRepair(dataFile) {
+  renderSimplePage({ dataFile, templateName: 'laptop-repair.template.html', outUrl: '/laptop-repair/', label: 'laptop-repair' });
 }
 
 function generateFaq(dataFile) {
@@ -422,6 +426,8 @@ function main() {
     generateContact(path.resolve(arg || path.join(DATA_DIR, 'contact.json')));
   } else if (cmd === 'repair-help') {
     generateRepairHelp(path.resolve(arg || path.join(DATA_DIR, 'repair-help.json')));
+  } else if (cmd === 'laptop-repair') {
+    generateLaptopRepair(path.resolve(arg || path.join(DATA_DIR, 'laptop-repair.json')));
   } else if (cmd === 'brand' && arg) {
     generateBrand(arg);
   } else if (cmd === 'brand') {
@@ -433,6 +439,7 @@ function main() {
     if (fs.existsSync(path.join(DATA_DIR, 'technicians.json'))) generateTechnicians(path.join(DATA_DIR, 'technicians.json'));
     if (fs.existsSync(path.join(DATA_DIR, 'contact.json'))) generateContact(path.join(DATA_DIR, 'contact.json'));
     if (fs.existsSync(path.join(DATA_DIR, 'repair-help.json'))) generateRepairHelp(path.join(DATA_DIR, 'repair-help.json'));
+    if (fs.existsSync(path.join(DATA_DIR, 'laptop-repair.json'))) generateLaptopRepair(path.join(DATA_DIR, 'laptop-repair.json'));
     for (const f of fs.readdirSync(DATA_DIR)) {
       if (f.endsWith('.category.json')) generateCategory(path.join(DATA_DIR, f));
       if (f.endsWith('.pdp.json')) generatePdp(path.join(DATA_DIR, f));
@@ -449,6 +456,7 @@ function main() {
     if (fs.existsSync(path.join(DATA_DIR, 'technicians.json'))) generateTechnicians(path.join(DATA_DIR, 'technicians.json'));
     if (fs.existsSync(path.join(DATA_DIR, 'contact.json'))) generateContact(path.join(DATA_DIR, 'contact.json'));
     if (fs.existsSync(path.join(DATA_DIR, 'repair-help.json'))) generateRepairHelp(path.join(DATA_DIR, 'repair-help.json'));
+    if (fs.existsSync(path.join(DATA_DIR, 'laptop-repair.json'))) generateLaptopRepair(path.join(DATA_DIR, 'laptop-repair.json'));
     for (const f of fs.readdirSync(DATA_DIR)) {
       if (f.endsWith('.category.json')) generateCategory(path.join(DATA_DIR, f));
       if (f.endsWith('.pdp.json')) generatePdp(path.join(DATA_DIR, f));
@@ -463,6 +471,7 @@ function main() {
     console.log('  node generate.js technicians [data/technicians.json]');
     console.log('  node generate.js contact [data/contact.json]');
     console.log('  node generate.js repair-help [data/repair-help.json]');
+    console.log('  node generate.js laptop-repair [data/laptop-repair.json]');
     console.log('  node generate.js category <data-file.category.json>');
     console.log('  node generate.js pdp <data-file.pdp.json>');
     console.log('  node generate.js brand <brand-slug>   e.g. node generate.js brand hp');
