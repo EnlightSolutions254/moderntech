@@ -13,7 +13,7 @@
     "name": "Chargers &amp; Adapters",
     "name_lower": "chargers",
     "description": "Genuine and compatible power adapters for HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook laptops. Every listing shows exact wattage, connector type and price before you message us.",
-    "result_count": 18
+    "result_count": 24
   },
   "products": [
     {
@@ -23,13 +23,124 @@
       "badge_class": "badge--original",
       "badge_label": "Genuine OEM",
       "image": "assets/images/products/apple-charger-140w-typec.webp",
-      "alt": "Apple 140W USB-C Charger \u2014 main view",
+      "alt": "Apple 140W USB-C Charger — main view",
       "name": "Apple 140W USB-C Charger",
-      "tags": ["MacBook Pro 14\"/16\"", "MacBook Air"],
+      "tags": [
+        "MacBook Pro 14\"/16\"",
+        "MacBook Air"
+      ],
       "price": "6,500",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Apple%20140W%20USB-C%20Charger%20%E2%80%94%20KES%206%2C500"
+    },
+    {
+      "url": "/shop/chargers/apple-87w-type-c-macbook-pro-13-15/",
+      "brand_slug": "macbook",
+      "stock": "in_stock",
+      "badge_class": "badge--original",
+      "badge_label": "Genuine OEM",
+      "image": "assets/images/products/apple-charger-87w-typec.webp",
+      "alt": "Apple 87W USB-C Charger — main view",
+      "name": "Apple 87W USB-C Charger",
+      "tags": [
+        "MacBook Pro 15\" (2016-2019)",
+        "MacBook Pro 13\" (2016-2020)"
+      ],
+      "price": "6,000",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Apple%2087W%20USB-C%20Charger%20%E2%80%94%20KES%206%2C000"
+    },
+    {
+      "url": "/shop/chargers/apple-61w-type-c-macbook-pro-13-macbook-12/",
+      "brand_slug": "macbook",
+      "stock": "in_stock",
+      "badge_class": "badge--original",
+      "badge_label": "Genuine OEM",
+      "image": "assets/images/products/apple-charger-61w-typec.webp",
+      "alt": "Apple 61W USB-C Charger — main view",
+      "name": "Apple 61W USB-C Charger",
+      "tags": [
+        "MacBook Pro 13\" (2016-2020)",
+        "MacBook 12\" / MacBook Air 13\""
+      ],
+      "price": "6,000",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Apple%2061W%20USB-C%20Charger%20%E2%80%94%20KES%206%2C000"
+    },
+    {
+      "url": "/shop/chargers/apple-85w-magsafe-2-macbook-pro-retina-15/",
+      "brand_slug": "macbook",
+      "stock": "in_stock",
+      "badge_class": "badge--original",
+      "badge_label": "Genuine OEM",
+      "image": "assets/images/products/apple-charger-85w-magsafe2.webp",
+      "alt": "Apple 85W MagSafe 2 Charger — main view",
+      "name": "Apple 85W MagSafe 2 Charger",
+      "tags": [
+        "MacBook Pro Retina 15\" (2012-2015)",
+        "MacBook Pro 13\" / Air (MagSafe 2)"
+      ],
+      "price": "5,000",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Apple%2085W%20MagSafe%202%20Charger%20%E2%80%94%20KES%205%2C000"
+    },
+    {
+      "url": "/shop/chargers/apple-60w-magsafe-2-macbook-pro-retina-13/",
+      "brand_slug": "macbook",
+      "stock": "in_stock",
+      "badge_class": "badge--original",
+      "badge_label": "Genuine OEM",
+      "image": "assets/images/products/apple-charger-60w-magsafe2.webp",
+      "alt": "Apple 60W MagSafe 2 Charger — main view",
+      "name": "Apple 60W MagSafe 2 Charger",
+      "tags": [
+        "MacBook Pro Retina 13\" (2012-2015)",
+        "MacBook Air (MagSafe 2)"
+      ],
+      "price": "4,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Apple%2060W%20MagSafe%202%20Charger%20%E2%80%94%20KES%204%2C500"
+    },
+    {
+      "url": "/shop/chargers/apple-85w-magsafe-1-macbook-pro-15-17/",
+      "brand_slug": "macbook",
+      "stock": "in_stock",
+      "badge_class": "badge--original",
+      "badge_label": "Genuine OEM",
+      "image": "assets/images/products/apple-charger-85w-magsafe1.webp",
+      "alt": "Apple 85W MagSafe 1 Charger — main view",
+      "name": "Apple 85W MagSafe 1 Charger",
+      "tags": [
+        "MacBook Pro 15\"/17\" (2006-2012)",
+        "MacBook Pro 13\" (MagSafe 1)"
+      ],
+      "price": "4,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Apple%2085W%20MagSafe%201%20Charger%20%E2%80%94%20KES%204%2C500"
+    },
+    {
+      "url": "/shop/chargers/apple-60w-magsafe-1-macbook-pro-13/",
+      "brand_slug": "macbook",
+      "stock": "in_stock",
+      "badge_class": "badge--original",
+      "badge_label": "Genuine OEM",
+      "image": "assets/images/products/apple-charger-60w-magsafe1.webp",
+      "alt": "Apple 60W MagSafe 1 Charger — main view",
+      "name": "Apple 60W MagSafe 1 Charger",
+      "tags": [
+        "MacBook Pro 13\" (2009-2012)",
+        "MacBook 13\" (2009-2010)"
+      ],
+      "price": "4,000",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Apple%2060W%20MagSafe%201%20Charger%20%E2%80%94%20KES%204%2C000"
     },
     {
       "url": "/shop/chargers/lenovo-65w-type-c-original-thinkpad-x1-t470-x270/",
@@ -38,9 +149,12 @@
       "badge_class": "badge--original",
       "badge_label": "Genuine OEM",
       "image": "assets/images/products/lenovo-charger-65w-typec-original.webp",
-      "alt": "Lenovo 65W Type-C Original Charger \u2014 main view",
+      "alt": "Lenovo 65W Type-C Original Charger — main view",
       "name": "Lenovo 65W Type-C Original Charger",
-      "tags": ["ThinkPad X1 Carbon/Yoga", "ThinkPad T470/X270"],
+      "tags": [
+        "ThinkPad X1 Carbon/Yoga",
+        "ThinkPad T470/X270"
+      ],
       "price": "4,500",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -53,9 +167,12 @@
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
       "image": "assets/images/products/dell-charger-65w-smallpin.webp",
-      "alt": "Dell 65W Small Pin Charger \u2014 main view",
+      "alt": "Dell 65W Small Pin Charger — main view",
       "name": "Dell 65W Small Pin Charger",
-      "tags": ["XPS 13/15", "Inspiron/Latitude/Vostro"],
+      "tags": [
+        "XPS 13/15",
+        "Inspiron/Latitude/Vostro"
+      ],
       "price": "1,500",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -68,9 +185,12 @@
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
       "image": "assets/images/products/asus-charger-65w.webp",
-      "alt": "Asus 65W Charger \u2014 main view",
+      "alt": "Asus 65W Charger — main view",
       "name": "Asus 65W Charger",
-      "tags": ["VivoBook Series", "ZenBook Series"],
+      "tags": [
+        "VivoBook Series",
+        "ZenBook Series"
+      ],
       "price": "1,500",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -83,9 +203,12 @@
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
       "image": "assets/images/products/toshiba-charger-65w.webp",
-      "alt": "Toshiba 65W Charger \u2014 main view",
+      "alt": "Toshiba 65W Charger — main view",
       "name": "Toshiba 65W Charger",
-      "tags": ["Satellite C/L Series", "Tecra/Portege"],
+      "tags": [
+        "Satellite C/L Series",
+        "Tecra/Portege"
+      ],
       "price": "1,500",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -98,9 +221,12 @@
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
       "image": "assets/images/products/lenovo-charger-65w-usbpin.webp",
-      "alt": "Lenovo 65W USB Pin Charger \u2014 main view",
+      "alt": "Lenovo 65W USB Pin Charger — main view",
       "name": "Lenovo 65W USB Pin Charger",
-      "tags": ["ThinkPad X240/T440", "E440-E570 Series"],
+      "tags": [
+        "ThinkPad X240/T440",
+        "E440-E570 Series"
+      ],
       "price": "1,500",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -113,9 +239,12 @@
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
       "image": "assets/images/products/hp-charger-65w-bigpin.webp",
-      "alt": "HP 65W Big Pin Charger \u2014 main view",
+      "alt": "HP 65W Big Pin Charger — main view",
       "name": "HP 65W Big Pin Charger",
-      "tags": ["EliteBook 840/850 G1-G3", "ProBook 640/650"],
+      "tags": [
+        "EliteBook 840/850 G1-G3",
+        "ProBook 640/650"
+      ],
       "price": "1,500",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -128,9 +257,12 @@
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
       "image": "assets/images/products/hp-charger-65w-bluepin.webp",
-      "alt": "HP 65W Blue Pin Charger \u2014 main view",
+      "alt": "HP 65W Blue Pin Charger — main view",
       "name": "HP 65W Blue Pin Charger",
-      "tags": ["Pavilion x360", "EliteBook 840/850 G5"],
+      "tags": [
+        "Pavilion x360",
+        "EliteBook 840/850 G5"
+      ],
       "price": "1,500",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -143,9 +275,12 @@
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
       "image": "assets/images/products/lenovo-charger-65w-typec.webp",
-      "alt": "Lenovo 65W Type-C Charger \u2014 main view",
+      "alt": "Lenovo 65W Type-C Charger — main view",
       "name": "Lenovo 65W Type-C Charger",
-      "tags": ["ThinkPad X1 Carbon/Yoga", "ThinkPad T470/X270"],
+      "tags": [
+        "ThinkPad X1 Carbon/Yoga",
+        "ThinkPad T470/X270"
+      ],
       "price": "2,500",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -158,9 +293,12 @@
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
       "image": "assets/images/products/dell-charger-65w-typec.webp",
-      "alt": "Dell 65W Type-C Charger \u2014 main view",
+      "alt": "Dell 65W Type-C Charger — main view",
       "name": "Dell 65W Type-C Charger",
-      "tags": ["Latitude 2-in-1 Series", "XPS 12/13"],
+      "tags": [
+        "Latitude 2-in-1 Series",
+        "XPS 12/13"
+      ],
       "price": "2,500",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -173,9 +311,12 @@
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
       "image": "assets/images/products/hp-charger-65w-typec.webp",
-      "alt": "HP 65W Type-C Charger \u2014 main view",
+      "alt": "HP 65W Type-C Charger — main view",
       "name": "HP 65W Type-C Charger",
-      "tags": ["Spectre x360 13/15", "EliteBook 735/745"],
+      "tags": [
+        "Spectre x360 13/15",
+        "EliteBook 735/745"
+      ],
       "price": "3,500",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -188,9 +329,12 @@
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
       "image": "assets/images/products/lenovo-charger-100w-typec.webp",
-      "alt": "Lenovo 100W Type-C Charger \u2014 main view",
+      "alt": "Lenovo 100W Type-C Charger — main view",
       "name": "Lenovo 100W Type-C Charger",
-      "tags": ["ThinkPad T16/P16s", "ThinkBook Series"],
+      "tags": [
+        "ThinkPad T16/P16s",
+        "ThinkBook Series"
+      ],
       "price": "5,500",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -203,9 +347,12 @@
       "badge_class": "badge--original",
       "badge_label": "Genuine OEM",
       "image": "assets/images/products/hp-charger-65w-typec-original.webp",
-      "alt": "HP 65W Type-C Original Charger \u2014 main view",
+      "alt": "HP 65W Type-C Original Charger — main view",
       "name": "HP 65W Type-C Original Charger",
-      "tags": ["Spectre x360 13/15", "EliteBook 735/745"],
+      "tags": [
+        "Spectre x360 13/15",
+        "EliteBook 735/745"
+      ],
       "price": "4,500",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -218,9 +365,12 @@
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
       "image": "assets/images/products/microsoft-charger-65w-surfacepro.webp",
-      "alt": "Microsoft Surface Pro 65W Charger \u2014 main view",
+      "alt": "Microsoft Surface Pro 65W Charger — main view",
       "name": "Microsoft Surface Pro 65W Charger",
-      "tags": ["Surface Pro 3-9/X", "Surface Book/Laptop"],
+      "tags": [
+        "Surface Pro 3-9/X",
+        "Surface Book/Laptop"
+      ],
       "price": "4,500",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -233,9 +383,12 @@
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
       "image": "assets/images/products/dell-charger-130w-typec.webp",
-      "alt": "Dell 130W Type-C Charger \u2014 main view",
+      "alt": "Dell 130W Type-C Charger — main view",
       "name": "Dell 130W Type-C Charger",
-      "tags": ["XPS 15/17", "Precision Series"],
+      "tags": [
+        "XPS 15/17",
+        "Precision Series"
+      ],
       "price": "5,500",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -248,9 +401,12 @@
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
       "image": "assets/images/products/hp-charger-200w-bluepin.webp",
-      "alt": "HP 200W Blue Pin Charger \u2014 main view",
+      "alt": "HP 200W Blue Pin Charger — main view",
       "name": "HP 200W Blue Pin Charger",
-      "tags": ["EliteBook 8x Series", "ZBook 15/17"],
+      "tags": [
+        "EliteBook 8x Series",
+        "ZBook 15/17"
+      ],
       "price": "6,500",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -263,9 +419,12 @@
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
       "image": "assets/images/products/hp-charger-130w-bluepin.webp",
-      "alt": "HP 130W Blue Pin Charger \u2014 main view",
+      "alt": "HP 130W Blue Pin Charger — main view",
       "name": "HP 130W Blue Pin Charger",
-      "tags": ["Omen 15-ax Series", "Pavilion Gaming"],
+      "tags": [
+        "Omen 15-ax Series",
+        "Pavilion Gaming"
+      ],
       "price": "5,500",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -280,7 +439,10 @@
       "image": "assets/images/products/usb-ethernet-adapter.webp",
       "alt": "USB Ethernet adapter — gray, RJ45 port",
       "name": "USB Ethernet Adapter",
-      "tags": ["RJ45", "Wired"],
+      "tags": [
+        "RJ45",
+        "Wired"
+      ],
       "price": "2,500",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -289,9 +451,18 @@
   ],
   "faq_heading": "Charger Questions",
   "faqs": [
-    { "question": "How do I know this charger fits my laptop?", "answer": "Each listing shows the wattage and connector type. If you're unsure, send us a photo of your original charger or your laptop model on WhatsApp and we'll confirm before you order." },
-    { "question": "Is a higher-wattage charger safe to use?", "answer": "Yes — a charger rated higher than your laptop's original wattage is safe; your laptop only draws what it needs. A lower-wattage charger should be avoided." },
-    { "question": "What warranty comes with a charger?", "answer": "Most chargers carry a 3-month warranty, listed on the individual product page." }
+    {
+      "question": "How do I know this charger fits my laptop?",
+      "answer": "Each listing shows the wattage and connector type. If you're unsure, send us a photo of your original charger or your laptop model on WhatsApp and we'll confirm before you order."
+    },
+    {
+      "question": "Is a higher-wattage charger safe to use?",
+      "answer": "Yes — a charger rated higher than your laptop's original wattage is safe; your laptop only draws what it needs. A lower-wattage charger should be avoided."
+    },
+    {
+      "question": "What warranty comes with a charger?",
+      "answer": "Most chargers carry a 3-month warranty, listed on the individual product page."
+    }
   ],
   "empty_state": {
     "whatsapp_text": "Hi%2C%20I%27m%20looking%20for%20a%20laptop%20charger%20but%20couldn%27t%20find%20it%20on%20the%20site."
