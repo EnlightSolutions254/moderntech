@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "title": "Lenovo 65W USB Pin Charger | Price in Kenya | Moderntech",
+    "description": "Replacement 65W power adapter for Lenovo ThinkPad X240/X250/X260/X270, T440-T470, L440-L470, E440-E570 and IdeaPad/Flex/Yoga/G/Z Series. Yellow USB Pin connector. 3-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Lenovo 65W USB Pin Charger | Moderntech",
+    "description": "Replacement 65W power adapter for Lenovo ThinkPad X240/X250/X260/X270, T440-T470, L440-L470, E440-E570 and IdeaPad/Flex/Yoga/G/Z Series. Yellow USB Pin connector. 3-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "chargers",
+    "url": "/shop/chargers/",
+    "name": "Chargers & Adapters"
+  },
+  "product": {
+    "url": "/shop/chargers/lenovo-65w-usb-pin-thinkpad-x240-t440-e440/",
+    "name": "Lenovo 65W USB Pin Charger",
+    "full_name": "Replacement 65W Charger for Lenovo ThinkPad X240 / T440 / E440 Series",
+    "sku": "PA-1650-72 / 0C19868 / 45N0251",
+    "brand_name": "Lenovo",
+    "brand_slug": "lenovo",
+    "price": "1,500",
+    "price_raw": "1500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Replacement power adapter (Part No. PA-1650-72, 0C19868, 45N0251) for Lenovo ThinkPad X240, X250, X260, X270, T440, T440s, T450, T450s, T460, T460s, T470, T470s, L440, L450, L460, L470, L540, E431, E440, E450, E455, E460, E465, E531, E540, E550, E555, E560, E565, W550s, S431, Yoga 260/370, and IdeaPad / Flex / Yoga / G-series / Z-series models using the same connector (Flex 2, Yoga 11e/13, G40-G70, Z40-Z70). 20V, 3.25A, 65W output through the yellow USB-style pin connector. Wide-range 100\u2013240V AC input for worldwide use. Tested before dispatch, drop-in replacement for the original charger.",
+    "type_label": "charger",
+    "type_label_cap": "Charger",
+    "images": [
+      {
+        "src": "assets/images/products/lenovo-charger-65w-usbpin.webp",
+        "alt": "Lenovo 65W USB Pin Charger \u2014 main view"
+      },
+      {
+        "src": "assets/images/products/lenovo-charger-65w-usbpin-1.webp",
+        "alt": "Lenovo 65W USB Pin Charger \u2014 connector detail"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      },
+      {
+        "class": "badge--new-oem",
+        "label": "New OEM-Equivalent"
+      },
+      {
+        "class": "badge--warranty",
+        "label": "3-Month Warranty"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "PA-1650-72 / 0C19868"
+      },
+      {
+        "label": "Compatible Brand",
+        "value": "Lenovo"
+      },
+      {
+        "label": "Adapter Type",
+        "value": "New OEM-Equivalent"
+      },
+      {
+        "label": "Connector",
+        "value": "Yellow USB Pin (rectangular)"
+      },
+      {
+        "label": "Output",
+        "value": "20V, 3.25A, 65W"
+      },
+      {
+        "label": "Input",
+        "value": "100\u2013240V AC, 50\u201360Hz"
+      },
+      {
+        "label": "Warranty",
+        "value": "3 Months"
+      }
+    ],
+    "compatible_models": [
+      "ThinkPad X240 / X250 / X260 / X270",
+      "ThinkPad T440 / T440s / T450 / T450s",
+      "ThinkPad T460 / T460s / T470 / T470s",
+      "ThinkPad L440 / L450 / L460 / L470 / L540",
+      "ThinkPad E431 / E440 / E450 / E460 / E531 / E540 / E550 / E560",
+      "ThinkPad Yoga 260 / 370",
+      "IdeaPad / Flex / Yoga (11e, 13, 2, 2 Pro) Series",
+      "IdeaPad G40-G70 / Z40-Z70 Series"
+    ],
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20this%20charger%20fits%20my%20laptop%3A%20Lenovo%2065W%20USB%20Pin%20Charger",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%2065W%20USB%20Pin%20Charger%20%E2%80%94%20KES%201%2C500",
+    "related": []
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1&ndash;2 days upcountry",
+  "faq_heading": "Charger Questions",
+  "faqs": [
+    {
+      "question": "How do I know this charger fits my laptop?",
+      "answer": "Each listing shows the wattage and connector type. If you're unsure, send us a photo of your original charger or your laptop model on WhatsApp and we'll confirm before you order."
+    },
+    {
+      "question": "Is a higher-wattage charger safe to use?",
+      "answer": "Yes \u2014 a charger rated higher than your laptop's original wattage is safe; your laptop only draws what it needs. A lower-wattage charger should be avoided."
+    },
+    {
+      "question": "What warranty comes with this charger?",
+      "answer": "This charger carries a 3-month warranty."
+    }
+  ]
+}

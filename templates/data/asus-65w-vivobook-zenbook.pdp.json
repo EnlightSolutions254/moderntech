@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "title": "Asus 65W Charger | Price in Kenya | Moderntech",
+    "description": "Replacement 65W power adapter for Asus VivoBook and ZenBook Series (UX21A, UX31A, UX32A, S/X/K Series). 4.0mm x 1.35mm connector. ADP-65AW A. 3-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Asus 65W Charger | Moderntech",
+    "description": "Replacement 65W power adapter for Asus VivoBook and ZenBook Series (UX21A, UX31A, UX32A, S/X/K Series). 4.0mm x 1.35mm connector. ADP-65AW A. 3-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "chargers",
+    "url": "/shop/chargers/",
+    "name": "Chargers & Adapters"
+  },
+  "product": {
+    "url": "/shop/chargers/asus-65w-vivobook-zenbook/",
+    "name": "Asus 65W Charger",
+    "full_name": "Replacement 65W Charger for Asus VivoBook / ZenBook Series",
+    "sku": "ADP-65AW A / ADP-65GD B",
+    "brand_name": "Asus",
+    "brand_slug": "asus",
+    "price": "1,500",
+    "price_raw": "1500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Replacement power adapter (Model ADP-65AW A, Part No. ADP-65GD B) for Asus Zenbook UX21A, UX31A, UX32A, UX32VD, UX301, UX303UB, UX430UAR, U38N, U38DT, VivoBook X202, S200, Q200 Series, VivoBook Flip TP501, VivoBook S14/S15 (S410/S510/S530), ZenBook Flip 14 UX461, and other ASUS ultrabook and notebook models using the same connector. 19V, 3.42A, 65W output through the 4.0mm x 1.35mm barrel connector. Wide-range 100\u2013240V AC input for worldwide use. Tested before dispatch, drop-in replacement for the original charger.",
+    "type_label": "charger",
+    "type_label_cap": "Charger",
+    "images": [
+      {
+        "src": "assets/images/products/asus-charger-65w.webp",
+        "alt": "Asus 65W Charger \u2014 main view"
+      },
+      {
+        "src": "assets/images/products/asus-charger-65w-1.webp",
+        "alt": "Asus 65W Charger \u2014 connector detail"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      },
+      {
+        "class": "badge--new-oem",
+        "label": "New OEM-Equivalent"
+      },
+      {
+        "class": "badge--warranty",
+        "label": "3-Month Warranty"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "ADP-65AW A / ADP-65GD B"
+      },
+      {
+        "label": "Compatible Brand",
+        "value": "Asus"
+      },
+      {
+        "label": "Adapter Type",
+        "value": "New OEM-Equivalent"
+      },
+      {
+        "label": "Connector",
+        "value": "4.0mm x 1.35mm (no center pin)"
+      },
+      {
+        "label": "Output",
+        "value": "19V, 3.42A, 65W"
+      },
+      {
+        "label": "Input",
+        "value": "100\u2013240V AC, 50\u201360Hz"
+      },
+      {
+        "label": "Warranty",
+        "value": "3 Months"
+      }
+    ],
+    "compatible_models": [
+      "Zenbook UX21A / UX31A / UX32A / UX32VD / UX301",
+      "Zenbook UX303UB / UX430UAR / UX461",
+      "VivoBook X202 / S200 / Q200 Series",
+      "VivoBook Flip TP501",
+      "VivoBook S14 / S15 (S410 / S510 / S530)",
+      "U38N / U38DT"
+    ],
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20this%20charger%20fits%20my%20laptop%3A%20Asus%2065W%20Charger",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%2065W%20Charger%20%E2%80%94%20KES%201%2C500",
+    "related": []
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1&ndash;2 days upcountry",
+  "faq_heading": "Charger Questions",
+  "faqs": [
+    {
+      "question": "How do I know this charger fits my laptop?",
+      "answer": "Each listing shows the wattage and connector type. If you're unsure, send us a photo of your original charger or your laptop model on WhatsApp and we'll confirm before you order."
+    },
+    {
+      "question": "Is a higher-wattage charger safe to use?",
+      "answer": "Yes \u2014 a charger rated higher than your laptop's original wattage is safe; your laptop only draws what it needs. A lower-wattage charger should be avoided."
+    },
+    {
+      "question": "What warranty comes with this charger?",
+      "answer": "This charger carries a 3-month warranty."
+    }
+  ]
+}
