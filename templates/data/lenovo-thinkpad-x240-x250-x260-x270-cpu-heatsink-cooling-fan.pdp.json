@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "title": "Lenovo ThinkPad X240 X250 X260 X270 CPU Heatsink Cooling Fan | Price in Kenya | Zanatechnologies",
+    "description": "New CPU heatsink cooling fan for Lenovo ThinkPad X240, X240s, X250, X260, X260s, X270 and X270s, in stock in Nairobi at KES 3,500. Send your laptop model to confirm fit. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "ThinkPad X240 X250 X260 X270 CPU Heatsink Fan | Zanatechnologies",
+    "description": "New CPU heatsink cooling fan for Lenovo ThinkPad X240 to X270. In stock, order on WhatsApp."
+  },
+  "category": {
+    "slug": "cooling-fans",
+    "url": "/shop/cooling-fans/",
+    "name": "Cooling Fans"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "product": {
+    "url": "/shop/cooling-fans/lenovo-thinkpad-x240-x250-x260-x270-cpu-heatsink-cooling-fan/",
+    "name": "Lenovo ThinkPad X240 / X250 / X260 / X270 CPU Heatsink Fan",
+    "full_name": "Lenovo ThinkPad X240 / X250 / X260 / X270 CPU Heatsink Cooling Fan",
+    "sku": "FAN-LENOVO-X240-X270-HEATSINK",
+    "brand_name": "Lenovo",
+    "brand_slug": "lenovo",
+    "price": "3,500",
+    "price_raw": "3500",
+    "schema_availability": "https://schema.org/InStock",
+    "type_label": "cooling fan",
+    "type_label_cap": "Cooling Fan",
+    "images": [
+      {
+        "src": "assets/images/products/lenovo-thinkpad-x240-x270-cpu-heatsink-cooling-fan.webp",
+        "alt": "New Lenovo ThinkPad X240 to X270 CPU heatsink cooling fan, top view"
+      },
+      {
+        "src": "assets/images/products/lenovo-thinkpad-x240-x270-cpu-heatsink-cooling-fan-alt.webp",
+        "alt": "New Lenovo ThinkPad X240 to X270 CPU heatsink cooling fan, connector and heatsink view"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      },
+      {
+        "class": "badge--warranty",
+        "label": "Warranty Included"
+      }
+    ],
+    "description": "New CPU heatsink and cooling fan for the Lenovo ThinkPad X240, X240s, X250, X260, X260s, X270 and X270s. Fit it when the laptop runs loud, rattles or grinds, overheats, or shuts down under load. The fan differs between these models, so please send us your exact ThinkPad model (or a photo of the part number on your old fan) on WhatsApp and we will confirm we have the right one before you order. Fitting is available in Nairobi.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20X240%20%2F%20X250%20%2F%20X260%20%2F%20X270%20CPU%20Heatsink%20Cooling%20Fan%20%E2%80%94%20KES%203%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20Lenovo%20ThinkPad%20X240%20%2F%20X250%20%2F%20X260%20%2F%20X270%20CPU%20Heatsink%20Cooling%20Fan%20fits%20my%20laptop%3F%20My%20ThinkPad%20model%20is%3A%20",
+    "specs": [
+      {
+        "label": "Type",
+        "value": "Laptop CPU heatsink with cooling fan (replacement part)"
+      },
+      {
+        "label": "Brand",
+        "value": "Lenovo"
+      },
+      {
+        "label": "Laptop Series",
+        "value": "ThinkPad X series"
+      },
+      {
+        "label": "Models Listed",
+        "value": "X240, X240s, X250, X260, X260s, X270, X270s"
+      },
+      {
+        "label": "Fitting",
+        "value": "Matched by laptop model, send your model to confirm"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      },
+      {
+        "label": "Warranty",
+        "value": "Included — ask on WhatsApp for current term"
+      }
+    ],
+    "compatible_models": [
+      "Lenovo ThinkPad X240",
+      "Lenovo ThinkPad X240s",
+      "Lenovo ThinkPad X250",
+      "Lenovo ThinkPad X260",
+      "Lenovo ThinkPad X260s",
+      "Lenovo ThinkPad X270",
+      "Lenovo ThinkPad X270s",
+      "Other ThinkPad X-series models (send us your laptop model to confirm)"
+    ],
+    "related": [
+      "/shop/cooling-fans/lenovo-thinkpad-x1-carbon-cpu-cooling-fan-01yr159-01yr204-00ur98/"
+    ]
+  },
+  "faq_heading": "Cooling Fan Questions",
+  "faqs": [
+    {
+      "question": "How do I know it's the fan and not something else?",
+      "answer": "A loud grinding or rattling noise, or the laptop overheating and shutting down under load, usually points to the fan. If the laptop is silent but still overheating, it may just need cleaning and fresh thermal paste. Ask us on WhatsApp before ordering."
+    },
+    {
+      "question": "Will this fan fit my ThinkPad?",
+      "answer": "It is listed for the ThinkPad X240, X240s, X250, X260, X260s, X270 and X270s. The fan and heatsink are not identical across all of these, so send us your exact model, or a photo of the part number on your old fan, on WhatsApp and we'll confirm before you order."
+    },
+    {
+      "question": "Does it come with the heatsink?",
+      "answer": "Yes, this is a CPU heatsink with the fan, so the whole assembly is replaced in one go. You will need thermal paste applied to the processor when it is fitted, and we do this when we fit it for you."
+    },
+    {
+      "question": "Can I fit this myself?",
+      "answer": "It requires opening the base cover and removing the old heatsink and fan, then applying fresh thermal paste. Most customers have it fitted by us. We can talk you through it on WhatsApp if you'd rather do it yourself."
+    },
+    {
+      "question": "What warranty comes with this fan?",
+      "answer": "This fan comes with a warranty. Message us on WhatsApp for the current term before ordering."
+    }
+  ]
+}

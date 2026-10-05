@@ -1,19 +1,19 @@
 {
   "meta": {
-    "title": "Laptop Accessories — Mouse, RAM, External Cases | Zanatechnologies",
-    "description": "Wired mice, laptop RAM upgrades and external drive cases in Nairobi. In-stock pricing in KES, warranty included, order on WhatsApp."
+    "title": "Laptop Accessories — Mouse, Mouse Pad, RAM, External Cases | Zanatechnologies",
+    "description": "Wired mice, mouse pads, laptop RAM upgrades and external drive cases in Nairobi. In-stock pricing in KES, warranty included, order on WhatsApp."
   },
   "og": {
     "title": "Laptop Accessories | Zanatechnologies",
-    "description": "Mice, RAM and external drive cases in stock. Warranty included, order on WhatsApp."
+    "description": "Mice, mouse pads, RAM and external drive cases in stock. Warranty included, order on WhatsApp."
   },
   "category": {
     "slug": "accessories",
     "url": "/shop/accessories/",
     "name": "Accessories",
     "name_lower": "accessories",
-    "description": "Mice, laptop RAM upgrades, external drive cases, surveillance hard drives and other everyday laptop accessories.",
-    "result_count": 4
+    "description": "Mice, mouse pads, laptop RAM upgrades, external drive cases, surveillance hard drives and other everyday laptop accessories.",
+    "result_count": 7
   },
   "empty_state": {
     "whatsapp_text": "Hi%2C%20I%27m%20looking%20for%20a%20laptop%20accessory%20you%20may%20not%20have%20listed."
@@ -47,6 +47,21 @@
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20MS111%20USB%20Optical%20Mouse%20%E2%80%94%20KES%20450"
+    },
+    {
+      "url": "/shop/accessories/mouse-pad/",
+      "brand_slug": "universal",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "image": "assets/images/products/mouse-pad.webp",
+      "alt": "Mouse pad with smooth surface, top view",
+      "name": "Mouse Pad",
+      "tags": ["Smooth Surface", "Non-slip Base"],
+      "price": "2,000",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Mouse%20Pad%20%E2%80%94%20KES%202%2C000"
     },
     {
       "url": "/shop/accessories/25-hdd-ssd-external-case-usb-2-0/",
@@ -92,6 +107,36 @@
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20a%20WD%20Purple%20Surveillance%20HDD%20%E2%80%94%20please%20let%20me%20know%20availability%20for%20my%20chosen%20capacity"
+    },
+    {
+      "url": "/shop/accessories/edp-30-pin-lcd-cable-dc02c00a300/",
+      "brand_slug": "universal",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "image": "assets/images/products/lcd-cable-edp-30-pin-dc02c00a300.webp",
+      "alt": "eDP 30-pin laptop LCD display cable, code DC02C00A300, label view",
+      "name": "eDP 30 Pin LCD Display Cable (DC02C00A300)",
+      "tags": ["eDP 30-Pin", "DC02C00A300"],
+      "price": "1,200",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20eDP%2030%20Pin%20LCD%20Display%20Cable%20%28DC02C00A300%29%20%E2%80%94%20KES%201%2C200"
+    },
+    {
+      "url": "/shop/accessories/usb-type-c-laptop-charging-port/",
+      "brand_slug": "universal",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "image": "assets/images/products/usb-type-c-charging-port.webp",
+      "alt": "USB Type-C laptop charging port replacement, front view",
+      "name": "Laptop Charging Port",
+      "tags": ["Big Pin", "Small Pin", "USB", "Type-C"],
+      "price": "1,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20a%20laptop%20charging%20port%20%E2%80%94%20type%20%28big%20pin%2C%20small%20pin%2C%20USB%20or%20Type-C%29%3A%20%0AMy%20laptop%20model%20is%3A%20"
     }
   ]
 }

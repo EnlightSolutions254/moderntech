@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "title": "MacBook Air A2337 Screen | Price in Kenya | Zanatechnologies",
+    "description": "Replacement Retina screen assembly for MacBook Air 13-inch M1 (A2337, 2020), 2560 x 1600. Space Gray, Silver or Gold. Warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "MacBook Air 13-inch (A2337) Screen Assembly | Zanatechnologies",
+    "description": "Replacement Retina screen for MacBook Air M1 A2337. In stock, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "screens",
+    "url": "/shop/screens/",
+    "name": "Laptop Screens"
+  },
+  "product": {
+    "url": "/shop/screens/macbook-air-13-a2337-screen-assembly/",
+    "brand_slug": "macbook",
+    "brand_name": "MacBook",
+    "sku": "SCR-MBA-A2337-RETINA",
+    "type_label": "screen",
+    "type_label_cap": "Screen",
+    "name": "MacBook Air 13-inch (A2337) Screen Assembly",
+    "full_name": "Apple MacBook Air 13-inch (M1, Late 2020) A2337 Retina Display Assembly",
+    "images": [
+      {
+        "src": "assets/images/products/macbook-air-13-a2337-screen-assembly.webp",
+        "alt": "MacBook Air 13-inch A2337 full display assembly, front view"
+      },
+      {
+        "src": "assets/images/products/macbook-air-13-a2337-screen-assembly-alt.webp",
+        "alt": "Angled view of the MacBook Air 13-inch A2337 screen assembly"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "price": "35,000",
+    "price_raw": "35000",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Replacement Retina display assembly for the Apple MacBook Air 13-inch (M1, Late 2020), model A2337 (EMC 3598, MacBookAir10,1). 13.3-inch, 2560 x 1600 resolution with True Tone support, supplied as a complete assembly with aluminum lid housing and hinges. Available in Space Gray, Silver and Gold, and the color must match your laptop, so tell us your color on WhatsApp when you order. Not compatible with the MacBook Air A2179 or A1932, which use a different screen.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20Air%2013-inch%20%28A2337%29%20Screen%20Assembly%20%E2%80%94%20KES%2035%2C000",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20MacBook%20Air%2013-inch%20%28A2337%29%20Screen%20Assembly",
+    "specs": [
+      {
+        "label": "Compatible Models",
+        "value": "MacBook Air 13-inch (M1, Late 2020) A2337"
+      },
+      {
+        "label": "Panel Size",
+        "value": "13.3-inch"
+      },
+      {
+        "label": "Resolution",
+        "value": "2560 x 1600 (Retina)"
+      },
+      {
+        "label": "Touch",
+        "value": "No"
+      },
+      {
+        "label": "Color",
+        "value": "Space Gray, Silver or Gold (must match your laptop)"
+      },
+      {
+        "label": "Reference Part No.",
+        "value": "661-16806 (Space Gray) / 661-16807 (Silver) / 661-16808 (Gold)"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      },
+      {
+        "label": "Warranty",
+        "value": "3 Months"
+      }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Screen Questions",
+  "faqs": [
+    {
+      "question": "How do I know this screen fits my laptop?",
+      "answer": "This fits the MacBook Air 13-inch with the M1 chip (Late 2020), model A2337. The model number is printed in small text on the underside of your laptop. It does not fit the 2018-2019 A1932 or the Intel 2020 A2179, even though they look similar. If you're unsure, send us a photo of the underside on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Which color should I choose?",
+      "answer": "The screen's aluminum lid housing must match your laptop: Space Gray, Silver or Gold. Tell us your color when you message us on WhatsApp and we'll confirm availability before you pay."
+    },
+    {
+      "question": "Do you install the screen, or is it self-fit?",
+      "answer": "We recommend having it fitted by us in Nairobi, as the display is delicate and the lid has to be opened carefully. If you're upcountry or prefer your own technician, we can ship it with fitting instructions."
+    },
+    {
+      "question": "What warranty comes with this screen?",
+      "answer": "This screen carries a 3-month warranty against dead pixels and panel defects."
+    }
+  ]
+}

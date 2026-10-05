@@ -1,0 +1,386 @@
+{
+  "meta": {
+    "title": "Laptop Casings &amp; Body Parts in Kenya \u2014 HP, Dell, Lenovo, Acer &amp; More | [Store Name]",
+    "description": "Replacement laptop casings, palmrests and body panels for HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook. In-stock pricing in KES, warranty included, countrywide delivery. Order on WhatsApp."
+  },
+  "og": {
+    "title": "Laptop Casings &amp; Body Parts in Kenya | [Store Name]",
+    "description": "Replacement laptop casings and body panels for all major brands. In-stock pricing, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "casings",
+    "url": "/shop/casings/",
+    "name": "Casings",
+    "name_lower": "casings",
+    "description": "Replacement top covers, bottom casings and palmrests for cracked, dented or badly worn laptop bodies \u2014 priced and listed by exact model so you know it fits before you order.",
+    "result_count": 18
+  },
+  "products": [
+    {
+      "name": "HP 250 G7 Casing (Full Kit / Part AB / Part CD)",
+      "url": "/shop/casings/hp-250-g7-casing/",
+      "image": "assets/images/products/hp-casing-250g7-full.webp",
+      "alt": "HP 250 G7 full casing kit \u2014 lid and chassis together",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "250/255/256 G7",
+        "Full Kit or Individual Parts"
+      ],
+      "price": "4,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20an%20HP%20250%20G7%20casing%20%E2%80%94%20please%20let%20me%20know%3A%20Full%20Kit%2C%20Part%20AB%2C%20or%20Part%20CD",
+      "extra": false
+    },
+    {
+      "name": "Lenovo G50-70 Casing (Full Kit / Part AB / Part CD)",
+      "url": "/shop/casings/lenovo-g50-70-casing/",
+      "image": "assets/images/products/lenovo-casing-g5070-full.webp",
+      "alt": "Lenovo G50-70 full casing kit \u2014 lid and chassis together",
+      "brand_slug": "lenovo",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "G50-70",
+        "Full Kit or Individual Parts"
+      ],
+      "price": "3,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20a%20Lenovo%20G50-70%20casing%20%E2%80%94%20please%20let%20me%20know%3A%20Full%20Kit%2C%20Part%20AB%2C%20or%20Part%20CD",
+      "extra": false
+    },
+    {
+      "name": "Acer E1-571 Casing (Full Kit / Part AB / Part CD)",
+      "url": "/shop/casings/acer-e1-571-casing/",
+      "image": "assets/images/products/acer-casing-e1571-full.webp",
+      "alt": "Acer E1-571 full casing kit \u2014 lid and chassis together",
+      "brand_slug": "acer",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "E1-571",
+        "Full Kit or Individual Parts"
+      ],
+      "price": "4,000",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20an%20Acer%20E1-571%20casing%20%E2%80%94%20please%20let%20me%20know%3A%20Full%20Kit%2C%20Part%20AB%2C%20or%20Part%20CD",
+      "extra": false
+    },
+    {
+      "name": "Lenovo 130-15IKB Casing (Full Kit / Part AB / Part CD)",
+      "url": "/shop/casings/lenovo-130-15ikb-casing/",
+      "image": "assets/images/products/lenovo-casing-13015ikb-full.webp",
+      "alt": "Lenovo 130-15IKB full casing kit \u2014 lid and chassis together",
+      "brand_slug": "lenovo",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "130-15IKB",
+        "Full Kit or Individual Parts"
+      ],
+      "price": "5,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20a%20Lenovo%20130-15IKB%20casing%20%E2%80%94%20please%20let%20me%20know%3A%20Full%20Kit%2C%20Part%20AB%2C%20or%20Part%20CD",
+      "extra": false
+    },
+    {
+      "name": "HP 14-AC/14-AY/14-AF/240 G4 Casing (Part AB)",
+      "url": "/shop/casings/hp-14-240g4-casing/",
+      "image": "assets/images/products/hp-casing-14-240g4-partab.webp",
+      "alt": "HP 14-AC/14-AY/14-AF/240 G4 LCD back cover and front bezel, Part AB",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "14-AC/14-AY/14-AF/240 G4",
+        "Part AB Only"
+      ],
+      "price": "3,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20an%20HP%2014-AC%2F14-AY%2F14-AF%2F240%20G4%20Casing%20%E2%80%94%20Part%20AB%20%28LCD%20Back%20Cover%20%26%20Front%20Bezel%29%20%E2%80%94%20KES%203%2C500",
+      "extra": false
+    },
+    {
+      "name": "HP 15-AU Casing (Full Kit / Part AB / Part CD)",
+      "url": "/shop/casings/hp-15-au-casing/",
+      "image": "assets/images/products/hp-casing-15au-full.webp",
+      "alt": "HP 15-AU full casing kit \u2014 lid and chassis together",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "15-AU",
+        "Full Kit or Individual Parts"
+      ],
+      "price": "7,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20an%20HP%2015-AU%20casing%20%E2%80%94%20please%20let%20me%20know%3A%20Full%20Kit%2C%20Part%20AB%2C%20or%20Part%20CD",
+      "extra": false
+    },
+    {
+      "name": "HP 250 G7/15-DA/255 G7 Full Casing (Black or Gray)",
+      "url": "/shop/casings/hp-250g7-15da-255g7-casing/",
+      "image": "assets/images/products/hp-casing-250g7-15da-255g7-full.webp",
+      "alt": "HP 250 G7/15-DA/255 G7 full casing kit \u2014 lid and chassis together",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "250 G7/15-DA/255 G7",
+        "Full Kit or Individual Parts",
+        "Black or Gray"
+      ],
+      "price": "4,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20an%20HP%20250%20G7%2F15-DA%2F255%20G7%20Full%20Casing%20%E2%80%94%20please%20let%20me%20know%3A%20Full%20Kit%2C%20Part%20AB%2C%20or%20Part%20CD%2C%20and%20which%20color%20%28Black%20or%20Gray%29",
+      "extra": false
+    },
+    {
+      "name": "Lenovo V130-14IKB Casing (Full Kit / Part AB / Part CD)",
+      "url": "/shop/casings/lenovo-v130-14ikb-casing/",
+      "image": "assets/images/products/lenovo-casing-v13014ikb-full.webp",
+      "alt": "Lenovo V130-14IKB full casing kit \u2014 lid and chassis together",
+      "brand_slug": "lenovo",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "V130-14IKB",
+        "Full Kit or Individual Parts"
+      ],
+      "price": "5,800",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20a%20Lenovo%20V130-14IKB%20casing%20%E2%80%94%20please%20let%20me%20know%3A%20Full%20Kit%2C%20Part%20AB%2C%20or%20Part%20CD",
+      "extra": false
+    },
+    {
+      "name": "Lenovo V130-15IKB Casing (Full Kit / Part AB / Part CD)",
+      "url": "/shop/casings/lenovo-v130-15ikb-casing/",
+      "image": "assets/images/products/lenovo-casing-v13015ikb-full.webp",
+      "alt": "Lenovo V130-15IKB full casing kit \u2014 lid and chassis together",
+      "brand_slug": "lenovo",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "V130-15IKB",
+        "Full Kit or Individual Parts"
+      ],
+      "price": "5,700",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20a%20Lenovo%20V130-15IKB%20casing%20%E2%80%94%20please%20let%20me%20know%3A%20Full%20Kit%2C%20Part%20AB%2C%20or%20Part%20CD",
+      "extra": false
+    },
+    {
+      "name": "HP Pavilion x360 15-DQ Casing (Full Kit / Part AB / Part CD)",
+      "url": "/shop/casings/hp-pavilion-x360-15dq-casing/",
+      "image": "assets/images/products/hp-casing-pavilionx36015dq-full.webp",
+      "alt": "HP Pavilion x360 15-DQ full casing kit \u2014 top and bottom case together",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "15-DQ/15-dq1xxx/15-dq1052nr",
+        "Full Kit or Individual Parts"
+      ],
+      "price": "6,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20an%20HP%20Pavilion%20x360%2015-DQ%20casing%20%E2%80%94%20please%20let%20me%20know%3A%20Full%20Kit%2C%20Part%20AB%2C%20or%20Part%20CD",
+      "extra": false
+    },
+    {
+      "name": "Lenovo IdeaPad 3-15ITL6 Casing (Full Kit / Part AB / Part CD)",
+      "url": "/shop/casings/lenovo-ideapad-3-15itl6-casing/",
+      "image": "assets/images/products/lenovo-casing-ideapad315itl6-full.webp",
+      "alt": "Lenovo IdeaPad 3-15ITL6 full casing kit \u2014 lid and base cover together",
+      "brand_slug": "lenovo",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "3-15ITL6/82H8",
+        "Full Kit or Individual Parts",
+        "Gray"
+      ],
+      "price": "5,700",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20a%20Lenovo%20IdeaPad%203-15ITL6%20casing%20%E2%80%94%20please%20let%20me%20know%3A%20Full%20Kit%2C%20Part%20AB%2C%20or%20Part%20CD",
+      "extra": false
+    },
+    {
+      "name": "Lenovo B50/B51/N50 Series Casing (Full Kit / Part AB / Part CD)",
+      "url": "/shop/casings/lenovo-b50-n50-series-casing/",
+      "image": "assets/images/products/lenovo-casing-b50n50series-full.webp",
+      "alt": "Lenovo B50/B51/N50 series full casing kit \u2014 lid and bottom case together",
+      "brand_slug": "lenovo",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "B50-30/B50-45/B50-70/B50-80/B51-30/B51-80/N50-45/N50-70/N50-80",
+        "Full Kit or Individual Parts",
+        "Black"
+      ],
+      "price": "4,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20a%20Lenovo%20B50%2FB51%2FN50%20series%20casing%20%E2%80%94%20please%20let%20me%20know%3A%20Full%20Kit%2C%20Part%20AB%2C%20or%20Part%20CD",
+      "extra": false
+    },
+    {
+      "name": "Lenovo IdeaPad 3 15IIL05 Casing (Full Kit / Part AB / Part CD)",
+      "url": "/shop/casings/lenovo-ideapad-3-15iil05-casing/",
+      "image": "assets/images/products/lenovo-casing-ideapad315iil05-full.webp",
+      "alt": "Lenovo IdeaPad 3 15IIL05 full casing kit \u2014 lid and bottom case together",
+      "brand_slug": "lenovo",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "3 15IIL05",
+        "Full Kit or Individual Parts"
+      ],
+      "price": "6,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20a%20Lenovo%20IdeaPad%203%2015IIL05%20casing%20%E2%80%94%20please%20let%20me%20know%3A%20Full%20Kit%2C%20Part%20AB%2C%20or%20Part%20CD",
+      "extra": false
+    },
+    {
+      "name": "Lenovo 110-15ISK Casing (Full Kit / Part AB / Part CD)",
+      "url": "/shop/casings/lenovo-110-15isk-casing/",
+      "image": "assets/images/products/lenovo-casing-11015isk-full.webp",
+      "alt": "Lenovo 110-15ISK full casing kit \u2014 lid and bottom case together",
+      "brand_slug": "lenovo",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "110-15ISK",
+        "Full Kit or Individual Parts"
+      ],
+      "price": "4,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20a%20Lenovo%20110-15ISK%20casing%20%E2%80%94%20please%20let%20me%20know%3A%20Full%20Kit%2C%20Part%20AB%2C%20or%20Part%20CD",
+      "extra": false
+    },
+    {
+      "name": "HP 250 G3/15-R/15-G Casing (Full Kit / Part AB / Part CD)",
+      "url": "/shop/casings/hp-250g3-15r-15g-casing/",
+      "image": "assets/images/products/hp-casing-250g3-15r-15g-full.webp",
+      "alt": "HP 250 G3/15-R/15-G full casing kit \u2014 lid and bottom case together",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "250 G3/15-R/15-G",
+        "Full Kit or Individual Parts"
+      ],
+      "price": "3,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20an%20HP%20250%20G3%2F15-R%2F15-G%20casing%20%E2%80%94%20please%20let%20me%20know%3A%20Full%20Kit%2C%20Part%20AB%2C%20or%20Part%20CD",
+      "extra": false
+    },
+    {
+      "name": "HP 240 G6/246 G6/14-BS/14Q-BU/14-BU Casing (Full Kit / Part AB / Part CD)",
+      "url": "/shop/casings/hp-240g6-246g6-14bs-14qbu-14bu-casing/",
+      "image": "assets/images/products/hp-casing-240g6-246g6-full.webp",
+      "alt": "HP 240 G6/246 G6/14-BS/14Q-BU/14-BU full casing kit \u2014 lid and bottom case together",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "240 G6/246 G6/14-BS/14Q-BU/14-BU",
+        "Full Kit or Individual Parts"
+      ],
+      "price": "4,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20an%20HP%20240%20G6%2F246%20G6%2F14-BS%2F14Q-BU%2F14-BU%20casing%20%E2%80%94%20please%20let%20me%20know%3A%20Full%20Kit%2C%20Part%20AB%2C%20or%20Part%20CD",
+      "extra": false
+    },
+    {
+      "name": "HP Pavilion 14-CE Casing (Full Kit / Part AB / Part CD)",
+      "url": "/shop/casings/hp-pavilion-14-ce-casing/",
+      "image": "assets/images/products/hp-casing-pavilion14ce-full.webp",
+      "alt": "HP Pavilion 14-CE full casing kit \u2014 lid and chassis together",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "14-CE",
+        "Full Kit or Individual Parts"
+      ],
+      "price": "8,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20an%20HP%20Pavilion%2014-CE%20casing%20%E2%80%94%20please%20let%20me%20know%3A%20Full%20Kit%2C%20Part%20AB%2C%20or%20Part%20CD%2C%20and%20your%20laptop%27s%20color",
+      "extra": false
+    },
+    {
+      "name": "HP ProBook 440 G10 Casing (Full Kit / Part AB / Part CD)",
+      "url": "/shop/casings/hp-probook-440-g10-casing/",
+      "image": "assets/images/products/hp-casing-probook440g10-full.webp",
+      "alt": "HP ProBook 440 G10 full casing kit \u2014 lid and chassis together",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "440 G10",
+        "Full Kit or Individual Parts"
+      ],
+      "price": "4,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20an%20HP%20ProBook%20440%20G10%20casing%20%E2%80%94%20please%20let%20me%20know%3A%20Full%20Kit%2C%20Part%20AB%2C%20or%20Part%20CD%2C%20and%20your%20laptop%27s%20color",
+      "extra": false
+    }
+  ],
+  "faq_heading": "Casing Questions",
+  "faqs": [
+    {
+      "question": "How do I know this casing fits my laptop?",
+      "answer": "Each listing shows the exact compatible model and which panel it covers (top cover, bottom cover or palmrest). If you're unsure, send us a photo of your laptop on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Does the casing come with a keyboard or trackpad fitted?",
+      "answer": "This is stated on each product page \u2014 some palmrests include the trackpad, others are the bare panel only."
+    },
+    {
+      "question": "Can I fit this myself?",
+      "answer": "It involves a full teardown of the laptop, so most customers have it fitted by us. We can talk you through it on WhatsApp if you'd rather do it yourself."
+    }
+  ],
+  "empty_state": {
+    "whatsapp_text": "Hi%2C%20I%27m%20looking%20for%20a%20laptop%20casing%20but%20couldn%27t%20find%20it%20on%20the%20site."
+  },
+  "sticky_whatsapp": {
+    "text": "Hi%2C%20I%27d%20like%20to%20order%20a%20laptop%20casing."
+  }
+}

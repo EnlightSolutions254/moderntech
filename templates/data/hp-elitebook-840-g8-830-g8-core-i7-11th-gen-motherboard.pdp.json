@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "title": "HP EliteBook 840 G8 / 830 G8 Core i7 11th Gen Motherboard | Price in Kenya | Zanatechnologies",
+    "description": "HP EliteBook 840 G8 / 830 G8 Core i7 11th gen motherboard, now available in Nairobi at KES 20,500. Send your laptop model to confirm fit. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "HP EliteBook 840 G8 / 830 G8 i7 11th Gen Motherboard | Zanatechnologies",
+    "description": "HP EliteBook 840 G8 / 830 G8 Core i7 11th gen motherboard, now available. Order on WhatsApp."
+  },
+  "category": {
+    "slug": "motherboards",
+    "url": "/shop/motherboards/",
+    "name": "Motherboards"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "product": {
+    "url": "/shop/motherboards/hp-elitebook-840-g8-830-g8-core-i7-11th-gen-motherboard/",
+    "name": "HP EliteBook 840 G8 / 830 G8 i7 11th Gen Motherboard",
+    "full_name": "HP EliteBook 840 G8 / 830 G8 Core i7 11th Gen Motherboard",
+    "sku": "MB-HP-ELITEBOOK-840-830-G8-I7-11TH",
+    "brand_name": "HP",
+    "brand_slug": "hp",
+    "price": "20,500",
+    "price_raw": "20500",
+    "schema_availability": "https://schema.org/InStock",
+    "type_label": "motherboard",
+    "type_label_cap": "Motherboard",
+    "images": [
+      {
+        "src": "assets/images/products/hp-elitebook-840-g8-830-g8-i7-11th-gen-motherboard.webp",
+        "alt": "HP EliteBook 840 G8 / 830 G8 Core i7 11th gen laptop motherboard, top view"
+      },
+      {
+        "src": "assets/images/products/hp-elitebook-840-g8-830-g8-i7-11th-gen-motherboard-alt.webp",
+        "alt": "HP EliteBook 840 G8 / 830 G8 Core i7 11th gen laptop motherboard, ports and connectors view"
+      }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "Now Available" },
+      { "class": "badge--warranty", "label": "Warranty Included" }
+    ],
+    "description": "Replacement motherboard for the HP EliteBook 840 G8 and HP EliteBook 830 G8 with a Core i7 11th generation processor. Now available. Fit it when the laptop won't power on, has no display, restarts on its own or has stopped charging and the charger, battery and RAM have been ruled out. Motherboards are specific to the laptop model and processor, so please send us your laptop model (or a photo of the sticker under the laptop) on WhatsApp and we will confirm fit before you order. Fitting is available in Nairobi.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20EliteBook%20840%20G8%2F830%20G8%20Core%20i7%2011th%20Gen%20Motherboard%20%E2%80%94%20KES%2020%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20HP%20EliteBook%20840%20G8%2F830%20G8%20Core%20i7%2011th%20Gen%20Motherboard%20fits%20my%20laptop%3F%20My%20laptop%20model%20is%3A%20",
+    "specs": [
+      { "label": "Type", "value": "Laptop motherboard (replacement part)" },
+      { "label": "Brand", "value": "HP" },
+      { "label": "Laptop Models", "value": "HP EliteBook 840 G8, HP EliteBook 830 G8" },
+      { "label": "Processor", "value": "Intel Core i7, 11th generation" },
+      { "label": "Fitting", "value": "Matched by laptop model and processor generation" },
+      { "label": "Warranty", "value": "Included — ask on WhatsApp for current term" }
+    ],
+    "compatible_models": [
+      "HP EliteBook 840 G8",
+      "HP EliteBook 830 G8",
+      "Core i7 11th generation versions (send us your laptop model to confirm)"
+    ],
+    "related": [
+      "/shop/motherboards/hp-probook-430-g4-440-g4-core-i5-7th-gen-motherboard/"
+    ]
+  },
+  "faq_heading": "Motherboard Questions",
+  "faqs": [
+    { "question": "Will this motherboard fit my laptop?", "answer": "This board is for the HP EliteBook 840 G8 and 830 G8 with a Core i7 11th generation processor. Motherboards differ between models and processor versions, so send us your laptop model, or a photo of the sticker under the laptop, on WhatsApp and we'll confirm before you order." },
+    { "question": "How do I know my motherboard is faulty?", "answer": "A laptop that won't power on, shows no display, restarts by itself or no longer charges may have a faulty motherboard, but the fault can also be the charger, battery, RAM or screen. Send us the symptoms on WhatsApp and we'll help you check before you buy." },
+    { "question": "Can I fit this myself?", "answer": "The laptop has to be taken apart to reach the board, so most customers have it fitted by us. Tell us your model on WhatsApp and we'll say what the job involves." },
+    { "question": "What warranty comes with this motherboard?", "answer": "This motherboard comes with a warranty — message us on WhatsApp for the current term before ordering." }
+  ]
+}

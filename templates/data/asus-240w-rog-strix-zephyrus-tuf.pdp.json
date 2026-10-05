@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "title": "Asus 240W ROG Charger | Price in Kenya | Moderntech",
+    "description": "Replacement 240W power adapter for Asus ROG Strix SCAR 15/17, ROG Strix G15/G17, ROG Zephyrus G14/M16/Duo 15, and TUF Gaming A15/A17. ADP-240EB B. 3-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Asus 240W ROG Charger | Moderntech",
+    "description": "Replacement 240W power adapter for Asus ROG Strix SCAR 15/17, ROG Strix G15/G17, ROG Zephyrus G14/M16/Duo 15, and TUF Gaming A15/A17. ADP-240EB B. 3-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "chargers",
+    "url": "/shop/chargers/",
+    "name": "Chargers & Adapters"
+  },
+  "product": {
+    "url": "/shop/chargers/asus-240w-rog-strix-zephyrus-tuf/",
+    "name": "Asus 240W ROG Charger",
+    "full_name": "Replacement 240W Charger for Asus ROG Strix / Zephyrus / TUF Gaming",
+    "sku": "ADP-240EB B / A20-240P1A",
+    "brand_name": "Asus",
+    "brand_slug": "asus",
+    "price": "6,500",
+    "price_raw": "6500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Replacement power adapter (Model ADP-240EB B, Part No. A20-240P1A) for Asus ROG Strix SCAR 15 (G533), SCAR 17 (G733), ROG Strix G15 (G513), ROG Strix G17 (G713), ROG Zephyrus Duo 15/16 (GX551, GX650), ROG Zephyrus G14/G15/G16/M16/S15/S17 (GA402, GA503, GU603, GX501, GX701), ROG Flow X16 (GV601), and TUF Gaming A15/A17 (FA507, FA707). 20V, 12A, 240W output through the 6.0mm x 3.7mm square-tip connector with center pin. Wide-range 100\u2013240V AC input for worldwide use. Tested before dispatch, drop-in replacement for the original charger.",
+    "type_label": "charger",
+    "type_label_cap": "Charger",
+    "images": [
+      {
+        "src": "assets/images/products/asus-charger-240w-rog.webp",
+        "alt": "Asus 240W ROG Charger \u2014 main view"
+      },
+      {
+        "src": "assets/images/products/asus-charger-240w-rog-1.webp",
+        "alt": "Asus 240W ROG Charger \u2014 connector detail"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      },
+      {
+        "class": "badge--new-oem",
+        "label": "New OEM-Equivalent"
+      },
+      {
+        "class": "badge--warranty",
+        "label": "3-Month Warranty"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "ADP-240EB B / A20-240P1A"
+      },
+      {
+        "label": "Compatible Brand",
+        "value": "Asus"
+      },
+      {
+        "label": "Adapter Type",
+        "value": "New OEM-Equivalent"
+      },
+      {
+        "label": "Connector",
+        "value": "6.0mm x 3.7mm (center pin)"
+      },
+      {
+        "label": "Output",
+        "value": "20V, 12A, 240W"
+      },
+      {
+        "label": "Input",
+        "value": "100\u2013240V AC, 50\u201360Hz"
+      },
+      {
+        "label": "Warranty",
+        "value": "3 Months"
+      }
+    ],
+    "compatible_models": [
+      "ROG Strix SCAR 15 (G533)",
+      "ROG Strix SCAR 17 (G733)",
+      "ROG Strix G15 (G513)",
+      "ROG Strix G17 (G713)",
+      "ROG Zephyrus Duo 15 / 16 (GX551 / GX650)",
+      "ROG Zephyrus G14 / G15 / G16 / M16 / S15 / S17",
+      "ROG Flow X16 (GV601)",
+      "TUF Gaming A15 / A17 (FA507 / FA707)"
+    ],
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20this%20charger%20fits%20my%20laptop%3A%20Asus%20240W%20ROG%20Charger",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%20240W%20ROG%20Charger%20%E2%80%94%20KES%206%2C500",
+    "related": []
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1&ndash;2 days upcountry",
+  "faq_heading": "Charger Questions",
+  "faqs": [
+    {
+      "question": "How do I know this charger fits my laptop?",
+      "answer": "Each listing shows the wattage and connector type. If you're unsure, send us a photo of your original charger or your laptop model on WhatsApp and we'll confirm before you order."
+    },
+    {
+      "question": "Is a higher-wattage charger safe to use?",
+      "answer": "Yes \u2014 a charger rated higher than your laptop's original wattage is safe; your laptop only draws what it needs. A lower-wattage charger should be avoided, especially on gaming laptops which can draw their full rated wattage under load."
+    },
+    {
+      "question": "What warranty comes with this charger?",
+      "answer": "This charger carries a 3-month warranty."
+    }
+  ]
+}

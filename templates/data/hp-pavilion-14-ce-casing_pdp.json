@@ -1,0 +1,144 @@
+{
+  "meta": {
+    "title": "HP Pavilion 14-CE Casing — Full Kit, Part AB & Part CD | Price in Kenya | Zanatechnologies",
+    "description": "Replacement casing for HP Pavilion 14-CE (14-ce0xxx to 14-ce2xxx) — full kit, lid (Part AB) or palmrest and base (Part CD). In stock, order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "HP Pavilion 14-CE Casing | Zanatechnologies",
+    "description": "Full casing kit or individual panels for HP Pavilion 14-CE. In stock in Nairobi, warranty included."
+  },
+  "category": {
+    "slug": "casings",
+    "url": "/shop/casings/",
+    "name": "Casings"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "product": {
+    "url": "/shop/casings/hp-pavilion-14-ce-casing/",
+    "name": "HP Pavilion 14-CE Casing",
+    "full_name": "Replacement Casing for HP Pavilion 14-CE (14-ce0xxx to 14-ce2xxx) — Full Kit, Part AB (Lid) or Part CD (Palmrest + Base)",
+    "sku": "HP-CS-PAV14CE-MULTI",
+    "brand_name": "HP",
+    "brand_slug": "hp",
+    "price": "8,500",
+    "price_raw": "8500",
+    "schema_availability": "https://schema.org/InStock",
+    "type_label": "casing",
+    "type_label_cap": "Casing",
+    "images": [
+      {
+        "src": "assets/images/products/hp-casing-pavilion14ce-partab.webp",
+        "alt": "HP Pavilion 14-CE LCD back cover and front screen bezel, Part AB"
+      },
+      {
+        "src": "assets/images/products/hp-casing-pavilion14ce-partcd.webp",
+        "alt": "HP Pavilion 14-CE palmrest with keyboard tray and bottom base cover, Part CD"
+      },
+      {
+        "src": "assets/images/products/hp-casing-pavilion14ce-full.webp",
+        "alt": "HP Pavilion 14-CE full casing kit — lid and chassis together"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      },
+      {
+        "class": "badge--new-oem",
+        "label": "New OEM-Equivalent"
+      },
+      {
+        "class": "badge--warranty",
+        "label": "Warranty Included"
+      }
+    ],
+    "description": "Replacement casing for the 14-inch HP Pavilion 14-CE (14-ce0000, 14-ce1000 and 14-ce2000 series). Available as the full kit (lid and chassis together) or as individual panels if you only need one side replaced — see \"Choose Your Part\" below for exactly what's included in each option and its price, then tell us which one you need, and your laptop's color, when you message us on WhatsApp.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20an%20HP%20Pavilion%2014-CE%20casing%20%E2%80%94%20please%20let%20me%20know%3A%20Full%20Kit%2C%20Part%20AB%2C%20or%20Part%20CD%2C%20and%20your%20laptop%27s%20color",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20HP%20Pavilion%2014-CE%20Casing%20fits%20my%20laptop%3F",
+    "part_options": [
+      {
+        "label": "Part AB",
+        "name": "Part AB — Lid (LCD Back Cover)",
+        "description": "The lid only: LCD back cover and front screen bezel.",
+        "image": "assets/images/products/hp-casing-pavilion14ce-partab.webp",
+        "alt": "HP Pavilion 14-CE LCD back cover and front screen bezel, Part AB",
+        "price": "8,500",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20Pavilion%2014-CE%20Casing%20%E2%80%94%20Part%20AB%20%28Lid%29%20%E2%80%94%20KES%208%2C500"
+      },
+      {
+        "label": "Part CD",
+        "name": "Part CD — Palmrest + Base",
+        "description": "Upper palmrest with keyboard tray and touchpad housing, plus the bottom base cover (base enclosure ref. HP L19169-001).",
+        "image": "assets/images/products/hp-casing-pavilion14ce-partcd.webp",
+        "alt": "HP Pavilion 14-CE palmrest with keyboard tray and bottom base cover, Part CD",
+        "price": "8,500",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20Pavilion%2014-CE%20Casing%20%E2%80%94%20Part%20CD%20%28Palmrest%20%2B%20Base%29%20%E2%80%94%20KES%208%2C500"
+      },
+      {
+        "label": "Full Kit",
+        "name": "Full Kit — Part AB + Part CD",
+        "description": "Both panels together, at a combined price.",
+        "image": "assets/images/products/hp-casing-pavilion14ce-full.webp",
+        "alt": "HP Pavilion 14-CE full casing kit — lid and chassis together",
+        "price": "17,000",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20Pavilion%2014-CE%20Full%20Casing%20Kit%20%E2%80%94%20KES%2017%2C000"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Material",
+        "value": "ABS plastic"
+      },
+      {
+        "label": "Includes",
+        "value": "Casing panel(s), screw set, rubber feet"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      },
+      {
+        "label": "Warranty",
+        "value": "3 months (manufacturing defects)"
+      }
+    ],
+    "compatible_models": [
+      "HP Pavilion 14-ce0000",
+      "HP Pavilion 14-ce0100",
+      "HP Pavilion 14-ce0400",
+      "HP Pavilion 14-ce1000",
+      "HP Pavilion 14-ce1300",
+      "HP Pavilion 14-ce1600",
+      "HP Pavilion 14-ce2000"
+    ],
+    "related": []
+  },
+  "faq_heading": "Casing Questions",
+  "faqs": [
+    {
+      "question": "What's the difference between Part AB, Part CD and the Full Kit?",
+      "answer": "Part AB is the lid — the LCD back cover and front screen bezel. Part CD is the palmrest, keyboard tray, touchpad housing and bottom base cover. The Full Kit is both parts together at a combined price."
+    },
+    {
+      "question": "Do I need both parts?",
+      "answer": "Only if both are damaged. If just one side is cracked or broken, you only need that part — tell us which on WhatsApp and we'll confirm the price."
+    },
+    {
+      "question": "Will it match my laptop's color and version?",
+      "answer": "The Pavilion 14-CE came in several finishes, and some units have a fingerprint reader while others don't, which changes the palmrest. Tell us your laptop's color and whether it has a fingerprint reader (or send a photo) on WhatsApp and we'll confirm the right panel before you pay."
+    },
+    {
+      "question": "Does the casing come with a keyboard or trackpad fitted?",
+      "answer": "No — these are bare panels. The trackpad housing is part of Part CD, but the keyboard and trackpad itself transfer over from your existing casing."
+    },
+    {
+      "question": "Can I fit this myself?",
+      "answer": "It involves a full teardown of the laptop, so most customers have it fitted by us. We can talk you through it on WhatsApp if you'd rather do it yourself."
+    },
+    {
+      "question": "What warranty comes with a casing?",
+      "answer": "Every casing here carries a 3-month warranty against manufacturing defects such as cracking or misaligned mounting points."
+    }
+  ]
+}

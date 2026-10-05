@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "title": "Mouse Pad | Price in Kenya | Zanatechnologies",
+    "description": "Smooth-surface mouse pad with non-slip rubber base. In stock in Nairobi, KES 2,000, warranty included. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Mouse Pad | Zanatechnologies",
+    "description": "Smooth-surface, non-slip mouse pad. In stock in Nairobi, order on WhatsApp."
+  },
+  "category": {
+    "slug": "accessories",
+    "url": "/shop/accessories/",
+    "name": "Accessories"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "product": {
+    "url": "/shop/accessories/mouse-pad/",
+    "name": "Mouse Pad",
+    "full_name": "Mouse Pad, Smooth Surface with Non-Slip Base",
+    "sku": "ACC-MOUSE-PAD",
+    "brand_name": "Universal",
+    "brand_slug": "universal",
+    "price": "2,000",
+    "price_raw": "2000",
+    "schema_availability": "https://schema.org/InStock",
+    "type_label": "mouse pad",
+    "type_label_cap": "Mouse Pad",
+    "images": [
+      {
+        "src": "assets/images/products/mouse-pad.webp",
+        "alt": "Mouse pad with smooth surface, top view"
+      },
+      {
+        "src": "assets/images/products/mouse-pad-alt.webp",
+        "alt": "Mouse pad with a wired mouse in use on the surface"
+      },
+      {
+        "src": "assets/images/products/mouse-pad-alt-2.webp",
+        "alt": "Mouse pad non-slip rubber base and edge view"
+      }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" },
+      { "class": "badge--warranty", "label": "Warranty Included" }
+    ],
+    "description": "Smooth-surface mouse pad with a non-slip rubber base. It gives your mouse a consistent surface for accurate tracking, keeps the pointer gliding evenly and protects your desk from scratches. Works with optical and laser mice, wired or wireless. Message us on WhatsApp if you would like to check the size before you order.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Mouse%20Pad%20%E2%80%94%20KES%202%2C000",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20the%20size%20of%20the%20Mouse%20Pad%20%28KES%202%2C000%29%20before%20I%20order%3F",
+    "specs": [
+      { "label": "Type", "value": "Mouse pad" },
+      { "label": "Surface", "value": "Smooth, for consistent mouse tracking" },
+      { "label": "Base", "value": "Non-slip rubber" },
+      { "label": "Compatibility", "value": "Optical and laser mice, wired or wireless" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "Included — ask on WhatsApp for current term" }
+    ],
+    "compatible_models": [
+      "Works with any optical or laser mouse, wired or wireless"
+    ],
+    "related": [
+      "/shop/accessories/dell-ms111-usb-optical-mouse/"
+    ]
+  },
+  "faq_heading": "Mouse Pad Questions",
+  "faqs": [
+    { "question": "Will this work with my mouse?", "answer": "Yes. The smooth surface works with optical and laser mice, wired or wireless, from any brand." },
+    { "question": "Will it slip on my desk?", "answer": "The rubber base grips the desk so the pad stays in place during normal use. It grips best on a clean, dry surface." },
+    { "question": "Can I check the size before ordering?", "answer": "Yes. Send us a message on WhatsApp and we'll confirm the size and send a photo before you order." },
+    { "question": "What warranty comes with this mouse pad?", "answer": "This mouse pad comes with a warranty — message us on WhatsApp for the current term before ordering." }
+  ]
+}

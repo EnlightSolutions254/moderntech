@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "title": "Apple MacBook Air 13-inch A1405 Battery | Zanatechnologies",
+    "description": "Replacement A1405 battery, 7.6V 54.4Wh, for MacBook Air 13-inch A1369 and A1466 (2010 to 2017). In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Apple MacBook Air 13-inch A1405 Battery | Zanatechnologies",
+    "description": "Replacement battery for MacBook Air 13-inch (A1369/A1466). In stock, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/macbook-a1405-air-13-a1369-a1466/",
+    "brand_slug": "macbook",
+    "brand_name": "Apple",
+    "sku": "A1405",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "name": "MacBook A1405 Battery",
+    "full_name": "Apple MacBook Air 13-inch A1405 Battery",
+    "images": [
+      {
+        "src": "assets/images/products/macbook-battery-a1405.webp",
+        "alt": "Replacement battery — Apple MacBook Air 13-inch A1405 Battery"
+      },
+      {
+        "src": "assets/images/products/macbook-battery-a1405-alt.webp",
+        "alt": "Angled view of the Apple MacBook Air 13-inch A1405 Battery"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "price": "8,500",
+    "price_raw": "8500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Brand-new replacement battery, Apple battery model A1405, 7.6V, Li-polymer, 54.4Wh. Fits the MacBook Air 13-inch A1369 (Late 2010, Mid 2011) and A1466 (Mid 2012 to 2017). Also matches battery models A1377 and A1496 and part numbers 020-7379-A, 020-8143-A, 661-5731 and 661-6055. Not compatible with the MacBook Air 11-inch, which uses the A1406 battery. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Apple%20MacBook%20Air%2013-inch%20A1405%20Battery%20%E2%80%94%20KES%208%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Apple%20MacBook%20Air%2013-inch%20A1405%20Battery",
+    "specs": [
+      {
+        "label": "Battery Model",
+        "value": "A1405"
+      },
+      {
+        "label": "Compatible Models",
+        "value": "MacBook Air 13\" A1369 (Late 2010, Mid 2011), MacBook Air 13\" A1466 (Mid 2012, Mid 2013, Early 2014, Early 2015, 2017)"
+      },
+      {
+        "label": "Alternate Battery Models",
+        "value": "A1377, A1496"
+      },
+      {
+        "label": "Alternate Part Numbers",
+        "value": "020-7379-A, 020-8143-A, 661-5731, 661-6055"
+      },
+      {
+        "label": "Voltage",
+        "value": "7.6V"
+      },
+      {
+        "label": "Capacity",
+        "value": "54.4Wh"
+      },
+      {
+        "label": "Battery Type",
+        "value": "Li-polymer"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "How do I know this battery fits my laptop?",
+      "answer": "This fits the MacBook Air 13-inch, models A1369 and A1466. It does not fit the 11-inch MacBook Air (A1406 battery) or the MacBook Pro. The model number (A1369 or A1466) is printed on the underside of the laptop, and the number on your old battery (A1377, A1405 or A1496) is the safest check. If you're unsure, send us a photo on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is this an original or compatible battery?",
+      "answer": "This is a brand-new replacement battery built to Apple's A1405 specification, tested before dispatch."
+    },
+    {
+      "question": "Can I fit this myself?",
+      "answer": "The MacBook Air battery is internal, so the bottom case has to come off to reach it. Most customers have it fitted by us. We can talk you through it on WhatsApp if you'd rather do it yourself."
+    },
+    {
+      "question": "What warranty comes with this battery?",
+      "answer": "This battery carries a 6-month warranty."
+    }
+  ]
+}

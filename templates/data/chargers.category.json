@@ -13,9 +13,189 @@
     "name": "Chargers &amp; Adapters",
     "name_lower": "chargers",
     "description": "Genuine and compatible power adapters for HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook laptops. Every listing shows exact wattage, connector type and price before you message us.",
-    "result_count": 24
+    "result_count": 29
   },
   "products": [
+    {
+      "url": "/shop/chargers/hp-330w-big-pin-omen-17-ck-cm-envy-32/",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "image": "assets/images/products/hp-charger-330w-bigpin.webp",
+      "alt": "HP 330W Big Pin Charger — main view",
+      "name": "HP 330W Big Pin Charger",
+      "tags": [
+        "Omen 17-ck/17-cm",
+        "Envy 32-A AiO"
+      ],
+      "price": "13,000",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20330W%20Big%20Pin%20Charger%20%E2%80%94%20KES%2013%2C000"
+    },
+    {
+      "url": "/shop/chargers/lenovo-65w-ideapad-small-pin-idea-yoga-flex/",
+      "brand_slug": "lenovo",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "image": "assets/images/products/lenovo-charger-65w-ideapad-smallpin.webp",
+      "alt": "Lenovo IdeaPad 65W Small Pin Charger — main view",
+      "name": "Lenovo IdeaPad 65W Small Pin Charger",
+      "tags": [
+        "IdeaPad Series",
+        "Yoga/Flex Series"
+      ],
+      "price": "4,000",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20IdeaPad%2065W%20Small%20Pin%20Charger%20%E2%80%94%20KES%204%2C000"
+    },
+    {
+      "url": "/shop/chargers/lenovo-230w-legion-thinkpad-p-series/",
+      "brand_slug": "lenovo",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "image": "assets/images/products/lenovo-charger-230w.webp",
+      "alt": "Lenovo 230W Charger — main view",
+      "name": "Lenovo 230W Charger",
+      "tags": [
+        "Legion 5/7 Series",
+        "ThinkPad P-Series"
+      ],
+      "price": "8,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20230W%20Charger%20%E2%80%94%20KES%208%2C500"
+    },
+    {
+      "url": "/shop/chargers/universal-flower-cable-3-pin/",
+      "brand_slug": "universal",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "image": "assets/images/products/universal-flower-cable-3pin.webp",
+      "alt": "Laptop Charger Flower Cable (3-Pin) — main view",
+      "name": "Laptop Charger Flower Cable (3-Pin)",
+      "tags": [
+        "Universal Fit",
+        "3-Pin"
+      ],
+      "price": "250",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Laptop%20Charger%20Flower%20Cable%20%283-Pin%29%20%E2%80%94%20KES%20250"
+    },
+    {
+      "url": "/shop/chargers/asus-240w-rog-strix-zephyrus-tuf/",
+      "brand_slug": "asus",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "image": "assets/images/products/asus-charger-240w-rog.webp",
+      "alt": "Asus 240W ROG Charger — main view",
+      "name": "Asus 240W ROG Charger",
+      "tags": [
+        "ROG Strix SCAR",
+        "ROG Zephyrus"
+      ],
+      "price": "6,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%20240W%20ROG%20Charger%20%E2%80%94%20KES%206%2C500"
+    },
+    {
+      "url": "/shop/chargers/asus-200w-rog-zephyrus-strix-tuf/",
+      "brand_slug": "asus",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "image": "assets/images/products/asus-charger-200w-rog.webp",
+      "alt": "Asus 200W ROG Charger — main view",
+      "name": "Asus 200W ROG Charger",
+      "tags": [
+        "ROG Zephyrus G15",
+        "TUF Gaming"
+      ],
+      "price": "6,000",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%20200W%20ROG%20Charger%20%E2%80%94%20KES%206%2C000"
+    },
+    {
+      "url": "/shop/chargers/asus-180w-rog-zephyrus-strix-tuf-fx505/",
+      "brand_slug": "asus",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "image": "assets/images/products/asus-charger-180w-rog.webp",
+      "alt": "Asus 180W ROG Charger — main view",
+      "name": "Asus 180W ROG Charger",
+      "tags": [
+        "ROG Zephyrus G14",
+        "TUF Gaming FX505"
+      ],
+      "price": "4,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%20180W%20ROG%20Charger%20%E2%80%94%20KES%204%2C500"
+    },
+    {
+      "url": "/shop/chargers/asus-65w-small-pin-expertbook-pu-vivobook-oled/",
+      "brand_slug": "asus",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "image": "assets/images/products/asus-charger-65w-smallpin.webp",
+      "alt": "Asus 65W Small Pin Charger — main view",
+      "name": "Asus 65W Small Pin Charger",
+      "tags": [
+        "ExpertBook / PU Series",
+        "VivoBook 15 OLED"
+      ],
+      "price": "3,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%2065W%20Small%20Pin%20Charger%20%E2%80%94%20KES%203%2C500"
+    },
+    {
+      "url": "/shop/chargers/asus-90w-k-n-vivobook-pro-series/",
+      "brand_slug": "asus",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "image": "assets/images/products/asus-charger-90w.webp",
+      "alt": "Asus 90W Charger — main view",
+      "name": "Asus 90W Charger",
+      "tags": [
+        "K/N Series",
+        "VivoBook Pro 15/17"
+      ],
+      "price": "4,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%2090W%20Charger%20%E2%80%94%20KES%204%2C500"
+    },
+    {
+      "url": "/shop/chargers/asus-45w-usb-c-zenbook-expertbook-chromebook/",
+      "brand_slug": "asus",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "image": "assets/images/products/asus-charger-45w-typec.webp",
+      "alt": "Asus 45W USB-C Charger — main view",
+      "name": "Asus 45W USB-C Charger",
+      "tags": [
+        "ZenBook 13/14",
+        "ExpertBook / Chromebook Flip"
+      ],
+      "price": "2,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%2045W%20USB-C%20Charger%20%E2%80%94%20KES%202%2C500"
+    },
     {
       "url": "/shop/chargers/apple-140w-type-c-macbook-pro-14-16/",
       "brand_slug": "macbook",
@@ -33,114 +213,6 @@
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Apple%20140W%20USB-C%20Charger%20%E2%80%94%20KES%206%2C500"
-    },
-    {
-      "url": "/shop/chargers/apple-87w-type-c-macbook-pro-13-15/",
-      "brand_slug": "macbook",
-      "stock": "in_stock",
-      "badge_class": "badge--original",
-      "badge_label": "Genuine OEM",
-      "image": "assets/images/products/apple-charger-87w-typec.webp",
-      "alt": "Apple 87W USB-C Charger — main view",
-      "name": "Apple 87W USB-C Charger",
-      "tags": [
-        "MacBook Pro 15\" (2016-2019)",
-        "MacBook Pro 13\" (2016-2020)"
-      ],
-      "price": "6,000",
-      "cta_class": "btn--whatsapp",
-      "cta_label": "Order on WhatsApp",
-      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Apple%2087W%20USB-C%20Charger%20%E2%80%94%20KES%206%2C000"
-    },
-    {
-      "url": "/shop/chargers/apple-61w-type-c-macbook-pro-13-macbook-12/",
-      "brand_slug": "macbook",
-      "stock": "in_stock",
-      "badge_class": "badge--original",
-      "badge_label": "Genuine OEM",
-      "image": "assets/images/products/apple-charger-61w-typec.webp",
-      "alt": "Apple 61W USB-C Charger — main view",
-      "name": "Apple 61W USB-C Charger",
-      "tags": [
-        "MacBook Pro 13\" (2016-2020)",
-        "MacBook 12\" / MacBook Air 13\""
-      ],
-      "price": "6,000",
-      "cta_class": "btn--whatsapp",
-      "cta_label": "Order on WhatsApp",
-      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Apple%2061W%20USB-C%20Charger%20%E2%80%94%20KES%206%2C000"
-    },
-    {
-      "url": "/shop/chargers/apple-85w-magsafe-2-macbook-pro-retina-15/",
-      "brand_slug": "macbook",
-      "stock": "in_stock",
-      "badge_class": "badge--original",
-      "badge_label": "Genuine OEM",
-      "image": "assets/images/products/apple-charger-85w-magsafe2.webp",
-      "alt": "Apple 85W MagSafe 2 Charger — main view",
-      "name": "Apple 85W MagSafe 2 Charger",
-      "tags": [
-        "MacBook Pro Retina 15\" (2012-2015)",
-        "MacBook Pro 13\" / Air (MagSafe 2)"
-      ],
-      "price": "5,000",
-      "cta_class": "btn--whatsapp",
-      "cta_label": "Order on WhatsApp",
-      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Apple%2085W%20MagSafe%202%20Charger%20%E2%80%94%20KES%205%2C000"
-    },
-    {
-      "url": "/shop/chargers/apple-60w-magsafe-2-macbook-pro-retina-13/",
-      "brand_slug": "macbook",
-      "stock": "in_stock",
-      "badge_class": "badge--original",
-      "badge_label": "Genuine OEM",
-      "image": "assets/images/products/apple-charger-60w-magsafe2.webp",
-      "alt": "Apple 60W MagSafe 2 Charger — main view",
-      "name": "Apple 60W MagSafe 2 Charger",
-      "tags": [
-        "MacBook Pro Retina 13\" (2012-2015)",
-        "MacBook Air (MagSafe 2)"
-      ],
-      "price": "4,500",
-      "cta_class": "btn--whatsapp",
-      "cta_label": "Order on WhatsApp",
-      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Apple%2060W%20MagSafe%202%20Charger%20%E2%80%94%20KES%204%2C500"
-    },
-    {
-      "url": "/shop/chargers/apple-85w-magsafe-1-macbook-pro-15-17/",
-      "brand_slug": "macbook",
-      "stock": "in_stock",
-      "badge_class": "badge--original",
-      "badge_label": "Genuine OEM",
-      "image": "assets/images/products/apple-charger-85w-magsafe1.webp",
-      "alt": "Apple 85W MagSafe 1 Charger — main view",
-      "name": "Apple 85W MagSafe 1 Charger",
-      "tags": [
-        "MacBook Pro 15\"/17\" (2006-2012)",
-        "MacBook Pro 13\" (MagSafe 1)"
-      ],
-      "price": "4,500",
-      "cta_class": "btn--whatsapp",
-      "cta_label": "Order on WhatsApp",
-      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Apple%2085W%20MagSafe%201%20Charger%20%E2%80%94%20KES%204%2C500"
-    },
-    {
-      "url": "/shop/chargers/apple-60w-magsafe-1-macbook-pro-13/",
-      "brand_slug": "macbook",
-      "stock": "in_stock",
-      "badge_class": "badge--original",
-      "badge_label": "Genuine OEM",
-      "image": "assets/images/products/apple-charger-60w-magsafe1.webp",
-      "alt": "Apple 60W MagSafe 1 Charger — main view",
-      "name": "Apple 60W MagSafe 1 Charger",
-      "tags": [
-        "MacBook Pro 13\" (2009-2012)",
-        "MacBook 13\" (2009-2010)"
-      ],
-      "price": "4,000",
-      "cta_class": "btn--whatsapp",
-      "cta_label": "Order on WhatsApp",
-      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Apple%2060W%20MagSafe%201%20Charger%20%E2%80%94%20KES%204%2C000"
     },
     {
       "url": "/shop/chargers/lenovo-65w-type-c-original-thinkpad-x1-t470-x270/",
@@ -447,6 +519,24 @@
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20USB%20Ethernet%20Adapter%20%E2%80%94%20KES%202%2C500"
+    },
+    {
+      "url": "/shop/chargers/acer-65w-aspire-travelmate/",
+      "brand_slug": "acer",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "image": "assets/images/products/acer-charger-65w.webp",
+      "alt": "Acer 65W Charger — main view",
+      "name": "Acer 65W Charger",
+      "tags": [
+        "Aspire 3/5 Series",
+        "TravelMate"
+      ],
+      "price": "1,000",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Acer%2065W%20Charger%20%E2%80%94%20KES%201%2C000"
     }
   ],
   "faq_heading": "Charger Questions",

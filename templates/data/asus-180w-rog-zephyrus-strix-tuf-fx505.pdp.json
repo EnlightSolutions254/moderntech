@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "title": "Asus 180W ROG Charger | Price in Kenya | Moderntech",
+    "description": "Replacement 180W power adapter for Asus ROG Zephyrus G14/G15 (GA401/GA502), ROG Strix G531/G512, and TUF Gaming FX505/FX705. ADP-180TB H. 3-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Asus 180W ROG Charger | Moderntech",
+    "description": "Replacement 180W power adapter for Asus ROG Zephyrus G14/G15 (GA401/GA502), ROG Strix G531/G512, and TUF Gaming FX505/FX705. ADP-180TB H. 3-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "chargers",
+    "url": "/shop/chargers/",
+    "name": "Chargers & Adapters"
+  },
+  "product": {
+    "url": "/shop/chargers/asus-180w-rog-zephyrus-strix-tuf-fx505/",
+    "name": "Asus 180W ROG Charger",
+    "full_name": "Replacement 180W Charger for Asus ROG Zephyrus / Strix / TUF Gaming FX505",
+    "sku": "ADP-180TB H",
+    "brand_name": "Asus",
+    "brand_slug": "asus",
+    "price": "4,500",
+    "price_raw": "4500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Replacement power adapter (Model ADP-180TB H) for Asus ROG Zephyrus G14 (GA401), ROG Zephyrus G GA502 (GA502D, GA502DU, GA502IU), ROG Strix GL504, G531 (G531GW, G531GU, G531GT), G512 (G512LV, G512LI, G512LU), TUF Gaming FX505 (FX505D, FX505DT, FX505DU, FX505GD, FX505GE) and FX705 (FX705DD, FX705DT, FX705DU, FX705GD, FX705GE) Series. 20V, 9A, 180W output through the 6.0mm x 3.7mm connector with center pin. Wide-range 100\u2013240V AC input for worldwide use. Tested before dispatch, drop-in replacement for the original charger.",
+    "type_label": "charger",
+    "type_label_cap": "Charger",
+    "images": [
+      {
+        "src": "assets/images/products/asus-charger-180w-rog.webp",
+        "alt": "Asus 180W ROG Charger \u2014 main view"
+      },
+      {
+        "src": "assets/images/products/asus-charger-180w-rog-1.webp",
+        "alt": "Asus 180W ROG Charger \u2014 connector detail"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      },
+      {
+        "class": "badge--new-oem",
+        "label": "New OEM-Equivalent"
+      },
+      {
+        "class": "badge--warranty",
+        "label": "3-Month Warranty"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "ADP-180TB H"
+      },
+      {
+        "label": "Compatible Brand",
+        "value": "Asus"
+      },
+      {
+        "label": "Adapter Type",
+        "value": "New OEM-Equivalent"
+      },
+      {
+        "label": "Connector",
+        "value": "6.0mm x 3.7mm (center pin)"
+      },
+      {
+        "label": "Output",
+        "value": "20V, 9A, 180W"
+      },
+      {
+        "label": "Input",
+        "value": "100\u2013240V AC, 50\u201360Hz"
+      },
+      {
+        "label": "Warranty",
+        "value": "3 Months"
+      }
+    ],
+    "compatible_models": [
+      "ROG Zephyrus G14 (GA401)",
+      "ROG Zephyrus G GA502 (GA502D / GA502DU / GA502IU)",
+      "ROG Strix GL504",
+      "ROG Strix G531 (G531GW / G531GU / G531GT)",
+      "ROG Strix G512 (G512LV / G512LI / G512LU)",
+      "TUF Gaming FX505 Series",
+      "TUF Gaming FX705 Series"
+    ],
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20this%20charger%20fits%20my%20laptop%3A%20Asus%20180W%20ROG%20Charger",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%20180W%20ROG%20Charger%20%E2%80%94%20KES%204%2C500",
+    "related": []
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1&ndash;2 days upcountry",
+  "faq_heading": "Charger Questions",
+  "faqs": [
+    {
+      "question": "How do I know this charger fits my laptop?",
+      "answer": "Each listing shows the wattage and connector type. If you're unsure, send us a photo of your original charger or your laptop model on WhatsApp and we'll confirm before you order."
+    },
+    {
+      "question": "Is a higher-wattage charger safe to use?",
+      "answer": "Yes \u2014 a charger rated higher than your laptop's original wattage is safe; your laptop only draws what it needs. A lower-wattage charger should be avoided, especially on gaming laptops which can draw their full rated wattage under load."
+    },
+    {
+      "question": "What warranty comes with this charger?",
+      "answer": "This charger carries a 3-month warranty."
+    }
+  ]
+}

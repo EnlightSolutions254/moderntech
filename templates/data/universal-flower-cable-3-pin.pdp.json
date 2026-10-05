@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "title": "Laptop Charger Flower Cable (3-Pin) | Price in Kenya | Moderntech",
+    "description": "Universal 3-pin clover-leaf (Mickey Mouse) power cable for laptop charger bricks \u2014 fits HP, Dell, Lenovo, Toshiba, Asus and most other laptop adapters. 3-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Laptop Charger Flower Cable (3-Pin) | Moderntech",
+    "description": "Universal 3-pin clover-leaf (Mickey Mouse) power cable for laptop charger bricks \u2014 fits HP, Dell, Lenovo, Toshiba, Asus and most other laptop adapters. 3-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "chargers",
+    "url": "/shop/chargers/",
+    "name": "Chargers & Adapters"
+  },
+  "product": {
+    "url": "/shop/chargers/universal-flower-cable-3-pin/",
+    "name": "Laptop Charger Flower Cable (3-Pin)",
+    "full_name": "Universal 3-Pin Flower / Clover-Leaf Power Cable for Laptop Chargers",
+    "sku": "C5 CLOVERLEAF",
+    "brand_name": "Universal",
+    "brand_slug": "universal",
+    "price": "250",
+    "price_raw": "250",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Universal 3-pin clover-leaf (also called Mickey Mouse or flower) power cable, connecting a laptop charger brick to the wall socket. Standard C5 connector fits the vast majority of HP, Dell, Lenovo, Toshiba, Asus and other laptop charger adapters that use a 3-prong clover-shaped input. Approximately 1.2m in length, 3-pin Kenya plug. Tested before dispatch.",
+    "type_label": "cable",
+    "type_label_cap": "Cable",
+    "images": [
+      {
+        "src": "assets/images/products/universal-flower-cable-3pin.webp",
+        "alt": "Laptop Charger Flower Cable (3-Pin) \u2014 main view"
+      },
+      {
+        "src": "assets/images/products/universal-flower-cable-3pin-1.webp",
+        "alt": "Laptop Charger Flower Cable (3-Pin) \u2014 connector detail"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      },
+      {
+        "class": "badge--new-oem",
+        "label": "Universal Fit"
+      },
+      {
+        "class": "badge--warranty",
+        "label": "3-Month Warranty"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Connector Type",
+        "value": "C5 Clover-Leaf (3-Pin)"
+      },
+      {
+        "label": "Compatible Brand",
+        "value": "Universal (HP, Dell, Lenovo, Toshiba, Asus & more)"
+      },
+      {
+        "label": "Cable Type",
+        "value": "Universal Fit"
+      },
+      {
+        "label": "Length",
+        "value": "Approx. 1.2m"
+      },
+      {
+        "label": "Plug Type",
+        "value": "3-Pin (Kenya Standard)"
+      },
+      {
+        "label": "Warranty",
+        "value": "3 Months"
+      }
+    ],
+    "compatible_models": [
+      "Most HP, Dell, Lenovo, Toshiba, Asus and other laptop charger bricks using a 3-pin clover-leaf (C5) input"
+    ],
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20this%20cable%20fits%20my%20charger%3A%20Laptop%20Charger%20Flower%20Cable%20%283-Pin%29",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Laptop%20Charger%20Flower%20Cable%20%283-Pin%29%20%E2%80%94%20KES%20250",
+    "related": []
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1&ndash;2 days upcountry",
+  "faq_heading": "Charger Questions",
+  "faqs": [
+    {
+      "question": "Will this fit my laptop charger?",
+      "answer": "This is a universal 3-pin clover-leaf (C5) cable \u2014 it fits the vast majority of laptop charger bricks. If you're unsure, send us a photo of your charger's input socket on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is this the same as the charger brick?",
+      "answer": "No \u2014 this is just the power cable that connects the charger brick to the wall socket, not the adapter itself."
+    },
+    {
+      "question": "What warranty comes with this cable?",
+      "answer": "This cable carries a 3-month warranty."
+    }
+  ]
+}

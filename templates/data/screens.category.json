@@ -13,7 +13,7 @@
     "name": "Laptop Screens",
     "name_lower": "screens",
     "description": "Genuine replacement screens for HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook laptops. Every listing shows exact panel size, resolution and compatible models before you message us.",
-    "result_count": 22
+    "result_count": 23
   },
   "products": [
     {
@@ -205,7 +205,7 @@
       "image": "assets/images/products/laptop-screen-lenovo-flex-5-14-touch.webp",
       "alt": "Touch screen for Lenovo Flex 5-14",
       "name": "Lenovo Flex 5-14 Touch Screen",
-      "tags": ["Flex 5-14", "Touch"],
+      "tags": ["Flex 5-14 (2020)", "FHD Touch"],
       "price": "18,500",
       "cta_label": "Order on WhatsApp",
       "cta_class": "btn--whatsapp",
@@ -345,6 +345,21 @@
       "cta_label": "Order on WhatsApp",
       "cta_class": "btn--whatsapp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20Pro%2013%22%20%28A2338%29%20Screen%20Assembly%20%E2%80%94%20Space%20Gray%20%E2%80%94%20KES%2038%2C000"
+    },
+    {
+      "brand_slug": "macbook",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/screens/macbook-air-13-a2337-screen-assembly/",
+      "image": "assets/images/products/macbook-air-13-a2337-screen-assembly.webp",
+      "alt": "MacBook Air 13-inch A2337 full display assembly, front view",
+      "name": "MacBook Air 13-inch (A2337) Screen Assembly",
+      "tags": ["MacBook Air A2337", "Space Gray / Silver / Gold", "Full Assembly"],
+      "price": "35,000",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20Air%2013-inch%20%28A2337%29%20Screen%20Assembly%20%E2%80%94%20KES%2035%2C000"
     }
   ],
   "technician_cta": {

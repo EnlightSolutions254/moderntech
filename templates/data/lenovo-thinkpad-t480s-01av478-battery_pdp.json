@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "title": "Lenovo ThinkPad T480s 01AV478 Battery | Zanatechnologies",
+    "description": "Replacement Lenovo 01AV478 battery, 11.58V 57Wh, for ThinkPad T480s (20L7 and 20L8). In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Lenovo ThinkPad T480s 01AV478 Battery | Zanatechnologies",
+    "description": "Replacement battery for Lenovo ThinkPad T480s. In stock, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/lenovo-01av478-thinkpad-t480s/",
+    "brand_slug": "lenovo",
+    "brand_name": "Lenovo",
+    "sku": "01AV478",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "name": "Lenovo 01AV478 Battery",
+    "full_name": "Lenovo ThinkPad T480s 01AV478 Battery",
+    "images": [
+      {
+        "src": "assets/images/products/lenovo-battery-01av478.webp",
+        "alt": "Replacement battery — Lenovo ThinkPad T480s 01AV478 Battery"
+      },
+      {
+        "src": "assets/images/products/lenovo-battery-01av478-alt.webp",
+        "alt": "Angled view of the Lenovo ThinkPad T480s 01AV478 Battery"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "price": "5,500",
+    "price_raw": "5500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Brand-new replacement battery, Lenovo part 01AV478, 11.58V, 3-cell Li-ion, 57Wh (4920mAh). Fits the Lenovo ThinkPad T480s (machine types 20L7 and 20L8). Also matches part numbers 01AV479, 01AV480, L17L3P71, L17M3P71, L17S3P71, SB10K97620 and SB10K97621. Not compatible with the ThinkPad T480, which uses a different battery. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20T480s%2001AV478%20Battery%20%E2%80%94%20KES%205%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Lenovo%20ThinkPad%20T480s%2001AV478%20Battery",
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "01AV478"
+      },
+      {
+        "label": "Compatible Models",
+        "value": "Lenovo ThinkPad T480s (20L7), ThinkPad T480s (20L8)"
+      },
+      {
+        "label": "Alternate Part Numbers",
+        "value": "01AV479, 01AV480, L17L3P71, L17M3P71, L17S3P71, SB10K97620, SB10K97621"
+      },
+      {
+        "label": "Voltage",
+        "value": "11.58V"
+      },
+      {
+        "label": "Capacity",
+        "value": "57Wh (4920mAh)"
+      },
+      {
+        "label": "Battery Type",
+        "value": "Li-ion, 3-cell"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "How do I know this battery fits my laptop?",
+      "answer": "This fits the Lenovo ThinkPad T480s only. It does not fit the ThinkPad T480 or T470s. The model name is printed on the bottom of the laptop, and the part number on your old battery (01AV478, 01AV479 or 01AV480) is the safest check. If you're unsure, send us a photo on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is this an original or compatible battery?",
+      "answer": "This is a brand-new replacement battery built to Lenovo's 01AV478 specification, tested before dispatch."
+    },
+    {
+      "question": "Can I fit this myself?",
+      "answer": "The T480s battery is internal, so the bottom cover has to come off to reach it. Most customers have it fitted by us. We can talk you through it on WhatsApp if you'd rather do it yourself."
+    },
+    {
+      "question": "What warranty comes with this battery?",
+      "answer": "This battery carries a 6-month warranty."
+    }
+  ]
+}

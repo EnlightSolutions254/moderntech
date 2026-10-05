@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "title": "eDP 30 Pin LCD Display Cable (DC02C00A300) | Price in Kenya | Zanatechnologies",
+    "description": "Replacement eDP 30-pin laptop LCD display cable, code DC02C00A300. Check the code on your old cable or send us your laptop model. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "eDP 30 Pin LCD Cable DC02C00A300 | Zanatechnologies",
+    "description": "Laptop LCD display cable, eDP 30-pin, code DC02C00A300. In stock in Nairobi, order on WhatsApp."
+  },
+  "category": {
+    "slug": "accessories",
+    "url": "/shop/accessories/",
+    "name": "Accessories"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "product": {
+    "url": "/shop/accessories/edp-30-pin-lcd-cable-dc02c00a300/",
+    "name": "eDP 30 Pin LCD Display Cable",
+    "full_name": "eDP 30-Pin Laptop LCD Display Cable, Code DC02C00A300",
+    "sku": "CBL-LCD-EDP30-DC02C00A300",
+    "brand_name": "Universal",
+    "brand_slug": "universal",
+    "price": "1,200",
+    "price_raw": "1200",
+    "schema_availability": "https://schema.org/InStock",
+    "type_label": "LCD cable",
+    "type_label_cap": "LCD Cable",
+    "images": [
+      {
+        "src": "assets/images/products/lcd-cable-edp-30-pin-dc02c00a300.webp",
+        "alt": "eDP 30-pin laptop LCD display cable, code DC02C00A300, label view"
+      },
+      {
+        "src": "assets/images/products/lcd-cable-edp-30-pin-dc02c00a300-alt.webp",
+        "alt": "eDP 30-pin laptop LCD display cable DC02C00A300, connector view"
+      }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" },
+      { "class": "badge--warranty", "label": "Warranty Included" }
+    ],
+    "description": "Replacement laptop LCD display cable, eDP 30-pin, cable code DC02C00A300. This is the cable that links the motherboard to the screen, so it is the part to replace when a screen flickers, shows lines or goes blank while an external monitor still works. LCD cables are model-specific, so please match the code printed on your old cable or send us your laptop model on WhatsApp and we will confirm fit before you order.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20eDP%2030%20Pin%20LCD%20Display%20Cable%20%28DC02C00A300%29%20%E2%80%94%20KES%201%2C200",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20eDP%2030%20Pin%20LCD%20Display%20Cable%20%28DC02C00A300%29%20fits%20my%20laptop%3F%20My%20laptop%20model%20is%3A%20",
+    "specs": [
+      { "label": "Type", "value": "Laptop LCD display (video) cable" },
+      { "label": "Connector", "value": "eDP 30-pin" },
+      { "label": "Cable Code", "value": "DC02C00A300 (printed on the cable label)" },
+      { "label": "Fitting", "value": "Matched by cable code and connector, not by pin count alone" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "Included — ask on WhatsApp for current term" }
+    ],
+    "compatible_models": [
+      "Laptops that use cable code DC02C00A300 (check the code printed on your existing cable)"
+    ],
+    "related": []
+  },
+  "faq_heading": "LCD Cable Questions",
+  "faqs": [
+    { "question": "What does this cable do?", "answer": "It carries the video signal from your laptop's motherboard to the screen. A worn or damaged cable can cause flickering, lines across the display, a dim or blank screen while an external monitor still works, or a picture that changes when you open and close the lid." },
+    { "question": "How do I know this cable fits my laptop?", "answer": "LCD cables are specific to the laptop model, so a 30-pin connector alone is not enough. This cable is code DC02C00A300. Check the code printed on your existing cable and compare it, or send us your laptop model or a photo of your old cable on WhatsApp and we'll confirm before you order." },
+    { "question": "Can I fit this myself?", "answer": "The cable runs behind the screen, so the screen bezel has to come off and the panel has to be lifted out to reach it. Most customers have it fitted by us. We can talk you through it on WhatsApp if you'd rather do it yourself." },
+    { "question": "What warranty comes with this cable?", "answer": "This cable comes with a warranty — message us on WhatsApp for the current term before ordering." }
+  ]
+}

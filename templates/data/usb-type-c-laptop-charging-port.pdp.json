@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "title": "Laptop Charging Port | Big Pin, Small Pin, USB, Type-C | Price in Kenya | Zanatechnologies",
+    "description": "Replacement laptop charging ports in Nairobi: big pin, small pin, USB and USB Type-C. Matched to your laptop model, with fitting available. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Laptop Charging Port, Big Pin, Small Pin, USB, Type-C | Zanatechnologies",
+    "description": "Replacement laptop charging ports in big pin, small pin, USB and Type-C. Send us your laptop model on WhatsApp."
+  },
+  "category": {
+    "slug": "accessories",
+    "url": "/shop/accessories/",
+    "name": "Accessories"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "product": {
+    "url": "/shop/accessories/usb-type-c-laptop-charging-port/",
+    "name": "Laptop Charging Port",
+    "full_name": "Laptop Charging Port (Big Pin, Small Pin, USB, Type-C)",
+    "sku": "ACC-USBC-CHARGING-PORT",
+    "brand_name": "Universal",
+    "brand_slug": "universal",
+    "price": "1,500",
+    "price_raw": "1500",
+    "schema_availability": "https://schema.org/InStock",
+    "type_label": "charging port",
+    "type_label_cap": "Charging Port",
+    "images": [
+      {
+        "src": "assets/images/products/usb-type-c-charging-port.webp",
+        "alt": "USB Type-C laptop charging port replacement, front view"
+      },
+      {
+        "src": "assets/images/products/usb-type-c-charging-port-alt.webp",
+        "alt": "USB Type-C laptop charging port replacement, connector and cable view"
+      },
+      {
+        "src": "assets/images/products/usb-type-c-charging-port-alt-2.webp",
+        "alt": "USB Type-C laptop charging port replacement, rear view"
+      },
+      {
+        "src": "assets/images/products/laptop-charging-ports-all-types.webp",
+        "alt": "Laptop charging ports in four types, big pin, small pin, USB and Type-C, side by side"
+      },
+      {
+        "src": "assets/images/products/laptop-charging-port-big-pin.webp",
+        "alt": "Big pin laptop charging port with cable, front view"
+      },
+      {
+        "src": "assets/images/products/laptop-charging-port-big-pin-alt.webp",
+        "alt": "Big pin laptop charging port, connector and mounting view"
+      },
+      {
+        "src": "assets/images/products/laptop-charging-port-small-pin.webp",
+        "alt": "Small pin laptop charging port with cable, front view"
+      },
+      {
+        "src": "assets/images/products/laptop-charging-port-usb.webp",
+        "alt": "USB laptop charging port with cable, front view"
+      }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" },
+      { "class": "badge--warranty", "label": "Warranty Included" }
+    ],
+    "description": "Replacement laptop charging ports in four types: big pin, small pin, USB and USB Type-C. Fit one when the charging port is loose, bent, damaged or no longer charging reliably. Charging ports are specific to the laptop model, and the type depends on the plug your charger uses, so please send us your laptop model (or a photo of the port, the tip of your charger and the sticker under the laptop) on WhatsApp and we will confirm we have the right one before you order. Fitting is available in Nairobi.",
+    "part_options": [
+      {
+        "label": "Big Pin",
+        "name": "Big Pin Laptop Charging Port",
+        "description": "For laptops that take the larger round charger plug with a centre pin. Check the tip of your charger or send us a photo.",
+        "price": "1,500",
+        "image": "assets/images/products/laptop-charging-port-big-pin.webp",
+        "alt": "Big pin laptop charging port with cable, front view",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20a%20big%20pin%20laptop%20charging%20port%20%E2%80%94%20my%20laptop%20model%20is%3A%20"
+      },
+      {
+        "label": "Small Pin",
+        "name": "Small Pin Laptop Charging Port",
+        "description": "For laptops that take the smaller round charger plug with a centre pin. Check the tip of your charger or send us a photo.",
+        "price": "1,500",
+        "image": "assets/images/products/laptop-charging-port-small-pin.webp",
+        "alt": "Small pin laptop charging port with cable, front view",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20a%20small%20pin%20laptop%20charging%20port%20%E2%80%94%20my%20laptop%20model%20is%3A%20"
+      },
+      {
+        "label": "USB",
+        "name": "USB Laptop Charging Port",
+        "description": "For laptops that charge through a USB-style charging port. Send us your laptop model and we will confirm before you order.",
+        "price": "1,500",
+        "image": "assets/images/products/laptop-charging-port-usb.webp",
+        "alt": "USB laptop charging port with cable, front view",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20a%20USB%20laptop%20charging%20port%20%E2%80%94%20my%20laptop%20model%20is%3A%20"
+      },
+      {
+        "label": "Type-C",
+        "name": "USB Type-C Laptop Charging Port",
+        "description": "For laptops that charge through the slim, oval USB Type-C port. Send us your laptop model and we will confirm before you order.",
+        "price": "1,500",
+        "image": "assets/images/products/usb-type-c-charging-port.webp",
+        "alt": "USB Type-C laptop charging port replacement, front view",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20a%20USB%20Type-C%20laptop%20charging%20port%20%E2%80%94%20my%20laptop%20model%20is%3A%20"
+      }
+    ],
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20a%20laptop%20charging%20port%20%E2%80%94%20type%20%28big%20pin%2C%20small%20pin%2C%20USB%20or%20Type-C%29%3A%20%0AMy%20laptop%20model%20is%3A%20",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20you%20have%20the%20charging%20port%20for%20my%20laptop%3F%20Port%20type%20%28big%20pin%2C%20small%20pin%2C%20USB%20or%20Type-C%29%3A%20%0AMy%20laptop%20model%20is%3A%20",
+    "specs": [
+      { "label": "Type", "value": "Laptop charging port (replacement part)" },
+      { "label": "Port Types", "value": "Big pin, small pin, USB, USB Type-C" },
+      { "label": "Use", "value": "Replaces a loose, bent, damaged or non-charging charging port" },
+      { "label": "Fitting", "value": "Laptop-specific: matched to your laptop model and charger plug type, not universal" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "Included — ask on WhatsApp for current term" }
+    ],
+    "compatible_models": [
+      "Laptops with a big pin charging port (matched by laptop model, send us yours to confirm)",
+      "Laptops with a small pin charging port (matched by laptop model, send us yours to confirm)",
+      "Laptops with a USB charging port (matched by laptop model, send us yours to confirm)",
+      "Laptops with a USB Type-C charging port (matched by laptop model, send us yours to confirm)"
+    ],
+    "related": []
+  },
+  "faq_heading": "Charging Port Questions",
+  "faqs": [
+    { "question": "When do I need a new charging port?", "answer": "When the laptop only charges if you hold the cable at an angle, the cable feels loose or wobbles, the charging light keeps cutting in and out, or the port is visibly bent or damaged. If the laptop doesn't charge at all, send us the details on WhatsApp first, because the fault can also be the charger, cable or battery." },
+    { "question": "What is the difference between big pin, small pin, USB and Type-C?", "answer": "These describe the plug your laptop's charger uses. Big pin and small pin are round charger plugs with a centre pin, and they differ in plug size. USB ports take a USB-style charging connector. Type-C is the slim, oval connector. Look at the tip of your charger, or send us a photo of the tip and the port on WhatsApp, and we'll tell you which one you need." },
+    { "question": "How do I know which charging port my laptop has?", "answer": "Look at the end of your charger. A round plug with a pin in the centre means big pin or small pin, depending on the size of the plug. A slim oval plug means Type-C. If you are not sure, send us a photo of the charger tip, the port and the sticker under the laptop on WhatsApp and we'll confirm." },
+    { "question": "Will this fit my laptop?", "answer": "Charging ports differ between laptop models in shape, mounting and cable length, so one port does not fit every laptop, even within the same port type. Send us your laptop model, or a photo of the port and the sticker under the laptop, on WhatsApp and we'll confirm before you order." },
+    { "question": "Can I fit this myself?", "answer": "The laptop has to be opened to reach the port, and on some models the port is attached to the motherboard, which is a repair job rather than a swap. Most customers have it fitted by us. Tell us your model on WhatsApp and we'll say what the job involves." },
+    { "question": "What warranty comes with this part?", "answer": "This part comes with a warranty — message us on WhatsApp for the current term before ordering." }
+  ]
+}

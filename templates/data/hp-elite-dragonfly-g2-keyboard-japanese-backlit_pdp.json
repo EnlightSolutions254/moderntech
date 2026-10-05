@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "title": "HP Elite Dragonfly G2 Keyboard (Backlit, Japanese) | Zanatechnologies",
+    "description": "Replacement backlit Japanese-layout keyboard for HP Elite Dragonfly G2. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "HP Elite Dragonfly G2 Keyboard (Japanese) | Zanatechnologies",
+    "description": "Backlit Japanese-layout keyboard for HP Elite Dragonfly G2. In stock, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "keyboards",
+    "url": "/shop/keyboards/",
+    "name": "Keyboards"
+  },
+  "product": {
+    "url": "/shop/keyboards/hp-elite-dragonfly-g2-keyboard-japanese-backlit/",
+    "brand_slug": "hp",
+    "brand_name": "HP",
+    "sku": "KEY-HP-DRAGONFLYG2-JP-BL",
+    "type_label": "keyboard",
+    "type_label_cap": "Keyboard",
+    "name": "HP Elite Dragonfly G2 Keyboard",
+    "full_name": "HP Elite Dragonfly G2 Replacement Keyboard — Backlit, Japanese Layout",
+    "images": [
+      {
+        "src": "assets/images/products/hp-keyboard-elite-dragonfly-g2-japanese-backlit.webp",
+        "alt": "Replacement backlit Japanese-layout keyboard for HP Elite Dragonfly G2"
+      },
+      {
+        "src": "assets/images/products/hp-keyboard-elite-dragonfly-g2-japanese-backlit-alt.webp",
+        "alt": "Angled view of the HP Elite Dragonfly G2 Japanese-layout keyboard"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "price": "3,500",
+    "price_raw": "3500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Replacement backlit keyboard for the HP Elite Dragonfly G2. Japanese (JIS) layout, backlit. This is the Japanese version, not US or UK, so the key legends and Enter key shape follow the Japanese standard. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20Elite%20Dragonfly%20G2%20Keyboard%20%28Backlit%2C%20Japanese%29%20%E2%80%94%20KES%203%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20HP%20Elite%20Dragonfly%20G2%20Keyboard%20%28Japanese%29",
+    "specs": [
+      {
+        "label": "Compatible Models",
+        "value": "HP Elite Dragonfly G2"
+      },
+      {
+        "label": "Layout",
+        "value": "Japanese (JIS)"
+      },
+      {
+        "label": "Backlight",
+        "value": "Backlit"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      },
+      {
+        "label": "Warranty",
+        "value": "3 Months"
+      }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Keyboard Questions",
+  "faqs": [
+    {
+      "question": "How do I know this keyboard fits my laptop?",
+      "answer": "This fits the HP Elite Dragonfly G2. If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is this a Japanese layout?",
+      "answer": "Yes, this is the Japanese (JIS) layout, not US or UK. It has the Japanese key legends and a different Enter key shape from a US keyboard. If you need a US or UK layout instead, message us on WhatsApp."
+    },
+    {
+      "question": "Is this backlit?",
+      "answer": "Yes, this is the backlit version."
+    },
+    {
+      "question": "What warranty comes with this keyboard?",
+      "answer": "This keyboard carries a 3-month warranty."
+    }
+  ]
+}

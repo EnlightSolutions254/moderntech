@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "title": "HP 330W Big Pin Charger | Price in Kenya | Moderntech",
+    "description": "Genuine-spec 330W power adapter for HP Omen 17-ck/17-cm Series, Omen X 17-ap and Envy 32-A All-in-One. 7.4mm x 5.0mm Big Pin connector. TPC-DA60. 3-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "HP 330W Big Pin Charger | Moderntech",
+    "description": "Genuine-spec 330W power adapter for HP Omen 17-ck/17-cm Series, Omen X 17-ap and Envy 32-A All-in-One. 7.4mm x 5.0mm Big Pin connector. TPC-DA60. 3-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "chargers",
+    "url": "/shop/chargers/",
+    "name": "Chargers & Adapters"
+  },
+  "product": {
+    "url": "/shop/chargers/hp-330w-big-pin-omen-17-ck-cm-envy-32/",
+    "name": "HP 330W Big Pin Charger",
+    "full_name": "Replacement 330W Charger for HP Omen 17-ck / 17-cm / Envy 32-A",
+    "sku": "918607-003 / TPC-DA60 / ADP-330BB BA",
+    "brand_name": "HP",
+    "brand_slug": "hp",
+    "price": "13,000",
+    "price_raw": "13000",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Replacement power adapter (Model TPC-DA60, Part No. 918607-003, 925142-850) for HP Omen 17-ck0000 Series, Omen 17-cm2000 Series, Omen X by HP 17-ap005nf, HP Envy All-in-One 32-a0055, and HP Z VR Backpack G1 Workstation. 19.5V, 16.92A, 330W output through the 7.4mm x 5.0mm Big Pin connector with center pin. Wide-range 100\u2013240V AC input for worldwide use. Note: this connector is physically larger than the 4.5mm x 3.0mm Blue Pin \u2014 a 330W adapter requires the larger pin to safely carry the higher current. Tested before dispatch, drop-in replacement for the original charger.",
+    "type_label": "charger",
+    "type_label_cap": "Charger",
+    "images": [
+      {
+        "src": "assets/images/products/hp-charger-330w-bigpin.webp",
+        "alt": "HP 330W Big Pin Charger \u2014 main view"
+      },
+      {
+        "src": "assets/images/products/hp-charger-330w-bigpin-1.webp",
+        "alt": "HP 330W Big Pin Charger \u2014 connector detail"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      },
+      {
+        "class": "badge--new-oem",
+        "label": "New OEM-Equivalent"
+      },
+      {
+        "class": "badge--warranty",
+        "label": "3-Month Warranty"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "918607-003 / TPC-DA60"
+      },
+      {
+        "label": "Compatible Brand",
+        "value": "HP"
+      },
+      {
+        "label": "Adapter Type",
+        "value": "New OEM-Equivalent"
+      },
+      {
+        "label": "Connector",
+        "value": "7.4mm x 5.0mm (Big Pin)"
+      },
+      {
+        "label": "Output",
+        "value": "19.5V, 16.92A, 330W"
+      },
+      {
+        "label": "Input",
+        "value": "100\u2013240V AC, 50\u201360Hz"
+      },
+      {
+        "label": "Warranty",
+        "value": "3 Months"
+      }
+    ],
+    "compatible_models": [
+      "Omen 17-ck0000 Series",
+      "Omen 17-cm2000 Series",
+      "Omen X by HP 17-ap005nf",
+      "Envy All-in-One 32-a0055",
+      "HP Z VR Backpack G1 Workstation"
+    ],
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20this%20charger%20fits%20my%20laptop%3A%20HP%20330W%20Big%20Pin%20Charger",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20330W%20Big%20Pin%20Charger%20%E2%80%94%20KES%2013%2C000",
+    "related": []
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1&ndash;2 days upcountry",
+  "faq_heading": "Charger Questions",
+  "faqs": [
+    {
+      "question": "How do I know this charger fits my laptop?",
+      "answer": "Each listing shows the wattage and connector type. If you're unsure, send us a photo of your original charger or your laptop model on WhatsApp and we'll confirm before you order."
+    },
+    {
+      "question": "Is a higher-wattage charger safe to use?",
+      "answer": "Yes \u2014 a charger rated higher than your laptop's original wattage is safe; your laptop only draws what it needs. A lower-wattage charger should be avoided, especially on high-performance laptops which can draw their full rated wattage under load."
+    },
+    {
+      "question": "What warranty comes with this charger?",
+      "answer": "This charger carries a 3-month warranty."
+    }
+  ]
+}

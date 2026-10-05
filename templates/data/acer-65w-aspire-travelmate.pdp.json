@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "title": "Acer 65W Charger | Price in Kenya | Moderntech",
+    "description": "Replacement 65W power adapter for Acer Aspire 3/5/E/V/ES Series and TravelMate. 5.5mm x 1.7mm connector. PA-1650-86. 3-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Acer 65W Charger | Moderntech",
+    "description": "Replacement 65W power adapter for Acer Aspire 3/5/E/V/ES Series and TravelMate. 5.5mm x 1.7mm connector. PA-1650-86. 3-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "chargers",
+    "url": "/shop/chargers/",
+    "name": "Chargers & Adapters"
+  },
+  "product": {
+    "url": "/shop/chargers/acer-65w-aspire-travelmate/",
+    "name": "Acer 65W Charger",
+    "full_name": "Replacement 65W Charger for Acer Aspire / TravelMate",
+    "sku": "PA-1650-86 / PA-1650-50 / PA-1650-69",
+    "brand_name": "Acer",
+    "brand_slug": "acer",
+    "price": "1,000",
+    "price_raw": "1000",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Replacement power adapter (Model PA-1650-86, Part No. PA-1650-50, PA-1650-69, PA-1650-02) for Acer Aspire 3 (A314-21, A315-21/31/33/41/51/52/53/56), Aspire 5 (A515-43, A515-51/52), Aspire E1/E3/E5/E11/E14/E15/E17 Series, Aspire ES1 Series, Aspire V3/V5/V7/VN7 Series, TravelMate P645/4061-4064/C200-C204, and Ferrari/Extensa/Gateway models using the same connector. 19V, 3.42A, 65W output through the 5.5mm x 1.7mm barrel connector (also backward-compatible with 45W and 40W devices). Wide-range 100\u2013240V AC input for worldwide use. Not compatible with newer Acer models using a 3.0mm port or USB-C only charging (e.g. Aspire 5 A515-56 onward). Tested before dispatch, drop-in replacement for the original charger.",
+    "type_label": "charger",
+    "type_label_cap": "Charger",
+    "images": [
+      {
+        "src": "assets/images/products/acer-charger-65w.webp",
+        "alt": "Acer 65W Charger \u2014 main view"
+      },
+      {
+        "src": "assets/images/products/acer-charger-65w-1.webp",
+        "alt": "Acer 65W Charger \u2014 connector detail"
+      }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" },
+      { "class": "badge--new-oem", "label": "New OEM-Equivalent" },
+      { "class": "badge--warranty", "label": "3-Month Warranty" }
+    ],
+    "specs": [
+      { "label": "Part Number", "value": "PA-1650-86 / PA-1650-50" },
+      { "label": "Compatible Brand", "value": "Acer" },
+      { "label": "Adapter Type", "value": "New OEM-Equivalent" },
+      { "label": "Connector", "value": "5.5mm x 1.7mm (barrel)" },
+      { "label": "Output", "value": "19V, 3.42A, 65W" },
+      { "label": "Input", "value": "100\u2013240V AC, 50\u201360Hz" },
+      { "label": "Warranty", "value": "3 Months" }
+    ],
+    "compatible_models": [
+      "Aspire 3 (A314-21, A315-21/31/33/41/51/52/53/56)",
+      "Aspire 5 (A515-43, A515-51/52) \u2014 not A515-54 onward",
+      "Aspire E1 / E3 / E5 / E11 / E14 / E15 / E17 Series",
+      "Aspire ES1 Series",
+      "Aspire V3 / V5 / V7 / VN7 Series",
+      "TravelMate P645 / 4061-4064 / C200-C204",
+      "Extensa / Ferrari / Gateway models (same connector)"
+    ],
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20this%20charger%20fits%20my%20laptop%3A%20Acer%2065W%20Charger",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Acer%2065W%20Charger%20%E2%80%94%20KES%201%2C000",
+    "related": []
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1&ndash;2 days upcountry",
+  "faq_heading": "Charger Questions",
+  "faqs": [
+    {
+      "question": "How do I know this charger fits my laptop?",
+      "answer": "Each listing shows the wattage and connector type. If you're unsure, send us a photo of your original charger or your laptop model on WhatsApp and we'll confirm before you order."
+    },
+    {
+      "question": "Is a higher-wattage charger safe to use?",
+      "answer": "Yes \u2014 a charger rated higher than your laptop's original wattage is safe; your laptop only draws what it needs. A lower-wattage charger should be avoided."
+    },
+    {
+      "question": "What warranty comes with this charger?",
+      "answer": "This charger carries a 3-month warranty."
+    }
+  ]
+}

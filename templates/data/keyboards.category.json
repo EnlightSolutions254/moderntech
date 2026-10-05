@@ -13,7 +13,7 @@
     "name": "Keyboards",
     "name_lower": "keyboards",
     "description": "Genuine replacement keyboards for HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook laptops. Every listing shows exact layout, backlighting and compatible models before you message us.",
-    "result_count": 97
+    "result_count": 98
   },
   "products": [
     {
@@ -1723,6 +1723,25 @@
       "cta_label": "Order on WhatsApp",
       "cta_class": "btn--whatsapp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%207320%20Detachable%20Keyboard%20%28Backlit%2C%20US%29%20%E2%80%94%20KES%2022%2C000"
+    },
+    {
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/hp-elite-dragonfly-g2-keyboard-japanese-backlit/",
+      "image": "assets/images/products/hp-keyboard-elite-dragonfly-g2-japanese-backlit.webp",
+      "alt": "Replacement backlit Japanese-layout keyboard for HP Elite Dragonfly G2",
+      "name": "HP Elite Dragonfly G2 Keyboard (Backlit, Japanese)",
+      "tags": [
+        "Elite Dragonfly G2",
+        "Japanese Layout",
+        "Backlit"
+      ],
+      "price": "3,500",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20Elite%20Dragonfly%20G2%20Keyboard%20%28Backlit%2C%20Japanese%29%20%E2%80%94%20KES%203%2C500"
     }
   ],
   "technician_cta": {

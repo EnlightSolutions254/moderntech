@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "title": "Asus 65W Small Pin Charger | Price in Kenya | Moderntech",
+    "description": "Replacement 65W power adapter for Asus ExpertBook P2540/P2710/B8430UA, PU401/PU500/PU550 Series and VivoBook 15 OLED X1505 Series. 4.5mm x 3.0mm connector with center pin. ADP-65DW A. 3-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Asus 65W Small Pin Charger | Moderntech",
+    "description": "Replacement 65W power adapter for Asus ExpertBook P2540/P2710/B8430UA, PU401/PU500/PU550 Series and VivoBook 15 OLED X1505 Series. 4.5mm x 3.0mm connector with center pin. ADP-65DW A. 3-month warranty. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "chargers",
+    "url": "/shop/chargers/",
+    "name": "Chargers & Adapters"
+  },
+  "product": {
+    "url": "/shop/chargers/asus-65w-small-pin-expertbook-pu-vivobook-oled/",
+    "name": "Asus 65W Small Pin Charger",
+    "full_name": "Replacement 65W Charger for Asus ExpertBook / PU Series / VivoBook OLED",
+    "sku": "ADP-65DW A / PA-1650-78 / EXA1203YH",
+    "brand_name": "Asus",
+    "brand_slug": "asus",
+    "price": "3,500",
+    "price_raw": "3500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Replacement power adapter (Model ADP-65DW A, Part No. PA-1650-78, EXA1203YH, EXA1203XH) for Asus PU550, PU550CA, PU401, PU401LA, BU401LA, BU401LG, B551LA, B551LG, BU400A, BU400VC, B400A, BU201LA, ASUS Pro B8430UA, ASUS Pro P2710, P2710JA, P751JA, P751JF, ProART450CD, ProART450VB, PU500, PU500CA, X755, X755JA, Q524UQ, Q534UX, P2540UA, and P2540UV. Also fits the newer VivoBook 15 OLED X1505 Series. 19V, 3.42A, 65W output through the 4.5mm x 3.0mm barrel connector with center pin \u2014 note this is a different, thicker connector than the standard Asus 65W VivoBook/ZenBook charger (4.0mm x 1.35mm, no center pin). Wide-range 100\u2013240V AC input for worldwide use. Tested before dispatch, drop-in replacement for the original charger.",
+    "type_label": "charger",
+    "type_label_cap": "Charger",
+    "images": [
+      {
+        "src": "assets/images/products/asus-charger-65w-smallpin.webp",
+        "alt": "Asus 65W Small Pin Charger \u2014 main view"
+      },
+      {
+        "src": "assets/images/products/asus-charger-65w-smallpin-1.webp",
+        "alt": "Asus 65W Small Pin Charger \u2014 connector detail"
+      }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" },
+      { "class": "badge--new-oem", "label": "New OEM-Equivalent" },
+      { "class": "badge--warranty", "label": "3-Month Warranty" }
+    ],
+    "specs": [
+      { "label": "Part Number", "value": "ADP-65DW A / PA-1650-78" },
+      { "label": "Compatible Brand", "value": "Asus" },
+      { "label": "Adapter Type", "value": "New OEM-Equivalent" },
+      { "label": "Connector", "value": "4.5mm x 3.0mm (center pin)" },
+      { "label": "Output", "value": "19V, 3.42A, 65W" },
+      { "label": "Input", "value": "100\u2013240V AC, 50\u201360Hz" },
+      { "label": "Warranty", "value": "3 Months" }
+    ],
+    "compatible_models": [
+      "PU550 / PU550CA / PU401 / PU401LA Series",
+      "BU401LA / BU401LG / B551LA / B551LG",
+      "BU400A / BU400VC / B400A / BU201LA",
+      "ASUS Pro B8430UA / P2710 / P2710JA",
+      "P751JA / P751JF / PU500 / PU500CA",
+      "X755 / X755JA / Q524UQ / Q534UX",
+      "P2540UA / P2540UV",
+      "VivoBook 15 OLED X1505 Series"
+    ],
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20this%20charger%20fits%20my%20laptop%3A%20Asus%2065W%20Small%20Pin%20Charger",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%2065W%20Small%20Pin%20Charger%20%E2%80%94%20KES%203%2C500",
+    "related": []
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1&ndash;2 days upcountry",
+  "faq_heading": "Charger Questions",
+  "faqs": [
+    {
+      "question": "How do I know this charger fits my laptop?",
+      "answer": "Each listing shows the wattage and connector type. If you're unsure, send us a photo of your original charger or your laptop model on WhatsApp and we'll confirm before you order."
+    },
+    {
+      "question": "Is a higher-wattage charger safe to use?",
+      "answer": "Yes \u2014 a charger rated higher than your laptop's original wattage is safe; your laptop only draws what it needs. A lower-wattage charger should be avoided."
+    },
+    {
+      "question": "What warranty comes with this charger?",
+      "answer": "This charger carries a 3-month warranty."
+    }
+  ]
+}

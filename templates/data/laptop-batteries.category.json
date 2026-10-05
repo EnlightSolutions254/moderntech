@@ -13,7 +13,7 @@
     "name": "Laptop Batteries",
     "name_lower": "batteries",
     "description": "Genuine replacement batteries for HP, Lenovo and Dell laptops. Every listing shows exact compatible models, part numbers and price before you message us.",
-    "result_count": 70
+    "result_count": 73
   },
   "products": [
     {
@@ -194,6 +194,25 @@
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20L17C3P71%20Battery%20%E2%80%94%20KES%205%2C500",
       "extra": false,
       "tag_overflow": "+4 more"
+    },
+    {
+      "name": "Lenovo 01AV478 Battery",
+      "url": "/shop/laptop-batteries/lenovo-01av478-thinkpad-t480s/",
+      "image": "assets/images/products/lenovo-battery-01av478.webp",
+      "alt": "Replacement battery \u2014 Lenovo 01AV478 Battery",
+      "brand_slug": "lenovo",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "ThinkPad T480s (20L7)",
+        "ThinkPad T480s (20L8)"
+      ],
+      "price": "5,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%2001AV478%20Battery%20%E2%80%94%20KES%205%2C500",
+      "extra": false
     },
     {
       "name": "Lenovo L18C4P71 Battery",
@@ -1388,6 +1407,44 @@
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20a%20MacBook%20battery%20%E2%80%94%20my%20MacBook%27s%20model%20number%20is%3A",
       "extra": false,
       "tag_overflow": "+2 more"
+    },
+    {
+      "name": "MacBook A1405 Battery",
+      "url": "/shop/laptop-batteries/macbook-a1405-air-13-a1369-a1466/",
+      "image": "assets/images/products/macbook-battery-a1405.webp",
+      "alt": "Replacement battery \u2014 MacBook A1405 Battery",
+      "brand_slug": "macbook",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "MacBook Air 13\" (A1369)",
+        "MacBook Air 13\" (A1466)"
+      ],
+      "price": "8,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20A1405%20Battery%20%E2%80%94%20KES%208%2C500",
+      "extra": false
+    },
+    {
+      "name": "Microsoft Surface Pro 8 DYNC01 Battery",
+      "url": "/shop/laptop-batteries/microsoft-surface-pro-8-dync01-battery/",
+      "image": "assets/images/products/microsoft-battery-dync01-surface-pro-8.webp",
+      "alt": "Replacement battery \u2014 Microsoft Surface Pro 8 DYNC01 Battery",
+      "brand_slug": "microsoft",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "Surface Pro 8 (1982)",
+        "Surface Pro 8 (1983)"
+      ],
+      "price": "6,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Microsoft%20Surface%20Pro%208%20DYNC01%20Battery%20%E2%80%94%20KES%206%2C500",
+      "extra": false
     }
   ],
   "technician_cta": {

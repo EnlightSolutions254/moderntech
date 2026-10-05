@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "title": "Dell Latitude E7490 Core i5 7th Gen Motherboard | Price in Kenya | Zanatechnologies",
+    "description": "Dell Latitude E7490 Core i5 7th gen motherboard, available in Nairobi at KES 10,500. Send your laptop model to confirm fit. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Dell Latitude E7490 i5 7th Gen Motherboard | Zanatechnologies",
+    "description": "Dell Latitude E7490 Core i5 7th gen motherboard, available now. Order on WhatsApp."
+  },
+  "category": {
+    "slug": "motherboards",
+    "url": "/shop/motherboards/",
+    "name": "Motherboards"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "product": {
+    "url": "/shop/motherboards/dell-latitude-e7490-core-i5-7th-gen-motherboard/",
+    "name": "Dell Latitude E7490 i5 7th Gen Motherboard",
+    "full_name": "Dell Latitude E7490 Core i5 7th Gen Motherboard",
+    "sku": "MB-DELL-LATITUDE-E7490-I5-7TH",
+    "brand_name": "Dell",
+    "brand_slug": "dell",
+    "price": "10,500",
+    "price_raw": "10500",
+    "schema_availability": "https://schema.org/InStock",
+    "type_label": "motherboard",
+    "type_label_cap": "Motherboard",
+    "images": [
+      {
+        "src": "assets/images/products/dell-latitude-e7490-i5-7th-gen-motherboard.webp",
+        "alt": "Dell Latitude E7490 Core i5 7th gen laptop motherboard, top view"
+      },
+      {
+        "src": "assets/images/products/dell-latitude-e7490-i5-7th-gen-motherboard-alt.webp",
+        "alt": "Dell Latitude E7490 Core i5 7th gen laptop motherboard, ports and connectors view"
+      }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" },
+      { "class": "badge--warranty", "label": "Warranty Included" }
+    ],
+    "description": "Replacement motherboard for the Dell Latitude E7490 with a Core i5 7th generation processor. Fit it when the laptop won't power on, has no display, restarts on its own or has stopped charging and the charger, battery and RAM have been ruled out. Motherboards are specific to the laptop model and processor, so please send us your laptop model (or a photo of the sticker under the laptop) on WhatsApp and we will confirm fit before you order. Fitting is available in Nairobi.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%20E7490%20Core%20i5%207th%20Gen%20Motherboard%20%E2%80%94%20KES%2010%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20Dell%20Latitude%20E7490%20Core%20i5%207th%20Gen%20Motherboard%20fits%20my%20laptop%3F%20My%20laptop%20model%20is%3A%20",
+    "specs": [
+      { "label": "Type", "value": "Laptop motherboard (replacement part)" },
+      { "label": "Brand", "value": "Dell" },
+      { "label": "Laptop Model", "value": "Dell Latitude E7490" },
+      { "label": "Processor", "value": "Intel Core i5, 7th generation" },
+      { "label": "Fitting", "value": "Matched by laptop model and processor generation" },
+      { "label": "Warranty", "value": "Included — ask on WhatsApp for current term" }
+    ],
+    "compatible_models": [
+      "Dell Latitude E7490",
+      "Core i5 7th generation versions (send us your laptop model to confirm)"
+    ],
+    "related": [
+      "/shop/motherboards/dell-latitude-e7270-core-i5-6th-gen-motherboard/"
+    ]
+  },
+  "faq_heading": "Motherboard Questions",
+  "faqs": [
+    { "question": "Will this motherboard fit my laptop?", "answer": "This board is for the Dell Latitude E7490 with a Core i5 7th generation processor. Motherboards differ between models and processor versions, so send us your laptop model, or a photo of the sticker under the laptop, on WhatsApp and we'll confirm before you order." },
+    { "question": "How do I know my motherboard is faulty?", "answer": "A laptop that won't power on, shows no display, restarts by itself or no longer charges may have a faulty motherboard, but the fault can also be the charger, battery, RAM or screen. Send us the symptoms on WhatsApp and we'll help you check before you buy." },
+    { "question": "Can I fit this myself?", "answer": "The laptop has to be taken apart to reach the board, so most customers have it fitted by us. Tell us your model on WhatsApp and we'll say what the job involves." },
+    { "question": "What warranty comes with this motherboard?", "answer": "This motherboard comes with a warranty — message us on WhatsApp for the current term before ordering." }
+  ]
+}

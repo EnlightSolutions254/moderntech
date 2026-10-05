@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "title": "Microsoft Surface Pro 8 DYNC01 Battery | Zanatechnologies",
+    "description": "Replacement Microsoft 96BTA016H (DYNC01) battery, 11.38V, for Surface Pro 8 models 1982 and 1983. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Microsoft Surface Pro 8 DYNC01 Battery | Zanatechnologies",
+    "description": "Replacement battery for Microsoft Surface Pro 8 (1982/1983). In stock, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "laptop-batteries",
+    "url": "/shop/laptop-batteries/",
+    "name": "Laptop Batteries"
+  },
+  "product": {
+    "url": "/shop/laptop-batteries/microsoft-surface-pro-8-dync01-battery/",
+    "brand_slug": "microsoft",
+    "brand_name": "Microsoft",
+    "sku": "96BTA016H",
+    "type_label": "battery",
+    "type_label_cap": "Battery",
+    "name": "Microsoft DYNC01 Battery",
+    "full_name": "Microsoft Surface Pro 8 DYNC01 Battery",
+    "images": [
+      {
+        "src": "assets/images/products/microsoft-battery-dync01-surface-pro-8.webp",
+        "alt": "Replacement battery — Microsoft Surface Pro 8 DYNC01 Battery"
+      },
+      {
+        "src": "assets/images/products/microsoft-battery-dync01-surface-pro-8-alt.webp",
+        "alt": "Angled view of the Microsoft Surface Pro 8 DYNC01 Battery"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "price": "6,500",
+    "price_raw": "6500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Brand-new replacement battery, Microsoft part 96BTA016H (DYNC01), 11.38V, Li-ion, 50.2Wh (4414mAh). Fits the Microsoft Surface Pro 8, models 1982 and 1983. Also matches part number 96BTA015H. Not compatible with the Surface Pro 7 or Surface Pro 9, which use different batteries. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Microsoft%20Surface%20Pro%208%20DYNC01%20Battery%20%E2%80%94%20KES%206%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Microsoft%20Surface%20Pro%208%20DYNC01%20Battery",
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "96BTA016H"
+      },
+      {
+        "label": "Compatible Models",
+        "value": "Microsoft Surface Pro 8 (1982), Surface Pro 8 (1983)"
+      },
+      {
+        "label": "Alternate Part Numbers",
+        "value": "DYNC01, 96BTA015H"
+      },
+      {
+        "label": "Voltage",
+        "value": "11.38V"
+      },
+      {
+        "label": "Capacity",
+        "value": "50.2Wh (4414mAh)"
+      },
+      {
+        "label": "Battery Type",
+        "value": "Li-ion"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      },
+      {
+        "label": "Warranty",
+        "value": "6 Months"
+      }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Battery Questions",
+  "faqs": [
+    {
+      "question": "How do I know this battery fits my laptop?",
+      "answer": "This fits the Microsoft Surface Pro 8, models 1982 and 1983. It does not fit the Surface Pro 7 or Pro 9. The model number is printed on the back of the tablet, and the part number on your old battery (96BTA016H or DYNC01) is the safest check. If you're unsure, send us a photo on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is this an original or compatible battery?",
+      "answer": "This is a brand-new replacement battery built to Microsoft's 96BTA016H / DYNC01 specification, tested before dispatch."
+    },
+    {
+      "question": "Can I fit this myself?",
+      "answer": "The Surface Pro 8 has to be opened to reach the battery, so most customers have it fitted by us. We can talk you through it on WhatsApp if you'd rather do it yourself."
+    },
+    {
+      "question": "What warranty comes with this battery?",
+      "answer": "This battery carries a 6-month warranty."
+    }
+  ]
+}

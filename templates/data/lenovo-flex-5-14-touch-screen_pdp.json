@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "title": "Flex 5-14 Touch Screen | Price in Kenya | Zanatechnologies",
+    "description": "Replacement touch screen assembly for Lenovo IdeaPad Flex 5-14 (14IIL05, 14ARE05, 14ITL05, 14ALC05), 14-inch FHD, 30-pin. Warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Lenovo Flex 5-14 Touch Screen | Zanatechnologies",
+    "description": "Replacement FHD touch screen for Lenovo IdeaPad Flex 5-14 (2020 models). In stock, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "screens",
+    "url": "/shop/screens/",
+    "name": "Laptop Screens"
+  },
+  "product": {
+    "url": "/shop/screens/lenovo-flex-5-14-touch-screen/",
+    "brand_slug": "lenovo",
+    "brand_name": "Lenovo",
+    "sku": "FLEX5-14-TOUCH",
+    "type_label": "screen",
+    "type_label_cap": "Screen",
+    "name": "Lenovo Flex 5-14 Touch Screen",
+    "full_name": "Lenovo IdeaPad Flex 5-14 Touch Screen Assembly — FHD (1920x1080), 30 Pin",
+    "images": [
+      {
+        "src": "assets/images/products/laptop-screen-lenovo-flex-5-14-touch.webp",
+        "alt": "Touch screen for Lenovo Flex 5-14"
+      },
+      {
+        "src": "assets/images/products/laptop-screen-lenovo-flex-5-14-touch-alt.webp",
+        "alt": "Angled view of the Lenovo Flex 5-14 touch screen"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "price": "18,500",
+    "price_raw": "18500",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Replacement touch screen assembly for the Lenovo IdeaPad Flex 5-14 2020 models: Flex 5-14IIL05, 5-14ARE05, 5-14ITL05 and 5-14ALC05. 14.0-inch FHD (1920x1080) glossy touch panel with 30-pin eDP connector, supplied with the touch digitizer and front bezel. Not compatible with the older Flex 5-1470 or Flex 5-1480. Send us the sticker under your laptop on WhatsApp to confirm your model before ordering.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20Flex%205-14%20Touch%20Screen%20%E2%80%94%20KES%2018%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Lenovo%20Flex%205-14%20Touch%20Screen",
+    "specs": [
+      {
+        "label": "Compatible Models",
+        "value": "IdeaPad Flex 5-14IIL05 (81WS / 81X1), 5-14ARE05 (81X2 / 82DF), 5-14ITL05 (82HS), 5-14ALC05 (82HU)"
+      },
+      {
+        "label": "Not Compatible",
+        "value": "Flex 5-1470, Flex 5-1480"
+      },
+      {
+        "label": "Panel Size",
+        "value": "14.0-inch"
+      },
+      {
+        "label": "Resolution",
+        "value": "FHD (1920x1080)"
+      },
+      {
+        "label": "Connector",
+        "value": "30 Pin (eDP)"
+      },
+      {
+        "label": "Finish",
+        "value": "Glossy"
+      },
+      {
+        "label": "Touch",
+        "value": "Yes (touch panel)"
+      },
+      {
+        "label": "Includes",
+        "value": "LCD panel, touch digitizer and front bezel"
+      },
+      {
+        "label": "Reference Part No.",
+        "value": "5D10S39642 (IPS) / 5D10S39641 (TN)"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      },
+      {
+        "label": "Warranty",
+        "value": "3 Months"
+      }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Screen Questions",
+  "faqs": [
+    {
+      "question": "How do I know this screen fits my laptop?",
+      "answer": "This fits the 2020 IdeaPad Flex 5-14 models: 14IIL05, 14ARE05, 14ITL05 and 14ALC05 (machine types 81WS/81X1, 81X2/82DF, 82HS and 82HU). It does not fit the older Flex 5-1470 or Flex 5-1480. Send us a photo of the sticker under your laptop on WhatsApp and we'll confirm before you order."
+    },
+    {
+      "question": "Is this the complete touch screen assembly?",
+      "answer": "Yes. It is the FHD LCD with touch digitizer and front bezel, with a 30-pin connector, so it replaces the whole screen section in one piece."
+    },
+    {
+      "question": "Do you install the screen, or is it self-fit?",
+      "answer": "We can install it for you in Nairobi, or ship it with fitting instructions if you're upcountry or prefer your own technician."
+    },
+    {
+      "question": "What warranty comes with this screen?",
+      "answer": "This screen carries a 3-month warranty against dead pixels and panel defects."
+    }
+  ]
+}

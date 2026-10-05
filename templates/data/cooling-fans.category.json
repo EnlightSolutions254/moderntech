@@ -1,10 +1,10 @@
 {
   "meta": {
-    "title": "Laptop Cooling Fans in Kenya — HP, Dell, Lenovo, Acer &amp; More | [Store Name]",
+    "title": "Laptop Cooling Fans in Kenya | HP, Dell, Lenovo, Acer & More | Zanatechnologies",
     "description": "Replacement laptop cooling fans for HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook. In-stock pricing in KES, warranty included, countrywide delivery. Order on WhatsApp."
   },
   "og": {
-    "title": "Laptop Cooling Fans in Kenya | [Store Name]",
+    "title": "Laptop Cooling Fans in Kenya | Zanatechnologies",
     "description": "Replacement laptop cooling fans for all major brands. In-stock pricing, warranty included, order on WhatsApp."
   },
   "category": {
@@ -13,14 +13,124 @@
     "name": "Cooling Fans",
     "name_lower": "cooling fans",
     "description": "Replacement internal cooling fans for HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook laptops — for machines that are overheating, loud, or shutting down under load.",
-    "result_count": 0
+    "result_count": 5
   },
-  "products": [],
+  "products": [
+    {
+      "url": "/shop/cooling-fans/lenovo-thinkpad-x1-carbon-cpu-cooling-fan-01yr159-01yr204-00ur98/",
+      "brand_slug": "lenovo",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "image": "assets/images/products/lenovo-thinkpad-x1-carbon-cpu-cooling-fan-01yr159.webp",
+      "alt": "Lenovo ThinkPad X1 Carbon CPU cooling fan, part number 01YR159, top view",
+      "name": "Lenovo ThinkPad X1 Carbon CPU Cooling Fan (01YR159 / 01YR204 / 00UR98)",
+      "tags": [
+        "X1 Carbon 5th–8th Gen",
+        "01YR159",
+        "01YR204",
+        "00UR98"
+      ],
+      "price": "5,400",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20X1%20Carbon%20CPU%20Cooling%20Fan%20%2801YR159%20%2F%2001YR204%20%2F%2000UR98%29%20%E2%80%94%20KES%205%2C400"
+    },
+    {
+      "url": "/shop/cooling-fans/lenovo-thinkpad-x240-x250-x260-x270-cpu-heatsink-cooling-fan/",
+      "brand_slug": "lenovo",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "image": "assets/images/products/lenovo-thinkpad-x240-x270-cpu-heatsink-cooling-fan.webp",
+      "alt": "New Lenovo ThinkPad X240 to X270 CPU heatsink cooling fan, top view",
+      "name": "Lenovo ThinkPad X240 / X250 / X260 / X270 CPU Heatsink Cooling Fan",
+      "tags": [
+        "X240 / X240s",
+        "X250",
+        "X260 / X260s",
+        "X270 / X270s"
+      ],
+      "price": "3,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20X240%20%2F%20X250%20%2F%20X260%20%2F%20X270%20CPU%20Heatsink%20Cooling%20Fan%20%E2%80%94%20KES%203%2C500"
+    },
+    {
+      "url": "/shop/cooling-fans/lenovo-thinkpad-yoga-260-370-x380-s1-cpu-cooling-fan-00hn995-00hn996-02da165/",
+      "brand_slug": "lenovo",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "image": "assets/images/products/lenovo-thinkpad-yoga-260-370-x380-cpu-cooling-fan-00hn995.webp",
+      "alt": "New original Lenovo ThinkPad Yoga CPU cooling fan with heatsink, part number 00HN995, top view",
+      "name": "Lenovo ThinkPad Yoga 260 / 370 / X380 Yoga / S1 CPU Cooling Fan (00HN995 / 00HN996 / 02DA165)",
+      "tags": [
+        "Yoga 260",
+        "Yoga 370",
+        "X380 Yoga",
+        "Yoga S1 4th Gen"
+      ],
+      "price": "4,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20Yoga%20260%20%2F%20370%20%2F%20X380%20Yoga%20%2F%20S1%20CPU%20Cooling%20Fan%20with%20Heatsink%20%2800HN995%20%2F%2000HN996%20%2F%2002DA165%29%20%E2%80%94%20KES%204%2C500"
+    },
+    {
+      "url": "/shop/cooling-fans/hp-zbook-14u-g4-elitebook-745-840-848-g3-g4-cpu-cooling-fan-with-heatsink/",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "image": "assets/images/products/hp-zbook-14u-g4-elitebook-745-840-848-cpu-cooling-fan.webp",
+      "alt": "Original HP ZBook 14u G4 and EliteBook 745 840 848 CPU cooling fan with heatsink, top view",
+      "name": "HP ZBook 14u G4 / EliteBook 745, 840, 848 G3 / G4 CPU Cooling Fan with Heatsink",
+      "tags": [
+        "ZBook 14u G4",
+        "EliteBook 745",
+        "EliteBook 840",
+        "EliteBook 848"
+      ],
+      "price": "3,000",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20ZBook%2014u%20G4%20%2F%20EliteBook%20745%2C%20840%2C%20848%20G3%20%2F%20G4%20CPU%20Cooling%20Fan%20with%20Heatsink%20%E2%80%94%20KES%203%2C000"
+    },
+    {
+      "url": "/shop/cooling-fans/lenovo-thinkpad-x1-carbon-2nd-3rd-gen-cpu-thermal-module-cooling-fan-04x3829-00hn743-0c54435/",
+      "brand_slug": "lenovo",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "image": "assets/images/products/lenovo-thinkpad-x1-carbon-2nd-3rd-gen-cpu-thermal-module-fan-04x3829.webp",
+      "alt": "Lenovo ThinkPad X1 Carbon 2nd and 3rd gen CPU thermal module heatsink and cooling fan, part number 04X3829, top view",
+      "name": "Lenovo ThinkPad X1 Carbon 2nd / 3rd Gen CPU Thermal Module Fan (04X3829 / 00HN743 / 0C54435)",
+      "tags": [
+        "X1 Carbon 2nd Gen",
+        "X1 Carbon 3rd Gen",
+        "04X3829",
+        "00HN743"
+      ],
+      "price": "4,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20X1%20Carbon%202nd%20%2F%203rd%20Gen%20CPU%20Thermal%20Module%20Heatsink%20Cooling%20Fan%20%2804X3829%20%2F%2000HN743%20%2F%200C54435%29%20%E2%80%94%20KES%204%2C500"
+    }
+  ],
   "faq_heading": "Cooling Fan Questions",
   "faqs": [
-    { "question": "How do I know it's the fan and not something else?", "answer": "A loud grinding or rattling noise, or the laptop overheating and shutting down under load, usually points to the fan. If the laptop is silent but still overheating, it may just need cleaning — ask us on WhatsApp before ordering." },
-    { "question": "Do you clean laptops without replacing the fan?", "answer": "Yes — a dust clean and repaste is often enough. We can advise on WhatsApp whether you need a full replacement or just a service." },
-    { "question": "Can I fit this myself?", "answer": "It requires opening the base cover, so most customers have it fitted by us. We can talk you through it on WhatsApp if you'd rather do it yourself." }
+    {
+      "question": "How do I know it's the fan and not something else?",
+      "answer": "A loud grinding or rattling noise, or the laptop overheating and shutting down under load, usually points to the fan. If the laptop is silent but still overheating, it may just need cleaning — ask us on WhatsApp before ordering."
+    },
+    {
+      "question": "Do you clean laptops without replacing the fan?",
+      "answer": "Yes — a dust clean and repaste is often enough. We can advise on WhatsApp whether you need a full replacement or just a service."
+    },
+    {
+      "question": "Can I fit this myself?",
+      "answer": "It requires opening the base cover, so most customers have it fitted by us. We can talk you through it on WhatsApp if you'd rather do it yourself."
+    }
   ],
   "empty_state": {
     "whatsapp_text": "Hi%2C%20I%27m%20looking%20for%20a%20laptop%20cooling%20fan%20but%20couldn%27t%20find%20it%20on%20the%20site."

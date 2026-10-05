@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "title": "Laptop Motherboards Price in Kenya | HP, Dell, Lenovo | Zanatechnologies",
+    "description": "Replacement laptop motherboards in Nairobi, including HP ProBook and EliteBook boards. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "Laptop Motherboards | Zanatechnologies",
+    "description": "Laptop motherboards in stock in Nairobi. Warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "motherboards",
+    "url": "/shop/motherboards/",
+    "name": "Motherboards",
+    "name_lower": "motherboards",
+    "description": "Replacement laptop motherboards matched to your exact laptop model. Send us your model on WhatsApp and we confirm fit before you order.",
+    "result_count": 6
+  },
+  "empty_state": {
+    "whatsapp_text": "Hi%2C%20I%27m%20looking%20for%20a%20laptop%20motherboard%20you%20may%20not%20have%20listed.%20My%20laptop%20model%20is%3A%20"
+  },
+  "technician_cta": {
+    "heading": "Repair Technician? Get Bulk Pricing on Motherboards.",
+    "body": "Volume pricing on laptop motherboards for repair shops and resellers.",
+    "cta_label": "Chat About Bulk Pricing",
+    "whatsapp_text": "Hi%2C%20I%27m%20a%20technician%20interested%20in%20bulk%20pricing%20on%20motherboards."
+  },
+  "faq_heading": "Motherboard Questions",
+  "faqs": [
+    { "question": "Will a motherboard fit my laptop?", "answer": "Motherboards are specific to the laptop model and processor. Send us your laptop model, or a photo of the sticker under the laptop, on WhatsApp and we'll confirm before you order." },
+    { "question": "How do I know the motherboard is my problem?", "answer": "A laptop that won't power on, has no display, restarts by itself or has stopped charging may have a faulty motherboard, but the fault can also be the charger, battery, RAM or screen. Send us the symptoms on WhatsApp and we'll help you check before you buy." },
+    { "question": "Can I fit a motherboard myself?", "answer": "The laptop has to be taken apart to reach the board, so most customers have it fitted by us. Tell us your model on WhatsApp and we'll say what the job involves." },
+    { "question": "What warranty comes with motherboards?", "answer": "Motherboards ship with warranty as noted on each listing. Message us on WhatsApp for the current term before ordering." }
+  ],
+  "products": [
+    {
+      "url": "/shop/motherboards/hp-probook-430-g4-440-g4-core-i5-7th-gen-motherboard/",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "image": "assets/images/products/hp-probook-430-g4-440-g4-i5-7th-gen-motherboard.webp",
+      "alt": "HP ProBook 430 G4 / 440 G4 Core i5 7th gen laptop motherboard, top view",
+      "name": "HP ProBook 430 G4 / 440 G4 Core i5 7th Gen Motherboard",
+      "tags": ["HP ProBook 430 G4", "HP ProBook 440 G4", "Core i5 7th Gen"],
+      "price": "9,000",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20ProBook%20430%20G4%2F440%20G4%20Core%20i5%207th%20Gen%20Motherboard%20%E2%80%94%20KES%209%2C000"
+    },
+    {
+      "url": "/shop/motherboards/hp-elitebook-840-g8-830-g8-core-i7-11th-gen-motherboard/",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "image": "assets/images/products/hp-elitebook-840-g8-830-g8-i7-11th-gen-motherboard.webp",
+      "alt": "HP EliteBook 840 G8 / 830 G8 Core i7 11th gen laptop motherboard, top view",
+      "name": "HP EliteBook 840 G8 / 830 G8 Core i7 11th Gen Motherboard",
+      "tags": ["HP EliteBook 840 G8", "HP EliteBook 830 G8", "Core i7 11th Gen"],
+      "price": "20,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20EliteBook%20840%20G8%2F830%20G8%20Core%20i7%2011th%20Gen%20Motherboard%20%E2%80%94%20KES%2020%2C500"
+    },
+    {
+      "url": "/shop/motherboards/hp-elitebook-845-g7-amd-ryzen-7-pro-4750u-motherboard/",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "image": "assets/images/products/hp-elitebook-845-g7-ryzen-7-pro-4750u-motherboard.webp",
+      "alt": "HP EliteBook 845 G7 AMD Ryzen 7 Pro 4750U laptop motherboard, top view",
+      "name": "HP EliteBook 845 G7 AMD Ryzen 7 Pro 4750U Motherboard",
+      "tags": ["HP EliteBook 845 G7", "Ryzen 7 Pro 4750U", "1.7GHz"],
+      "price": "17,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20EliteBook%20845%20G7%20AMD%20Ryzen%207%20Pro%204750U%20Motherboard%20%E2%80%94%20KES%2017%2C500"
+    },
+    {
+      "url": "/shop/motherboards/dell-latitude-e7270-core-i5-6th-gen-motherboard/",
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "image": "assets/images/products/dell-latitude-e7270-i5-6th-gen-motherboard.webp",
+      "alt": "Dell Latitude E7270 Core i5 6th gen laptop motherboard, top view",
+      "name": "Dell Latitude E7270 Core i5 6th Gen Motherboard",
+      "tags": ["Dell Latitude E7270", "Core i5 6th Gen"],
+      "price": "9,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%20E7270%20Core%20i5%206th%20Gen%20Motherboard%20%E2%80%94%20KES%209%2C500"
+    },
+    {
+      "url": "/shop/motherboards/dell-latitude-e7490-core-i5-7th-gen-motherboard/",
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "image": "assets/images/products/dell-latitude-e7490-i5-7th-gen-motherboard.webp",
+      "alt": "Dell Latitude E7490 Core i5 7th gen laptop motherboard, top view",
+      "name": "Dell Latitude E7490 Core i5 7th Gen Motherboard",
+      "tags": ["Dell Latitude E7490", "Core i5 7th Gen"],
+      "price": "10,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%20E7490%20Core%20i5%207th%20Gen%20Motherboard%20%E2%80%94%20KES%2010%2C500"
+    },
+    {
+      "url": "/shop/motherboards/dell-latitude-13-5300-2-in-1-core-i5-8th-gen-motherboard/",
+      "brand_slug": "dell",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "image": "assets/images/products/dell-latitude-13-5300-2-in-1-i5-8th-gen-motherboard.webp",
+      "alt": "Dell Latitude 13 5300 2-in-1 Core i5 8th gen laptop motherboard, top view",
+      "name": "Dell Latitude 13 5300 2-in-1 Core i5 8th Gen Motherboard",
+      "tags": ["Dell Latitude 13 5300 2-in-1", "Core i5 8th Gen"],
+      "price": "12,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%2013%205300%202-in-1%20Core%20i5%208th%20Gen%20Motherboard%20%E2%80%94%20KES%2012%2C500"
+    }
+  ]
+}
