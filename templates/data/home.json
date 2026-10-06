@@ -1,10 +1,10 @@
 {
   "meta": {
-    "title": "Genuine Laptop Parts in Kenya — HP, Dell, Lenovo, Acer & More | [Store Name]",
-    "description": "Genuine replacement laptop batteries, chargers, screens, keyboards, hinges, fans and casings for HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook. In-stock pricing in KES, warranty included, countrywide delivery. Order on WhatsApp."
+    "title": "Genuine Laptop Parts in Kenya | Zanatechnologies",
+    "description": "Genuine laptop batteries, chargers, screens and keyboards for HP, Dell, Lenovo, Acer, Asus and MacBook. KES prices, warranty, countrywide delivery."
   },
   "og": {
-    "title": "Genuine Laptop Parts in Kenya | [Store Name]",
+    "title": "Genuine Laptop Parts in Kenya | Zanatechnologies",
     "description": "Batteries, chargers, screens, keyboards, hinges, fans and casings for all major laptop brands. In-stock pricing, warranty included, order on WhatsApp."
   },
 
@@ -25,6 +25,7 @@
         "headline": "HP Batteries Back In Stock",
         "copy": "Genuine batteries for HP x360 310 G2 and more \u2014 tested before dispatch.",
         "cta_text": "Shop HP Batteries",
+        "href": "/shop/laptop-batteries/",
         "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20an%20HP%20HV03XL%20Battery."
       },
       {
@@ -33,6 +34,7 @@
         "headline": "Fast, Reliable Chargers",
         "copy": "65W adapters for Lenovo, HP, Dell &amp; more \u2014 delivered today in Nairobi.",
         "cta_text": "Shop Chargers",
+        "href": "/shop/chargers/",
         "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20a%20laptop%20charger."
       },
       {
@@ -41,6 +43,7 @@
         "headline": "Cracked Screen? We've Got You",
         "copy": "Genuine replacement screens for Dell, HP, Lenovo &amp; more.",
         "cta_text": "Shop Screens",
+        "href": "/shop/screens/",
         "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20a%20replacement%20laptop%20screen."
       },
       {
@@ -57,9 +60,54 @@
         "headline": "MacBook Parts, Tested &amp; Ready",
         "copy": "Batteries, keyboards and screens for MacBook Pro 2019 13\u201d.",
         "cta_text": "Shop MacBook Parts",
+        "href": "/brand/macbook/",
         "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20a%20MacBook%20Pro%202019%2013%22%20part."
       }
     ]
+  },
+
+  "category_circles": [
+    { "name": "Laptop Batteries", "url": "/shop/laptop-batteries/", "icon": "&#128267;", "image": "assets/images/categories/laptop-batteries.webp" },
+    { "name": "Chargers &amp; Adapters", "url": "/shop/chargers/", "icon": "&#128268;", "image": "assets/images/categories/chargers.webp" },
+    { "name": "Laptop Screens", "url": "/shop/screens/", "icon": "&#128421;", "image": "assets/images/categories/screens.webp" },
+    { "name": "Keyboards", "url": "/shop/keyboards/", "icon": "&#8996;", "image": "assets/images/categories/keyboards.webp" },
+    { "name": "Hinges", "url": "/shop/hinges/", "icon": "&#128295;", "image": "assets/images/categories/hinges.webp" },
+    { "name": "Cooling Fans", "url": "/shop/cooling-fans/", "icon": "&#128168;", "image": "assets/images/categories/cooling-fans.webp" },
+    { "name": "Casings", "url": "/shop/casings/", "icon": "&#129520;", "image": "assets/images/categories/casings.webp" },
+    { "name": "Motherboards", "url": "/shop/motherboards/", "icon": "&#9881;", "image": "assets/images/categories/motherboards.webp" }
+  ],
+
+  "promo_tiles": [
+    { "title": "Screens", "url": "/shop/screens/", "theme": "amber", "icon": "&#128421;", "image": "assets/images/promos/screens.webp" },
+    { "title": "Keyboards", "url": "/shop/keyboards/", "theme": "navy", "icon": "&#8996;", "image": "assets/images/promos/keyboards.webp" },
+    { "title": "Batteries", "url": "/shop/laptop-batteries/", "theme": "ice", "icon": "&#128267;", "image": "assets/images/promos/laptop-batteries.webp" },
+    { "title": "Chargers", "url": "/shop/chargers/", "theme": "forest", "icon": "&#128268;", "image": "assets/images/promos/chargers.webp" }
+  ],
+
+  "hero_strip": [
+    { "icon": "&#9889;", "title": "Same-day in Nairobi", "sub": "Order in the morning, fit by evening" },
+    { "icon": "&#128666;", "title": "1\u20132 days countrywide", "sub": "Major towns covered" },
+    { "icon": "&#128176;", "title": "M-Pesa or cash on delivery", "sub": "Pay the way you prefer" },
+    { "icon": "&#9989;", "title": "Fit confirmed first", "sub": "We check your model on WhatsApp" }
+  ],
+
+  "how_it_works": {
+    "headline": "Get the Right Part in 3 Simple Steps",
+    "copy": "No guessing and no wasted trips.",
+    "steps": [
+      { "num": "1", "title": "Tell us your laptop", "desc": "Send the model, or a photo of the sticker under your laptop, on WhatsApp." },
+      { "num": "2", "title": "We confirm the part", "desc": "We check compatibility and send you the exact part and price." },
+      { "num": "3", "title": "Get it delivered", "desc": "Same-day in Nairobi, 1\u20132 days to major towns. Pay by M-Pesa or on delivery." }
+    ]
+  },
+
+  "repair_band": {
+    "headline": "Rather Have It Fixed? We Repair Laptops in Nairobi.",
+    "copy": "Tell us the model and the problem on WhatsApp. We diagnose it, quote you before any work starts, and fit it with the same parts we sell.",
+    "cta_text": "See Repair Services",
+    "url": "/laptop-repair/",
+    "image": "assets/images/repairs/laptop-repair-bench.webp",
+    "alt": "A laptop opened up on the repair bench"
   },
 
   "wizard": {
@@ -170,16 +218,19 @@
     {
       "quote": "My laptop wouldn't charge \u2014 turned out to be the charger. Ordered on WhatsApp in the morning, had it by 3pm the same day.",
       "name": "James K.",
+      "initial": "J",
       "role": "Technician, Nairobi CBD"
     },
     {
       "quote": "I didn't know my exact laptop model but the wizard on the site helped me find the right battery for my Dell.",
       "name": "Faith W.",
+      "initial": "F",
       "role": "University Student, Nairobi"
     },
     {
       "quote": "We buy screens and keyboards in bulk for our repair shop \u2014 trade pricing and stock holds have saved us so much time.",
       "name": "Ochieng M.",
+      "initial": "O",
       "role": "Repair Shop Owner, Mombasa"
     }
   ],

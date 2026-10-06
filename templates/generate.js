@@ -407,6 +407,23 @@ function generateFaq(dataFile) {
   console.log('faq      ->', outFile);
 }
 
+function generateSearchIndex() {
+  const shared = loadJson(path.join(DATA_DIR, 'shared.json'));
+  const dec = s => String(s || '').replace(/&amp;/g, '&');
+  const items = loadAllPdpPages()
+    .filter(p => p.product && p.category)
+    .map(p => ({
+      n: dec(p.product.name), u: p.product.url, c: dec(p.category.name), cs: p.category.slug,
+      b: p.product.brand_slug || '', p: p.product.price || '',
+      k: (p.product.compatible_models || []).join(' ')
+    }));
+  shared.parts.forEach(pt => items.push({ n: dec(pt.name), u: pt.url, c: 'Category', cs: pt.slug, b: '', p: '', k: '' }));
+  shared.brands.forEach(b => items.push({ n: b.name + ' laptop parts', u: b.url, c: 'Brand', cs: '', b: b.slug, p: '', k: '' }));
+  fs.mkdirSync(OUT_DIR, { recursive: true });
+  fs.writeFileSync(path.join(OUT_DIR, 'search-index.json'), JSON.stringify(items));
+  console.log('search   -> search-index.json (' + items.length + ' entries)');
+}
+
 function main() {
   const [, , cmd, arg] = process.argv;
 
@@ -447,6 +464,9 @@ function main() {
     // Brand pages are derived from the *.pdp.json files above, so they must
     // be generated after the loop, once every product has been read.
     generateAllBrands();
+    generateSearchIndex();
+  } else if (cmd === 'searchindex') {
+    generateSearchIndex();
   } else if (cmd === 'deploy') {
     deploy();
   } else if (cmd === 'publish') {
@@ -462,6 +482,7 @@ function main() {
       if (f.endsWith('.pdp.json')) generatePdp(path.join(DATA_DIR, f));
     }
     generateAllBrands();
+    generateSearchIndex();
     deploy();
   } else {
     console.log('Usage:');
@@ -477,6 +498,7 @@ function main() {
     console.log('  node generate.js brand <brand-slug>   e.g. node generate.js brand hp');
     console.log('  node generate.js brand                generates every brand in data/shared.json');
     console.log('  node generate.js all                  generates every page (into templates/out/ only)');
+    console.log('  node generate.js searchindex          builds out/search-index.json for the site search');
     console.log('  node generate.js deploy                copies templates/out/ up into the repo root (index.html, css/, js/, shop/, brand/)');
     console.log('  node generate.js publish               runs "all" then "deploy" in one shot -- use this before git add/commit/push');
     process.exit(1);
