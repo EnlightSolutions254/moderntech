@@ -156,3 +156,31 @@
 .final-cta { text-align: center; padding-block: var(--space-7); }
 .final-cta h2 { font-size: 2rem; }
 .final-cta .btn--whatsapp { box-shadow: var(--glow-whatsapp); }
+
+/* PART 3 — FAQ */
+.faq-item { border-radius: var(--radius-lg); box-shadow: var(--elevation-1); transition: border-color var(--duration-base), box-shadow var(--duration-base); }
+.faq-item[open] { border-color: var(--color-highlight); box-shadow: var(--elevation-2); }
+.faq-item summary { font-weight: 600; cursor: pointer; }
+
+/* ======================================================================
+   PART 4 — hero bento (glass tiles; images optional)
+   ====================================================================== */
+.hero--dark .hero__visual { order: 2; }
+.zx-bento { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+.zx-tile { position: relative; display: flex; flex-direction: column; justify-content: flex-end; min-height: 150px; padding: 18px; overflow: hidden; isolation: isolate; color: #fff; border-radius: 20px; background: linear-gradient(145deg, rgba(255,255,255,.10), rgba(255,255,255,.03)); border: 1px solid rgba(255,255,255,.16); -webkit-backdrop-filter: blur(14px); backdrop-filter: blur(14px); transition: transform .45s var(--easing-emphasized), border-color .3s, box-shadow .3s; }
+.zx-tile:hover { transform: translateY(-4px); border-color: rgba(245,166,35,.7); box-shadow: 0 18px 40px rgba(0,0,0,.35); }
+.zx-tile--lead { grid-column: 1 / -1; min-height: 230px; background: linear-gradient(145deg, rgba(245,166,35,.28), rgba(255,255,255,.05) 70%); }
+.zx-tile__glyph { position: absolute; top: 8px; right: 14px; z-index: -1; font-size: 5rem; line-height: 1; opacity: .14; transition: transform .5s, opacity .3s; }
+.zx-tile--lead .zx-tile__glyph { top: 16px; right: 28px; font-size: 9rem; }
+.zx-tile:hover .zx-tile__glyph { transform: scale(1.1) rotate(-6deg); opacity: .22; }
+.zx-tile__img { position: absolute; top: 12px; right: 10px; z-index: -1; width: 46%; height: 50%; object-fit: contain; object-position: right top; filter: drop-shadow(0 14px 22px rgba(0,0,0,.45)); transition: transform .5s var(--easing-emphasized); }
+.zx-tile--lead .zx-tile__img { top: 12px; bottom: 12px; width: 48%; height: auto; max-height: calc(100% - 24px); object-position: right center; }
+.zx-tile:hover .zx-tile__img { transform: scale(1.06) translateY(-4px); }
+.zx-tile__badge { align-self: flex-start; margin-bottom: 8px; padding: 3px 10px; border-radius: 999px; background: var(--color-highlight); color: var(--color-primary-dark); font-size: .7rem; font-weight: 800; letter-spacing: .06em; text-transform: uppercase; }
+.zx-tile__title { margin: 0; color: #fff; font-size: 1.2rem; }
+.zx-tile--lead .zx-tile__title { font-size: 1.75rem; }
+.zx-tile__copy { max-width: 26ch; margin: 6px 0 0; font-size: .8125rem; color: rgba(255,255,255,.72); }
+.zx-tile__go { position: absolute; top: 16px; left: 18px; display: grid; place-items: center; width: 34px; height: 34px; border-radius: 50%; background: rgba(255,255,255,.14); transition: transform .3s, background .3s, color .3s; }
+.zx-tile:hover .zx-tile__go { transform: translateX(4px); background: var(--color-highlight); color: var(--color-primary-dark); }
+@media (max-width: 600px) { .zx-tile:not(.zx-tile--lead) .zx-tile__copy { display: none; } .zx-tile--lead { min-height: 200px; } }
+@media (prefers-reduced-motion: reduce) { .zx-tile, .zx-tile__img, .zx-tile__glyph { transition: none; } }

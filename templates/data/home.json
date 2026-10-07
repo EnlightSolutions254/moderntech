@@ -11,58 +11,17 @@
   "hero": {
     "headline": "Genuine Laptop Parts, Delivered Fast Across Kenya",
     "copy": "Batteries, chargers, screens, keyboards, hinges, fans and casings for HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook. Know your part or just your laptop model \u2014 we'll help you find it.",
-    "primary_cta_text": "Find My Part",
+    "primary_cta_text": "Shop by Part",
     "whatsapp_cta_text": "Order on WhatsApp",
     "whatsapp_href_text": "Hi%2C%20I%27d%20like%20to%20order%20a%20laptop%20part.",
     "trust_row": [
       { "icon": "&#10003;", "label": "Genuine Parts" },
       { "icon": "&#10003;", "label": "Countrywide Delivery" }
     ],
-    "banners": [
-      {
-        "image": "assets/images/products/hp-battery-hv03xl.webp",
-        "badge_text": "Back In Stock",
-        "headline": "HP Batteries Back In Stock",
-        "copy": "Genuine batteries for HP x360 310 G2 and more \u2014 tested before dispatch.",
-        "cta_text": "Shop HP Batteries",
-        "href": "/shop/laptop-batteries/",
-        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20an%20HP%20HV03XL%20Battery."
-      },
-      {
-        "image": "assets/images/products/hp-battery-bg06xl.webp",
-        "badge_text": "Same-Day Nairobi",
-        "headline": "Fast, Reliable Chargers",
-        "copy": "65W adapters for Lenovo, HP, Dell &amp; more \u2014 delivered today in Nairobi.",
-        "cta_text": "Shop Chargers",
-        "href": "/shop/chargers/",
-        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20a%20laptop%20charger."
-      },
-      {
-        "image": "assets/images/products/hp-keyboard-850g5g6-backlit.webp",
-        "badge_text": "6-Month Warranty",
-        "headline": "Cracked Screen? We've Got You",
-        "copy": "Genuine replacement screens for Dell, HP, Lenovo &amp; more.",
-        "cta_text": "Shop Screens",
-        "href": "/shop/screens/",
-        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20a%20replacement%20laptop%20screen."
-      },
-      {
-        "image": "assets/images/products/lenovo-keyboard-x1carbon-gen3.webp",
-        "badge_text": "Trade Pricing",
-        "headline": "Bulk Pricing for Technicians",
-        "copy": "Stock up on keyboards, hinges &amp; fans at technician rates.",
-        "cta_text": "Chat About Bulk Pricing",
-        "whatsapp_text": "Hi%2C%20I%27m%20a%20technician%20interested%20in%20bulk%20pricing."
-      },
-      {
-        "image": "assets/images/products/macbook-keyboard-a1708.webp",
-        "badge_text": "Genuine Parts",
-        "headline": "MacBook Parts, Tested &amp; Ready",
-        "copy": "Batteries, keyboards and screens for MacBook Pro 2019 13\u201d.",
-        "cta_text": "Shop MacBook Parts",
-        "href": "/brand/macbook/",
-        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20a%20MacBook%20Pro%202019%2013%22%20part."
-      }
+    "tiles": [
+      { "badge_text": "Back In Stock", "title": "HP Batteries", "copy": "Genuine batteries for HP x360 310 G2 and more \u2014 tested before dispatch.", "href": "/shop/laptop-batteries/", "icon": "&#128267;", "image": "assets/images/hero/hp-battery.webp" },
+      { "badge_text": "Same-Day Nairobi", "title": "Chargers", "copy": "65W adapters for Lenovo, HP, Dell &amp; more.", "href": "/shop/chargers/", "icon": "&#128268;", "image": "assets/images/hero/chargers.webp" },
+      { "badge_text": "Cracked Screen?", "title": "Screens", "copy": "Genuine replacements for Dell, HP, Lenovo &amp; more.", "href": "/shop/screens/", "icon": "&#128421;", "image": "assets/images/hero/screens.webp" }
     ]
   },
 
@@ -108,12 +67,6 @@
     "url": "/laptop-repair/",
     "image": "assets/images/repairs/laptop-repair-bench.webp",
     "alt": "A laptop opened up on the repair bench"
-  },
-
-  "wizard": {
-    "headline": "Not sure exactly what you need? Tell us your laptop.",
-    "copy": "Pick your brand and model \u2014 we'll show you every compatible part in stock.",
-    "submit_text": "Show Me Parts"
   },
 
   "shop_by_part": {
@@ -222,7 +175,7 @@
       "role": "Technician, Nairobi CBD"
     },
     {
-      "quote": "I didn't know my exact laptop model but the wizard on the site helped me find the right battery for my Dell.",
+      "quote": "I didn't know my exact laptop model, so I sent a photo of the sticker on WhatsApp and they found the right battery for my Dell.",
       "name": "Faith W.",
       "initial": "F",
       "role": "University Student, Nairobi"

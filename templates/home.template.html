@@ -223,7 +223,7 @@
         <h1 class="hero__heading">{{hero.headline}}</h1>
         <p class="hero__copy">{{hero.copy}}</p>
         <div class="hero__actions">
-          <a class="btn btn--primary btn--lg" href="#find-my-part">{{hero.primary_cta_text}}</a>
+          <a class="btn btn--primary btn--lg" href="#shop-by-part-heading">{{hero.primary_cta_text}}</a>
           <a class="btn btn--whatsapp btn--lg"
              href="https://wa.me/{{store.phone_e164_bare}}?text={{hero.whatsapp_href_text}}"
              target="_blank" rel="noopener">{{hero.whatsapp_cta_text}}</a>
@@ -235,37 +235,19 @@
         </ul>
       </div>
 
-      <!-- Hero ad-banner slider — 5 rotating promo "flyers", each slides in
-           from the right, dwells, then is replaced by the next. Autoplay
-           pauses on hover/touch/focus and is skipped entirely for
-           prefers-reduced-motion (dots still allow manual browsing). -->
+      <!-- Hero tiles: glass bento. Image per tile is optional (icon shows if missing). -->
       <div class="hero__visual">
-        <div class="hero-banner-slider" id="hero-banner-slider">
-          <div class="hero-banner-slider__frame">
-            {{#each hero.banners}}
-            <article class="hero-banner{{#if @first}} is-active{{/if}}" aria-hidden="{{#if @first}}false{{else}}true{{/if}}">
-              <div class="hero-banner__media">
-                <img src="/{{this.image}}" alt="" width="480" height="320"
-                     loading="{{#if @first}}eager{{else}}lazy{{/if}}" decoding="async">
-              </div>
-              <div class="hero-banner__content">
-                {{#if this.badge_text}}<span class="badge badge--promo hero-banner__badge">{{this.badge_text}}</span>{{/if}}
-                <h3 class="hero-banner__heading">{{this.headline}}</h3>
-                <p class="hero-banner__copy">{{this.copy}}</p>
-                <a class="btn btn--whatsapp btn--sm hero-banner__cta"
-                   href="{{#if this.href}}{{this.href}}{{else}}https://wa.me/{{store.phone_e164_bare}}?text={{this.whatsapp_text}}{{/if}}"
-                   target="{{#if this.href}}_self{{else}}_blank{{/if}}" rel="noopener">{{this.cta_text}}</a>
-              </div>
-            </article>
-            {{/each}}
-          </div>
-          <div class="hero-banner-slider__dots" role="tablist" aria-label="Promotions">
-            {{#each hero.banners}}
-            <button type="button" class="hero-banner-slider__dot{{#if @first}} is-active{{/if}}"
-                    role="tab" aria-selected="{{#if @first}}true{{else}}false{{/if}}"
-                    aria-label="Show promotion {{@index1}}" data-slide-to="{{@index}}"></button>
-            {{/each}}
-          </div>
+        <div class="zx-bento">
+          {{#each hero.tiles}}
+          <a class="zx-tile{{#if @first}} zx-tile--lead{{/if}}" href="{{this.href}}">
+            <span class="zx-tile__glyph" aria-hidden="true">{{this.icon}}</span>
+            <img class="zx-tile__img" src="/{{this.image}}" alt="" width="360" height="300" loading="{{#if @first}}eager{{else}}lazy{{/if}}" decoding="async" onerror="this.remove()">
+            <span class="zx-tile__go" aria-hidden="true">&rarr;</span>
+            <span class="zx-tile__badge">{{this.badge_text}}</span>
+            <h3 class="zx-tile__title">{{this.title}}</h3>
+            <p class="zx-tile__copy">{{this.copy}}</p>
+          </a>
+          {{/each}}
         </div>
       </div>
     </div>
@@ -301,43 +283,6 @@
         </a>
         {{/each}}
       </div>
-    </div>
-  </section>
-
-  <!-- ============================================
-       4. FIND MY PART WIZARD
-       Brand -> Model -> Part, dependent selects handled by
-       main.js (#find-my-part-form / #wizard-brand / -model / -part).
-  ============================================= -->
-  <section class="wizard-section" id="find-my-part" aria-labelledby="wizard-heading">
-    <div class="container">
-      <div class="section-heading">
-        <h2 id="wizard-heading">{{wizard.headline}}</h2>
-        <p>{{wizard.copy}}</p>
-      </div>
-      <form class="wizard" id="find-my-part-form">
-        <div class="wizard__field">
-          <label class="wizard__label" for="wizard-brand">Brand</label>
-          <select class="wizard__select" id="wizard-brand" name="brand" required>
-            <option value="" disabled selected>Select brand</option>
-            {{#each nav_brands}}<option value="{{this.slug}}">{{this.name}}</option>{{/each}}
-          </select>
-        </div>
-        <div class="wizard__field">
-          <label class="wizard__label" for="wizard-model">Model</label>
-          <select class="wizard__select" id="wizard-model" name="model" required disabled>
-            <option value="" disabled selected>Select brand first</option>
-          </select>
-        </div>
-        <div class="wizard__field">
-          <label class="wizard__label" for="wizard-part">Part Needed</label>
-          <select class="wizard__select" id="wizard-part" name="part" required disabled>
-            <option value="" disabled selected>Select model first</option>
-            {{#each nav_parts}}<option value="{{this.slug}}">{{this.name}}</option>{{/each}}
-          </select>
-        </div>
-        <button type="submit" class="btn btn--primary wizard__submit">{{wizard.submit_text}}</button>
-      </form>
     </div>
   </section>
 
@@ -571,6 +516,17 @@
      14. FOOTER (shared organism)
 ============================================= -->
 <footer class="site-footer">
+  <div class="container zx-foot-top">
+    <div class="zx-foot-brand">
+      <span class="zx-foot-brand__name">{{store.name_html}}</span>
+      <p>Genuine laptop parts and repairs, delivered across Kenya.</p>
+    </div>
+    <div class="zx-foot-cta">
+      <a class="btn btn--whatsapp btn--lg" href="https://wa.me/{{store.phone_e164_bare}}?text=Hi%2C%20I%27d%20like%20some%20help%20finding%20a%20laptop%20part." target="_blank" rel="noopener">Chat on WhatsApp</a>
+      <a class="zx-foot-cta__call" href="tel:{{store.phone_e164}}">or call {{store.phone_display}}</a>
+    </div>
+  </div>
+
   <div class="container site-footer__grid">
     <details class="footer-col" open>
       <summary>Shop by Part</summary>
@@ -612,6 +568,12 @@
       </ul>
       <a class="btn btn--whatsapp btn--sm" href="https://wa.me/{{store.phone_e164_bare}}" target="_blank" rel="noopener">Chat on WhatsApp</a>
     </div>
+  </div>
+
+  <div class="container">
+    <ul class="zx-foot-chips">
+      <li>M-Pesa</li><li>Cash on delivery</li><li>Countrywide delivery</li><li>Genuine parts</li>
+    </ul>
   </div>
 
   <div class="site-footer__bottom">
