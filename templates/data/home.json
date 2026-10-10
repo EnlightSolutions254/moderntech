@@ -11,7 +11,7 @@
   "hero": {
     "headline": "Genuine Laptop Parts, Delivered Fast Across Kenya",
     "copy": "Batteries, chargers, screens, keyboards, hinges, fans and casings for HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook. Know your part or just your laptop model \u2014 we'll help you find it.",
-    "primary_cta_text": "Shop by Part",
+    "primary_cta_text": "Find My Part",
     "whatsapp_cta_text": "Order on WhatsApp",
     "whatsapp_href_text": "Hi%2C%20I%27d%20like%20to%20order%20a%20laptop%20part.",
     "trust_row": [
@@ -69,9 +69,20 @@
     "alt": "A laptop opened up on the repair bench"
   },
 
-  "shop_by_part": {
-    "headline": "Shop by Part",
-    "copy": "Every category, always in stock and ready to ship."
+  "shop_by_problem": {
+    "headline": "What's Wrong With Your Laptop?",
+    "copy": "Pick the symptom and we'll point you to the part that fixes it.",
+    "items": [
+      { "icon": "charge", "title": "Laptop won't charge", "desc": "Usually the charger or the battery.", "cta": "Shop Chargers", "url": "/shop/chargers/", "image": "assets/images/problems/wont-charge.webp" },
+      { "icon": "screen", "title": "Cracked or flickering screen", "desc": "Replace the display panel.", "cta": "Shop Screens", "url": "/shop/screens/", "image": "assets/images/problems/cracked-screen.webp" },
+      { "icon": "keys", "title": "Keys not working", "desc": "Swap in a new keyboard.", "cta": "Shop Keyboards", "url": "/shop/keyboards/", "image": "assets/images/problems/keys-not-working.webp" },
+      { "icon": "fan", "title": "Overheating or loud fan", "desc": "A new cooling fan fixes noise and shutdowns.", "cta": "Shop Cooling Fans", "url": "/shop/cooling-fans/", "image": "assets/images/problems/overheating.webp" },
+      { "icon": "hinge", "title": "Loose or broken hinge", "desc": "Hinges and casings bring back a firm lid.", "cta": "Shop Hinges", "url": "/shop/hinges/", "image": "assets/images/problems/broken-hinge.webp" },
+      { "icon": "power", "title": "Won't turn on", "desc": "Could be the motherboard. Ask us to confirm.", "cta": "Shop Motherboards", "url": "/shop/motherboards/", "image": "assets/images/problems/wont-turn-on.webp" }
+    ],
+    "help_text": "Not sure what's wrong? Describe it and we'll tell you which part you need.",
+    "help_cta": "Describe the Problem on WhatsApp",
+    "help_whatsapp_text": "Hi%2C%20my%20laptop%20has%20a%20problem%3A%20"
   },
 
   "shop_by_brand": {

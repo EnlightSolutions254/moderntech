@@ -52,3 +52,5 @@
   .zx-foot-top { flex-direction: row; align-items: center; justify-content: space-between; }
   .zx-foot-cta { flex-direction: row; align-items: center; gap: var(--space-4); }
 }
+
+.sticky-whatsapp__icon { fill: currentColor; stroke: none; }
