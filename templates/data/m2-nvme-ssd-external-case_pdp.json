@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "title": "M.2 NVMe SSD External Case | Price in Kenya | Zanatechnologies",
+    "description": "M.2 NVMe SSD external case (enclosure) to turn a spare NVMe drive into a portable USB drive. KES 1,500. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "M.2 NVMe SSD External Case | Zanatechnologies",
+    "description": "M.2 NVMe SSD external case, KES 1,500. In stock in Nairobi, order on WhatsApp."
+  },
+  "category": {
+    "slug": "accessories",
+    "url": "/shop/accessories/",
+    "name": "Accessories"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "product": {
+    "url": "/shop/accessories/m2-nvme-ssd-external-case/",
+    "name": "M.2 NVMe SSD External Case",
+    "full_name": "M.2 NVMe SSD External Case (Enclosure) — USB Type-C",
+    "sku": "ACC-CASE-NVME-M2",
+    "brand_name": "Universal",
+    "brand_slug": "universal",
+    "price": "1,500",
+    "price_raw": "1500",
+    "schema_availability": "https://schema.org/InStock",
+    "type_label": "external case",
+    "type_label_cap": "External Case",
+    "images": [
+      {
+        "src": "assets/images/products/m2-nvme-ssd-external-case.webp",
+        "alt": "M.2 NVMe SSD external case, top view"
+      },
+      {
+        "src": "assets/images/products/m2-nvme-ssd-external-case-alt.webp",
+        "alt": "M.2 NVMe SSD external case, side view showing the USB Type-C port"
+      }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" },
+      { "class": "badge--warranty", "label": "Warranty Included" }
+    ],
+    "description": "M.2 NVMe SSD external case for turning a spare or upgraded NVMe drive into a portable external drive. Fit your own NVMe SSD, plug it into a USB port and use it for backups, file transfers or extra storage. The SSD is not included. KES 1,500. Not sure your drive is NVMe? Send us the SSD model and we will confirm before you order.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20M.2%20NVMe%20SSD%20External%20Case%20%E2%80%94%20KES%201%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20my%20SSD%20fits%20the%20M.2%20NVMe%20SSD%20External%20Case.%20My%20SSD%20model%20is%3A%20",
+    "specs": [
+      { "label": "Type", "value": "External SSD case (enclosure)" },
+      { "label": "Supported Drives", "value": "M.2 NVMe SSD (M-key)" },
+      { "label": "Connection", "value": "USB Type-C" },
+      { "label": "SSD Included", "value": "No — case only" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "6 Months" }
+    ],
+    "compatible_models": [
+      "M.2 NVMe SSDs",
+      "Laptops and desktops with a free USB port"
+    ],
+    "related": []
+  },
+  "faq_heading": "External Case Questions",
+  "faqs": [
+    { "question": "Is the SSD included?", "answer": "No. This is the case only. You fit your own M.2 NVMe SSD inside it." },
+    { "question": "Will it work with my SSD?", "answer": "This case is for M.2 NVMe SSDs. It is not for SATA M.2 SSDs. If you are unsure which type your drive is, send us the SSD model or a photo of its label on WhatsApp and we'll confirm." },
+    { "question": "Will it work with my laptop?", "answer": "It connects through USB, so it works with laptops and desktops that have a free USB port. If your laptop only has USB Type-C ports, it connects directly. If it only has the older rectangular USB-A ports, you will need a Type-C to USB-A cable or adapter." },
+    { "question": "What warranty comes with this case?", "answer": "This case carries a 6-month warranty." }
+  ]
+}

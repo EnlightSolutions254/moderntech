@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "title": "HP 250 G3 / 15-E Keyboard — Non-Backlit, US Layout | Zanatechnologies",
+    "description": "Replacement non-backlit keyboard for HP 250 G3, 255 G3, 256 G3 and Pavilion 15-E. US layout. In-stock pricing in KES, warranty included, order on WhatsApp."
+  },
+  "og": {
+    "title": "HP 250 G3 / 15-E Keyboard (Non-Backlit) | Zanatechnologies",
+    "description": "Non-backlit replacement keyboard for HP 250 G3 / 15-E. In stock, warranty included, order on WhatsApp."
+  },
+  "category": {
+    "slug": "keyboards",
+    "url": "/shop/keyboards/",
+    "name": "Keyboards"
+  },
+  "product": {
+    "url": "/shop/keyboards/hp-250-g3-15-e-keyboard-non-backlit/",
+    "brand_slug": "hp",
+    "brand_name": "HP",
+    "sku": "KEY-HP-250G3-15E-US-NB",
+    "type_label": "keyboard",
+    "type_label_cap": "Keyboard",
+    "name": "HP 250 G3 / 15-E Keyboard (Non-Backlit)",
+    "full_name": "HP 250 G3, 255 G3, 256 G3, Pavilion 15-E Replacement Keyboard — Non-Backlit, US Layout",
+    "images": [
+      {
+        "src": "assets/images/products/hp-keyboard-250g3-15e-nonbacklit.webp",
+        "alt": "Replacement non-backlit keyboard for HP 250 G3 / 15-E series"
+      },
+      {
+        "src": "assets/images/products/hp-keyboard-250g3-15e-nonbacklit-alt.webp",
+        "alt": "Angled view of the replacement non-backlit keyboard for HP 250 G3 / 15-E"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "price": "2,200",
+    "price_raw": "2200",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Direct-fit non-backlit replacement keyboard for the HP 250 G3, 255 G3, 256 G3 and HP Pavilion 15-E. The same keyboard also fits the 15-G, 15-R, 15-N and 15-F series. US English layout, black, no pointer. Tested before dispatch.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20250%20G3%20%2F%2015-E%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C200",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20HP%20250%20G3%20%2F%2015-E%20Keyboard%20%28Non-Backlit%29",
+    "compatible_models": [
+      "HP 250 G3",
+      "HP 255 G3",
+      "HP 256 G3",
+      "HP Pavilion 15-e series",
+      "HP 15-g series",
+      "HP 15-r series",
+      "HP Pavilion 15-n series",
+      "HP 15-f series"
+    ],
+    "specs": [
+      {
+        "label": "Part Number",
+        "value": "749658-001"
+      },
+      {
+        "label": "Alternate Part Numbers",
+        "value": "719853-001, 776778-001, 708168-001"
+      },
+      {
+        "label": "Compatible Models",
+        "value": "HP 250 G3, 255 G3, 256 G3, Pavilion 15-e, 15-g, 15-r, 15-n, 15-f series"
+      },
+      {
+        "label": "Layout",
+        "value": "US English (QWERTY)"
+      },
+      {
+        "label": "Backlight",
+        "value": "No"
+      },
+      {
+        "label": "Color",
+        "value": "Black"
+      },
+      {
+        "label": "Pointer",
+        "value": "No"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      },
+      {
+        "label": "Warranty",
+        "value": "3 Months"
+      }
+    ],
+    "related": []
+  },
+  "delivery_note": "Nairobi same-day, countrywide 1-2 days",
+  "faq_heading": "Keyboard Questions",
+  "faqs": [
+    {
+      "question": "How do I know this keyboard fits my laptop?",
+      "answer": "This fits the HP 250 G3, 255 G3, 256 G3 and the Pavilion 15-e, 15-g, 15-r, 15-n and 15-f series. The model is on the sticker under your laptop, and the part number on the back of your old keyboard (such as 749658-001 or 719853-001) is the safest check. If you're unsure, send us a photo on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is it backlit?",
+      "answer": "No, this is the non-backlit version."
+    },
+    {
+      "question": "Is this a US or UK layout?",
+      "answer": "This is the US English layout, and it won't match a UK layout laptop. If you're unsure which layout you have, send us a photo of your keyboard on WhatsApp."
+    },
+    {
+      "question": "What warranty comes with this keyboard?",
+      "answer": "This keyboard carries a 3-month warranty."
+    }
+  ]
+}

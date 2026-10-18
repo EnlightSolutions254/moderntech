@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "title": "XPRINT Thermal Paper Rolls | Price in Kenya | Zanatechnologies",
+    "description": "XPRINT thermal paper rolls for receipt and POS printers. KES 165 per roll. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "XPRINT Thermal Paper Rolls | Zanatechnologies",
+    "description": "XPRINT thermal paper rolls, KES 165 each. In stock in Nairobi, order on WhatsApp."
+  },
+  "category": {
+    "slug": "accessories",
+    "url": "/shop/accessories/",
+    "name": "Accessories"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "product": {
+    "url": "/shop/accessories/xprint-thermal-paper-rolls/",
+    "name": "XPRINT Thermal Paper Rolls",
+    "full_name": "XPRINT Thermal Paper Rolls for Receipt/POS Printers — Sold Per Roll",
+    "sku": "ACC-THERMAL-ROLL-XPRINT",
+    "brand_name": "XPRINT",
+    "brand_slug": "xprint",
+    "price": "165",
+    "price_raw": "165",
+    "schema_availability": "https://schema.org/InStock",
+    "type_label": "thermal paper rolls",
+    "type_label_cap": "Thermal Paper Rolls",
+    "images": [
+      {
+        "src": "assets/images/products/xprint-thermal-paper-rolls.webp",
+        "alt": "XPRINT thermal paper rolls for receipt and POS printers"
+      },
+      {
+        "src": "assets/images/products/xprint-thermal-paper-rolls-alt.webp",
+        "alt": "XPRINT thermal paper roll, close-up of the packaging"
+      }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "description": "XPRINT thermal paper rolls for receipt and POS printers, KES 165 per roll. Tell us the size you need and how many rolls when you message us on WhatsApp. Not sure which size your printer takes? Send us the printer model and we will confirm.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20XPRINT%20Thermal%20Paper%20Rolls%20%E2%80%94%20KES%20165%20each.%20Size%20and%20quantity%3A%20",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20which%20XPRINT%20thermal%20paper%20roll%20size%20fits%20my%20printer%3F%20My%20printer%20model%20is%3A%20",
+    "specs": [
+      { "label": "Type", "value": "Thermal paper rolls (receipt/POS)" },
+      { "label": "Brand", "value": "XPRINT" },
+      { "label": "Price", "value": "KES 165 per roll" },
+      { "label": "Sold As", "value": "Per roll" },
+      { "label": "Size", "value": "Ask on WhatsApp for sizes in stock" },
+      { "label": "Size Format", "value": "Width x outer diameter, in mm" },
+      { "label": "Condition", "value": "New" }
+    ],
+    "compatible_models": [
+      "Receipt and POS printers that take thermal paper in the matching roll size"
+    ],
+    "related": []
+  },
+  "faq_heading": "Thermal Roll Questions",
+  "faqs": [
+    { "question": "How much is one roll?", "answer": "XPRINT thermal rolls are KES 165 per roll. Tell us the size and how many rolls you need when you message us on WhatsApp." },
+    { "question": "How do I know which size my printer takes?", "answer": "Check the paper width printed on the printer or in its manual, and the largest roll diameter its paper bay can hold. Sizes are written as width x outer diameter in millimetres. If you're unsure, send us your printer model on WhatsApp and we'll confirm." },
+    { "question": "How should I store thermal rolls?", "answer": "Keep them in a cool, dry place away from direct sunlight and heat. Thermal paper darkens when it gets hot, which makes the printing fade or turn the paper dark." },
+    { "question": "How fast can I get them?", "answer": "We deliver the same day in Nairobi and within 1–2 days upcountry." }
+  ]
+}

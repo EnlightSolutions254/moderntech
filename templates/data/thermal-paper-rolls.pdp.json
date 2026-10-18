@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "title": "Thermal Paper Rolls 79x80 & 57x40 | Price in Kenya | Zanatechnologies",
+    "description": "Thermal paper rolls for receipt and POS printers. 79x80mm box of 50 and 57x40mm box of 100. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Thermal Paper Rolls | Zanatechnologies",
+    "description": "79x80mm and 57x40mm thermal rolls sold by the box. In stock in Nairobi."
+  },
+  "category": {
+    "slug": "accessories",
+    "url": "/shop/accessories/",
+    "name": "Accessories"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "product": {
+    "url": "/shop/accessories/thermal-paper-rolls/",
+    "name": "Thermal Paper Rolls",
+    "full_name": "Thermal Paper Rolls for Receipt/POS Printers — 79x80mm (Box of 50) or 57x40mm (Box of 100)",
+    "sku": "ACC-THERMAL-ROLL-MULTI",
+    "brand_name": "Universal",
+    "brand_slug": "universal",
+    "price": "4,500",
+    "price_raw": "4500",
+    "schema_availability": "https://schema.org/InStock",
+    "type_label": "thermal paper rolls",
+    "type_label_cap": "Thermal Paper Rolls",
+    "images": [
+      {
+        "src": "assets/images/products/thermal-paper-rolls-79x80.webp",
+        "alt": "Thermal paper rolls 79x80mm, box of 50"
+      },
+      {
+        "src": "assets/images/products/thermal-paper-rolls-57x40.webp",
+        "alt": "Thermal paper rolls 57x40mm, box of 100"
+      }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "description": "Thermal paper rolls for receipt and POS printers, sold by the box in two sizes: 79x80mm (box of 50 rolls) and 57x40mm (box of 100 rolls). Price shown (KES 4,500) is for the 57x40mm box — see the Sizes & Pricing note below for the 79x80mm box, and tell us the size you need when you message us on WhatsApp. Not sure which size your printer takes? Send us the printer model and we will confirm.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20thermal%20paper%20rolls%20%E2%80%94%20please%20let%20me%20know%20availability%20for%3A%2079x80%20%28box%20of%2050%29%20or%2057x40%20%28box%20of%20100%29",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20which%20thermal%20paper%20roll%20size%20fits%20my%20printer%3F%20My%20printer%20model%20is%3A%20",
+    "specs": [
+      { "label": "Type", "value": "Thermal paper rolls (receipt/POS)" },
+      { "label": "Sizes & Pricing", "value": "79x80mm, box of 50 rolls — KES 7,000 (KES 140 per roll) · 57x40mm, box of 100 rolls — KES 4,500 (KES 45 per roll)" },
+      { "label": "Sold As", "value": "By the box" },
+      { "label": "Size Format", "value": "Width x outer diameter, in mm" },
+      { "label": "Condition", "value": "New" }
+    ],
+    "compatible_models": [
+      "Receipt and POS printers that take 80mm thermal paper (79x80 rolls)",
+      "Receipt and POS printers that take 57mm or 58mm thermal paper (57x40 rolls)"
+    ],
+    "related": []
+  },
+  "faq_heading": "Thermal Roll Questions",
+  "faqs": [
+    { "question": "What sizes and prices do you have?", "answer": "79x80mm in a box of 50 rolls for KES 7,000 (KES 140 per roll), and 57x40mm in a box of 100 rolls for KES 4,500 (KES 45 per roll). Tell us which size you need when you message us on WhatsApp." },
+    { "question": "How do I know which size my printer takes?", "answer": "Check the paper width printed on the printer or in its manual. Printers that take 80mm paper use the 79x80 rolls, and printers that take 57mm or 58mm paper use the 57x40 rolls. Also check the largest roll diameter your printer's paper bay can hold. If you're unsure, send us your printer model on WhatsApp and we'll confirm." },
+    { "question": "What do the numbers mean?", "answer": "The first number is the roll width and the second is the outer diameter of the full roll, both in millimetres. So 79x80 is 79mm wide and 80mm across, and 57x40 is 57mm wide and 40mm across." },
+    { "question": "How should I store thermal rolls?", "answer": "Keep them in a cool, dry place away from direct sunlight and heat. Thermal paper darkens when it gets hot, which makes the printing fade or turn the paper dark." }
+  ]
+}

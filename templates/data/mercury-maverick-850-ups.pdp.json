@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "title": "Mercury Maverick 850 UPS | Price in Kenya | Zanatechnologies",
+    "description": "Mercury Maverick 850 UPS (uninterruptible power supply) to keep your equipment running through power cuts. KES 65,000. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Mercury Maverick 850 UPS | Zanatechnologies",
+    "description": "Mercury Maverick 850 UPS, KES 65,000. In stock in Nairobi, order on WhatsApp."
+  },
+  "category": {
+    "slug": "accessories",
+    "url": "/shop/accessories/",
+    "name": "Accessories"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "product": {
+    "url": "/shop/accessories/mercury-maverick-850-ups/",
+    "name": "Mercury Maverick 850 UPS",
+    "full_name": "Mercury Maverick 850 UPS (Uninterruptible Power Supply)",
+    "sku": "ACC-UPS-MERCURY-MAV850",
+    "brand_name": "Mercury",
+    "brand_slug": "mercury",
+    "price": "65,000",
+    "price_raw": "65000",
+    "schema_availability": "https://schema.org/InStock",
+    "type_label": "UPS",
+    "type_label_cap": "UPS",
+    "images": [
+      {
+        "src": "assets/images/products/mercury-maverick-850-ups.webp",
+        "alt": "Mercury Maverick 850 UPS, front view"
+      },
+      {
+        "src": "assets/images/products/mercury-maverick-850-ups-alt.webp",
+        "alt": "Mercury Maverick 850 UPS, rear view showing outlets"
+      }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "description": "Mercury Maverick 850 UPS (uninterruptible power supply). It keeps your connected equipment powered for a short time when the electricity goes off, so you can save your work and shut down safely. KES 65,000. Not sure if it is the right size for what you want to power? Tell us what you plan to plug in and we will confirm before you order.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Mercury%20Maverick%20850%20UPS%20%E2%80%94%20KES%2065%2C000",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20ask%20about%20the%20Mercury%20Maverick%20850%20UPS.%20I%20want%20to%20power%3A%20",
+    "specs": [
+      { "label": "Type", "value": "UPS (uninterruptible power supply)" },
+      { "label": "Brand", "value": "Mercury" },
+      { "label": "Model", "value": "Maverick 850" },
+      { "label": "Capacity", "value": "Ask on WhatsApp for the exact rating" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "Ask on WhatsApp for current term" }
+    ],
+    "compatible_models": [
+      "Computers, routers and other equipment within the UPS power rating"
+    ],
+    "related": []
+  },
+  "faq_heading": "UPS Questions",
+  "faqs": [
+    { "question": "What does a UPS do?", "answer": "A UPS keeps your equipment running on its battery when the mains power goes off. It gives you time to save your work and shut down properly, and it also helps protect your equipment from power surges." },
+    { "question": "How long will it keep my equipment running?", "answer": "That depends on how much equipment you plug in. A single computer will run longer than a computer with a monitor, router and other devices all connected. Tell us what you want to power on WhatsApp and we'll advise." },
+    { "question": "What can I plug into it?", "answer": "Use it for computers, routers and similar electronics, and stay within its power rating. Do not plug in heaters, kettles or other high-power appliances. If you're unsure, send us a list of your equipment on WhatsApp and we'll confirm." },
+    { "question": "What warranty comes with this UPS?", "answer": "Message us on WhatsApp for the current warranty term before ordering." }
+  ]
+}

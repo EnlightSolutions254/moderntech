@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "title": "Handboss Universal Foam Cleaning Agent 650ml | Price in Kenya | Zanatechnologies",
+    "description": "Handboss Universal Foam Cleaning Agent, 650ml can. KES 450. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Handboss Universal Foam Cleaning Agent 650ml | Zanatechnologies",
+    "description": "Handboss Universal Foam Cleaning Agent 650ml, KES 450. In stock in Nairobi, order on WhatsApp."
+  },
+  "category": {
+    "slug": "accessories",
+    "url": "/shop/accessories/",
+    "name": "Accessories"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "product": {
+    "url": "/shop/accessories/handboss-universal-foam-cleaning-agent-650ml/",
+    "name": "Handboss Universal Foam Cleaning Agent (650ml)",
+    "full_name": "Handboss Universal Foam Cleaning Agent — 650ml",
+    "sku": "ACC-CLEAN-HANDBOSS-FOAM-650",
+    "brand_name": "Handboss",
+    "brand_slug": "handboss",
+    "price": "450",
+    "price_raw": "450",
+    "schema_availability": "https://schema.org/InStock",
+    "type_label": "foam cleaner",
+    "type_label_cap": "Foam Cleaner",
+    "images": [
+      {
+        "src": "assets/images/products/handboss-universal-foam-cleaning-agent-650ml.webp",
+        "alt": "Handboss Universal Foam Cleaning Agent 650ml can, front view"
+      },
+      {
+        "src": "assets/images/products/handboss-universal-foam-cleaning-agent-650ml-alt.webp",
+        "alt": "Handboss Universal Foam Cleaning Agent 650ml can, label view"
+      }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "description": "Handboss Universal Foam Cleaning Agent in a 650ml can, KES 450. A foam cleaner for everyday cleaning jobs. Check the label on the can for the surfaces it is suitable for, or message us on WhatsApp if you are not sure it suits what you want to clean.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Handboss%20Universal%20Foam%20Cleaning%20Agent%20%28650ml%29%20%E2%80%94%20KES%20450",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20ask%20about%20the%20Handboss%20Universal%20Foam%20Cleaning%20Agent%20%28650ml%29%3A%20",
+    "specs": [
+      { "label": "Type", "value": "Foam cleaning agent" },
+      { "label": "Brand", "value": "Handboss" },
+      { "label": "Size", "value": "650ml" },
+      { "label": "Form", "value": "Foam (aerosol can)" },
+      { "label": "Condition", "value": "New" }
+    ],
+    "compatible_models": [
+      "Surfaces listed as suitable on the can label — ask on WhatsApp if unsure"
+    ],
+    "related": []
+  },
+  "faq_heading": "Cleaning Agent Questions",
+  "faqs": [
+    { "question": "What size is the can?", "answer": "The can is 650ml." },
+    { "question": "What can I use it on?", "answer": "Check the label on the can for the surfaces it is suitable for. Test it on a small hidden area first. If you're unsure whether it suits what you want to clean, message us on WhatsApp." },
+    { "question": "Is it new?", "answer": "Yes, this is a new, sealed can." },
+    { "question": "How fast can I get it?", "answer": "We deliver the same day in Nairobi and within 1–2 days upcountry." }
+  ]
+}

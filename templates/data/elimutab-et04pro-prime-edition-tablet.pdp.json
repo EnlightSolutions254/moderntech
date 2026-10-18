@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "title": "ElimuTab ET04PRO Prime Edition Tablet | Price in Kenya | Zanatechnologies",
+    "description": "ElimuTab ET04PRO Prime Edition tablet in Nairobi. KES 13,500. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "ElimuTab ET04PRO Prime Edition Tablet | Zanatechnologies",
+    "description": "ElimuTab ET04PRO Prime Edition tablet, KES 13,500. In stock in Nairobi, order on WhatsApp."
+  },
+  "category": {
+    "slug": "accessories",
+    "url": "/shop/accessories/",
+    "name": "Accessories"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "product": {
+    "url": "/shop/accessories/elimutab-et04pro-prime-edition-tablet/",
+    "name": "ElimuTab ET04PRO Prime Edition Tablet",
+    "full_name": "ElimuTab ET04PRO Prime Edition Tablet",
+    "sku": "ACC-TAB-ELIMUTAB-ET04PRO",
+    "brand_name": "ElimuTab",
+    "brand_slug": "elimutab",
+    "price": "13,500",
+    "price_raw": "13500",
+    "schema_availability": "https://schema.org/InStock",
+    "type_label": "tablet",
+    "type_label_cap": "Tablet",
+    "images": [
+      {
+        "src": "assets/images/products/elimutab-et04pro-prime-edition-tablet.webp",
+        "alt": "ElimuTab ET04PRO Prime Edition tablet, front view"
+      },
+      {
+        "src": "assets/images/products/elimutab-et04pro-prime-edition-tablet-alt.webp",
+        "alt": "ElimuTab ET04PRO Prime Edition tablet, back view"
+      }
+    ],
+    "badges": [
+      { "class": "badge--in-stock", "label": "In Stock" }
+    ],
+    "description": "ElimuTab ET04PRO Prime Edition tablet, KES 13,500. In stock in Nairobi with delivery countrywide. Message us on WhatsApp for the full specifications and what comes in the box before you order.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20ElimuTab%20ET04PRO%20Prime%20Edition%20Tablet%20%E2%80%94%20KES%2013%2C500",
+    "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20ask%20about%20the%20ElimuTab%20ET04PRO%20Prime%20Edition%20Tablet%3A%20",
+    "specs": [
+      { "label": "Type", "value": "Tablet" },
+      { "label": "Brand", "value": "ElimuTab" },
+      { "label": "Model", "value": "ET04PRO Prime Edition" },
+      { "label": "Screen, Storage and RAM", "value": "Ask on WhatsApp for full specifications" },
+      { "label": "Condition", "value": "New" },
+      { "label": "Warranty", "value": "Ask on WhatsApp for current term" }
+    ],
+    "compatible_models": [],
+    "related": []
+  },
+  "faq_heading": "Tablet Questions",
+  "faqs": [
+    { "question": "What are the specifications?", "answer": "Message us on WhatsApp and we'll send you the full specifications, including screen size, storage and RAM, before you order." },
+    { "question": "Is this tablet new?", "answer": "Yes, this is a new ElimuTab ET04PRO Prime Edition tablet." },
+    { "question": "How fast can I get it?", "answer": "We deliver the same day in Nairobi and within 1–2 days upcountry." },
+    { "question": "What warranty comes with this tablet?", "answer": "Message us on WhatsApp for the current warranty term before ordering." }
+  ]
+}

@@ -13,7 +13,7 @@
     "name": "Keyboards",
     "name_lower": "keyboards",
     "description": "Genuine replacement keyboards for HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook laptops. Every listing shows exact layout, backlighting and compatible models before you message us.",
-    "result_count": 98
+    "result_count": 100
   },
   "products": [
     {
@@ -213,35 +213,35 @@
       "stock": "in_stock",
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
-      "url": "/shop/keyboards/hp-15-j-keyboard-non-backlit/",
-      "image": "assets/images/products/hp-keyboard-15j-nonbacklit.webp",
-      "alt": "Replacement non-backlit keyboard for HP Pavilion 15-j series",
-      "name": "HP 15-j Keyboard (Non-Backlit)",
+      "url": "/shop/keyboards/hp-envy-15-j-keyboard-non-backlit/",
+      "image": "assets/images/products/hp-keyboard-envy15j-nonbacklit.webp",
+      "alt": "Replacement non-backlit keyboard for HP Envy 15-j series",
+      "name": "HP Envy 15-j Keyboard (Non-Backlit)",
       "tags": [
-        "15-j series"
+        "Envy 15-j series"
       ],
       "price": "2,500",
       "cta_label": "Order on WhatsApp",
       "cta_class": "btn--whatsapp",
-      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%2015-j%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C500"
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20Envy%2015-j%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C500"
     },
     {
       "brand_slug": "hp",
       "stock": "in_stock",
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
-      "url": "/shop/keyboards/hp-15-j-keyboard-backlit/",
-      "image": "assets/images/products/hp-keyboard-15j-backlit.webp",
-      "alt": "Replacement backlit keyboard for HP Pavilion 15-j series",
-      "name": "HP 15-j Keyboard (Backlit)",
+      "url": "/shop/keyboards/hp-envy-15-j-keyboard-backlit/",
+      "image": "assets/images/products/hp-keyboard-envy15j-backlit.webp",
+      "alt": "Replacement backlit keyboard for HP Envy 15-j series",
+      "name": "HP Envy 15-j Keyboard (Backlit)",
       "tags": [
-        "15-j series",
+        "Envy 15-j series",
         "Backlit"
       ],
       "price": "3,500",
       "cta_label": "Order on WhatsApp",
       "cta_class": "btn--whatsapp",
-      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%2015-j%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%203%2C500"
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20Envy%2015-j%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%203%2C500"
     },
     {
       "brand_slug": "hp",
@@ -1742,6 +1742,43 @@
       "cta_label": "Order on WhatsApp",
       "cta_class": "btn--whatsapp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20Elite%20Dragonfly%20G2%20Keyboard%20%28Backlit%2C%20Japanese%29%20%E2%80%94%20KES%203%2C500"
+    },
+    {
+      "brand_slug": "lenovo",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/lenovo-thinkpad-t14s-gen-2-keyboard-backlit/",
+      "image": "assets/images/products/lenovo-keyboard-thinkpad-t14s-gen2-backlit-us.webp",
+      "alt": "Replacement backlit US-layout keyboard for Lenovo ThinkPad T14s Gen 2",
+      "name": "Lenovo ThinkPad T14s Gen 2 Keyboard (Backlit)",
+      "tags": [
+        "ThinkPad T14s Gen 2",
+        "US/UK Layout",
+        "With Pointer",
+        "Backlit"
+      ],
+      "price": "4,500",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20T14s%20Gen%202%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%204%2C500%20%E2%80%94%20layout%20%28US%20or%20UK%29%3A%20"
+    },
+    {
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "url": "/shop/keyboards/hp-250-g3-15-e-keyboard-non-backlit/",
+      "image": "assets/images/products/hp-keyboard-250g3-15e-nonbacklit.webp",
+      "alt": "Replacement non-backlit keyboard for HP 250 G3 / 15-E series",
+      "name": "HP 250 G3 / 15-E Keyboard (Non-Backlit)",
+      "tags": [
+        "250 G3/15-E"
+      ],
+      "price": "2,200",
+      "cta_label": "Order on WhatsApp",
+      "cta_class": "btn--whatsapp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20250%20G3%20%2F%2015-E%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C200"
     }
   ],
   "technician_cta": {
