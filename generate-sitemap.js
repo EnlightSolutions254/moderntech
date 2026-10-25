@@ -9,7 +9,7 @@ const urls = [];
 (function walk(dir) {
   for (const f of fs.readdirSync(dir, { withFileTypes: true })) {
     const p = path.join(dir, f.name);
-    if (f.isDirectory()) { if (!/^(assets|css|js|node_modules|\.)/.test(f.name)) walk(p); continue; }
+    if (f.isDirectory()) { if (!/^(assets|css|js|templates|tools|node_modules|\.)/.test(f.name)) walk(p); continue; }
     if (!f.name.endsWith('.html') || skip.test(f.name)) continue;
     let rel = path.relative(root, p).split(path.sep).join('/');
     rel = rel === 'index.html' ? '' : rel.replace(/(^|\/)index\.html$/, '$1');
