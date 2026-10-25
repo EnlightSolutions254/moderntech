@@ -1,65 +1,178 @@
 {
   "meta": {
-    "title": "Genuine Laptop Parts in Kenya | Zanatechnologies",
-    "description": "Genuine laptop batteries, chargers, screens and keyboards for HP, Dell, Lenovo, Acer, Asus and MacBook. KES prices, warranty, countrywide delivery."
+    "title": "Laptop Parts in Kenya | Zanatechnologies",
+    "description": "Laptop batteries, chargers, screens and keyboards for HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook. KES prices, countrywide delivery."
   },
   "og": {
-    "title": "Genuine Laptop Parts in Kenya | Zanatechnologies",
-    "description": "Batteries, chargers, screens, keyboards, hinges, fans and casings for all major laptop brands. In-stock pricing, warranty included, order on WhatsApp."
+    "title": "Laptop Parts in Kenya | Zanatechnologies",
+    "description": "Batteries, chargers, screens, keyboards, hinges, fans and casings for all major laptop brands. In-stock pricing, order on WhatsApp."
   },
-
   "hero": {
-    "headline": "Genuine Laptop Parts, Delivered Fast Across Kenya",
-    "copy": "Batteries, chargers, screens, keyboards, hinges, fans and casings for HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook. Know your part or just your laptop model \u2014 we'll help you find it.",
+    "headline": "Quality Laptop Parts, Delivered Fast Across Kenya",
+    "copy": "Batteries, chargers, screens, keyboards, hinges, fans and casings for HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook. Know your part or just your laptop model — we'll help you find it.",
     "primary_cta_text": "Find My Part",
     "whatsapp_cta_text": "Order on WhatsApp",
     "whatsapp_href_text": "Hi%2C%20I%27d%20like%20to%20order%20a%20laptop%20part.",
     "trust_row": [
-      { "icon": "&#10003;", "label": "Genuine Parts" },
-      { "icon": "&#10003;", "label": "Countrywide Delivery" }
+      {
+        "icon": "&#10003;",
+        "label": "Genuine Parts"
+      },
+      {
+        "icon": "&#10003;",
+        "label": "Countrywide Delivery"
+      }
     ],
     "tiles": [
-      { "badge_text": "Back In Stock", "title": "HP Batteries", "copy": "Genuine batteries for HP x360 310 G2 and more \u2014 tested before dispatch.", "href": "/shop/laptop-batteries/", "icon": "&#128267;", "image": "assets/images/hero/hp-battery.webp" },
-      { "badge_text": "Same-Day Nairobi", "title": "Chargers", "copy": "65W adapters for Lenovo, HP, Dell &amp; more.", "href": "/shop/chargers/", "icon": "&#128268;", "image": "assets/images/hero/chargers.webp" },
-      { "badge_text": "Cracked Screen?", "title": "Screens", "copy": "Genuine replacements for Dell, HP, Lenovo &amp; more.", "href": "/shop/screens/", "icon": "&#128421;", "image": "assets/images/hero/screens.webp" }
+      {
+        "badge_text": "Back In Stock",
+        "title": "HP Batteries",
+        "copy": "Quality batteries for HP x360 310 G2 and more — tested before dispatch.",
+        "href": "/shop/laptop-batteries/",
+        "icon": "&#128267;",
+        "image": "assets/images/hero/hp-battery.webp"
+      },
+      {
+        "badge_text": "Same-Day Nairobi",
+        "title": "Chargers",
+        "copy": "65W adapters for Lenovo, HP, Dell &amp; more.",
+        "href": "/shop/chargers/",
+        "icon": "&#128268;",
+        "image": "assets/images/hero/chargers.webp"
+      },
+      {
+        "badge_text": "Cracked Screen?",
+        "title": "Screens",
+        "copy": "Replacement screens for Dell, HP, Lenovo &amp; more.",
+        "href": "/shop/screens/",
+        "icon": "&#128421;",
+        "image": "assets/images/hero/screens.webp"
+      }
     ]
   },
-
   "category_circles": [
-    { "name": "Laptop Batteries", "url": "/shop/laptop-batteries/", "icon": "&#128267;", "image": "assets/images/categories/laptop-batteries.webp" },
-    { "name": "Chargers &amp; Adapters", "url": "/shop/chargers/", "icon": "&#128268;", "image": "assets/images/categories/chargers.webp" },
-    { "name": "Laptop Screens", "url": "/shop/screens/", "icon": "&#128421;", "image": "assets/images/categories/screens.webp" },
-    { "name": "Keyboards", "url": "/shop/keyboards/", "icon": "&#8996;", "image": "assets/images/categories/keyboards.webp" },
-    { "name": "Hinges", "url": "/shop/hinges/", "icon": "&#128295;", "image": "assets/images/categories/hinges.webp" },
-    { "name": "Cooling Fans", "url": "/shop/cooling-fans/", "icon": "&#128168;", "image": "assets/images/categories/cooling-fans.webp" },
-    { "name": "Casings", "url": "/shop/casings/", "icon": "&#129520;", "image": "assets/images/categories/casings.webp" },
-    { "name": "Motherboards", "url": "/shop/motherboards/", "icon": "&#9881;", "image": "assets/images/categories/motherboards.webp" }
+    {
+      "name": "Laptop Batteries",
+      "url": "/shop/laptop-batteries/",
+      "icon": "&#128267;",
+      "image": "assets/images/categories/laptop-batteries.webp"
+    },
+    {
+      "name": "Chargers &amp; Adapters",
+      "url": "/shop/chargers/",
+      "icon": "&#128268;",
+      "image": "assets/images/categories/chargers.webp"
+    },
+    {
+      "name": "Laptop Screens",
+      "url": "/shop/screens/",
+      "icon": "&#128421;",
+      "image": "assets/images/categories/screens.webp"
+    },
+    {
+      "name": "Keyboards",
+      "url": "/shop/keyboards/",
+      "icon": "&#8996;",
+      "image": "assets/images/categories/keyboards.webp"
+    },
+    {
+      "name": "Hinges",
+      "url": "/shop/hinges/",
+      "icon": "&#128295;",
+      "image": "assets/images/categories/hinges.webp"
+    },
+    {
+      "name": "Cooling Fans",
+      "url": "/shop/cooling-fans/",
+      "icon": "&#128168;",
+      "image": "assets/images/categories/cooling-fans.webp"
+    },
+    {
+      "name": "Casings",
+      "url": "/shop/casings/",
+      "icon": "&#129520;",
+      "image": "assets/images/categories/casings.webp"
+    },
+    {
+      "name": "Motherboards",
+      "url": "/shop/motherboards/",
+      "icon": "&#9881;",
+      "image": "assets/images/categories/motherboards.webp"
+    }
   ],
-
   "promo_tiles": [
-    { "title": "Screens", "url": "/shop/screens/", "theme": "amber", "icon": "&#128421;", "image": "assets/images/promos/screens.webp" },
-    { "title": "Keyboards", "url": "/shop/keyboards/", "theme": "navy", "icon": "&#8996;", "image": "assets/images/promos/keyboards.webp" },
-    { "title": "Batteries", "url": "/shop/laptop-batteries/", "theme": "ice", "icon": "&#128267;", "image": "assets/images/promos/laptop-batteries.webp" },
-    { "title": "Chargers", "url": "/shop/chargers/", "theme": "forest", "icon": "&#128268;", "image": "assets/images/promos/chargers.webp" }
+    {
+      "title": "Screens",
+      "url": "/shop/screens/",
+      "theme": "amber",
+      "icon": "&#128421;",
+      "image": "assets/images/promos/screens.webp"
+    },
+    {
+      "title": "Keyboards",
+      "url": "/shop/keyboards/",
+      "theme": "navy",
+      "icon": "&#8996;",
+      "image": "assets/images/promos/keyboards.webp"
+    },
+    {
+      "title": "Batteries",
+      "url": "/shop/laptop-batteries/",
+      "theme": "ice",
+      "icon": "&#128267;",
+      "image": "assets/images/promos/laptop-batteries.webp"
+    },
+    {
+      "title": "Chargers",
+      "url": "/shop/chargers/",
+      "theme": "forest",
+      "icon": "&#128268;",
+      "image": "assets/images/promos/chargers.webp"
+    }
   ],
-
   "hero_strip": [
-    { "icon": "&#9889;", "title": "Same-day in Nairobi", "sub": "Order in the morning, fit by evening" },
-    { "icon": "&#128666;", "title": "1\u20132 days countrywide", "sub": "Major towns covered" },
-    { "icon": "&#128176;", "title": "M-Pesa or cash on delivery", "sub": "Pay the way you prefer" },
-    { "icon": "&#9989;", "title": "Fit confirmed first", "sub": "We check your model on WhatsApp" }
+    {
+      "icon": "&#9889;",
+      "title": "Same-day in Nairobi",
+      "sub": "Order in the morning, fit by evening"
+    },
+    {
+      "icon": "&#128666;",
+      "title": "1–2 days countrywide",
+      "sub": "Major towns covered"
+    },
+    {
+      "icon": "&#128176;",
+      "title": "M-Pesa or cash on delivery",
+      "sub": "Pay the way you prefer"
+    },
+    {
+      "icon": "&#9989;",
+      "title": "Fit confirmed first",
+      "sub": "We check your model on WhatsApp"
+    }
   ],
-
   "how_it_works": {
     "headline": "Get the Right Part in 3 Simple Steps",
     "copy": "No guessing and no wasted trips.",
     "steps": [
-      { "num": "1", "title": "Tell us your laptop", "desc": "Send the model, or a photo of the sticker under your laptop, on WhatsApp." },
-      { "num": "2", "title": "We confirm the part", "desc": "We check compatibility and send you the exact part and price." },
-      { "num": "3", "title": "Get it delivered", "desc": "Same-day in Nairobi, 1\u20132 days to major towns. Pay by M-Pesa or on delivery." }
+      {
+        "num": "1",
+        "title": "Tell us your laptop",
+        "desc": "Send the model, or a photo of the sticker under your laptop, on WhatsApp."
+      },
+      {
+        "num": "2",
+        "title": "We confirm the part",
+        "desc": "We check compatibility and send you the exact part and price."
+      },
+      {
+        "num": "3",
+        "title": "Get it delivered",
+        "desc": "Same-day in Nairobi, 1–2 days to major towns. Pay by M-Pesa or on delivery."
+      }
     ]
   },
-
   "repair_band": {
     "headline": "Rather Have It Fixed? We Repair Laptops in Nairobi.",
     "copy": "Tell us the model and the problem on WhatsApp. We diagnose it, quote you before any work starts, and fit it with the same parts we sell.",
@@ -68,41 +181,83 @@
     "image": "assets/images/repairs/laptop-repair-bench.webp",
     "alt": "A laptop opened up on the repair bench"
   },
-
   "shop_by_problem": {
     "headline": "What's Wrong With Your Laptop?",
     "copy": "Pick the symptom and we'll point you to the part that fixes it.",
     "items": [
-      { "icon": "charge", "title": "Laptop won't charge", "desc": "Usually the charger or the battery.", "cta": "Shop Chargers", "url": "/shop/chargers/", "image": "assets/images/problems/wont-charge.webp" },
-      { "icon": "screen", "title": "Cracked or flickering screen", "desc": "Replace the display panel.", "cta": "Shop Screens", "url": "/shop/screens/", "image": "assets/images/problems/cracked-screen.webp" },
-      { "icon": "keys", "title": "Keys not working", "desc": "Swap in a new keyboard.", "cta": "Shop Keyboards", "url": "/shop/keyboards/", "image": "assets/images/problems/keys-not-working.webp" },
-      { "icon": "fan", "title": "Overheating or loud fan", "desc": "A new cooling fan fixes noise and shutdowns.", "cta": "Shop Cooling Fans", "url": "/shop/cooling-fans/", "image": "assets/images/problems/overheating.webp" },
-      { "icon": "hinge", "title": "Loose or broken hinge", "desc": "Hinges and casings bring back a firm lid.", "cta": "Shop Hinges", "url": "/shop/hinges/", "image": "assets/images/problems/broken-hinge.webp" },
-      { "icon": "power", "title": "Won't turn on", "desc": "Could be the motherboard. Ask us to confirm.", "cta": "Shop Motherboards", "url": "/shop/motherboards/", "image": "assets/images/problems/wont-turn-on.webp" }
+      {
+        "icon": "charge",
+        "title": "Laptop won't charge",
+        "desc": "Usually the charger or the battery.",
+        "cta": "Shop Chargers",
+        "url": "/shop/chargers/",
+        "image": "assets/images/problems/wont-charge.webp"
+      },
+      {
+        "icon": "screen",
+        "title": "Cracked or flickering screen",
+        "desc": "Replace the display panel.",
+        "cta": "Shop Screens",
+        "url": "/shop/screens/",
+        "image": "assets/images/problems/cracked-screen.webp"
+      },
+      {
+        "icon": "keys",
+        "title": "Keys not working",
+        "desc": "Swap in a new keyboard.",
+        "cta": "Shop Keyboards",
+        "url": "/shop/keyboards/",
+        "image": "assets/images/problems/keys-not-working.webp"
+      },
+      {
+        "icon": "fan",
+        "title": "Overheating or loud fan",
+        "desc": "A new cooling fan fixes noise and shutdowns.",
+        "cta": "Shop Cooling Fans",
+        "url": "/shop/cooling-fans/",
+        "image": "assets/images/problems/overheating.webp"
+      },
+      {
+        "icon": "hinge",
+        "title": "Loose or broken hinge",
+        "desc": "Hinges and casings bring back a firm lid.",
+        "cta": "Shop Hinges",
+        "url": "/shop/hinges/",
+        "image": "assets/images/problems/broken-hinge.webp"
+      },
+      {
+        "icon": "power",
+        "title": "Won't turn on",
+        "desc": "Could be the motherboard. Ask us to confirm.",
+        "cta": "Shop Motherboards",
+        "url": "/shop/motherboards/",
+        "image": "assets/images/problems/wont-turn-on.webp"
+      }
     ],
     "help_text": "Not sure what's wrong? Describe it and we'll tell you which part you need.",
     "help_cta": "Describe the Problem on WhatsApp",
     "help_whatsapp_text": "Hi%2C%20my%20laptop%20has%20a%20problem%3A%20"
   },
-
   "shop_by_brand": {
     "headline": "Shop by Brand",
-    "copy": "HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook parts \u2014 all in one place."
+    "copy": "HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook parts — all in one place."
   },
-
   "featured_products": {
     "headline": "Popular Right Now",
     "copy": "The parts our customers order most.",
-    "view_all_text": "View All Products",
+    "view_all_text": "Browse All Categories",
     "products": [
       {
         "name": "Lenovo L18C2PB3 Battery",
         "url": "/shop/laptop-batteries/lenovo-l18c2pb3-ideapad-s145-v145-v15/",
         "image": "assets/images/products/lenovo-battery-l18c2pb3.webp",
-        "alt": "Replacement battery \u2014 Lenovo L18C2PB3 Battery",
+        "alt": "Replacement battery — Lenovo L18C2PB3 Battery",
         "badge_type": "in-stock",
         "badge_text": "In Stock",
-        "tags": ["IdeaPad S145-14IWL", "IdeaPad S145-15IWL"],
+        "tags": [
+          "IdeaPad S145-14IWL",
+          "IdeaPad S145-15IWL"
+        ],
         "price": "KES 5,000",
         "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20L18C2PB3%20Battery%20%E2%80%94%20KES%205%2C000"
       },
@@ -110,10 +265,12 @@
         "name": "HP HV03XL Battery",
         "url": "/shop/laptop-batteries/hp-hv03xl-x360-310-g2/",
         "image": "assets/images/products/hp-battery-hv03xl.webp",
-        "alt": "Replacement battery \u2014 HP HV03XL Battery",
+        "alt": "Replacement battery — HP HV03XL Battery",
         "badge_type": "in-stock",
         "badge_text": "In Stock",
-        "tags": ["HP x360 310 G2 (K12 Series)"],
+        "tags": [
+          "HP x360 310 G2 (K12 Series)"
+        ],
         "price": "KES 5,000",
         "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20HV03XL%20Battery%20%E2%80%94%20KES%205%2C000"
       },
@@ -124,7 +281,10 @@
         "alt": "Replacement backlit keyboard for Lenovo ThinkPad X1 Carbon 3rd Gen",
         "badge_type": "in-stock",
         "badge_text": "In Stock",
-        "tags": ["X1 Carbon 3rd Gen", "Backlit"],
+        "tags": [
+          "X1 Carbon 3rd Gen",
+          "Backlit"
+        ],
         "price": "KES 8,500",
         "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20X1%20Carbon%203rd%20Gen%20Keyboard%20%E2%80%94%20KES%208%2C500"
       },
@@ -135,52 +295,91 @@
         "alt": "Replacement backlit keyboard for HP Pavilion 15-j series",
         "badge_type": "in-stock",
         "badge_text": "In Stock",
-        "tags": ["15-j series"],
+        "tags": [
+          "15-j series"
+        ],
         "price": "KES 3,500",
         "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%2015-j%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%203%2C500"
       }
     ]
   },
-
   "trust_bar": {
     "headline": "Why Buy From Us",
     "items": [
-      { "icon": "&#9989;", "label": "Genuine Parts", "desc": "Tested before dispatch, not old take-outs." },
-      { "icon": "&#128737;", "label": "Warranty Included", "desc": "6-month standard warranty on every part." },
-      { "icon": "&#128666;", "label": "Countrywide Delivery", "desc": "Nairobi same-day, upcountry in 1\u20132 days." },
-      { "icon": "&#128176;", "label": "M-Pesa &amp; Cash on Delivery", "desc": "Pay the way that's easiest for you." }
+      {
+        "icon": "&#9989;",
+        "label": "Genuine Parts",
+        "desc": "Tested before dispatch, not old take-outs."
+      },
+      {
+        "icon": "&#128666;",
+        "label": "Countrywide Delivery",
+        "desc": "Nairobi same-day, upcountry in 1–2 days."
+      },
+      {
+        "icon": "&#128176;",
+        "label": "M-Pesa &amp; Cash on Delivery",
+        "desc": "Pay the way that's easiest for you."
+      }
     ]
   },
-
   "delivery": {
     "headline": "We Deliver Countrywide",
-    "copy": "Same-day delivery within Nairobi. 1\u20132 days to major towns. Not sure about your area? Ask us directly.",
+    "copy": "Same-day delivery within Nairobi. 1–2 days to major towns. Not sure about your area? Ask us directly.",
     "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20delivery%20to%20my%20area.",
     "areas": [
-      { "name": "Nairobi" },
-      { "name": "Mombasa" },
-      { "name": "Kisumu" },
-      { "name": "Nakuru" },
-      { "name": "Eldoret" },
-      { "name": "Thika" },
-      { "name": "Nyeri", "extra": true },
-      { "name": "Meru", "extra": true },
-      { "name": "Kakamega", "extra": true },
-      { "name": "Kisii", "extra": true },
-      { "name": "Machakos", "extra": true },
-      { "name": "Naivasha", "extra": true }
+      {
+        "name": "Nairobi"
+      },
+      {
+        "name": "Mombasa"
+      },
+      {
+        "name": "Kisumu"
+      },
+      {
+        "name": "Nakuru"
+      },
+      {
+        "name": "Eldoret"
+      },
+      {
+        "name": "Thika"
+      },
+      {
+        "name": "Nyeri",
+        "extra": true
+      },
+      {
+        "name": "Meru",
+        "extra": true
+      },
+      {
+        "name": "Kakamega",
+        "extra": true
+      },
+      {
+        "name": "Kisii",
+        "extra": true
+      },
+      {
+        "name": "Machakos",
+        "extra": true
+      },
+      {
+        "name": "Naivasha",
+        "extra": true
+      }
     ]
   },
-
   "technician_cta": {
     "headline": "Repair Technician or Business? Get Trade Pricing.",
     "copy": "Bulk orders, priority stock holds, and trade pricing for repair shops and businesses across Kenya.",
     "whatsapp_text": "Hi%2C%20I%27m%20a%20technician%20interested%20in%20bulk%20pricing."
   },
-
   "testimonials": [
     {
-      "quote": "My laptop wouldn't charge \u2014 turned out to be the charger. Ordered on WhatsApp in the morning, had it by 3pm the same day.",
+      "quote": "My laptop wouldn't charge — turned out to be the charger. Ordered on WhatsApp in the morning, had it by 3pm the same day.",
       "name": "James K.",
       "initial": "J",
       "role": "Technician, Nairobi CBD"
@@ -192,24 +391,33 @@
       "role": "University Student, Nairobi"
     },
     {
-      "quote": "We buy screens and keyboards in bulk for our repair shop \u2014 trade pricing and stock holds have saved us so much time.",
+      "quote": "We buy screens and keyboards in bulk for our repair shop — trade pricing and stock holds have saved us so much time.",
       "name": "Ochieng M.",
       "initial": "O",
       "role": "Repair Shop Owner, Mombasa"
     }
   ],
-
   "faqs": [
-    { "q": "How do I know this part fits my laptop?", "a": "Each listing shows exact compatible models. If you're unsure of your laptop's exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
-    { "q": "Do you offer warranty?", "a": "Yes \u2014 most parts carry a 6-month warranty, listed on the individual product page." },
-    { "q": "How long does delivery take?", "a": "Same-day within Nairobi, 1\u20132 days to major towns countrywide." },
-    { "q": "Can I pay via M-Pesa?", "a": "Yes, M-Pesa and cash on delivery are both accepted." },
-    { "q": "Do you buy old/broken parts?", "a": "In some cases yes \u2014 ask us on WhatsApp with details of what you have." }
+    {
+      "q": "How do I know this part fits my laptop?",
+      "a": "Each listing shows exact compatible models. If you're unsure of your laptop's exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm."
+    },
+    {
+      "q": "How long does delivery take?",
+      "a": "Same-day within Nairobi, 1–2 days to major towns countrywide."
+    },
+    {
+      "q": "Can I pay via M-Pesa?",
+      "a": "Yes, M-Pesa and cash on delivery are both accepted."
+    },
+    {
+      "q": "Do you buy old/broken parts?",
+      "a": "In some cases yes — ask us on WhatsApp with details of what you have."
+    }
   ],
-
   "final_cta": {
     "headline": "Still Not Sure What You Need?",
-    "copy": "Send us a photo or tell us your laptop model on WhatsApp \u2014 we'll help you find the right part in minutes.",
+    "copy": "Send us a photo or tell us your laptop model on WhatsApp — we'll help you find the right part in minutes.",
     "cta_text": "Chat With Us on WhatsApp",
     "whatsapp_text": "Hi%2C%20I%27m%20not%20sure%20what%20part%20I%20need%20%E2%80%94%20can%20you%20help%3F"
   }

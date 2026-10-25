@@ -1,5 +1,5 @@
 /* ==========================================================================
-   [Store Name] — Homepage JavaScript
+   Zanatechnologies — Homepage JavaScript
    No frameworks, no external libraries. Progressive enhancement only —
    every section here degrades gracefully (links still work, forms still
    submit) if JS fails to load.
@@ -73,72 +73,6 @@
   }
 
   /* ------------------------------------------------------------------
-     4. Find My Part Wizard — dependent selects
-     Data below is a placeholder map. Replace with real data pulled
-     from products.json at build/render time (see Section 5 note).
-     ------------------------------------------------------------------ */
-  var modelsByBrand = {
-    hp: ["EliteBook 840 G3", "EliteBook 840 G4", "ProBook 450 G5", "Pavilion 15"],
-    dell: ["Latitude 5490", "Latitude 7480", "Inspiron 15 3000", "XPS 13"],
-    lenovo: ["ThinkPad T480", "ThinkPad X1 Carbon", "IdeaPad 3"],
-    acer: ["Aspire 5", "Swift 3"],
-    toshiba: ["Satellite C55", "Tecra A50"],
-    asus: ["VivoBook 15", "ZenBook 14"],
-    macbook: ["MacBook Air 2017", "MacBook Pro 2019 13\"", "MacBook Pro 2019 15\""]
-  };
-
-  var brandSelect = document.getElementById("wizard-brand");
-  var modelSelect = document.getElementById("wizard-model");
-  var partSelect = document.getElementById("wizard-part");
-  var wizardForm = document.getElementById("find-my-part-form");
-
-  function populateModels(brandKey) {
-    modelSelect.innerHTML = "";
-    var models = modelsByBrand[brandKey] || [];
-
-    var placeholder = document.createElement("option");
-    placeholder.value = "";
-    placeholder.disabled = true;
-    placeholder.selected = true;
-    placeholder.textContent = models.length ? "Select model" : "No models found";
-    modelSelect.appendChild(placeholder);
-
-    models.forEach(function (model) {
-      var opt = document.createElement("option");
-      opt.value = model.toLowerCase().replace(/\s+/g, "-");
-      opt.textContent = model;
-      modelSelect.appendChild(opt);
-    });
-
-    modelSelect.disabled = models.length === 0;
-  }
-
-  if (brandSelect && modelSelect && partSelect && wizardForm) {
-    brandSelect.addEventListener("change", function () {
-      populateModels(brandSelect.value);
-      partSelect.disabled = true;
-      partSelect.selectedIndex = 0;
-    });
-
-    modelSelect.addEventListener("change", function () {
-      partSelect.disabled = !modelSelect.value;
-    });
-
-    wizardForm.addEventListener("submit", function (e) {
-      e.preventDefault();
-      var brand = brandSelect.value;
-      var model = modelSelect.value;
-      var part = partSelect.value;
-      if (!brand || !model || !part) return;
-
-      // In production this routes to the filtered category/brand URL, e.g.:
-      // /shop/{part}/?brand={brand}&model={model}
-      var destination = "/shop/" + encodeURIComponent(part) + "/?brand=" + encodeURIComponent(brand) + "&model=" + encodeURIComponent(model);
-      window.location.href = destination;
-    });
-  }
-
-  /* ------------------------------------------------------------------
      5. Delivery coverage "see full list" expand
      ------------------------------------------------------------------ */
   var coverageExpand = document.getElementById("coverage-expand");
@@ -205,35 +139,6 @@
       }
     });
   });
-
-  /* ------------------------------------------------------------------
-     9. Product card renderer (for future product data integration)
-     Not invoked on page load — the static markup in index.html serves
-     as the launch content. Once products.json is wired in, call
-     renderProductCard(product) for each item and append to the
-     #featured-products list, replacing the placeholder <li> elements.
-     ------------------------------------------------------------------ */
-  function renderProductCard(product) {
-    var li = document.createElement("li");
-    li.className = "product-card";
-    li.innerHTML =
-      '<a href="' + product.url + '" class="product-card__media-link">' +
-        '<div class="media-frame media-frame--square">' +
-          '<span class="badge badge--' + product.stock_status + '">' + product.stock_label + '</span>' +
-          '<img class="lazy-img" data-src="' + product.image + '" alt="' + product.name + '" width="400" height="400" loading="lazy" decoding="async">' +
-        '</div>' +
-      '</a>' +
-      '<div class="product-card__body">' +
-        '<h3 class="product-card__name"><a href="' + product.url + '">' + product.name + '</a></h3>' +
-        '<p class="price price--sm">KES ' + product.price.toLocaleString() + '</p>' +
-        '<a class="btn btn--whatsapp btn--sm btn--full" href="' + product.whatsapp_url + '" target="_blank" rel="noopener">Order on WhatsApp</a>' +
-      '</div>';
-    return li;
-  }
-
-  // Exposed for use once real product data is wired in.
-  window.__store = window.__store || {};
-  window.__store.renderProductCard = renderProductCard;
 
   /* ------------------------------------------------------------------
      10. Category page — FilterDrawer (mobile) open/close
@@ -818,124 +723,6 @@
     }, { threshold: 0.5 });
 
     statValues.forEach(function (el) { statObserver.observe(el); });
-  }
-
-  /* --- 14d. Testimonial carousel gentle auto-advance.
-     Pauses on hover/touch/focus so it never fights a reading user. --- */
-  var testimonialTrack = document.querySelector(".testimonial-track");
-  if (testimonialTrack && !prefersReducedMotion) {
-    var testimonialTimer = null;
-    var startAutoAdvance = function () {
-      stopAutoAdvance();
-      testimonialTimer = window.setInterval(function () {
-        var cardWidth = testimonialTrack.querySelector(".testimonial-card")
-          ? testimonialTrack.querySelector(".testimonial-card").getBoundingClientRect().width + 12
-          : testimonialTrack.clientWidth;
-        var atEnd = testimonialTrack.scrollLeft + testimonialTrack.clientWidth >= testimonialTrack.scrollWidth - 4;
-        testimonialTrack.scrollTo({
-          left: atEnd ? 0 : testimonialTrack.scrollLeft + cardWidth,
-          behavior: "smooth"
-        });
-      }, 4500);
-    };
-    var stopAutoAdvance = function () {
-      if (testimonialTimer) window.clearInterval(testimonialTimer);
-    };
-    startAutoAdvance();
-    ["mouseenter", "touchstart", "focusin"].forEach(function (evt) {
-      testimonialTrack.addEventListener(evt, stopAutoAdvance, { passive: true });
-    });
-    ["mouseleave", "touchend", "focusout"].forEach(function (evt) {
-      testimonialTrack.addEventListener(evt, startAutoAdvance, { passive: true });
-    });
-  }
-
-  /* --- 14d-2. Hero banner slider — rotates through the 5 promo "flyers".
-     Only .is-active is visible; autoplay is skipped for prefers-reduced-motion
-     (dots still let people browse manually), and always pauses on
-     hover/touch/focus so it never fights someone reading a banner. --- */
-  var heroSlider = document.getElementById("hero-banner-slider");
-  if (heroSlider) {
-    var heroSlides = Array.prototype.slice.call(heroSlider.querySelectorAll(".hero-banner"));
-    var heroDots = Array.prototype.slice.call(heroSlider.querySelectorAll(".hero-banner-slider__dot"));
-    var heroIndex = 0;
-    var heroTimer = null;
-
-    var showHeroSlide = function (index) {
-      var previous = heroIndex;
-      heroIndex = (index + heroSlides.length) % heroSlides.length;
-      heroSlides.forEach(function (slide, i) {
-        if (i === heroIndex) {
-          slide.classList.remove("is-prev");
-          slide.classList.add("is-active");
-          slide.setAttribute("aria-hidden", "false");
-        } else if (i === previous && previous !== heroIndex) {
-          slide.classList.remove("is-active");
-          slide.classList.add("is-prev");
-          slide.setAttribute("aria-hidden", "true");
-          /* Once it's finished sliding off to the left, reset it (no
-             transition) back to its right-side resting spot so it's
-             ready to enter from the right again next rotation. */
-          window.setTimeout(function () {
-            slide.classList.remove("is-prev");
-          }, 620);
-        } else {
-          slide.classList.remove("is-active", "is-prev");
-          slide.setAttribute("aria-hidden", "true");
-        }
-      });
-      heroDots.forEach(function (dot, i) {
-        var active = i === heroIndex;
-        dot.classList.toggle("is-active", active);
-        dot.setAttribute("aria-selected", active ? "true" : "false");
-      });
-    };
-
-    var stopHeroAutoplay = function () {
-      if (heroTimer) window.clearInterval(heroTimer);
-    };
-    var startHeroAutoplay = function () {
-      stopHeroAutoplay();
-      if (prefersReducedMotion || heroSlides.length < 2) return;
-      heroTimer = window.setInterval(function () { showHeroSlide(heroIndex + 1); }, 4500);
-    };
-
-    heroDots.forEach(function (dot, i) {
-      dot.addEventListener("click", function () {
-        showHeroSlide(i);
-        startHeroAutoplay();
-      });
-    });
-
-    ["mouseenter", "touchstart", "focusin"].forEach(function (evt) {
-      heroSlider.addEventListener(evt, stopHeroAutoplay, { passive: true });
-    });
-    ["mouseleave", "touchend", "focusout"].forEach(function (evt) {
-      heroSlider.addEventListener(evt, startHeroAutoplay, { passive: true });
-    });
-
-    /* Swipe: left flicks to the next banner, right flicks to the previous.
-       Vertical scrolling is left untouched since we never preventDefault. */
-    var heroTouchStartX = 0;
-    var heroTouchStartY = 0;
-    var heroSwipeThreshold = 40;
-
-    heroSlider.addEventListener("touchstart", function (e) {
-      if (!e.touches || !e.touches.length) return;
-      heroTouchStartX = e.touches[0].clientX;
-      heroTouchStartY = e.touches[0].clientY;
-    }, { passive: true });
-
-    heroSlider.addEventListener("touchend", function (e) {
-      if (!e.changedTouches || !e.changedTouches.length) return;
-      var deltaX = e.changedTouches[0].clientX - heroTouchStartX;
-      var deltaY = e.changedTouches[0].clientY - heroTouchStartY;
-      if (Math.abs(deltaX) > heroSwipeThreshold && Math.abs(deltaX) > Math.abs(deltaY)) {
-        showHeroSlide(heroIndex + (deltaX < 0 ? 1 : -1));
-      }
-    }, { passive: true });
-
-    startHeroAutoplay();
   }
 
   /* --- 14e. Button click ripple (primary + whatsapp variants only,

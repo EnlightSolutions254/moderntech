@@ -1,18 +1,18 @@
 {
   "meta": {
-    "title": "Laptop Keyboards in Kenya \u2014 HP, Dell, Lenovo, Acer &amp; More | [Store Name]",
-    "description": "Genuine replacement laptop keyboards for HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook. In-stock pricing in KES, warranty included, countrywide delivery. Order on WhatsApp."
+    "title": "Laptop Keyboards in Kenya — HP, Dell, Lenovo, Acer &amp; More | Zanatechnologies",
+    "description": "Replacement laptop keyboards for HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook. In-stock pricing in KES, countrywide delivery. Order on WhatsApp."
   },
   "og": {
-    "title": "Laptop Keyboards in Kenya | [Store Name]",
-    "description": "Genuine replacement laptop keyboards for all major brands. In-stock pricing, warranty included, order on WhatsApp."
+    "title": "Laptop Keyboards in Kenya | Zanatechnologies",
+    "description": "Replacement laptop keyboards for all major brands. In-stock pricing, order on WhatsApp."
   },
   "category": {
     "slug": "keyboards",
     "url": "/shop/keyboards/",
     "name": "Keyboards",
     "name_lower": "keyboards",
-    "description": "Genuine replacement keyboards for HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook laptops. Every listing shows exact layout, backlighting and compatible models before you message us.",
+    "description": "Replacement keyboards for HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook laptops. Every listing shows exact layout, backlighting and compatible models before you message us.",
     "result_count": 100
   },
   "products": [
@@ -1795,11 +1795,7 @@
     },
     {
       "question": "Do keyboards come backlit?",
-      "answer": "Where the original model supports it, we stock both backlit and non-backlit versions \u2014 this is stated on the individual product page."
-    },
-    {
-      "question": "What warranty comes with a keyboard?",
-      "answer": "Most keyboards carry a 3-month warranty, listed on the individual product page."
+      "answer": "Where the original model supports it, we stock both backlit and non-backlit versions — this is stated on the individual product page."
     }
   ],
   "empty_state": {

@@ -92,6 +92,8 @@ function deploy() {
 }
 
 function writeOut(relUrl, html) {
+  // Render the copyright year at build time so it shows even without JavaScript
+  html = html.replace('<span id="footer-year"></span>', `<span id="footer-year">${new Date().getFullYear()}</span>`);
   // Directory-style URL, e.g. "/shop/laptop-batteries/" -> out/shop/laptop-batteries/index.html
   // Literal file URL, e.g. "/about.html" -> out/about.html (no wrapping folder)
   if (relUrl.endsWith('.html')) {
@@ -274,17 +276,17 @@ function generateBrand(brandSlug) {
     ...nav,
     meta: {
       title: `${brandInfo.name} Laptop Parts in Kenya | ${shared.store.name}`,
-      description: `Genuine replacement ${brandInfo.name} laptop parts — batteries, chargers, screens, keyboards, hinges, fans and casings. In-stock pricing in KES, warranty included, order on WhatsApp.`,
+      description: `Replacement ${brandInfo.name} laptop parts — batteries, chargers, screens, keyboards, hinges, fans and casings. In-stock pricing in KES, order on WhatsApp.`,
     },
     og: {
       title: `${brandInfo.name} Laptop Parts | ${shared.store.name}`,
-      description: `Genuine ${brandInfo.name} laptop parts, in-stock pricing, warranty included, order on WhatsApp.`,
+      description: `${brandInfo.name} laptop parts, in-stock pricing, order on WhatsApp.`,
     },
     brand: {
       slug: brandInfo.slug,
       name: brandInfo.name,
       url: brandInfo.url,
-      description: `Every genuine ${brandInfo.name} part we stock, grouped by category. Each listing shows exact compatible models, stock status and price before you message us.`,
+      description: `Every ${brandInfo.name} part we stock, grouped by category. Each listing shows exact compatible models, stock status and price before you message us.`,
       result_count: resultCount,
       section_count: sections.length,
       sections,
@@ -298,8 +300,7 @@ function generateBrand(brandSlug) {
     faq_heading: `${brandInfo.name} Parts Questions`,
     faqs: [
       { question: `How do I know this part fits my ${brandInfo.name} laptop?`, answer: "Each listing shows exact compatible models. If you're unsure of your laptop's exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
-      { question: 'Are these genuine or compatible parts?', answer: "It's stated clearly on each product page — new OEM-equivalent by default, with genuine originals where available." },
-      { question: 'What warranty comes with these parts?', answer: 'Most parts carry a 6-month warranty, listed on the individual product page.' },
+      { question: 'Are these genuine or compatible parts?', answer: "Each product page states whether a part is a genuine original or a quality compatible replacement, so you always know what you are buying." },
     ],
     sticky_whatsapp: {
       text: `Hi%2C%20I%27d%20like%20to%20order%20a%20${encodeURIComponent(brandInfo.name)}%20laptop%20part.`,
@@ -417,6 +418,19 @@ function generateSearchIndex() {
       b: p.product.brand_slug || '', p: p.product.price || '',
       k: (p.product.compatible_models || []).join(' ')
     }));
+  // Also index products that appear on category pages, so search finds them even without a product page
+  const byUrl = new Map(items.map(i => [i.u, i]));
+  fs.readdirSync(DATA_DIR).filter(f => f.endsWith('.category.json')).forEach(f => {
+    const cat = loadJson(path.join(DATA_DIR, f));
+    const cname = dec((cat.category && cat.category.name) || ''), cslug = (cat.category && cat.category.slug) || '';
+    (cat.products || []).forEach(pr => {
+      const tags = (pr.tags || []).join(' ');
+      const hit = byUrl.get(pr.url);
+      if (hit) { if (tags && !hit.k.includes(tags)) hit.k = (hit.k + ' ' + tags).trim(); return; }
+      const it = { n: dec(pr.name), u: pr.url, c: cname, cs: cslug, b: pr.brand_slug || '', p: pr.price || '', k: tags };
+      items.push(it); byUrl.set(pr.url, it);
+    });
+  });
   shared.parts.forEach(pt => items.push({ n: dec(pt.name), u: pt.url, c: 'Category', cs: pt.slug, b: '', p: '', k: '' }));
   shared.brands.forEach(b => items.push({ n: b.name + ' laptop parts', u: b.url, c: 'Brand', cs: '', b: b.slug, p: '', k: '' }));
   fs.mkdirSync(OUT_DIR, { recursive: true });

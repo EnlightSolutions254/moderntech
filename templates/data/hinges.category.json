@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Laptop Hinges in Kenya — HP, Dell, Lenovo, Acer &amp; More | [Store Name]",
-    "description": "Replacement laptop hinges and hinge kits for HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook. In-stock pricing in KES, warranty included, countrywide delivery. Order on WhatsApp."
+    "title": "Laptop Hinges in Kenya — HP, Dell, Lenovo, Acer &amp; More | Zanatechnologies",
+    "description": "Replacement laptop hinges and hinge kits for HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook. In-stock pricing in KES, countrywide delivery. Order on WhatsApp."
   },
   "og": {
-    "title": "Laptop Hinges in Kenya | [Store Name]",
-    "description": "Replacement laptop hinges for all major brands. In-stock pricing, warranty included, order on WhatsApp."
+    "title": "Laptop Hinges in Kenya | Zanatechnologies",
+    "description": "Replacement laptop hinges for all major brands. In-stock pricing, order on WhatsApp."
   },
   "category": {
     "slug": "hinges",
@@ -18,9 +18,18 @@
   "products": [],
   "faq_heading": "Hinge Questions",
   "faqs": [
-    { "question": "How do I know if it's the hinge and not the screen?", "answer": "If the screen won't stay upright, feels loose, or you hear cracking near the edges when opening or closing the lid, it's usually the hinge rather than the panel. Send us a short video on WhatsApp and we can help you confirm." },
-    { "question": "Does the kit include both sides?", "answer": "Yes — each listing is a full left-and-right hinge kit for that model unless stated otherwise." },
-    { "question": "Can I fit this myself?", "answer": "It requires opening the display bezel, so most customers have it fitted by us or a technician. We can recommend the fitting process on WhatsApp." }
+    {
+      "question": "How do I know if it's the hinge and not the screen?",
+      "answer": "If the screen won't stay upright, feels loose, or you hear cracking near the edges when opening or closing the lid, it's usually the hinge rather than the panel. Send us a short video on WhatsApp and we can help you confirm."
+    },
+    {
+      "question": "Does the kit include both sides?",
+      "answer": "Yes — each listing is a full left-and-right hinge kit for that model unless stated otherwise."
+    },
+    {
+      "question": "Can I fit this myself?",
+      "answer": "It requires opening the display bezel, so most customers have it fitted by us or a technician. We can recommend the fitting process on WhatsApp."
+    }
   ],
   "empty_state": {
     "whatsapp_text": "Hi%2C%20I%27m%20looking%20for%20a%20laptop%20hinge%20kit%20but%20couldn%27t%20find%20it%20on%20the%20site."

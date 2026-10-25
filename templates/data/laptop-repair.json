@@ -1,21 +1,15 @@
 {
-  "_confirm": [
-    "Repairs > Charging Faults mentions the charging port. Remove that wording if you do not repair charging ports.",
-    "How A Repair Works, steps 2 to 4: quote before work starts, drop-off arrangement, tested before hand-back. Edit to match how you really work.",
-    "Optional: add your repair warranty as another entry in why.points, e.g. 'X-month warranty on repairs'.",
-    "Photos: replace the two files in assets/images/repairs/ and update the alt text in page.image and why.image to describe them."
-  ],
   "meta": {
     "title": "Laptop Repairs in Nairobi | Zanatechnologies Laptop Parts Kenya",
-    "description": "Laptop repairs in Nairobi using genuine parts: screens, batteries, keyboards, hinges, fans, casings and charging faults. Send your model on WhatsApp for a diagnosis and quote."
+    "description": "Laptop repairs in Nairobi using quality parts: screens, batteries, keyboards, hinges, fans, casings and charging faults. Send your model on WhatsApp for a diagnosis and quote."
   },
   "og": {
     "title": "Laptop Repairs in Nairobi | Zanatechnologies",
-    "description": "Screen, battery, keyboard, hinge, fan and casing repairs using genuine parts. Diagnosis and quote on WhatsApp."
+    "description": "Screen, battery, keyboard, hinge, fan and casing repairs using quality parts. Diagnosis and quote on WhatsApp."
   },
   "page": {
-    "heading": "Laptop Repairs In Nairobi, Fitted With Genuine Parts",
-    "intro": "Cracked screen, dead battery or a laptop that won't charge? Tell us the model and the problem. We diagnose it, give you a price, and fix it with the same genuine parts we sell across Kenya.",
+    "heading": "Laptop Repairs In Nairobi, Fitted With Quality Parts",
+    "intro": "Cracked screen, dead battery or a laptop that won't charge? Tell us the model and the problem. We diagnose it, give you a price, and fix it with the same quality parts we sell across Kenya.",
     "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20book%20a%20laptop%20repair.%20My%20laptop%20model%20and%20the%20problem%20are%3A%20",
     "cta_label": "Book a Repair on WhatsApp",
     "secondary_cta_label": "Diagnose the Problem",
@@ -23,7 +17,7 @@
     "trust_row": [
       {
         "icon": "✓",
-        "label": "Genuine parts"
+        "label": "Fit confirmed first"
       },
       {
         "icon": "✓",
@@ -48,7 +42,7 @@
       {
         "icon": "🖥",
         "label": "Screen Replacement",
-        "desc": "Cracked, flickering, lined or blank screen. We fit a genuine replacement panel matched to your model."
+        "desc": "Cracked, flickering, lined or blank screen. We fit a replacement panel matched to your model."
       },
       {
         "icon": "🔋",
@@ -104,7 +98,7 @@
       },
       {
         "title": "We fix it and hand it back",
-        "desc": "Your laptop is repaired with a genuine part and tested before you collect it."
+        "desc": "Your laptop is repaired with a quality part and tested before you collect it."
       }
     ]
   },
@@ -119,7 +113,7 @@
     },
     "points": [
       {
-        "label": "Genuine parts, tested, not old take-outs"
+        "label": "Parts tested before they are fitted"
       },
       {
         "label": "Compatibility checked against your exact model number"
@@ -185,5 +179,10 @@
     "copy": "Message us your laptop model and the problem. We'll take it from there.",
     "cta_text": "Book a Repair on WhatsApp",
     "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20book%20a%20laptop%20repair.%20My%20laptop%20model%20and%20the%20problem%20are%3A%20"
-  }
+  },
+  "_confirm": [
+    "Repairs > Charging Faults mentions the charging port. Remove that wording if you do not repair charging ports.",
+    "How A Repair Works, steps 2 to 4: quote before work starts, drop-off arrangement, tested before hand-back. Edit to match how you really work.",
+    "Photos: replace the two files in assets/images/repairs/ and update the alt text in page.image and why.image to describe them."
+  ]
 }

@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Laptop Chargers &amp; Power Adapters in Kenya — HP, Dell, Lenovo, Acer &amp; More | [Store Name]",
-    "description": "Genuine and compatible laptop chargers and power adapters for HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook. In-stock pricing in KES, warranty included, countrywide delivery. Order on WhatsApp."
+    "title": "Laptop Chargers &amp; Power Adapters in Kenya — HP, Dell, Lenovo, Acer &amp; More | Zanatechnologies",
+    "description": "Genuine and compatible laptop chargers and power adapters for HP, Dell, Lenovo, Acer, Toshiba, Asus and MacBook. In-stock pricing in KES, countrywide delivery. Order on WhatsApp."
   },
   "og": {
-    "title": "Laptop Chargers &amp; Power Adapters in Kenya | [Store Name]",
-    "description": "Genuine and compatible chargers for all major laptop brands. In-stock pricing, warranty included, order on WhatsApp."
+    "title": "Laptop Chargers &amp; Power Adapters in Kenya | Zanatechnologies",
+    "description": "Genuine and compatible chargers for all major laptop brands. In-stock pricing, order on WhatsApp."
   },
   "category": {
     "slug": "chargers",
@@ -548,10 +548,6 @@
     {
       "question": "Is a higher-wattage charger safe to use?",
       "answer": "Yes — a charger rated higher than your laptop's original wattage is safe; your laptop only draws what it needs. A lower-wattage charger should be avoided."
-    },
-    {
-      "question": "What warranty comes with a charger?",
-      "answer": "Most chargers carry a 3-month warranty, listed on the individual product page."
     }
   ],
   "empty_state": {

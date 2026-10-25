@@ -1,11 +1,11 @@
 {
   "meta": {
     "title": "Laptop Motherboards Price in Kenya | HP, Dell, Lenovo | Zanatechnologies",
-    "description": "Replacement laptop motherboards in Nairobi, including HP ProBook and EliteBook boards. In-stock pricing in KES, warranty included, order on WhatsApp."
+    "description": "Replacement laptop motherboards in Nairobi, including HP ProBook and EliteBook boards. In-stock pricing in KES, order on WhatsApp."
   },
   "og": {
     "title": "Laptop Motherboards | Zanatechnologies",
-    "description": "Laptop motherboards in stock in Nairobi. Warranty included, order on WhatsApp."
+    "description": "Laptop motherboards in stock in Nairobi. Order on WhatsApp."
   },
   "category": {
     "slug": "motherboards",
@@ -26,10 +26,18 @@
   },
   "faq_heading": "Motherboard Questions",
   "faqs": [
-    { "question": "Will a motherboard fit my laptop?", "answer": "Motherboards are specific to the laptop model and processor. Send us your laptop model, or a photo of the sticker under the laptop, on WhatsApp and we'll confirm before you order." },
-    { "question": "How do I know the motherboard is my problem?", "answer": "A laptop that won't power on, has no display, restarts by itself or has stopped charging may have a faulty motherboard, but the fault can also be the charger, battery, RAM or screen. Send us the symptoms on WhatsApp and we'll help you check before you buy." },
-    { "question": "Can I fit a motherboard myself?", "answer": "The laptop has to be taken apart to reach the board, so most customers have it fitted by us. Tell us your model on WhatsApp and we'll say what the job involves." },
-    { "question": "What warranty comes with motherboards?", "answer": "Motherboards ship with warranty as noted on each listing. Message us on WhatsApp for the current term before ordering." }
+    {
+      "question": "Will a motherboard fit my laptop?",
+      "answer": "Motherboards are specific to the laptop model and processor. Send us your laptop model, or a photo of the sticker under the laptop, on WhatsApp and we'll confirm before you order."
+    },
+    {
+      "question": "How do I know the motherboard is my problem?",
+      "answer": "A laptop that won't power on, has no display, restarts by itself or has stopped charging may have a faulty motherboard, but the fault can also be the charger, battery, RAM or screen. Send us the symptoms on WhatsApp and we'll help you check before you buy."
+    },
+    {
+      "question": "Can I fit a motherboard myself?",
+      "answer": "The laptop has to be taken apart to reach the board, so most customers have it fitted by us. Tell us your model on WhatsApp and we'll say what the job involves."
+    }
   ],
   "products": [
     {
@@ -41,7 +49,11 @@
       "image": "assets/images/products/hp-probook-430-g4-440-g4-i5-7th-gen-motherboard.webp",
       "alt": "HP ProBook 430 G4 / 440 G4 Core i5 7th gen laptop motherboard, top view",
       "name": "HP ProBook 430 G4 / 440 G4 Core i5 7th Gen Motherboard",
-      "tags": ["HP ProBook 430 G4", "HP ProBook 440 G4", "Core i5 7th Gen"],
+      "tags": [
+        "HP ProBook 430 G4",
+        "HP ProBook 440 G4",
+        "Core i5 7th Gen"
+      ],
       "price": "9,000",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -56,7 +68,11 @@
       "image": "assets/images/products/hp-elitebook-840-g8-830-g8-i7-11th-gen-motherboard.webp",
       "alt": "HP EliteBook 840 G8 / 830 G8 Core i7 11th gen laptop motherboard, top view",
       "name": "HP EliteBook 840 G8 / 830 G8 Core i7 11th Gen Motherboard",
-      "tags": ["HP EliteBook 840 G8", "HP EliteBook 830 G8", "Core i7 11th Gen"],
+      "tags": [
+        "HP EliteBook 840 G8",
+        "HP EliteBook 830 G8",
+        "Core i7 11th Gen"
+      ],
       "price": "20,500",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -71,7 +87,11 @@
       "image": "assets/images/products/hp-elitebook-845-g7-ryzen-7-pro-4750u-motherboard.webp",
       "alt": "HP EliteBook 845 G7 AMD Ryzen 7 Pro 4750U laptop motherboard, top view",
       "name": "HP EliteBook 845 G7 AMD Ryzen 7 Pro 4750U Motherboard",
-      "tags": ["HP EliteBook 845 G7", "Ryzen 7 Pro 4750U", "1.7GHz"],
+      "tags": [
+        "HP EliteBook 845 G7",
+        "Ryzen 7 Pro 4750U",
+        "1.7GHz"
+      ],
       "price": "17,500",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -86,7 +106,10 @@
       "image": "assets/images/products/dell-latitude-e7270-i5-6th-gen-motherboard.webp",
       "alt": "Dell Latitude E7270 Core i5 6th gen laptop motherboard, top view",
       "name": "Dell Latitude E7270 Core i5 6th Gen Motherboard",
-      "tags": ["Dell Latitude E7270", "Core i5 6th Gen"],
+      "tags": [
+        "Dell Latitude E7270",
+        "Core i5 6th Gen"
+      ],
       "price": "9,500",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -101,7 +124,10 @@
       "image": "assets/images/products/dell-latitude-e7490-i5-7th-gen-motherboard.webp",
       "alt": "Dell Latitude E7490 Core i5 7th gen laptop motherboard, top view",
       "name": "Dell Latitude E7490 Core i5 7th Gen Motherboard",
-      "tags": ["Dell Latitude E7490", "Core i5 7th Gen"],
+      "tags": [
+        "Dell Latitude E7490",
+        "Core i5 7th Gen"
+      ],
       "price": "10,500",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -116,7 +142,10 @@
       "image": "assets/images/products/dell-latitude-13-5300-2-in-1-i5-8th-gen-motherboard.webp",
       "alt": "Dell Latitude 13 5300 2-in-1 Core i5 8th gen laptop motherboard, top view",
       "name": "Dell Latitude 13 5300 2-in-1 Core i5 8th Gen Motherboard",
-      "tags": ["Dell Latitude 13 5300 2-in-1", "Core i5 8th Gen"],
+      "tags": [
+        "Dell Latitude 13 5300 2-in-1",
+        "Core i5 8th Gen"
+      ],
       "price": "12,500",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",

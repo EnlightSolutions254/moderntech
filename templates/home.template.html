@@ -55,19 +55,6 @@
 <a class="skip-link" href="#main-content">Skip to main content</a>
 
 <!-- ============================================
-     1. ANNOUNCEMENT BAR (shared organism)
-============================================= -->
-<div class="announcement-bar" id="announcement-bar" role="region" aria-label="Store announcement">
-  <p class="announcement-bar__text">
-    <span class="announcement-bar__icon" aria-hidden="true">&#9654;</span>
-    Same-day delivery in Nairobi &nbsp;&middot;&nbsp; M-Pesa accepted &nbsp;&middot;&nbsp; Genuine parts only
-  </p>
-  <button type="button" class="announcement-bar__close" id="announcement-close" aria-label="Dismiss announcement">
-    <svg width="14" height="14" viewBox="0 0 14 14" aria-hidden="true"><path d="M1 1L13 13M13 1L1 13" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
-  </button>
-</div>
-
-<!-- ============================================
      2. HEADER (shared organism)
 ============================================= -->
 <header class="site-header" id="site-header">
@@ -203,7 +190,7 @@
 
 <main id="main-content">
 
-  <section class="zx-cats" aria-label="Browse categories">
+  <section class="zx-cats" id="browse-categories" aria-label="Browse categories">
     <div class="container">
       <div class="zx-cats__row">
         {{#each category_circles}}
@@ -233,11 +220,6 @@
              href="https://wa.me/{{store.phone_e164_bare}}?text={{hero.whatsapp_href_text}}"
              target="_blank" rel="noopener">{{hero.whatsapp_cta_text}}</a>
         </div>
-        <ul class="hero__trust-row">
-          {{#each hero.trust_row}}
-          <li><span aria-hidden="true">{{this.icon}}</span> {{this.label}}</li>
-          {{/each}}
-        </ul>
       </div>
 
       <!-- Hero tiles: glass bento. Image per tile is optional (icon shows if missing). -->
@@ -375,7 +357,7 @@
         {{/each}}
       </div>
       <div class="load-more-wrap">
-        <a class="btn btn--ghost" href="#shop-by-part-heading">{{featured_products.view_all_text}}</a>
+        <a class="btn btn--ghost" href="#browse-categories">{{featured_products.view_all_text}}</a>
       </div>
     </div>
   </section>
@@ -404,26 +386,6 @@
         <a class="btn btn--primary btn--lg" href="{{repair_band.url}}">{{repair_band.cta_text}}</a>
       </div>
       <div class="zx-repair__media"><img src="/{{repair_band.image}}" alt="{{repair_band.alt}}" width="640" height="420" loading="lazy" decoding="async" onerror="this.remove()"></div>
-    </div>
-  </section>
-
-  <!-- ============================================
-       8. WHY CHOOSE US / TRUST BAR
-  ============================================= -->
-  <section class="section section--muted" aria-labelledby="trust-heading">
-    <div class="container">
-      <div class="section-heading">
-        <h2 id="trust-heading">{{trust_bar.headline}}</h2>
-      </div>
-      <div class="trust-grid">
-        {{#each trust_bar.items}}
-        <div class="trust-item">
-          <span class="trust-item__icon" aria-hidden="true">{{this.icon}}</span>
-          <p class="trust-item__label">{{this.label}}</p>
-          <p class="trust-item__desc">{{this.desc}}</p>
-        </div>
-        {{/each}}
-      </div>
     </div>
   </section>
 
@@ -464,26 +426,6 @@
       <a class="btn btn--whatsapp btn--lg"
          href="https://wa.me/{{store.phone_e164_bare}}?text={{technician_cta.whatsapp_text}}"
          target="_blank" rel="noopener">Chat About Bulk Pricing</a>
-    </div>
-  </section>
-
-  <!-- ============================================
-       11. CUSTOMER TESTIMONIALS
-  ============================================= -->
-  <section class="section section--muted" aria-labelledby="testimonials-heading">
-    <div class="container">
-      <div class="section-heading">
-        <h2 id="testimonials-heading">What Our Customers Say</h2>
-      </div>
-      <div class="testimonial-track">
-        {{#each testimonials}}
-        <div class="testimonial-card">
-          <span class="testimonial-card__avatar" aria-hidden="true">{{this.initial}}</span>
-          <p class="testimonial-card__quote">&#8220;{{this.quote}}&#8221;</p>
-          <p class="testimonial-card__attribution">{{this.name}}, {{this.role}}</p>
-        </div>
-        {{/each}}
-      </div>
     </div>
   </section>
 
@@ -531,7 +473,7 @@
   <div class="container zx-foot-top">
     <div class="zx-foot-brand">
       <span class="zx-foot-brand__name">{{store.name_html}}</span>
-      <p>Genuine laptop parts and repairs, delivered across Kenya.</p>
+      <p>Laptop parts and repairs, delivered across Kenya.</p>
     </div>
     <div class="zx-foot-cta">
       <a class="btn btn--whatsapp btn--lg" href="https://wa.me/{{store.phone_e164_bare}}?text=Hi%2C%20I%27d%20like%20some%20help%20finding%20a%20laptop%20part." target="_blank" rel="noopener">Chat on WhatsApp</a>
@@ -584,7 +526,7 @@
 
   <div class="container">
     <ul class="zx-foot-chips">
-      <li>M-Pesa</li><li>Cash on delivery</li><li>Countrywide delivery</li><li>Genuine parts</li>
+      <li>M-Pesa</li><li>Cash on delivery</li><li>Countrywide delivery</li><li>Fit confirmed first</li>
     </ul>
   </div>
 
@@ -594,7 +536,6 @@
       <ul class="site-footer__legal">
         <li><a href="/privacy.html">Privacy Policy</a></li>
         <li><a href="/terms.html">Terms of Service</a></li>
-        <li><a href="/warranty.html">Warranty &amp; Returns</a></li>
       </ul>
     </div>
   </div>
