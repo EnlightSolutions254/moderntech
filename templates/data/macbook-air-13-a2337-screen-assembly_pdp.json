@@ -1,11 +1,11 @@
 {
   "meta": {
     "title": "MacBook Air A2337 Screen | Price in Kenya | Zanatechnologies",
-    "description": "Replacement Retina screen assembly for MacBook Air 13-inch M1 (A2337, 2020), 2560 x 1600. Space Gray, Silver or Gold. Warranty included, order on WhatsApp."
+    "description": "Replacement Retina screen assembly for MacBook Air 13-inch M1 (A2337, 2020), 2560 x 1600. Space Gray, Silver or Gold. Order on WhatsApp."
   },
   "og": {
     "title": "MacBook Air 13-inch (A2337) Screen Assembly | Zanatechnologies",
-    "description": "Replacement Retina screen for MacBook Air M1 A2337. In stock, warranty included, order on WhatsApp."
+    "description": "Replacement Retina screen for MacBook Air M1 A2337. In stock, order on WhatsApp."
   },
   "category": {
     "slug": "screens",
@@ -71,10 +71,6 @@
       {
         "label": "Condition",
         "value": "New"
-      },
-      {
-        "label": "Warranty",
-        "value": "3 Months"
       }
     ],
     "related": []
@@ -93,10 +89,6 @@
     {
       "question": "Do you install the screen, or is it self-fit?",
       "answer": "We recommend having it fitted by us in Nairobi, as the display is delicate and the lid has to be opened carefully. If you're upcountry or prefer your own technician, we can ship it with fitting instructions."
-    },
-    {
-      "question": "What warranty comes with this screen?",
-      "answer": "This screen carries a 3-month warranty against dead pixels and panel defects."
     }
   ]
 }

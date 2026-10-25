@@ -5,7 +5,7 @@
   },
   "og": {
     "title": "HP 250 G7 Casing | Zanatechnologies",
-    "description": "Full casing kit or individual panels for HP 250/255/256 G7. In stock in Nairobi, warranty included."
+    "description": "Full casing kit or individual panels for HP 250/255/256 G7. In stock in Nairobi."
   },
   "category": {
     "slug": "casings",
@@ -40,8 +40,10 @@
       }
     ],
     "badges": [
-      { "class": "badge--in-stock", "label": "In Stock" },
-      { "class": "badge--warranty", "label": "Warranty Included" }
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
     ],
     "description": "Replacement casing for the HP 250 G7 (also fits 255 G7 and 256 G7). Available as the full kit (both lid and chassis) or as individual panels if you only need one side replaced — see \"Choose Your Part\" below for exactly what's included in each option and its price, then tell us which one you need when you message us on WhatsApp.",
     "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20an%20HP%20250%20G7%20casing%20%E2%80%94%20please%20let%20me%20know%3A%20Full%20Kit%2C%20Part%20AB%2C%20or%20Part%20CD",
@@ -76,10 +78,18 @@
       }
     ],
     "specs": [
-      { "label": "Material", "value": "ABS plastic" },
-      { "label": "Includes", "value": "Casing panel(s), screw set, rubber feet" },
-      { "label": "Condition", "value": "New" },
-      { "label": "Warranty", "value": "3 months (manufacturing defects)" }
+      {
+        "label": "Material",
+        "value": "ABS plastic"
+      },
+      {
+        "label": "Includes",
+        "value": "Casing panel(s), screw set, rubber feet"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      }
     ],
     "compatible_models": [
       "HP 250 G7",
@@ -90,10 +100,21 @@
   },
   "faq_heading": "Casing Questions",
   "faqs": [
-    { "question": "What's the difference between Part AB, Part CD and the Full Kit?", "answer": "Part AB is the lid — the LCD back cover and screen bezel. Part CD is the palmrest, keyboard tray and touchpad housing. The Full Kit is both parts together at a combined price." },
-    { "question": "Do I need both parts?", "answer": "Only if both are damaged. If just one side is cracked or broken, you only need that part — tell us which on WhatsApp and we'll confirm the price." },
-    { "question": "Does the casing come with a keyboard or trackpad fitted?", "answer": "No — these are bare panels. The trackpad housing is part of Part CD, but the keyboard and trackpad itself transfer over from your existing casing." },
-    { "question": "Can I fit this myself?", "answer": "It involves a full teardown of the laptop, so most customers have it fitted by us. We can talk you through it on WhatsApp if you'd rather do it yourself." },
-    { "question": "What warranty comes with a casing?", "answer": "Every casing here carries a 3-month warranty against manufacturing defects such as cracking or misaligned mounting points." }
+    {
+      "question": "What's the difference between Part AB, Part CD and the Full Kit?",
+      "answer": "Part AB is the lid — the LCD back cover and screen bezel. Part CD is the palmrest, keyboard tray and touchpad housing. The Full Kit is both parts together at a combined price."
+    },
+    {
+      "question": "Do I need both parts?",
+      "answer": "Only if both are damaged. If just one side is cracked or broken, you only need that part — tell us which on WhatsApp and we'll confirm the price."
+    },
+    {
+      "question": "Does the casing come with a keyboard or trackpad fitted?",
+      "answer": "No — these are bare panels. The trackpad housing is part of Part CD, but the keyboard and trackpad itself transfer over from your existing casing."
+    },
+    {
+      "question": "Can I fit this myself?",
+      "answer": "It involves a full teardown of the laptop, so most customers have it fitted by us. We can talk you through it on WhatsApp if you'd rather do it yourself."
+    }
   ]
 }

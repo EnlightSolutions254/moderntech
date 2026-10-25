@@ -1,11 +1,11 @@
 {
   "meta": {
     "title": "Lenovo Flex 5-14 Touch Screen | Zanatechnologies",
-    "description": "Replacement touch screen assembly for Lenovo ThinkPad Flex 5-14. In-stock pricing in KES, warranty included, order on WhatsApp."
+    "description": "Replacement touch screen assembly for Lenovo ThinkPad Flex 5-14. In-stock pricing in KES, order on WhatsApp."
   },
   "og": {
     "title": "Lenovo Flex 5-14 Touch Screen | Zanatechnologies",
-    "description": "Replacement touch screen for Lenovo Flex 5-14. In stock, warranty included, order on WhatsApp."
+    "description": "Replacement touch screen for Lenovo Flex 5-14. In stock, order on WhatsApp."
   },
   "category": {
     "slug": "screens",
@@ -32,7 +32,10 @@
       }
     ],
     "badges": [
-      { "class": "badge--in-stock", "label": "In Stock" }
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
     ],
     "price": "18,500",
     "price_raw": "18500",
@@ -41,19 +44,35 @@
     "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20Flex%205-14%20Touch%20Screen%20%E2%80%94%20KES%2018%2C500",
     "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20Lenovo%20Flex%205-14%20Touch%20Screen",
     "specs": [
-      { "label": "Compatible Models", "value": "Lenovo Flex 5-14" },
-      { "label": "Panel Size", "value": "14.0\"" },
-      { "label": "Touch", "value": "Yes (touch panel)" },
-      { "label": "Condition", "value": "New" },
-      { "label": "Warranty", "value": "3 Months" }
+      {
+        "label": "Compatible Models",
+        "value": "Lenovo Flex 5-14"
+      },
+      {
+        "label": "Panel Size",
+        "value": "14.0\""
+      },
+      {
+        "label": "Touch",
+        "value": "Yes (touch panel)"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      }
     ],
     "related": []
   },
   "delivery_note": "Nairobi same-day, countrywide 1-2 days",
   "faq_heading": "Screen Questions",
   "faqs": [
-    { "question": "How do I know this screen fits my laptop?", "answer": "This fits the Lenovo Flex 5-14. If you're unsure of your exact model or want us to confirm the connector before you order, send us a photo of the sticker under your laptop on WhatsApp." },
-    { "question": "Do you install the screen, or is it self-fit?", "answer": "We can install it for you in Nairobi, or ship it with fitting instructions if you're upcountry or prefer your own technician." },
-    { "question": "What warranty comes with this screen?", "answer": "This screen carries a 3-month warranty against dead pixels and panel defects." }
+    {
+      "question": "How do I know this screen fits my laptop?",
+      "answer": "This fits the Lenovo Flex 5-14. If you're unsure of your exact model or want us to confirm the connector before you order, send us a photo of the sticker under your laptop on WhatsApp."
+    },
+    {
+      "question": "Do you install the screen, or is it self-fit?",
+      "answer": "We can install it for you in Nairobi, or ship it with fitting instructions if you're upcountry or prefer your own technician."
+    }
   ]
 }

@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "HP BT04XL Original Battery — KES 4,000 | [Store Name]",
-    "description": "HP BT04XL Original Battery — fits EliteBook Folio 9470, EliteBook Folio 9480. Tested before dispatch, with warranty support."
+    "title": "HP BT04XL Original Battery — KES 4,000 | Zanatechnologies",
+    "description": "HP BT04XL Original Battery — fits EliteBook Folio 9470, EliteBook Folio 9480."
   },
   "og": {
-    "title": "HP BT04XL Original Battery | [Store Name]",
-    "description": "HP BT04XL Original Battery — fits EliteBook Folio 9470, EliteBook Folio 9480. Tested before dispatch, with warranty support."
+    "title": "HP BT04XL Original Battery | Zanatechnologies",
+    "description": "HP BT04XL Original Battery — fits EliteBook Folio 9470, EliteBook Folio 9480."
   },
   "category": {
     "slug": "laptop-batteries",
@@ -22,10 +22,6 @@
     {
       "question": "Are these original or compatible batteries?",
       "answer": "It's stated clearly above — Original (OEM) or Replacement (OEM-equivalent)."
-    },
-    {
-      "question": "What warranty comes with this battery?",
-      "answer": "This battery carries a 6-month warranty."
     }
   ],
   "product": {
@@ -38,7 +34,7 @@
     "price": "4,000",
     "price_raw": "4000",
     "schema_availability": "https://schema.org/InStock",
-    "description": "HP BT04XL Original Battery — fits EliteBook Folio 9470, EliteBook Folio 9480. Tested before dispatch, with warranty support.",
+    "description": "HP BT04XL Original Battery — fits EliteBook Folio 9470, EliteBook Folio 9480.",
     "type_label": "battery",
     "type_label_cap": "Battery",
     "badges": [
@@ -69,10 +65,6 @@
       {
         "label": "Condition",
         "value": "Brand New"
-      },
-      {
-        "label": "Warranty",
-        "value": "6 Months"
       }
     ],
     "compatible_models": [

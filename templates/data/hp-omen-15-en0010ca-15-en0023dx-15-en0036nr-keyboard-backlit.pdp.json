@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "HP Omen 15-en0010ca/15-en0023dx/15-en0036nr Keyboard — White Backlit, US/UK Layout | [Store Name]",
-    "description": "Genuine replacement white backlit keyboard for the HP Omen 15-en0010ca, 15-en0023dx and 15-en0036nr. US/UK layout. Warranty included, order on WhatsApp."
+    "title": "HP Omen 15-en0010ca/15-en0023dx/15-en0036nr Keyboard — White Backlit, US/UK Layout | Zanatechnologies",
+    "description": "Replacement white backlit keyboard for the HP Omen 15-en0010ca, 15-en0023dx and 15-en0036nr. US/UK layout. Order on WhatsApp."
   },
   "og": {
-    "title": "HP Omen 15-en0010ca/15-en0023dx/15-en0036nr Keyboard (White Backlit) | [Store Name]",
-    "description": "Genuine white backlit replacement keyboard for the HP Omen 15-en0010ca/15-en0023dx/15-en0036nr. In stock, warranty included."
+    "title": "HP Omen 15-en0010ca/15-en0023dx/15-en0036nr Keyboard (White Backlit) | Zanatechnologies",
+    "description": "Genuine white backlit replacement keyboard for the HP Omen 15-en0010ca/15-en0023dx/15-en0036nr. In stock."
   },
   "category": {
     "slug": "keyboards",
@@ -22,10 +22,16 @@
     "name": "HP Omen 15-en0010ca/15-en0023dx/15-en0036nr Keyboard (White Backlit)",
     "full_name": "HP Omen 15-en0010ca, 15-en0023dx, 15-en0036nr Replacement Keyboard — White Backlit, US/UK Layout",
     "images": [
-      { "src": "assets/images/products/hp-keyboard-omen15en0010ca15en0023dx15en0036nr-backlit.webp", "alt": "Replacement white backlit keyboard for HP Omen 15-en0010ca/15-en0023dx/15-en0036nr" }
+      {
+        "src": "assets/images/products/hp-keyboard-omen15en0010ca15en0023dx15en0036nr-backlit.webp",
+        "alt": "Replacement white backlit keyboard for HP Omen 15-en0010ca/15-en0023dx/15-en0036nr"
+      }
     ],
     "badges": [
-      { "class": "badge--in-stock", "label": "In Stock" }
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
     ],
     "price": "4,500",
     "price_raw": "4500",
@@ -39,22 +45,47 @@
       "HP Omen 15-en0036nr"
     ],
     "specs": [
-      { "label": "Layout", "value": "US or UK QWERTY (specify when ordering)" },
-      { "label": "Backlight", "value": "Yes (White)" },
-      { "label": "Color", "value": "Black with White Backlight" },
-      { "label": "Frame", "value": "Included" },
-      { "label": "Fitting", "value": "Direct replacement, no adhesive required" },
-      { "label": "Condition", "value": "New" },
-      { "label": "Warranty", "value": "3 Months" }
+      {
+        "label": "Layout",
+        "value": "US or UK QWERTY (specify when ordering)"
+      },
+      {
+        "label": "Backlight",
+        "value": "Yes (White)"
+      },
+      {
+        "label": "Color",
+        "value": "Black with White Backlight"
+      },
+      {
+        "label": "Frame",
+        "value": "Included"
+      },
+      {
+        "label": "Fitting",
+        "value": "Direct replacement, no adhesive required"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      }
     ],
     "related": []
   },
   "delivery_note": "Nairobi same-day, countrywide 1-2 days",
   "faq_heading": "Keyboard Questions",
   "faqs": [
-    { "question": "How do I know this keyboard fits my laptop?", "answer": "This fits the HP Omen 15-en0010ca, 15-en0023dx and 15-en0036nr, which share the same chassis. If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
-    { "question": "Is it backlit?", "answer": "Yes, this version has a white backlight, matching the original." },
-    { "question": "Is it US or UK layout?", "answer": "Both layouts are available — let us know which you need when ordering." },
-    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+    {
+      "question": "How do I know this keyboard fits my laptop?",
+      "answer": "This fits the HP Omen 15-en0010ca, 15-en0023dx and 15-en0036nr, which share the same chassis. If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is it backlit?",
+      "answer": "Yes, this version has a white backlight, matching the original."
+    },
+    {
+      "question": "Is it US or UK layout?",
+      "answer": "Both layouts are available — let us know which you need when ordering."
+    }
   ]
 }

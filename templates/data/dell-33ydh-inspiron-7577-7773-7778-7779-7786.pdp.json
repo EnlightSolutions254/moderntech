@@ -1,11 +1,11 @@
 {
   "meta": {
     "title": "Dell 33YDH Battery — Inspiron 7577, 7773, 7778, 7779, 7786, G3, G5, G7 & More | Zanatechnologies",
-    "description": "Genuine replacement Dell 33YDH battery, 15.2V, for Inspiron 15 7577, Inspiron 17 7773/7778/7779/7786, G3 15 3579, G3 17 3779, G5 15 5587, G7 15 7588, Latitude 13 3380, 14 3490, 15 3580/3590. In-stock pricing in KES, warranty included, order on WhatsApp."
+    "description": "Replacement Dell 33YDH battery, 15.2V, for Inspiron 15 7577, Inspiron 17 7773/7778/7779/7786, G3 15 3579, G3 17 3779, G5 15 5587, G7 15 7588, Latitude 13 3380, 14 3490, 15 3580/3590. In-stock pricing in KES, order on WhatsApp."
   },
   "og": {
     "title": "Dell 33YDH Battery | Zanatechnologies",
-    "description": "Genuine Dell 33YDH replacement battery for Inspiron 15/17, G3, G5, G7 and Latitude series. In stock, warranty included, order on WhatsApp."
+    "description": "Genuine Dell 33YDH replacement battery for Inspiron 15/17, G3, G5, G7 and Latitude series. In stock, order on WhatsApp."
   },
   "category": {
     "slug": "laptop-batteries",
@@ -71,10 +71,6 @@
       {
         "label": "Condition",
         "value": "New"
-      },
-      {
-        "label": "Warranty",
-        "value": "6 Months"
       }
     ],
     "related": []
@@ -89,10 +85,6 @@
     {
       "question": "Is this an original or compatible battery?",
       "answer": "We stock genuine OEM batteries — this is a genuine Dell 33YDH-family unit."
-    },
-    {
-      "question": "What warranty comes with this battery?",
-      "answer": "This battery carries a 6-month warranty."
     }
   ]
 }

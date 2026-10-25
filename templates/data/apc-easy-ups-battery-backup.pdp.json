@@ -36,18 +36,35 @@
       }
     ],
     "badges": [
-      { "class": "badge--in-stock", "label": "In Stock" }
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
     ],
     "description": "APC Easy UPS battery backup by Schneider Electric. It keeps your desktop PC, router and other small electronics powered for a short time when the electricity goes off, so you can save your work and shut down safely. KES 21,500. Not sure how much power you need to back up? Tell us what you plan to plug in and we will confirm it is the right fit.",
     "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20APC%20Easy%20UPS%20Battery%20Backup%20%E2%80%94%20KES%2021%2C500",
     "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20ask%20about%20the%20APC%20Easy%20UPS%20Battery%20Backup.%20I%20want%20to%20power%3A%20",
     "specs": [
-      { "label": "Type", "value": "UPS battery backup" },
-      { "label": "Brand", "value": "APC by Schneider Electric" },
-      { "label": "Series", "value": "Easy UPS" },
-      { "label": "Capacity", "value": "Ask on WhatsApp for the exact rating" },
-      { "label": "Condition", "value": "New" },
-      { "label": "Warranty", "value": "Ask on WhatsApp for current term" }
+      {
+        "label": "Type",
+        "value": "UPS battery backup"
+      },
+      {
+        "label": "Brand",
+        "value": "APC by Schneider Electric"
+      },
+      {
+        "label": "Series",
+        "value": "Easy UPS"
+      },
+      {
+        "label": "Capacity",
+        "value": "Ask on WhatsApp for the exact rating"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      }
     ],
     "compatible_models": [
       "Desktop PCs, routers, modems and small office equipment within the UPS power rating"
@@ -56,9 +73,17 @@
   },
   "faq_heading": "UPS Questions",
   "faqs": [
-    { "question": "What does a UPS do?", "answer": "A UPS keeps your equipment running on its battery when the mains power goes off. It gives you time to save your work and shut down properly, and it also helps protect your equipment from power surges." },
-    { "question": "How long will it keep my PC running?", "answer": "That depends on how much equipment you plug in. A single desktop PC will run longer than a PC with a monitor, router and other devices all connected. Tell us what you want to power on WhatsApp and we'll advise." },
-    { "question": "Can I plug a printer or heater into it?", "answer": "No. Do not plug laser printers, heaters, kettles or other high-power appliances into a UPS. Use it for computers, routers and similar electronics." },
-    { "question": "What warranty comes with this UPS?", "answer": "Message us on WhatsApp for the current warranty term before ordering." }
+    {
+      "question": "What does a UPS do?",
+      "answer": "A UPS keeps your equipment running on its battery when the mains power goes off. It gives you time to save your work and shut down properly, and it also helps protect your equipment from power surges."
+    },
+    {
+      "question": "How long will it keep my PC running?",
+      "answer": "That depends on how much equipment you plug in. A single desktop PC will run longer than a PC with a monitor, router and other devices all connected. Tell us what you want to power on WhatsApp and we'll advise."
+    },
+    {
+      "question": "Can I plug a printer or heater into it?",
+      "answer": "No. Do not plug laser printers, heaters, kettles or other high-power appliances into a UPS. Use it for computers, routers and similar electronics."
+    }
   ]
 }

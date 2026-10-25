@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "MacBook Pro A2338 (13\" M1 2020) Keyboard Assembly | [Store Name]",
-    "description": "Genuine replacement keyboard assembly for the MacBook Pro 13\" A2338 (M1, 2020). US layout, non-backlit. Warranty included, order on WhatsApp."
+    "title": "MacBook Pro A2338 (13\" M1 2020) Keyboard Assembly | Zanatechnologies",
+    "description": "Replacement keyboard assembly for the MacBook Pro 13\" A2338 (M1, 2020). US layout, non-backlit. Order on WhatsApp."
   },
   "og": {
-    "title": "MacBook Pro A2338 Keyboard Assembly | [Store Name]",
-    "description": "Genuine replacement keyboard assembly for the MacBook Pro 13\" A2338 (M1, 2020). In stock, warranty included."
+    "title": "MacBook Pro A2338 Keyboard Assembly | Zanatechnologies",
+    "description": "Replacement keyboard assembly for the MacBook Pro 13\" A2338 (M1, 2020). In stock."
   },
   "category": {
     "slug": "keyboards",
@@ -22,10 +22,16 @@
     "name": "MacBook Pro A2338 Keyboard Assembly (Non-Backlit)",
     "full_name": "MacBook Pro 13\" A2338 (M1, 2020) Replacement Keyboard Assembly — Non-Backlit, US Layout",
     "images": [
-      { "src": "assets/images/products/macbook-keyboard-a2338.webp", "alt": "Replacement keyboard assembly for MacBook Pro 13-inch A2338" }
+      {
+        "src": "assets/images/products/macbook-keyboard-a2338.webp",
+        "alt": "Replacement keyboard assembly for MacBook Pro 13-inch A2338"
+      }
     ],
     "badges": [
-      { "class": "badge--in-stock", "label": "In Stock" }
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
     ],
     "price": "7,500",
     "price_raw": "7500",
@@ -37,13 +43,30 @@
       "MacBook Pro 13\" A2338 (M1, 2020)"
     ],
     "specs": [
-      { "label": "Layout", "value": "US English (QWERTY)" },
-      { "label": "Mechanism", "value": "Scissor-switch (Magic Keyboard)" },
-      { "label": "Backlight", "value": "No" },
-      { "label": "Type", "value": "Keyboard assembly (riveted, not standalone)" },
-      { "label": "Color", "value": "Space Gray / Silver" },
-      { "label": "Condition", "value": "New" },
-      { "label": "Warranty", "value": "3 Months" }
+      {
+        "label": "Layout",
+        "value": "US English (QWERTY)"
+      },
+      {
+        "label": "Mechanism",
+        "value": "Scissor-switch (Magic Keyboard)"
+      },
+      {
+        "label": "Backlight",
+        "value": "No"
+      },
+      {
+        "label": "Type",
+        "value": "Keyboard assembly (riveted, not standalone)"
+      },
+      {
+        "label": "Color",
+        "value": "Space Gray / Silver"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      }
     ],
     "related": [
       {
@@ -51,7 +74,10 @@
         "image": "assets/images/products/macbook-keyboard-a1708.webp",
         "alt": "Replacement keyboard assembly for MacBook Pro 13-inch A1708",
         "name": "MacBook Pro A1708 Keyboard Assembly",
-        "tags": ["A1708", "13\" 2016/2017"],
+        "tags": [
+          "A1708",
+          "13\" 2016/2017"
+        ],
         "price": "8,100",
         "badge_class": "badge--in-stock",
         "badge_label": "In Stock",
@@ -62,7 +88,10 @@
         "image": "assets/images/products/macbook-keyboard-a1466-a1369.webp",
         "alt": "Replacement keyboard assembly for MacBook Air 13-inch A1466 and A1369",
         "name": "MacBook Air A1466/A1369 Keyboard Assembly",
-        "tags": ["A1466/A1369", "13\""],
+        "tags": [
+          "A1466/A1369",
+          "13\""
+        ],
         "price": "4,300",
         "badge_class": "badge--in-stock",
         "badge_label": "In Stock",
@@ -73,9 +102,17 @@
   "delivery_note": "Nairobi same-day, countrywide 1-2 days",
   "faq_heading": "Keyboard Questions",
   "faqs": [
-    { "question": "How do I know this fits my MacBook?", "answer": "This fits the MacBook Pro 13\" A2338 (M1, 2020). Check the model number on the bottom of your MacBook, or send us a photo on WhatsApp to confirm." },
-    { "question": "Why is it sold as an assembly and not just a keyboard?", "answer": "This generation of MacBook keyboard is riveted directly into the top case, so it can't be swapped as a standalone part — it comes as a full assembly." },
-    { "question": "Is it backlit?", "answer": "No, this is the non-backlit version." },
-    { "question": "What warranty comes with this?", "answer": "This keyboard assembly carries a 3-month warranty." }
+    {
+      "question": "How do I know this fits my MacBook?",
+      "answer": "This fits the MacBook Pro 13\" A2338 (M1, 2020). Check the model number on the bottom of your MacBook, or send us a photo on WhatsApp to confirm."
+    },
+    {
+      "question": "Why is it sold as an assembly and not just a keyboard?",
+      "answer": "This generation of MacBook keyboard is riveted directly into the top case, so it can't be swapped as a standalone part — it comes as a full assembly."
+    },
+    {
+      "question": "Is it backlit?",
+      "answer": "No, this is the non-backlit version."
+    }
   ]
 }

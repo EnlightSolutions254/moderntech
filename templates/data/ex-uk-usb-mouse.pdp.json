@@ -36,18 +36,31 @@
       }
     ],
     "badges": [
-      { "class": "badge--in-stock", "label": "In Stock" },
-      { "class": "badge--warranty", "label": "Warranty Included" }
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
     ],
     "description": "Used Ex-UK USB mouse for laptops and desktops, KES 650 each. Imported from the UK, so it is not brand new. Brands vary with stock, so message us on WhatsApp to see what is available before you order.",
     "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Ex-UK%20USB%20Mouse%20%E2%80%94%20KES%20650",
     "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20ask%20about%20the%20Ex-UK%20USB%20Mouse%3A%20",
     "specs": [
-      { "label": "Type", "value": "USB mouse" },
-      { "label": "Condition", "value": "Ex-UK (used, imported from the UK)" },
-      { "label": "Brand", "value": "Varies by stock — ask on WhatsApp" },
-      { "label": "Connection", "value": "Wired USB" },
-      { "label": "Warranty", "value": "Included — ask on WhatsApp for current term" }
+      {
+        "label": "Type",
+        "value": "USB mouse"
+      },
+      {
+        "label": "Condition",
+        "value": "Ex-UK (used, imported from the UK)"
+      },
+      {
+        "label": "Brand",
+        "value": "Varies by stock — ask on WhatsApp"
+      },
+      {
+        "label": "Connection",
+        "value": "Wired USB"
+      }
     ],
     "compatible_models": [
       "Laptops and desktops with a free USB port"
@@ -56,9 +69,17 @@
   },
   "faq_heading": "Mouse Questions",
   "faqs": [
-    { "question": "What does Ex-UK mean?", "answer": "Ex-UK means the mouse is used and was imported from the UK. It is not brand new, but it is a quality branded mouse at a lower price than a new one." },
-    { "question": "Which brand will I get?", "answer": "The brand depends on what we have in stock. Message us on WhatsApp and we'll tell you what's available, or send a photo of what you'd like." },
-    { "question": "Will it work with my laptop?", "answer": "It connects through a standard USB port, so it works with laptops and desktops that have a free USB port. If your laptop only has USB Type-C ports, you will need a USB-C adapter." },
-    { "question": "What warranty comes with this mouse?", "answer": "This mouse comes with a warranty — message us on WhatsApp for the current term before ordering." }
+    {
+      "question": "What does Ex-UK mean?",
+      "answer": "Ex-UK means the mouse is used and was imported from the UK. It is not brand new, but it is a quality branded mouse at a lower price than a new one."
+    },
+    {
+      "question": "Which brand will I get?",
+      "answer": "The brand depends on what we have in stock. Message us on WhatsApp and we'll tell you what's available, or send a photo of what you'd like."
+    },
+    {
+      "question": "Will it work with my laptop?",
+      "answer": "It connects through a standard USB port, so it works with laptops and desktops that have a free USB port. If your laptop only has USB Type-C ports, you will need a USB-C adapter."
+    }
   ]
 }

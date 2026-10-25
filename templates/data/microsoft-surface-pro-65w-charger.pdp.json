@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Microsoft Surface Pro 65W Charger | Price in Kenya | Moderntech",
-    "description": "Replacement 65W power adapter for Microsoft Surface Pro 3/4/5/6/7/8/9/X, Surface Book 1/2, Surface Laptop 1/2/3 and Surface Go. Model 1706. 3-month warranty. Order via WhatsApp, delivery countrywide."
+    "title": "Microsoft Surface Pro 65W Charger | Price in Kenya | Zanatechnologies",
+    "description": "Replacement 65W power adapter for Microsoft Surface Pro 3/4/5/6/7/8/9/X, Surface Book 1/2, Surface Laptop 1/2/3 and Surface Go. Model 1706. Order via WhatsApp, delivery countrywide."
   },
   "og": {
-    "title": "Microsoft Surface Pro 65W Charger | Moderntech",
-    "description": "Replacement 65W power adapter for Microsoft Surface Pro 3/4/5/6/7/8/9/X, Surface Book 1/2, Surface Laptop 1/2/3 and Surface Go. Model 1706. 3-month warranty. Order via WhatsApp, delivery countrywide."
+    "title": "Microsoft Surface Pro 65W Charger | Zanatechnologies",
+    "description": "Replacement 65W power adapter for Microsoft Surface Pro 3/4/5/6/7/8/9/X, Surface Book 1/2, Surface Laptop 1/2/3 and Surface Go. Model 1706. Order via WhatsApp, delivery countrywide."
   },
   "category": {
     "slug": "chargers",
@@ -22,17 +22,17 @@
     "price": "4,500",
     "price_raw": "4500",
     "schema_availability": "https://schema.org/InStock",
-    "description": "Replacement power adapter (Model 1706, Part No. Q4Q-00001) for Microsoft Surface Pro 3, Pro 4, Pro 5 (2017), Pro 6, Pro 7, Pro 8, Pro 9 and Pro X, Surface Book 1 and 2, Surface Laptop 1, 2 and 3, and Surface Go. 15V, 4A, 65W output through the magnetic Surface Connect tip, plus an additional USB-A port (5W) for charging a second device. Wide-range 100\u2013240V AC input for worldwide use. Tested before dispatch, drop-in replacement for the original charger.",
+    "description": "Replacement power adapter (Model 1706, Part No. Q4Q-00001) for Microsoft Surface Pro 3, Pro 4, Pro 5 (2017), Pro 6, Pro 7, Pro 8, Pro 9 and Pro X, Surface Book 1 and 2, Surface Laptop 1, 2 and 3, and Surface Go. 15V, 4A, 65W output through the magnetic Surface Connect tip, plus an additional USB-A port (5W) for charging a second device. Wide-range 100–240V AC input for worldwide use. Tested before dispatch, drop-in replacement for the original charger.",
     "type_label": "charger",
     "type_label_cap": "Charger",
     "images": [
       {
         "src": "assets/images/products/microsoft-charger-65w-surfacepro.webp",
-        "alt": "Microsoft Surface Pro 65W Charger \u2014 main view"
+        "alt": "Microsoft Surface Pro 65W Charger — main view"
       },
       {
         "src": "assets/images/products/microsoft-charger-65w-surfacepro-1.webp",
-        "alt": "Microsoft Surface Pro 65W Charger \u2014 connector detail"
+        "alt": "Microsoft Surface Pro 65W Charger — connector detail"
       }
     ],
     "badges": [
@@ -43,10 +43,6 @@
       {
         "class": "badge--new-oem",
         "label": "New OEM-Equivalent"
-      },
-      {
-        "class": "badge--warranty",
-        "label": "3-Month Warranty"
       }
     ],
     "specs": [
@@ -72,11 +68,7 @@
       },
       {
         "label": "Input",
-        "value": "100\u2013240V AC, 50\u201360Hz"
-      },
-      {
-        "label": "Warranty",
-        "value": "3 Months"
+        "value": "100–240V AC, 50–60Hz"
       }
     ],
     "compatible_models": [
@@ -105,11 +97,7 @@
     },
     {
       "question": "Is a higher-wattage charger safe to use?",
-      "answer": "Yes \u2014 a charger rated higher than your laptop's original wattage is safe; your laptop only draws what it needs. A lower-wattage charger should be avoided."
-    },
-    {
-      "question": "What warranty comes with this charger?",
-      "answer": "This charger carries a 3-month warranty."
+      "answer": "Yes — a charger rated higher than your laptop's original wattage is safe; your laptop only draws what it needs. A lower-wattage charger should be avoided."
     }
   ]
 }

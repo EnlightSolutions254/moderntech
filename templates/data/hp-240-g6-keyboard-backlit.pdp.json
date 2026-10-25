@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "HP 240 G6 Keyboard — Backlit, US Layout | [Store Name]",
-    "description": "Genuine replacement backlit keyboard for the HP 240 G6, available in black or silver. US layout. Warranty included, order on WhatsApp."
+    "title": "HP 240 G6 Keyboard — Backlit, US Layout | Zanatechnologies",
+    "description": "Replacement backlit keyboard for the HP 240 G6, available in black or silver. US layout. Order on WhatsApp."
   },
   "og": {
-    "title": "HP 240 G6 Keyboard (Backlit) | [Store Name]",
-    "description": "Genuine backlit replacement keyboard for the HP 240 G6, available in black or silver. In stock, warranty included."
+    "title": "HP 240 G6 Keyboard (Backlit) | Zanatechnologies",
+    "description": "Backlit replacement keyboard for the HP 240 G6, available in black or silver. In stock."
   },
   "category": {
     "slug": "keyboards",
@@ -22,10 +22,16 @@
     "name": "HP 240 G6 Keyboard (Backlit)",
     "full_name": "HP 240 G6 Replacement Keyboard — Backlit, US Layout",
     "images": [
-      { "src": "assets/images/products/hp-keyboard-240g6-backlit.webp", "alt": "Replacement backlit keyboard for HP 240 G6" }
+      {
+        "src": "assets/images/products/hp-keyboard-240g6-backlit.webp",
+        "alt": "Replacement backlit keyboard for HP 240 G6"
+      }
     ],
     "badges": [
-      { "class": "badge--in-stock", "label": "In Stock" }
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
     ],
     "price": "3,500",
     "price_raw": "3500",
@@ -37,13 +43,30 @@
       "HP 240 G6"
     ],
     "specs": [
-      { "label": "Layout", "value": "US English (QWERTY)" },
-      { "label": "Backlight", "value": "Yes" },
-      { "label": "Color", "value": "Black or Silver" },
-      { "label": "Frame", "value": "Included" },
-      { "label": "Fitting", "value": "Direct replacement, no adhesive required" },
-      { "label": "Condition", "value": "New" },
-      { "label": "Warranty", "value": "3 Months" }
+      {
+        "label": "Layout",
+        "value": "US English (QWERTY)"
+      },
+      {
+        "label": "Backlight",
+        "value": "Yes"
+      },
+      {
+        "label": "Color",
+        "value": "Black or Silver"
+      },
+      {
+        "label": "Frame",
+        "value": "Included"
+      },
+      {
+        "label": "Fitting",
+        "value": "Direct replacement, no adhesive required"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      }
     ],
     "related": [
       {
@@ -51,7 +74,9 @@
         "image": "assets/images/products/hp-keyboard-240g6-nonbacklit.webp",
         "alt": "Replacement non-backlit keyboard for HP 240 G6",
         "name": "HP 240 G6 Keyboard (Non-Backlit)",
-        "tags": ["240 G6"],
+        "tags": [
+          "240 G6"
+        ],
         "price": "2,500",
         "badge_class": "badge--in-stock",
         "badge_label": "In Stock",
@@ -62,7 +87,10 @@
         "image": "assets/images/products/hp-keyboard-450g3g4-backlit.webp",
         "alt": "Replacement backlit keyboard for HP ProBook 450 G3/G4",
         "name": "HP ProBook 450 G3/G4 Keyboard (Backlit)",
-        "tags": ["450 G3/G4", "Backlit"],
+        "tags": [
+          "450 G3/G4",
+          "Backlit"
+        ],
         "price": "3,000",
         "badge_class": "badge--in-stock",
         "badge_label": "In Stock",
@@ -73,9 +101,17 @@
   "delivery_note": "Nairobi same-day, countrywide 1-2 days",
   "faq_heading": "Keyboard Questions",
   "faqs": [
-    { "question": "How do I know this keyboard fits my laptop?", "answer": "This fits the HP 240 G6. Send us a photo of the sticker under your laptop on WhatsApp to confirm your exact model." },
-    { "question": "Does it come in black or silver?", "answer": "Both colours are available for this backlit keyboard — let us know which one matches your laptop when you order." },
-    { "question": "Is it backlit?", "answer": "Yes, this version includes the backlight cable, matching the original." },
-    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+    {
+      "question": "How do I know this keyboard fits my laptop?",
+      "answer": "This fits the HP 240 G6. Send us a photo of the sticker under your laptop on WhatsApp to confirm your exact model."
+    },
+    {
+      "question": "Does it come in black or silver?",
+      "answer": "Both colours are available for this backlit keyboard — let us know which one matches your laptop when you order."
+    },
+    {
+      "question": "Is it backlit?",
+      "answer": "Yes, this version includes the backlight cable, matching the original."
+    }
   ]
 }

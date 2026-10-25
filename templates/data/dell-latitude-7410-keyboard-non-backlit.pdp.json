@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Dell Latitude 7410 Keyboard — Non-Backlit, US Layout | [Store Name]",
-    "description": "Genuine replacement non-backlit keyboard for the Dell Latitude 7410. US layout. Warranty included, order on WhatsApp."
+    "title": "Dell Latitude 7410 Keyboard — Non-Backlit, US Layout | Zanatechnologies",
+    "description": "Replacement non-backlit keyboard for the Dell Latitude 7410. US layout. Order on WhatsApp."
   },
   "og": {
-    "title": "Dell Latitude 7410 Keyboard (Non-Backlit) | [Store Name]",
-    "description": "Genuine non-backlit replacement keyboard for the Dell Latitude 7410. In stock, warranty included."
+    "title": "Dell Latitude 7410 Keyboard (Non-Backlit) | Zanatechnologies",
+    "description": "Non-backlit replacement keyboard for the Dell Latitude 7410. In stock."
   },
   "category": {
     "slug": "keyboards",
@@ -22,10 +22,16 @@
     "name": "Dell Latitude 7410 Keyboard (Non-Backlit)",
     "full_name": "Dell Latitude 7410 Replacement Keyboard — Non-Backlit, US Layout",
     "images": [
-      { "src": "assets/images/products/dell-keyboard-latitude7410-nonbacklit.webp", "alt": "Replacement non-backlit keyboard for Dell Latitude 7410" }
+      {
+        "src": "assets/images/products/dell-keyboard-latitude7410-nonbacklit.webp",
+        "alt": "Replacement non-backlit keyboard for Dell Latitude 7410"
+      }
     ],
     "badges": [
-      { "class": "badge--in-stock", "label": "In Stock" }
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
     ],
     "price": "2,500",
     "price_raw": "2500",
@@ -37,13 +43,30 @@
       "Dell Latitude 7410"
     ],
     "specs": [
-      { "label": "Layout", "value": "US English (QWERTY)" },
-      { "label": "Backlight", "value": "No" },
-      { "label": "Color", "value": "Black" },
-      { "label": "Frame", "value": "Included" },
-      { "label": "Fitting", "value": "Direct replacement, no adhesive required" },
-      { "label": "Condition", "value": "New" },
-      { "label": "Warranty", "value": "3 Months" }
+      {
+        "label": "Layout",
+        "value": "US English (QWERTY)"
+      },
+      {
+        "label": "Backlight",
+        "value": "No"
+      },
+      {
+        "label": "Color",
+        "value": "Black"
+      },
+      {
+        "label": "Frame",
+        "value": "Included"
+      },
+      {
+        "label": "Fitting",
+        "value": "Direct replacement, no adhesive required"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      }
     ],
     "related": [
       {
@@ -51,7 +74,10 @@
         "image": "assets/images/products/dell-keyboard-latitude7410-backlit.webp",
         "alt": "Replacement backlit keyboard for Dell Latitude 7410",
         "name": "Dell Latitude 7410 Keyboard (Backlit)",
-        "tags": ["Latitude 7410", "Backlit"],
+        "tags": [
+          "Latitude 7410",
+          "Backlit"
+        ],
         "price": "3,500",
         "badge_class": "badge--in-stock",
         "badge_label": "In Stock",
@@ -62,8 +88,13 @@
   "delivery_note": "Nairobi same-day, countrywide 1-2 days",
   "faq_heading": "Keyboard Questions",
   "faqs": [
-    { "question": "How do I know this keyboard fits my laptop?", "answer": "This fits the Dell Latitude 7410. Since this chassis was sold with both backlit and non-backlit keyboards, send us a photo of the sticker under your laptop on WhatsApp to confirm your exact variant." },
-    { "question": "Is it backlit?", "answer": "No, this is the non-backlit version. We also stock the backlit version for the same model." },
-    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+    {
+      "question": "How do I know this keyboard fits my laptop?",
+      "answer": "This fits the Dell Latitude 7410. Since this chassis was sold with both backlit and non-backlit keyboards, send us a photo of the sticker under your laptop on WhatsApp to confirm your exact variant."
+    },
+    {
+      "question": "Is it backlit?",
+      "answer": "No, this is the non-backlit version. We also stock the backlit version for the same model."
+    }
   ]
 }

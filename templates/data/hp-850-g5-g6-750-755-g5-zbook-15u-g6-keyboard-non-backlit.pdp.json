@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "HP EliteBook 850 G5/G6, 750/755 G5, ZBook 15u G6 Keyboard — Non-Backlit | [Store Name]",
-    "description": "Genuine replacement non-backlit keyboard for the HP EliteBook 850 G5/G6, 750 G5, 755 G5 and ZBook 15u G5/G6. US layout with pointer. Warranty included, order on WhatsApp."
+    "title": "HP EliteBook 850 G5/G6, 750/755 G5, ZBook 15u G6 Keyboard — Non-Backlit | Zanatechnologies",
+    "description": "Replacement non-backlit keyboard for the HP EliteBook 850 G5/G6, 750 G5, 755 G5 and ZBook 15u G5/G6. US layout with pointer. Order on WhatsApp."
   },
   "og": {
-    "title": "HP EliteBook 850 G5/G6 Keyboard (Non-Backlit) | [Store Name]",
-    "description": "Genuine non-backlit replacement keyboard for the HP EliteBook 850 G5/G6, 750 G5, 755 G5 and ZBook 15u G5/G6. In stock, warranty included."
+    "title": "HP EliteBook 850 G5/G6 Keyboard (Non-Backlit) | Zanatechnologies",
+    "description": "Non-backlit replacement keyboard for the HP EliteBook 850 G5/G6, 750 G5, 755 G5 and ZBook 15u G5/G6. In stock."
   },
   "category": {
     "slug": "keyboards",
@@ -22,10 +22,16 @@
     "name": "HP EliteBook 850 G5/G6 Keyboard (Non-Backlit)",
     "full_name": "HP EliteBook 850 G5/G6, 750 G5, 755 G5 &amp; ZBook 15u G5/G6 Replacement Keyboard — Non-Backlit, US Layout",
     "images": [
-      { "src": "assets/images/products/hp-keyboard-850g5g6-nonbacklit.webp", "alt": "Replacement non-backlit keyboard for HP EliteBook 850 G5/G6, 750 G5, 755 G5 and ZBook 15u G5/G6" }
+      {
+        "src": "assets/images/products/hp-keyboard-850g5g6-nonbacklit.webp",
+        "alt": "Replacement non-backlit keyboard for HP EliteBook 850 G5/G6, 750 G5, 755 G5 and ZBook 15u G5/G6"
+      }
     ],
     "badges": [
-      { "class": "badge--in-stock", "label": "In Stock" }
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
     ],
     "price": "2,000",
     "price_raw": "2000",
@@ -43,13 +49,30 @@
       "HP ZBook 15u G6"
     ],
     "specs": [
-      { "label": "Layout", "value": "US English (QWERTY)" },
-      { "label": "Backlight", "value": "No" },
-      { "label": "Pointing Device", "value": "Integrated TrackPoint" },
-      { "label": "Color", "value": "Black" },
-      { "label": "Fitting", "value": "Direct replacement, no adhesive required" },
-      { "label": "Condition", "value": "New" },
-      { "label": "Warranty", "value": "3 Months" }
+      {
+        "label": "Layout",
+        "value": "US English (QWERTY)"
+      },
+      {
+        "label": "Backlight",
+        "value": "No"
+      },
+      {
+        "label": "Pointing Device",
+        "value": "Integrated TrackPoint"
+      },
+      {
+        "label": "Color",
+        "value": "Black"
+      },
+      {
+        "label": "Fitting",
+        "value": "Direct replacement, no adhesive required"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      }
     ],
     "related": [
       {
@@ -57,7 +80,10 @@
         "image": "assets/images/products/hp-keyboard-850g5g6-backlit.webp",
         "alt": "Replacement backlit keyboard for HP EliteBook 850 G5/G6, 750 G5, 755 G5 and ZBook 15u G5/G6",
         "name": "HP EliteBook 850 G5/G6 Keyboard (Backlit)",
-        "tags": ["850 G5/G6", "Backlit"],
+        "tags": [
+          "850 G5/G6",
+          "Backlit"
+        ],
         "price": "3,500",
         "badge_class": "badge--in-stock",
         "badge_label": "In Stock",
@@ -68,7 +94,9 @@
         "image": "assets/images/products/hp-keyboard-450g3g4-nonbacklit.webp",
         "alt": "Replacement non-backlit keyboard for HP ProBook 450 G3/G4",
         "name": "HP ProBook 450 G3/G4 Keyboard (Non-Backlit)",
-        "tags": ["450 G3/G4"],
+        "tags": [
+          "450 G3/G4"
+        ],
         "price": "2,000",
         "badge_class": "badge--in-stock",
         "badge_label": "In Stock",
@@ -79,8 +107,13 @@
   "delivery_note": "Nairobi same-day, countrywide 1-2 days",
   "faq_heading": "Keyboard Questions",
   "faqs": [
-    { "question": "How do I know this keyboard fits my laptop?", "answer": "This fits the EliteBook 850 G5/G6, 750 G5, 755 G5 and ZBook 15u G5/G6, which share the same keyboard. It does not fit the ZBook 15 G5/G6 (a different model without the 'u'). Send us a photo of the sticker under your laptop on WhatsApp if you're unsure." },
-    { "question": "Is it backlit?", "answer": "No, this is the non-backlit version. We also stock the backlit version for the same series." },
-    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+    {
+      "question": "How do I know this keyboard fits my laptop?",
+      "answer": "This fits the EliteBook 850 G5/G6, 750 G5, 755 G5 and ZBook 15u G5/G6, which share the same keyboard. It does not fit the ZBook 15 G5/G6 (a different model without the 'u'). Send us a photo of the sticker under your laptop on WhatsApp if you're unsure."
+    },
+    {
+      "question": "Is it backlit?",
+      "answer": "No, this is the non-backlit version. We also stock the backlit version for the same series."
+    }
   ]
 }

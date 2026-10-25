@@ -1,11 +1,11 @@
 {
   "meta": {
     "title": "HP RR03XL Battery (Compatible) — ProBook 430, 440, 450, 455, 470 G4 | Zanatechnologies",
-    "description": "Compatible replacement RR03XL battery, 11.4V, for HP ProBook 430 G4, 440 G4, 450 G4, 455 G4 and 470 G4. In-stock pricing in KES, warranty included, order on WhatsApp."
+    "description": "Compatible replacement RR03XL battery, 11.4V, for HP ProBook 430 G4, 440 G4, 450 G4, 455 G4 and 470 G4. In-stock pricing in KES, order on WhatsApp."
   },
   "og": {
     "title": "HP RR03XL Battery (Compatible) | Zanatechnologies",
-    "description": "Compatible RR03XL replacement battery for HP ProBook 430/440/450/455/470 G4. In stock, warranty included, order on WhatsApp."
+    "description": "Compatible RR03XL replacement battery for HP ProBook 430/440/450/455/470 G4. In stock, order on WhatsApp."
   },
   "category": {
     "slug": "laptop-batteries",
@@ -71,10 +71,6 @@
       {
         "label": "Condition",
         "value": "New (Compatible)"
-      },
-      {
-        "label": "Warranty",
-        "value": "3 Months"
       }
     ],
     "related": [
@@ -91,10 +87,6 @@
     {
       "question": "Is this an original or compatible battery?",
       "answer": "This is a compatible (non-original) RR03XL replacement built to match OEM specs. We also stock the genuine original HP RR03XL — ask us on WhatsApp if you'd prefer that instead."
-    },
-    {
-      "question": "What warranty comes with this battery?",
-      "answer": "This battery carries a 3-month warranty."
     }
   ]
 }

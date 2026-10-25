@@ -1,11 +1,11 @@
 {
   "meta": {
     "title": "Lenovo L17M2PB3 Battery — V130, V330, V530 Series | Zanatechnologies",
-    "description": "Genuine replacement Lenovo L17M2PB3 battery, 7.6V, for V130-15IGM/15IKB, V330-15IKB/15ISK, V530-14IKB/15IKB. In-stock pricing in KES, warranty included, order on WhatsApp."
+    "description": "Replacement Lenovo L17M2PB3 battery, 7.6V, for V130-15IGM/15IKB, V330-15IKB/15ISK, V530-14IKB/15IKB. In-stock pricing in KES, order on WhatsApp."
   },
   "og": {
     "title": "Lenovo L17M2PB3 Battery | Zanatechnologies",
-    "description": "Genuine Lenovo L17M2PB3 replacement battery for V130/V330/V530 series. In stock, warranty included, order on WhatsApp."
+    "description": "Genuine Lenovo L17M2PB3 replacement battery for V130/V330/V530 series. In stock, order on WhatsApp."
   },
   "category": {
     "slug": "laptop-batteries",
@@ -71,10 +71,6 @@
       {
         "label": "Condition",
         "value": "New (Original)"
-      },
-      {
-        "label": "Warranty",
-        "value": "6 Months"
       }
     ],
     "related": []
@@ -89,10 +85,6 @@
     {
       "question": "Is this an original or compatible battery?",
       "answer": "We stock genuine OEM batteries — this is a genuine Lenovo L17M2PB3 unit."
-    },
-    {
-      "question": "What warranty comes with this battery?",
-      "answer": "This battery carries a 6-month warranty."
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "HP RR03XL Original Battery — KES 4,000 | [Store Name]",
-    "description": "HP RR03XL Original Battery — fits 430 G4, 440 G4, 450 G4 and more. Tested before dispatch, with warranty support."
+    "title": "HP RR03XL Original Battery — KES 4,000 | Zanatechnologies",
+    "description": "HP RR03XL Original Battery — fits 430 G4, 440 G4, 450 G4 and more."
   },
   "og": {
-    "title": "HP RR03XL Original Battery | [Store Name]",
-    "description": "HP RR03XL Original Battery — fits 430 G4, 440 G4, 450 G4 and more. Tested before dispatch, with warranty support."
+    "title": "HP RR03XL Original Battery | Zanatechnologies",
+    "description": "HP RR03XL Original Battery — fits 430 G4, 440 G4, 450 G4 and more."
   },
   "category": {
     "slug": "laptop-batteries",
@@ -22,10 +22,6 @@
     {
       "question": "Are these original or compatible batteries?",
       "answer": "It's stated clearly above — Original (OEM) or Replacement (OEM-equivalent)."
-    },
-    {
-      "question": "What warranty comes with this battery?",
-      "answer": "This battery carries a 6-month warranty."
     }
   ],
   "product": {
@@ -38,7 +34,7 @@
     "price": "4,000",
     "price_raw": "4000",
     "schema_availability": "https://schema.org/InStock",
-    "description": "HP RR03XL Original Battery — fits 430 G4, 440 G4, 450 G4 and more. Tested before dispatch, with warranty support.",
+    "description": "HP RR03XL Original Battery — fits 430 G4, 440 G4, 450 G4 and more.",
     "type_label": "battery",
     "type_label_cap": "Battery",
     "badges": [
@@ -69,10 +65,6 @@
       {
         "label": "Condition",
         "value": "Brand New"
-      },
-      {
-        "label": "Warranty",
-        "value": "6 Months"
       }
     ],
     "compatible_models": [

@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Dell XPS 13 9370/9380 Battery — KES 6,100 | [Store Name]",
-    "description": "Dell XPS 13 9370/9380 Battery — fits XPS 13 9370, XPS 13 9380, XPS 13 7390. Tested before dispatch, with warranty support."
+    "title": "Dell XPS 13 9370/9380 Battery — KES 6,100 | Zanatechnologies",
+    "description": "Dell XPS 13 9370/9380 Battery — fits XPS 13 9370, XPS 13 9380, XPS 13 7390."
   },
   "og": {
-    "title": "Dell XPS 13 9370/9380 Battery | [Store Name]",
-    "description": "Dell XPS 13 9370/9380 Battery — fits XPS 13 9370, XPS 13 9380, XPS 13 7390. Tested before dispatch, with warranty support."
+    "title": "Dell XPS 13 9370/9380 Battery | Zanatechnologies",
+    "description": "Dell XPS 13 9370/9380 Battery — fits XPS 13 9370, XPS 13 9380, XPS 13 7390."
   },
   "category": {
     "slug": "laptop-batteries",
@@ -22,10 +22,6 @@
     {
       "question": "Are these original or compatible batteries?",
       "answer": "It's stated clearly above — Original (OEM) or Replacement (OEM-equivalent)."
-    },
-    {
-      "question": "What warranty comes with this battery?",
-      "answer": "This battery carries a 6-month warranty."
     }
   ],
   "product": {
@@ -38,7 +34,7 @@
     "price": "6,100",
     "price_raw": "6100",
     "schema_availability": "https://schema.org/InStock",
-    "description": "Dell XPS 13 9370/9380 Battery — fits XPS 13 9370, XPS 13 9380, XPS 13 7390. Tested before dispatch, with warranty support.",
+    "description": "Dell XPS 13 9370/9380 Battery — fits XPS 13 9370, XPS 13 9380, XPS 13 7390.",
     "type_label": "battery",
     "type_label_cap": "Battery",
     "badges": [
@@ -69,10 +65,6 @@
       {
         "label": "Condition",
         "value": "Brand New"
-      },
-      {
-        "label": "Warranty",
-        "value": "6 Months"
       }
     ],
     "compatible_models": [

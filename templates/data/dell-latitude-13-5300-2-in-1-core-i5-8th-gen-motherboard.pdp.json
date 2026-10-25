@@ -36,19 +36,35 @@
       }
     ],
     "badges": [
-      { "class": "badge--in-stock", "label": "In Stock" },
-      { "class": "badge--warranty", "label": "Warranty Included" }
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
     ],
     "description": "Replacement motherboard for the Dell Latitude 13 5300 2-in-1 with a Core i5 8th generation processor. Fit it when the laptop won't power on, has no display, restarts on its own or has stopped charging and the charger, battery and RAM have been ruled out. Motherboards are specific to the laptop model and processor, so please send us your laptop model (or a photo of the sticker under the laptop) on WhatsApp and we will confirm fit before you order. Fitting is available in Nairobi.",
     "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%2013%205300%202-in-1%20Core%20i5%208th%20Gen%20Motherboard%20%E2%80%94%20KES%2012%2C500",
     "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20Dell%20Latitude%2013%205300%202-in-1%20Core%20i5%208th%20Gen%20Motherboard%20fits%20my%20laptop%3F%20My%20laptop%20model%20is%3A%20",
     "specs": [
-      { "label": "Type", "value": "Laptop motherboard (replacement part)" },
-      { "label": "Brand", "value": "Dell" },
-      { "label": "Laptop Model", "value": "Dell Latitude 13 5300 2-in-1" },
-      { "label": "Processor", "value": "Intel Core i5, 8th generation" },
-      { "label": "Fitting", "value": "Matched by laptop model and processor generation" },
-      { "label": "Warranty", "value": "Included — ask on WhatsApp for current term" }
+      {
+        "label": "Type",
+        "value": "Laptop motherboard (replacement part)"
+      },
+      {
+        "label": "Brand",
+        "value": "Dell"
+      },
+      {
+        "label": "Laptop Model",
+        "value": "Dell Latitude 13 5300 2-in-1"
+      },
+      {
+        "label": "Processor",
+        "value": "Intel Core i5, 8th generation"
+      },
+      {
+        "label": "Fitting",
+        "value": "Matched by laptop model and processor generation"
+      }
     ],
     "compatible_models": [
       "Dell Latitude 13 5300 2-in-1",
@@ -60,9 +76,17 @@
   },
   "faq_heading": "Motherboard Questions",
   "faqs": [
-    { "question": "Will this motherboard fit my laptop?", "answer": "This board is for the Dell Latitude 13 5300 2-in-1 with a Core i5 8th generation processor. Motherboards differ between models and processor versions, so send us your laptop model, or a photo of the sticker under the laptop, on WhatsApp and we'll confirm before you order." },
-    { "question": "How do I know my motherboard is faulty?", "answer": "A laptop that won't power on, shows no display, restarts by itself or no longer charges may have a faulty motherboard, but the fault can also be the charger, battery, RAM or screen. Send us the symptoms on WhatsApp and we'll help you check before you buy." },
-    { "question": "Can I fit this myself?", "answer": "The laptop has to be taken apart to reach the board, so most customers have it fitted by us. Tell us your model on WhatsApp and we'll say what the job involves." },
-    { "question": "What warranty comes with this motherboard?", "answer": "This motherboard comes with a warranty — message us on WhatsApp for the current term before ordering." }
+    {
+      "question": "Will this motherboard fit my laptop?",
+      "answer": "This board is for the Dell Latitude 13 5300 2-in-1 with a Core i5 8th generation processor. Motherboards differ between models and processor versions, so send us your laptop model, or a photo of the sticker under the laptop, on WhatsApp and we'll confirm before you order."
+    },
+    {
+      "question": "How do I know my motherboard is faulty?",
+      "answer": "A laptop that won't power on, shows no display, restarts by itself or no longer charges may have a faulty motherboard, but the fault can also be the charger, battery, RAM or screen. Send us the symptoms on WhatsApp and we'll help you check before you buy."
+    },
+    {
+      "question": "Can I fit this myself?",
+      "answer": "The laptop has to be taken apart to reach the board, so most customers have it fitted by us. Tell us your model on WhatsApp and we'll say what the job involves."
+    }
   ]
 }

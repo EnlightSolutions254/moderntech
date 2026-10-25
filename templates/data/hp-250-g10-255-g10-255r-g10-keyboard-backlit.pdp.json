@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "HP 250 G10/255 G10/255r G10 Keyboard — Backlit, US Layout | [Store Name]",
-    "description": "Genuine replacement backlit keyboard for the HP 250 G10, 255 G10 and 255r G10. Available in black and grey. Warranty included, order on WhatsApp."
+    "title": "HP 250 G10/255 G10/255r G10 Keyboard — Backlit, US Layout | Zanatechnologies",
+    "description": "Replacement backlit keyboard for the HP 250 G10, 255 G10 and 255r G10. Available in black and grey. Order on WhatsApp."
   },
   "og": {
-    "title": "HP 250 G10/255 G10/255r G10 Keyboard (Backlit) | [Store Name]",
-    "description": "Genuine backlit replacement keyboard for the HP 250 G10/255 G10/255r G10. In stock, warranty included."
+    "title": "HP 250 G10/255 G10/255r G10 Keyboard (Backlit) | Zanatechnologies",
+    "description": "Backlit replacement keyboard for the HP 250 G10/255 G10/255r G10. In stock."
   },
   "category": {
     "slug": "keyboards",
@@ -22,10 +22,16 @@
     "name": "HP 250 G10/255 G10/255r G10 Keyboard (Backlit)",
     "full_name": "HP 250 G10, 255 G10, 255r G10 Replacement Keyboard — Backlit, US Layout",
     "images": [
-      { "src": "assets/images/products/hp-keyboard-250g10255g10255rg10-backlit.webp", "alt": "Replacement backlit keyboard for HP 250 G10/255 G10/255r G10" }
+      {
+        "src": "assets/images/products/hp-keyboard-250g10255g10255rg10-backlit.webp",
+        "alt": "Replacement backlit keyboard for HP 250 G10/255 G10/255r G10"
+      }
     ],
     "badges": [
-      { "class": "badge--in-stock", "label": "In Stock" }
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
     ],
     "price": "3,500",
     "price_raw": "3500",
@@ -39,22 +45,47 @@
       "HP 255r G10"
     ],
     "specs": [
-      { "label": "Layout", "value": "US English (QWERTY)" },
-      { "label": "Backlight", "value": "Yes" },
-      { "label": "Color", "value": "Black or Grey" },
-      { "label": "Frame", "value": "Included" },
-      { "label": "Fitting", "value": "Direct replacement, no adhesive required" },
-      { "label": "Condition", "value": "New" },
-      { "label": "Warranty", "value": "3 Months" }
+      {
+        "label": "Layout",
+        "value": "US English (QWERTY)"
+      },
+      {
+        "label": "Backlight",
+        "value": "Yes"
+      },
+      {
+        "label": "Color",
+        "value": "Black or Grey"
+      },
+      {
+        "label": "Frame",
+        "value": "Included"
+      },
+      {
+        "label": "Fitting",
+        "value": "Direct replacement, no adhesive required"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      }
     ],
     "related": []
   },
   "delivery_note": "Nairobi same-day, countrywide 1-2 days",
   "faq_heading": "Keyboard Questions",
   "faqs": [
-    { "question": "How do I know this keyboard fits my laptop?", "answer": "This fits the HP 250 G10, 255 G10 and 255r G10 (Gen 10). If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
-    { "question": "Is it backlit?", "answer": "Yes, this version includes the backlight cable, matching the original." },
-    { "question": "What colors are available?", "answer": "This keyboard is available in black and grey — let us know your preference when ordering." },
-    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+    {
+      "question": "How do I know this keyboard fits my laptop?",
+      "answer": "This fits the HP 250 G10, 255 G10 and 255r G10 (Gen 10). If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is it backlit?",
+      "answer": "Yes, this version includes the backlight cable, matching the original."
+    },
+    {
+      "question": "What colors are available?",
+      "answer": "This keyboard is available in black and grey — let us know your preference when ordering."
+    }
   ]
 }

@@ -71,6 +71,44 @@ function copyRecursive(src, dest) {
   }
 }
 
+// ---------------------------------------------------------------------------
+// Sitemap + robots.txt, built from the pages that were actually generated, so
+// the list can never drift out of date. Orphan product pages (not linked from
+// any category page) are left out and reported.
+// ---------------------------------------------------------------------------
+function generateSitemap() {
+  const shared = loadJson(path.join(DATA_DIR, 'shared.json'));
+  const base = 'https://' + shared.store.domain;
+  const reachable = reachableProductUrls();
+  const today = new Date().toISOString().slice(0, 10);
+  const esc = u => u.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  const urls = [], orphans = [];
+  (function walk(dir) {
+    for (const e of fs.readdirSync(dir, { withFileTypes: true })) {
+      const full = path.join(dir, e.name);
+      if (e.isDirectory()) { walk(full); continue; }
+      if (!/\.html$/i.test(e.name)) continue;
+      let url = '/' + path.relative(OUT_DIR, full).split(path.sep).join('/');
+      url = url.replace(/index\.html$/, '');
+      const isProduct = /^\/shop\/[^/]+\/[^/]+\/$/.test(url);
+      if (isProduct && reachable.size && !reachable.has(url)) { orphans.push(url); continue; }
+      urls.push(url);
+    }
+  })(OUT_DIR);
+  urls.sort((a, b) => (a === '/' ? -1 : b === '/' ? 1 : a.localeCompare(b)));
+  const xml = '<?xml version="1.0" encoding="UTF-8"?>\n' +
+    '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +
+    urls.map(u => `  <url><loc>${esc(base + u)}</loc><lastmod>${today}</lastmod></url>`).join('\n') + '\n</urlset>\n';
+  fs.writeFileSync(path.join(OUT_DIR, 'sitemap.xml'), xml, 'utf8');
+  fs.writeFileSync(path.join(OUT_DIR, 'robots.txt'), `User-agent: *\nAllow: /\n\nSitemap: ${base}/sitemap.xml\n`, 'utf8');
+  console.log(`sitemap  -> sitemap.xml (${urls.length} URLs) + robots.txt`);
+  if (orphans.length) {
+    console.log(`WARNING  -> ${orphans.length} product page(s) are not listed on any category page, so they are NOT in the sitemap or search:`);
+    orphans.forEach(u => console.log('             ' + u));
+    console.log('           Add them to a *.category.json, or delete their *.pdp.json.');
+  }
+}
+
 function deploy() {
   if (!fs.existsSync(OUT_DIR)) {
     console.log('deploy   -> SKIPPED (templates/out/ is empty — run `node generate.js all` first)');
@@ -88,6 +126,12 @@ function deploy() {
 
   copyRecursive(OUT_DIR, SITE_ROOT);
   console.log(`deploy   -> copied ${fileCount} files from templates/out/ to ${SITE_ROOT}`);
+  // Old hand-made pages in the site root are never rebuilt, so they keep old text and prices.
+  const stale = fs.readdirSync(SITE_ROOT).filter(f => /\.html$/i.test(f) && !fs.existsSync(path.join(OUT_DIR, f)));
+  if (stale.length) {
+    console.log('WARNING  -> these root pages are NOT produced by the generator and may be out of date:');
+    stale.forEach(f => console.log('             ' + f));
+  }
   console.log('           review with `git status`, then git add / commit / push as usual.');
 }
 
@@ -408,11 +452,23 @@ function generateFaq(dataFile) {
   console.log('faq      ->', outFile);
 }
 
+// URLs of every product that is actually listed on a category page. A product
+// page that is not in this set is an "orphan": it exists but nothing links to it.
+function reachableProductUrls() {
+  const set = new Set();
+  fs.readdirSync(DATA_DIR).filter(f => f.endsWith('.category.json')).forEach(f => {
+    (loadJson(path.join(DATA_DIR, f)).products || []).forEach(p => p.url && set.add(p.url));
+  });
+  return set;
+}
+
 function generateSearchIndex() {
   const shared = loadJson(path.join(DATA_DIR, 'shared.json'));
   const dec = s => String(s || '').replace(/&amp;/g, '&');
+  const reachable = reachableProductUrls();
   const items = loadAllPdpPages()
     .filter(p => p.product && p.category)
+    .filter(p => !reachable.size || reachable.has(p.product.url))   // never offer orphan pages in search
     .map(p => ({
       n: dec(p.product.name), u: p.product.url, c: dec(p.category.name), cs: p.category.slug,
       b: p.product.brand_slug || '', p: p.product.price || '',
@@ -479,6 +535,9 @@ function main() {
     // be generated after the loop, once every product has been read.
     generateAllBrands();
     generateSearchIndex();
+    generateSitemap();
+  } else if (cmd === 'sitemap') {
+    generateSitemap();
   } else if (cmd === 'searchindex') {
     generateSearchIndex();
   } else if (cmd === 'deploy') {
@@ -497,6 +556,7 @@ function main() {
     }
     generateAllBrands();
     generateSearchIndex();
+    generateSitemap();
     deploy();
   } else {
     console.log('Usage:');

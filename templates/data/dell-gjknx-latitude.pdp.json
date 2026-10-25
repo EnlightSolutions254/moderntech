@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Dell GJKNX Latitude Battery — KES 4,500 | [Store Name]",
-    "description": "Dell GJKNX Latitude Battery — fits Latitude 5480, Latitude 5490, Latitude 5580 and more. Tested before dispatch, with warranty support."
+    "title": "Dell GJKNX Latitude Battery — KES 4,500 | Zanatechnologies",
+    "description": "Dell GJKNX Latitude Battery — fits Latitude 5480, Latitude 5490, Latitude 5580 and more."
   },
   "og": {
-    "title": "Dell GJKNX Latitude Battery | [Store Name]",
-    "description": "Dell GJKNX Latitude Battery — fits Latitude 5480, Latitude 5490, Latitude 5580 and more. Tested before dispatch, with warranty support."
+    "title": "Dell GJKNX Latitude Battery | Zanatechnologies",
+    "description": "Dell GJKNX Latitude Battery — fits Latitude 5480, Latitude 5490, Latitude 5580 and more."
   },
   "category": {
     "slug": "laptop-batteries",
@@ -22,10 +22,6 @@
     {
       "question": "Are these original or compatible batteries?",
       "answer": "It's stated clearly above — Original (OEM) or Replacement (OEM-equivalent)."
-    },
-    {
-      "question": "What warranty comes with this battery?",
-      "answer": "This battery carries a 6-month warranty."
     }
   ],
   "product": {
@@ -38,7 +34,7 @@
     "price": "4,500",
     "price_raw": "4500",
     "schema_availability": "https://schema.org/InStock",
-    "description": "Dell GJKNX Latitude Battery — fits Latitude 5480, Latitude 5490, Latitude 5580 and more. Tested before dispatch, with warranty support.",
+    "description": "Dell GJKNX Latitude Battery — fits Latitude 5480, Latitude 5490, Latitude 5580 and more.",
     "type_label": "battery",
     "type_label_cap": "Battery",
     "badges": [
@@ -69,10 +65,6 @@
       {
         "label": "Condition",
         "value": "Brand New"
-      },
-      {
-        "label": "Warranty",
-        "value": "6 Months"
       }
     ],
     "compatible_models": [

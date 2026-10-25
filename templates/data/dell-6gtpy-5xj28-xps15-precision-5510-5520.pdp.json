@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Dell 6GTPY / 5XJ28 Battery | Price in Kenya | [Store Name]",
-    "description": "Replacement battery for Dell XPS 15 9560, XPS 15 9550, Precision 5510, Precision 5520 and Precision M5520. 6-month warranty. Order via WhatsApp, delivery countrywide."
+    "title": "Dell 6GTPY / 5XJ28 Battery | Price in Kenya | Zanatechnologies",
+    "description": "Replacement battery for Dell XPS 15 9560, XPS 15 9550, Precision 5510, Precision 5520 and Precision M5520. Order via WhatsApp, delivery countrywide."
   },
   "og": {
-    "title": "Dell 6GTPY / 5XJ28 Battery | [Store Name]",
-    "description": "Replacement battery for Dell XPS 15 9560, XPS 15 9550, Precision 5510, Precision 5520 and Precision M5520. 6-month warranty. Order via WhatsApp, delivery countrywide."
+    "title": "Dell 6GTPY / 5XJ28 Battery | Zanatechnologies",
+    "description": "Replacement battery for Dell XPS 15 9560, XPS 15 9550, Precision 5510, Precision 5520 and Precision M5520. Order via WhatsApp, delivery countrywide."
   },
   "category": {
     "slug": "laptop-batteries",
@@ -22,17 +22,17 @@
     "price": "5,700",
     "price_raw": "5700",
     "schema_availability": "https://schema.org/InStock",
-    "description": "Genuine-fit replacement battery (part no. 6GTPY / 5XJ28) for Dell XPS 15 9560, XPS 15 9550, Precision 5510, Precision 5520 and Precision M5520. Tested before dispatch, drop-in fit \u2014 no disassembly beyond the standard battery bay.",
+    "description": "Genuine-fit replacement battery (part no. 6GTPY / 5XJ28) for Dell XPS 15 9560, XPS 15 9550, Precision 5510, Precision 5520 and Precision M5520. Tested before dispatch, drop-in fit — no disassembly beyond the standard battery bay.",
     "type_label": "battery",
     "type_label_cap": "Battery",
     "images": [
       {
         "src": "assets/images/products/dell-battery-6gtpy-5xj28.webp",
-        "alt": "Dell 6GTPY / 5XJ28 Battery \u2014 front view"
+        "alt": "Dell 6GTPY / 5XJ28 Battery — front view"
       },
       {
         "src": "assets/images/products/dell-battery-6gtpy-5xj28-1.webp",
-        "alt": "Dell 6GTPY / 5XJ28 Battery \u2014 side view"
+        "alt": "Dell 6GTPY / 5XJ28 Battery — side view"
       }
     ],
     "badges": [
@@ -43,10 +43,6 @@
       {
         "class": "badge--new-oem",
         "label": "New OEM-Equivalent"
-      },
-      {
-        "class": "badge--warranty",
-        "label": "6-Month Warranty"
       }
     ],
     "specs": [
@@ -61,10 +57,6 @@
       {
         "label": "Battery Type",
         "value": "New OEM-Equivalent"
-      },
-      {
-        "label": "Warranty",
-        "value": "6 Months"
       }
     ],
     "compatible_models": [
@@ -82,12 +74,8 @@
   "faq_heading": "Battery Questions",
   "faqs": [
     {
-      "question": "Do you offer warranty on this battery?",
-      "answer": "Yes \u2014 this battery carries a 6-month warranty from the date of purchase."
-    },
-    {
       "question": "How do I install it?",
-      "answer": "It's a standard drop-in replacement \u2014 no disassembly beyond the battery bay. We can talk you through it on WhatsApp if needed."
+      "answer": "It's a standard drop-in replacement — no disassembly beyond the battery bay. We can talk you through it on WhatsApp if needed."
     },
     {
       "question": "Can I pay via M-Pesa?",

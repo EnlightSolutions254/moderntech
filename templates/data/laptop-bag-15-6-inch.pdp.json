@@ -32,7 +32,10 @@
       }
     ],
     "badges": [
-      { "class": "badge--in-stock", "label": "In Stock" }
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
     ],
     "price": "2,200",
     "price_raw": "2200",
@@ -41,20 +44,39 @@
     "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%2015.6%22%20Laptop%20Bag%20%E2%80%94%20KES%202%2C200",
     "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%2015.6%22%20Laptop%20Bag",
     "specs": [
-      { "label": "Max Screen Size", "value": "15.6\"" },
-      { "label": "Material", "value": "Water-resistant polyester" },
-      { "label": "Compartments", "value": "1 padded laptop sleeve, 2 accessory pockets" },
-      { "label": "Strap", "value": "Adjustable, padded shoulder strap" },
-      { "label": "Condition", "value": "New" },
-      { "label": "Warranty", "value": "3 Months" }
+      {
+        "label": "Max Screen Size",
+        "value": "15.6\""
+      },
+      {
+        "label": "Material",
+        "value": "Water-resistant polyester"
+      },
+      {
+        "label": "Compartments",
+        "value": "1 padded laptop sleeve, 2 accessory pockets"
+      },
+      {
+        "label": "Strap",
+        "value": "Adjustable, padded shoulder strap"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      }
     ],
     "related": []
   },
   "delivery_note": "Nairobi same-day, countrywide 1-2 days",
   "faq_heading": "Bag Questions",
   "faqs": [
-    { "question": "Will this fit a 14\" or 13\" laptop too?", "answer": "Yes — this bag comfortably fits any laptop up to 15.6\", including smaller 13\"–14\" models." },
-    { "question": "Is it padded for protection?", "answer": "Yes, the main laptop compartment is padded on all sides." },
-    { "question": "What warranty comes with this bag?", "answer": "This bag carries a 3-month warranty against manufacturing defects (zips, straps, stitching)." }
+    {
+      "question": "Will this fit a 14\" or 13\" laptop too?",
+      "answer": "Yes — this bag comfortably fits any laptop up to 15.6\", including smaller 13\"–14\" models."
+    },
+    {
+      "question": "Is it padded for protection?",
+      "answer": "Yes, the main laptop compartment is padded on all sides."
+    }
   ]
 }

@@ -1,11 +1,11 @@
 {
   "meta": {
     "title": "HP PG03XL Battery — KES 5,500 | Zanatechnologies",
-    "description": "Genuine HP PG03XL battery — fits Pavilion Gaming 15-DK/15-EC and OMEN 5X FPC52 Series. Tested before dispatch, with warranty support."
+    "description": "Genuine HP PG03XL battery — fits Pavilion Gaming 15-DK/15-EC and OMEN 5X FPC52 Series."
   },
   "og": {
     "title": "HP PG03XL Battery | Zanatechnologies",
-    "description": "Genuine HP PG03XL battery — fits Pavilion Gaming 15-DK/15-EC and OMEN 5X FPC52 Series. Tested before dispatch, with warranty support."
+    "description": "Genuine HP PG03XL battery — fits Pavilion Gaming 15-DK/15-EC and OMEN 5X FPC52 Series."
   },
   "category": {
     "slug": "laptop-batteries",
@@ -22,10 +22,6 @@
     {
       "question": "Are these original or compatible batteries?",
       "answer": "It's stated clearly above — Original (OEM) or Replacement (OEM-equivalent)."
-    },
-    {
-      "question": "What warranty comes with this battery?",
-      "answer": "This battery carries a 6-month warranty."
     }
   ],
   "product": {
@@ -38,23 +34,46 @@
     "price": "5,500",
     "price_raw": "5500",
     "schema_availability": "https://schema.org/InStock",
-    "description": "Genuine HP PG03XL battery — fits Pavilion Gaming 15-DK/15-EC and OMEN 5X FPC52 Series. Tested before dispatch, with warranty support.",
+    "description": "Genuine HP PG03XL battery — fits Pavilion Gaming 15-DK/15-EC and OMEN 5X FPC52 Series.",
     "type_label": "battery",
     "type_label_cap": "Battery",
     "badges": [
-      { "class": "badge--in-stock", "label": "In Stock" },
-      { "class": "badge--original", "label": "Genuine OEM" }
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      },
+      {
+        "class": "badge--original",
+        "label": "Genuine OEM"
+      }
     ],
     "images": [
-      { "src": "assets/images/products/hp-battery-pg03xl.webp", "alt": "Replacement battery — HP PG03XL Battery" }
+      {
+        "src": "assets/images/products/hp-battery-pg03xl.webp",
+        "alt": "Replacement battery — HP PG03XL Battery"
+      }
     ],
     "specs": [
-      { "label": "Part Number / Compatible Codes", "value": "PG03XL, L48430-AC1, HSTNN-OB1I" },
-      { "label": "Battery Type", "value": "Genuine OEM" },
-      { "label": "Voltage / Capacity", "value": "11.55V, 52.5Wh" },
-      { "label": "Cell Configuration", "value": "3ICP6/60/72" },
-      { "label": "Condition", "value": "Brand New" },
-      { "label": "Warranty", "value": "6 Months" }
+      {
+        "label": "Part Number / Compatible Codes",
+        "value": "PG03XL, L48430-AC1, HSTNN-OB1I"
+      },
+      {
+        "label": "Battery Type",
+        "value": "Genuine OEM"
+      },
+      {
+        "label": "Voltage / Capacity",
+        "value": "11.55V, 52.5Wh"
+      },
+      {
+        "label": "Cell Configuration",
+        "value": "3ICP6/60/72"
+      },
+      {
+        "label": "Condition",
+        "value": "Brand New"
+      }
     ],
     "compatible_models": [
       "Pavilion Gaming 15-DK Series",
@@ -69,7 +88,10 @@
         "badge_class": "badge--in-stock",
         "badge_label": "In Stock",
         "name": "HP PK03XL Battery",
-        "tags": ["Spectre x360 13-4000 Series", "Spectre x360 13-4100 Series"],
+        "tags": [
+          "Spectre x360 13-4000 Series",
+          "Spectre x360 13-4100 Series"
+        ],
         "price": "5,800",
         "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20PK03XL%20Battery%20%E2%80%94%20KES%205%2C800"
       },
@@ -80,7 +102,10 @@
         "badge_class": "badge--in-stock",
         "badge_label": "In Stock",
         "name": "HP RH03XL Battery",
-        "tags": ["ProBook 430 G8", "ProBook 440 G8"],
+        "tags": [
+          "ProBook 430 G8",
+          "ProBook 440 G8"
+        ],
         "price": "4,800",
         "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20RH03XL%20Battery%20%E2%80%94%20KES%204%2C800"
       },
@@ -91,7 +116,10 @@
         "badge_class": "badge--in-stock",
         "badge_label": "In Stock",
         "name": "Lenovo L18L3P72 Battery",
-        "tags": ["ThinkPad X390 Yoga (20NN/20NQ)", "ThinkPad X13 Yoga 1st Gen (20SX/20SY)"],
+        "tags": [
+          "ThinkPad X390 Yoga (20NN/20NQ)",
+          "ThinkPad X13 Yoga 1st Gen (20SX/20SY)"
+        ],
         "price": "5,800",
         "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20L18L3P72%20Battery%20%E2%80%94%20KES%205%2C800"
       }

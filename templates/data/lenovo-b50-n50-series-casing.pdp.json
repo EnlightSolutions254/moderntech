@@ -5,7 +5,7 @@
   },
   "og": {
     "title": "Lenovo B50/B51/N50 Series Casing | Zanatechnologies",
-    "description": "Full casing kit or individual panels for Lenovo B50, B51 and N50 series laptops. In stock in Nairobi, warranty included."
+    "description": "Full casing kit or individual panels for Lenovo B50, B51 and N50 series laptops. In stock in Nairobi."
   },
   "category": {
     "slug": "casings",
@@ -40,9 +40,14 @@
       }
     ],
     "badges": [
-      { "class": "badge--in-stock", "label": "In Stock" },
-      { "class": "badge--new-oem", "label": "New OEM-Equivalent" },
-      { "class": "badge--warranty", "label": "Warranty Included" }
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      },
+      {
+        "class": "badge--new-oem",
+        "label": "New OEM-Equivalent"
+      }
     ],
     "description": "Replacement casing for the Lenovo B50-30, B50-45, B50-70, B50-80, B51-30, B51-80, N50-45, N50-70 and N50-80 series (Black). Available as the full kit (lid and bottom case together) or as individual panels if you only need one side replaced — see \"Choose Your Part\" below for exactly what's included in each option and its price, then tell us which one you need when you message us on WhatsApp.",
     "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20a%20Lenovo%20B50%2FB51%2FN50%20series%20casing%20%E2%80%94%20please%20let%20me%20know%3A%20Full%20Kit%2C%20Part%20AB%2C%20or%20Part%20CD",
@@ -77,25 +82,53 @@
       }
     ],
     "specs": [
-      { "label": "Material", "value": "ABS plastic" },
-      { "label": "Color", "value": "Black" },
-      { "label": "Includes", "value": "Casing panel(s), screw set, rubber feet" },
-      { "label": "Condition", "value": "New" },
-      { "label": "Warranty", "value": "3 months (manufacturing defects)" }
+      {
+        "label": "Material",
+        "value": "ABS plastic"
+      },
+      {
+        "label": "Color",
+        "value": "Black"
+      },
+      {
+        "label": "Includes",
+        "value": "Casing panel(s), screw set, rubber feet"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      }
     ],
     "compatible_models": [
-      "Lenovo B50-30", "Lenovo B50-45", "Lenovo B50-70", "Lenovo B50-80",
-      "Lenovo B51-30", "Lenovo B51-80",
-      "Lenovo N50-45", "Lenovo N50-70", "Lenovo N50-80"
+      "Lenovo B50-30",
+      "Lenovo B50-45",
+      "Lenovo B50-70",
+      "Lenovo B50-80",
+      "Lenovo B51-30",
+      "Lenovo B51-80",
+      "Lenovo N50-45",
+      "Lenovo N50-70",
+      "Lenovo N50-80"
     ],
     "related": []
   },
   "faq_heading": "Casing Questions",
   "faqs": [
-    { "question": "What's the difference between Part AB, Part CD and the Full Kit?", "answer": "Part AB is the lid — the LCD back cover and screen bezel. Part CD is the bottom case. The Full Kit is both parts together at a combined price." },
-    { "question": "Do I need both parts?", "answer": "Only if both are damaged. If just one side is cracked or broken, you only need that part — tell us which on WhatsApp and we'll confirm the price." },
-    { "question": "Does the casing come with a keyboard or trackpad fitted?", "answer": "No — these are bare panels. The keyboard and trackpad transfer over from your existing casing." },
-    { "question": "Can I fit this myself?", "answer": "It involves a full teardown of the laptop, so most customers have it fitted by us. We can talk you through it on WhatsApp if you'd rather do it yourself." },
-    { "question": "What warranty comes with a casing?", "answer": "Every casing here carries a 3-month warranty against manufacturing defects such as cracking or misaligned mounting points." }
+    {
+      "question": "What's the difference between Part AB, Part CD and the Full Kit?",
+      "answer": "Part AB is the lid — the LCD back cover and screen bezel. Part CD is the bottom case. The Full Kit is both parts together at a combined price."
+    },
+    {
+      "question": "Do I need both parts?",
+      "answer": "Only if both are damaged. If just one side is cracked or broken, you only need that part — tell us which on WhatsApp and we'll confirm the price."
+    },
+    {
+      "question": "Does the casing come with a keyboard or trackpad fitted?",
+      "answer": "No — these are bare panels. The keyboard and trackpad transfer over from your existing casing."
+    },
+    {
+      "question": "Can I fit this myself?",
+      "answer": "It involves a full teardown of the laptop, so most customers have it fitted by us. We can talk you through it on WhatsApp if you'd rather do it yourself."
+    }
   ]
 }

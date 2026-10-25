@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "HP 250 G6 / 15-BS Keyboard — Backlit, US Layout | [Store Name]",
-    "description": "Genuine replacement backlit keyboard for the HP 250 G6 / 15-BS series. Available in black or silver. Warranty included, order on WhatsApp."
+    "title": "HP 250 G6 / 15-BS Keyboard — Backlit, US Layout | Zanatechnologies",
+    "description": "Replacement backlit keyboard for the HP 250 G6 / 15-BS series. Available in black or silver. Order on WhatsApp."
   },
   "og": {
-    "title": "HP 250 G6 / 15-BS Keyboard (Backlit) | [Store Name]",
-    "description": "Genuine backlit replacement keyboard for the HP 250 G6 / 15-BS series, available in black or silver. In stock, warranty included."
+    "title": "HP 250 G6 / 15-BS Keyboard (Backlit) | Zanatechnologies",
+    "description": "Backlit replacement keyboard for the HP 250 G6 / 15-BS series, available in black or silver. In stock."
   },
   "category": {
     "slug": "keyboards",
@@ -22,10 +22,16 @@
     "name": "HP 250 G6 / 15-BS Keyboard (Backlit)",
     "full_name": "HP 250 G6 / 15-BS Series Replacement Keyboard — Backlit, US Layout",
     "images": [
-      { "src": "assets/images/products/hp-keyboard-250g6-backlit.webp", "alt": "Replacement backlit keyboard for HP 250 G6 / 15-BS series" }
+      {
+        "src": "assets/images/products/hp-keyboard-250g6-backlit.webp",
+        "alt": "Replacement backlit keyboard for HP 250 G6 / 15-BS series"
+      }
     ],
     "badges": [
-      { "class": "badge--in-stock", "label": "In Stock" }
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
     ],
     "price": "3,000",
     "price_raw": "3000",
@@ -40,12 +46,26 @@
       "HP 15-BW series"
     ],
     "specs": [
-      { "label": "Layout", "value": "US English (QWERTY)" },
-      { "label": "Backlight", "value": "Yes" },
-      { "label": "Color Options", "value": "Black or Silver" },
-      { "label": "Fitting", "value": "Direct replacement, no adhesive required" },
-      { "label": "Condition", "value": "New" },
-      { "label": "Warranty", "value": "3 Months" }
+      {
+        "label": "Layout",
+        "value": "US English (QWERTY)"
+      },
+      {
+        "label": "Backlight",
+        "value": "Yes"
+      },
+      {
+        "label": "Color Options",
+        "value": "Black or Silver"
+      },
+      {
+        "label": "Fitting",
+        "value": "Direct replacement, no adhesive required"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      }
     ],
     "related": [
       {
@@ -53,7 +73,9 @@
         "image": "assets/images/products/hp-keyboard-250g6-nonbacklit.webp",
         "alt": "Replacement non-backlit keyboard for HP 250 G6 / 15-BS series",
         "name": "HP 250 G6 / 15-BS Keyboard (Non-Backlit)",
-        "tags": ["250 G6/15-BS"],
+        "tags": [
+          "250 G6/15-BS"
+        ],
         "price": "2,000",
         "badge_class": "badge--in-stock",
         "badge_label": "In Stock",
@@ -64,7 +86,10 @@
         "image": "assets/images/products/hp-keyboard-450g3g4-backlit.webp",
         "alt": "Replacement backlit keyboard for HP ProBook 450 G3/G4",
         "name": "HP ProBook 450 G3/G4 Keyboard (Backlit)",
-        "tags": ["450 G3/G4", "Backlit"],
+        "tags": [
+          "450 G3/G4",
+          "Backlit"
+        ],
         "price": "3,000",
         "badge_class": "badge--in-stock",
         "badge_label": "In Stock",
@@ -75,8 +100,13 @@
   "delivery_note": "Nairobi same-day, countrywide 1-2 days",
   "faq_heading": "Keyboard Questions",
   "faqs": [
-    { "question": "How do I know this keyboard fits my laptop?", "answer": "This fits the HP 250 G6 / 255 G6 / 15-BS series. Send us a photo of the sticker under your laptop on WhatsApp if you're unsure." },
-    { "question": "What colors are available?", "answer": "This keyboard comes in black or silver. Let us know your laptop's color when you order on WhatsApp." },
-    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+    {
+      "question": "How do I know this keyboard fits my laptop?",
+      "answer": "This fits the HP 250 G6 / 255 G6 / 15-BS series. Send us a photo of the sticker under your laptop on WhatsApp if you're unsure."
+    },
+    {
+      "question": "What colors are available?",
+      "answer": "This keyboard comes in black or silver. Let us know your laptop's color when you order on WhatsApp."
+    }
   ]
 }

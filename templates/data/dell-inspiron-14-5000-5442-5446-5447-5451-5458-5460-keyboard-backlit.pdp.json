@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Dell Inspiron 14-5000 Series (5442/5446/5447/5451/5458/5460) Keyboard — Backlit, US Layout | [Store Name]",
-    "description": "Genuine replacement backlit keyboard for the Dell Inspiron 14-5000 Series: 5442, 5446, 5447, 5451, 5458, 5460, US English layout, black. Warranty included, order on WhatsApp."
+    "title": "Dell Inspiron 14-5000 Series (5442/5446/5447/5451/5458/5460) Keyboard — Backlit, US Layout | Zanatechnologies",
+    "description": "Replacement backlit keyboard for the Dell Inspiron 14-5000 Series: 5442, 5446, 5447, 5451, 5458, 5460, US English layout, black. Order on WhatsApp."
   },
   "og": {
-    "title": "Dell Inspiron 14-5000 Series Keyboard (Backlit) | [Store Name]",
-    "description": "Genuine backlit replacement keyboard for the Dell Inspiron 14-5000 Series (5442/5446/5447/5451/5458/5460). In stock, warranty included."
+    "title": "Dell Inspiron 14-5000 Series Keyboard (Backlit) | Zanatechnologies",
+    "description": "Backlit replacement keyboard for the Dell Inspiron 14-5000 Series (5442/5446/5447/5451/5458/5460). In stock."
   },
   "category": {
     "slug": "keyboards",
@@ -22,11 +22,20 @@
     "name": "Dell Inspiron 14-5000 Series Keyboard (Backlit)",
     "full_name": "Dell Inspiron 14-5000 Series (5442, 5446, 5447, 5451, 5458, 5460) Replacement Keyboard — Backlit, US Layout, Black",
     "images": [
-      { "src": "assets/images/products/dell-keyboard-inspiron-14-5000-5442-5446-5447-5451-5458-5460-backlit.webp", "alt": "Replacement backlit keyboard for Dell Inspiron 14-5000 Series 5442/5446/5447/5451/5458/5460" },
-      { "src": "assets/images/products/dell-keyboard-inspiron-14-5000-5442-5446-5447-5451-5458-5460-backlit-alt.webp", "alt": "Angled view of the replacement backlit keyboard for Dell Inspiron 14-5000 Series" }
+      {
+        "src": "assets/images/products/dell-keyboard-inspiron-14-5000-5442-5446-5447-5451-5458-5460-backlit.webp",
+        "alt": "Replacement backlit keyboard for Dell Inspiron 14-5000 Series 5442/5446/5447/5451/5458/5460"
+      },
+      {
+        "src": "assets/images/products/dell-keyboard-inspiron-14-5000-5442-5446-5447-5451-5458-5460-backlit-alt.webp",
+        "alt": "Angled view of the replacement backlit keyboard for Dell Inspiron 14-5000 Series"
+      }
     ],
     "badges": [
-      { "class": "badge--in-stock", "label": "In Stock" }
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
     ],
     "price": "3,200",
     "price_raw": "3200",
@@ -43,13 +52,30 @@
       "Dell Inspiron 14-5460"
     ],
     "specs": [
-      { "label": "Layout", "value": "US English (QWERTY)" },
-      { "label": "Backlight", "value": "Yes" },
-      { "label": "Color", "value": "Black" },
-      { "label": "Frame", "value": "Included" },
-      { "label": "Fitting", "value": "Direct replacement, no adhesive required" },
-      { "label": "Condition", "value": "New" },
-      { "label": "Warranty", "value": "3 Months" }
+      {
+        "label": "Layout",
+        "value": "US English (QWERTY)"
+      },
+      {
+        "label": "Backlight",
+        "value": "Yes"
+      },
+      {
+        "label": "Color",
+        "value": "Black"
+      },
+      {
+        "label": "Frame",
+        "value": "Included"
+      },
+      {
+        "label": "Fitting",
+        "value": "Direct replacement, no adhesive required"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      }
     ],
     "related": [
       {
@@ -57,7 +83,9 @@
         "image": "assets/images/products/dell-keyboard-inspiron-14-5000-5442-5446-5447-5451-5458-5460-nonbacklit.webp",
         "alt": "Replacement non-backlit keyboard for Dell Inspiron 14-5000 Series 5442/5446/5447/5451/5458/5460",
         "name": "Dell Inspiron 14-5000 Series Keyboard (Non-Backlit)",
-        "tags": ["Inspiron 14-5000 Series"],
+        "tags": [
+          "Inspiron 14-5000 Series"
+        ],
         "price": "2,700",
         "badge_class": "badge--in-stock",
         "badge_label": "In Stock",
@@ -68,8 +96,13 @@
   "delivery_note": "Nairobi same-day, countrywide 1-2 days",
   "faq_heading": "Keyboard Questions",
   "faqs": [
-    { "question": "How do I know this keyboard fits my laptop?", "answer": "This fits the Dell Inspiron 14-5000 Series, covering the 5442, 5446, 5447, 5451, 5458 and 5460, which share the same chassis. If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
-    { "question": "Is it backlit?", "answer": "Yes, this version includes backlighting to match the original. We also stock a non-backlit version for this series." },
-    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+    {
+      "question": "How do I know this keyboard fits my laptop?",
+      "answer": "This fits the Dell Inspiron 14-5000 Series, covering the 5442, 5446, 5447, 5451, 5458 and 5460, which share the same chassis. If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is it backlit?",
+      "answer": "Yes, this version includes backlighting to match the original. We also stock a non-backlit version for this series."
+    }
   ]
 }

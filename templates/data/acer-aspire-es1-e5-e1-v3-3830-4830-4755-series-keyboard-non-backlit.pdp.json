@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Acer Aspire ES1/E5/E1/V3/3830/4830/4755 Series Keyboard — Non-Backlit, US Layout | [Store Name]",
-    "description": "Genuine replacement non-backlit keyboard for a wide range of Acer Aspire ES1, E5, E1, V3, 3830, 4830 and 4755 series laptops. US layout. Warranty included, order on WhatsApp."
+    "title": "Acer Aspire ES1/E5/E1/V3/3830/4830/4755 Series Keyboard — Non-Backlit, US Layout | Zanatechnologies",
+    "description": "Replacement non-backlit keyboard for a wide range of Acer Aspire ES1, E5, E1, V3, 3830, 4830 and 4755 series laptops. US layout. Order on WhatsApp."
   },
   "og": {
-    "title": "Acer Aspire ES1/E5/E1/V3/3830/4830/4755 Series Keyboard (Non-Backlit) | [Store Name]",
-    "description": "Genuine non-backlit replacement keyboard for the Acer Aspire ES1/E5/E1/V3/3830/4830/4755 series. In stock, warranty included."
+    "title": "Acer Aspire ES1/E5/E1/V3/3830/4830/4755 Series Keyboard (Non-Backlit) | Zanatechnologies",
+    "description": "Non-backlit replacement keyboard for the Acer Aspire ES1/E5/E1/V3/3830/4830/4755 series. In stock."
   },
   "category": {
     "slug": "keyboards",
@@ -22,10 +22,16 @@
     "name": "Acer Aspire ES1/E5/E1/V3/3830/4830/4755 Series Keyboard (Non-Backlit)",
     "full_name": "Acer Aspire ES1-511, E5-411, E5-471, E1-470, E1-432, V3-472, E1-422, 3830, 4830, 4755, E1-472, E1-410, ES1-411, E1-430, E5-421, ES1-421, ES1-431, V3-431, V3-471 Replacement Keyboard — Non-Backlit, US Layout",
     "images": [
-      { "src": "assets/images/products/acer-keyboard-aspire-multiseries-nonbacklit.webp", "alt": "Replacement non-backlit keyboard for Acer Aspire ES1/E5/E1/V3/3830/4830/4755 series" }
+      {
+        "src": "assets/images/products/acer-keyboard-aspire-multiseries-nonbacklit.webp",
+        "alt": "Replacement non-backlit keyboard for Acer Aspire ES1/E5/E1/V3/3830/4830/4755 series"
+      }
     ],
     "badges": [
-      { "class": "badge--in-stock", "label": "In Stock" }
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
     ],
     "price": "2,200",
     "price_raw": "2200",
@@ -55,21 +61,43 @@
       "Acer Aspire V3-471"
     ],
     "specs": [
-      { "label": "Layout", "value": "US English (QWERTY)" },
-      { "label": "Backlight", "value": "No" },
-      { "label": "Color", "value": "Black" },
-      { "label": "Frame", "value": "Included" },
-      { "label": "Fitting", "value": "Direct replacement, no adhesive required" },
-      { "label": "Condition", "value": "New" },
-      { "label": "Warranty", "value": "3 Months" }
+      {
+        "label": "Layout",
+        "value": "US English (QWERTY)"
+      },
+      {
+        "label": "Backlight",
+        "value": "No"
+      },
+      {
+        "label": "Color",
+        "value": "Black"
+      },
+      {
+        "label": "Frame",
+        "value": "Included"
+      },
+      {
+        "label": "Fitting",
+        "value": "Direct replacement, no adhesive required"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      }
     ],
     "related": []
   },
   "delivery_note": "Nairobi same-day, countrywide 1-2 days",
   "faq_heading": "Keyboard Questions",
   "faqs": [
-    { "question": "How do I know this keyboard fits my laptop?", "answer": "This fits a wide range of Acer Aspire models that share the same keyboard, including the ES1-511, E5-411, E5-471, E1-470, E1-432, V3-472, E1-422, 3830, 4830, 4755, E1-472, E1-410, ES1-411, E1-430, E5-421, ES1-421, ES1-431, V3-431 and V3-471. If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
-    { "question": "Is it backlit?", "answer": "No, this is the non-backlit version." },
-    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+    {
+      "question": "How do I know this keyboard fits my laptop?",
+      "answer": "This fits a wide range of Acer Aspire models that share the same keyboard, including the ES1-511, E5-411, E5-471, E1-470, E1-432, V3-472, E1-422, 3830, 4830, 4755, E1-472, E1-410, ES1-411, E1-430, E5-421, ES1-421, ES1-431, V3-431 and V3-471. If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is it backlit?",
+      "answer": "No, this is the non-backlit version."
+    }
   ]
 }

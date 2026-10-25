@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Lenovo T460s/T470s Original Battery — KES 4,500 | [Store Name]",
-    "description": "Lenovo T460s/T470s Original Battery — fits ThinkPad T460s, ThinkPad T470s. Tested before dispatch, with warranty support."
+    "title": "Lenovo T460s/T470s Original Battery — KES 4,500 | Zanatechnologies",
+    "description": "Lenovo T460s/T470s Original Battery — fits ThinkPad T460s, ThinkPad T470s."
   },
   "og": {
-    "title": "Lenovo T460s/T470s Original Battery | [Store Name]",
-    "description": "Lenovo T460s/T470s Original Battery — fits ThinkPad T460s, ThinkPad T470s. Tested before dispatch, with warranty support."
+    "title": "Lenovo T460s/T470s Original Battery | Zanatechnologies",
+    "description": "Lenovo T460s/T470s Original Battery — fits ThinkPad T460s, ThinkPad T470s."
   },
   "category": {
     "slug": "laptop-batteries",
@@ -22,10 +22,6 @@
     {
       "question": "Are these original or compatible batteries?",
       "answer": "It's stated clearly above — Original (OEM) or Replacement (OEM-equivalent)."
-    },
-    {
-      "question": "What warranty comes with this battery?",
-      "answer": "This battery carries a 6-month warranty."
     }
   ],
   "product": {
@@ -38,7 +34,7 @@
     "price": "4,500",
     "price_raw": "4500",
     "schema_availability": "https://schema.org/InStock",
-    "description": "Lenovo T460s/T470s Original Battery — fits ThinkPad T460s, ThinkPad T470s. Tested before dispatch, with warranty support.",
+    "description": "Lenovo T460s/T470s Original Battery — fits ThinkPad T460s, ThinkPad T470s.",
     "type_label": "battery",
     "type_label_cap": "Battery",
     "badges": [
@@ -69,10 +65,6 @@
       {
         "label": "Condition",
         "value": "Brand New"
-      },
-      {
-        "label": "Warranty",
-        "value": "6 Months"
       }
     ],
     "compatible_models": [

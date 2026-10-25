@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Laptop Charger Flower Cable (3-Pin) | Price in Kenya | Moderntech",
-    "description": "Universal 3-pin clover-leaf (Mickey Mouse) power cable for laptop charger bricks \u2014 fits HP, Dell, Lenovo, Toshiba, Asus and most other laptop adapters. 3-month warranty. Order via WhatsApp, delivery countrywide."
+    "title": "Laptop Charger Flower Cable (3-Pin) | Price in Kenya | Zanatechnologies",
+    "description": "Universal 3-pin clover-leaf (Mickey Mouse) power cable for laptop charger bricks — fits HP, Dell, Lenovo, Toshiba, Asus and most other laptop adapters. Order via WhatsApp, delivery countrywide."
   },
   "og": {
-    "title": "Laptop Charger Flower Cable (3-Pin) | Moderntech",
-    "description": "Universal 3-pin clover-leaf (Mickey Mouse) power cable for laptop charger bricks \u2014 fits HP, Dell, Lenovo, Toshiba, Asus and most other laptop adapters. 3-month warranty. Order via WhatsApp, delivery countrywide."
+    "title": "Laptop Charger Flower Cable (3-Pin) | Zanatechnologies",
+    "description": "Universal 3-pin clover-leaf (Mickey Mouse) power cable for laptop charger bricks — fits HP, Dell, Lenovo, Toshiba, Asus and most other laptop adapters. Order via WhatsApp, delivery countrywide."
   },
   "category": {
     "slug": "chargers",
@@ -28,11 +28,11 @@
     "images": [
       {
         "src": "assets/images/products/universal-flower-cable-3pin.webp",
-        "alt": "Laptop Charger Flower Cable (3-Pin) \u2014 main view"
+        "alt": "Laptop Charger Flower Cable (3-Pin) — main view"
       },
       {
         "src": "assets/images/products/universal-flower-cable-3pin-1.webp",
-        "alt": "Laptop Charger Flower Cable (3-Pin) \u2014 connector detail"
+        "alt": "Laptop Charger Flower Cable (3-Pin) — connector detail"
       }
     ],
     "badges": [
@@ -43,10 +43,6 @@
       {
         "class": "badge--new-oem",
         "label": "Universal Fit"
-      },
-      {
-        "class": "badge--warranty",
-        "label": "3-Month Warranty"
       }
     ],
     "specs": [
@@ -69,10 +65,6 @@
       {
         "label": "Plug Type",
         "value": "3-Pin (Kenya Standard)"
-      },
-      {
-        "label": "Warranty",
-        "value": "3 Months"
       }
     ],
     "compatible_models": [
@@ -87,15 +79,11 @@
   "faqs": [
     {
       "question": "Will this fit my laptop charger?",
-      "answer": "This is a universal 3-pin clover-leaf (C5) cable \u2014 it fits the vast majority of laptop charger bricks. If you're unsure, send us a photo of your charger's input socket on WhatsApp and we'll confirm."
+      "answer": "This is a universal 3-pin clover-leaf (C5) cable — it fits the vast majority of laptop charger bricks. If you're unsure, send us a photo of your charger's input socket on WhatsApp and we'll confirm."
     },
     {
       "question": "Is this the same as the charger brick?",
-      "answer": "No \u2014 this is just the power cable that connects the charger brick to the wall socket, not the adapter itself."
-    },
-    {
-      "question": "What warranty comes with this cable?",
-      "answer": "This cable carries a 3-month warranty."
+      "answer": "No — this is just the power cable that connects the charger brick to the wall socket, not the adapter itself."
     }
   ]
 }

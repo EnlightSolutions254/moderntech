@@ -1,11 +1,11 @@
 {
   "meta": {
     "title": "Dell F7HVR Battery | Price in Kenya | Zanatechnologies",
-    "description": "Replacement battery for Dell Latitude E5470, E5570 and Precision 3510. 58Wh, 14.8V, Li-Polymer. 6-month warranty. Order via WhatsApp, delivery countrywide."
+    "description": "Replacement battery for Dell Latitude E5470, E5570 and Precision 3510. 58Wh, 14.8V, Li-Polymer. Order via WhatsApp, delivery countrywide."
   },
   "og": {
     "title": "Dell F7HVR Battery | Zanatechnologies",
-    "description": "Replacement battery for Dell Latitude E5470, E5570 and Precision 3510. 58Wh, 14.8V, Li-Polymer. 6-month warranty. Order via WhatsApp, delivery countrywide."
+    "description": "Replacement battery for Dell Latitude E5470, E5570 and Precision 3510. 58Wh, 14.8V, Li-Polymer. Order via WhatsApp, delivery countrywide."
   },
   "category": {
     "slug": "laptop-batteries",
@@ -22,13 +22,13 @@
     "price": "6,000",
     "price_raw": "6000",
     "schema_availability": "https://schema.org/InStock",
-    "description": "Genuine-fit replacement battery (Type F7HVR) for Dell Latitude E5470, E5570 and Precision 3510. 4-cell, 58Wh, 14.8V Li-Polymer. Tested before dispatch, drop-in fit \u2014 no disassembly beyond the standard battery bay.",
+    "description": "Genuine-fit replacement battery (Type F7HVR) for Dell Latitude E5470, E5570 and Precision 3510. 4-cell, 58Wh, 14.8V Li-Polymer. Tested before dispatch, drop-in fit — no disassembly beyond the standard battery bay.",
     "type_label": "battery",
     "type_label_cap": "Battery",
     "images": [
       {
         "src": "assets/images/products/dell-battery-f7hvr.webp",
-        "alt": "Dell F7HVR Battery \u2014 front view"
+        "alt": "Dell F7HVR Battery — front view"
       }
     ],
     "badges": [
@@ -39,10 +39,6 @@
       {
         "class": "badge--new-oem",
         "label": "New OEM-Equivalent"
-      },
-      {
-        "class": "badge--warranty",
-        "label": "6-Month Warranty"
       }
     ],
     "specs": [
@@ -69,10 +65,6 @@
       {
         "label": "Voltage",
         "value": "14.8V"
-      },
-      {
-        "label": "Warranty",
-        "value": "6 Months"
       }
     ],
     "compatible_models": [
@@ -88,12 +80,8 @@
   "faq_heading": "Battery Questions",
   "faqs": [
     {
-      "question": "Do you offer warranty on this battery?",
-      "answer": "Yes \u2014 this battery carries a 6-month warranty from the date of purchase."
-    },
-    {
       "question": "How do I install it?",
-      "answer": "It's a standard drop-in replacement \u2014 no disassembly beyond the battery bay. We can talk you through it on WhatsApp if needed."
+      "answer": "It's a standard drop-in replacement — no disassembly beyond the battery bay. We can talk you through it on WhatsApp if needed."
     },
     {
       "question": "Can I pay via M-Pesa?",

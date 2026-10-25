@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Toshiba Satellite C55 Casing | Price in Kenya | [Store Name]",
-    "description": "Genuine-fit replacement casing for Toshiba Satellite C55. 6-month warranty. Order via WhatsApp, delivery countrywide."
+    "title": "Toshiba Satellite C55 Casing | Price in Kenya | Zanatechnologies",
+    "description": "Genuine-fit replacement casing for Toshiba Satellite C55. Order via WhatsApp, delivery countrywide."
   },
   "og": {
-    "title": "Toshiba Satellite C55 Casing | [Store Name]",
-    "description": "Genuine-fit replacement casing for Toshiba Satellite C55. 6-month warranty. Order via WhatsApp, delivery countrywide."
+    "title": "Toshiba Satellite C55 Casing | Zanatechnologies",
+    "description": "Genuine-fit replacement casing for Toshiba Satellite C55. Order via WhatsApp, delivery countrywide."
   },
   "category": {
     "slug": "casings",
@@ -55,10 +55,6 @@
       {
         "class": "badge--new-oem",
         "label": "New OEM-Equivalent"
-      },
-      {
-        "class": "badge--warranty",
-        "label": "6-Month Warranty"
       }
     ],
     "price": "2,900",
@@ -87,10 +83,6 @@
       {
         "label": "Condition",
         "value": "New OEM-equivalent"
-      },
-      {
-        "label": "Warranty",
-        "value": "6 months"
       }
     ],
     "compatible_models": [

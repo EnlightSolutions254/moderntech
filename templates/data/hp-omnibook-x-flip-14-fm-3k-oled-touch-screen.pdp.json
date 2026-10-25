@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "HP OmniBook X Flip 14-fm 3K OLED Touch Screen | [Store Name]",
-    "description": "Genuine replacement touch screen for HP OmniBook X Flip 14-fm (3K OLED configurations, e.g. 14-fm0003ni). 14\" 3K (2880x1800) OLED, up to 120Hz, multi-touch, Gorilla Glass 3. Warranty included, order on WhatsApp."
+    "title": "HP OmniBook X Flip 14-fm 3K OLED Touch Screen | Zanatechnologies",
+    "description": "Replacement touch screen for HP OmniBook X Flip 14-fm (3K OLED configurations, e.g. 14-fm0003ni). 14\" 3K (2880x1800) OLED, up to 120Hz, multi-touch, Gorilla Glass 3. Order on WhatsApp."
   },
   "og": {
-    "title": "HP OmniBook X Flip 14-fm 3K OLED Touch Screen | [Store Name]",
-    "description": "Genuine 14\" 3K OLED touch replacement screen for HP OmniBook X Flip 14-fm. In stock, warranty included."
+    "title": "HP OmniBook X Flip 14-fm 3K OLED Touch Screen | Zanatechnologies",
+    "description": "Genuine 14\" 3K OLED touch replacement screen for HP OmniBook X Flip 14-fm. In stock."
   },
   "category": {
     "slug": "screens",
@@ -40,7 +40,7 @@
     "price": "23,000",
     "price_raw": "23000",
     "schema_availability": "https://schema.org/InStock",
-    "description": "Genuine replacement touch screen for the HP OmniBook X Flip 14-fm 2-in-1 convertible, 3K OLED configuration (2880x1800, up to 120Hz refresh, 0.2ms response time, Corning Gorilla Glass 3, multi-touch). Fits higher-end 14-fm0000-series units built with the 3K OLED panel, such as the 14-fm0003ni. Because the 14-fm series covers both 2K IPS and 3K OLED builds, send us your full model number (e.g. 14-fm0003ni) or a photo of the sticker under your laptop on WhatsApp so we can confirm fit before dispatch. Supports laptop, tablet, tent and reverse modes. Tested before dispatch.",
+    "description": "Replacement touch screen for the HP OmniBook X Flip 14-fm 2-in-1 convertible, 3K OLED configuration (2880x1800, up to 120Hz refresh, 0.2ms response time, Corning Gorilla Glass 3, multi-touch). Fits higher-end 14-fm0000-series units built with the 3K OLED panel, such as the 14-fm0003ni. Because the 14-fm series covers both 2K IPS and 3K OLED builds, send us your full model number (e.g. 14-fm0003ni) or a photo of the sticker under your laptop on WhatsApp so we can confirm fit before dispatch. Supports laptop, tablet, tent and reverse modes. Tested before dispatch.",
     "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20OmniBook%20X%20Flip%2014-fm%203K%20Touch%20Screen%20%28OLED%29%20%E2%80%94%20KES%2023%2C000",
     "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20confirm%20fit%20for%3A%20HP%20OmniBook%20X%20Flip%2014-fm%203K%20Touch%20Screen%20%28OLED%29",
     "specs": [
@@ -95,10 +95,6 @@
       {
         "label": "Condition",
         "value": "New"
-      },
-      {
-        "label": "Warranty",
-        "value": "3 Months"
       }
     ],
     "related": [
@@ -142,10 +138,6 @@
     {
       "question": "Is it touch screen?",
       "answer": "Yes, this is a multi-touch OLED panel with up to 120Hz refresh and Corning Gorilla Glass 3 protection, matching the OmniBook X Flip's 2-in-1 laptop, tablet, tent and reverse modes."
-    },
-    {
-      "question": "What warranty comes with this screen?",
-      "answer": "This screen carries a 3-month warranty against dead pixels and panel defects."
     }
   ]
 }

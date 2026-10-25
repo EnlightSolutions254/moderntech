@@ -5,7 +5,7 @@
   },
   "og": {
     "title": "HP ProBook 440 G10 Casing | Zanatechnologies",
-    "description": "Full casing kit or individual panels for HP ProBook 440 G10. In stock in Nairobi, warranty included."
+    "description": "Full casing kit or individual panels for HP ProBook 440 G10. In stock in Nairobi."
   },
   "category": {
     "slug": "casings",
@@ -47,10 +47,6 @@
       {
         "class": "badge--new-oem",
         "label": "New OEM-Equivalent"
-      },
-      {
-        "class": "badge--warranty",
-        "label": "Warranty Included"
       }
     ],
     "description": "Replacement casing for the 14-inch HP ProBook 440 G10. Available as the full kit (lid and chassis together) or as individual panels if you only need one side replaced — see \"Choose Your Part\" below for exactly what's included in each option and its price, then tell us which one you need, and your laptop's color, when you message us on WhatsApp.",
@@ -93,10 +89,6 @@
       {
         "label": "Condition",
         "value": "New"
-      },
-      {
-        "label": "Warranty",
-        "value": "3 months (manufacturing defects)"
       }
     ],
     "compatible_models": [
@@ -125,10 +117,6 @@
     {
       "question": "Can I fit this myself?",
       "answer": "It involves a full teardown of the laptop, so most customers have it fitted by us. We can talk you through it on WhatsApp if you'd rather do it yourself."
-    },
-    {
-      "question": "What warranty comes with a casing?",
-      "answer": "Every casing here carries a 3-month warranty against manufacturing defects such as cracking or misaligned mounting points."
     }
   ]
 }

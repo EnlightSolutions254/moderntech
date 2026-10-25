@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Dell 65W Type-C Charger | Price in Kenya | Moderntech",
-    "description": "Replacement 65W USB-C power adapter for Dell Latitude 5000/7000 2-in-1 Series, XPS 12/13 and Chromebook 3100/5190. Model LA65NM170. 3-month warranty. Order via WhatsApp, delivery countrywide."
+    "title": "Dell 65W Type-C Charger | Price in Kenya | Zanatechnologies",
+    "description": "Replacement 65W USB-C power adapter for Dell Latitude 5000/7000 2-in-1 Series, XPS 12/13 and Chromebook 3100/5190. Model LA65NM170. Order via WhatsApp, delivery countrywide."
   },
   "og": {
-    "title": "Dell 65W Type-C Charger | Moderntech",
-    "description": "Replacement 65W USB-C power adapter for Dell Latitude 5000/7000 2-in-1 Series, XPS 12/13 and Chromebook 3100/5190. Model LA65NM170. 3-month warranty. Order via WhatsApp, delivery countrywide."
+    "title": "Dell 65W Type-C Charger | Zanatechnologies",
+    "description": "Replacement 65W USB-C power adapter for Dell Latitude 5000/7000 2-in-1 Series, XPS 12/13 and Chromebook 3100/5190. Model LA65NM170. Order via WhatsApp, delivery countrywide."
   },
   "category": {
     "slug": "chargers",
@@ -22,17 +22,17 @@
     "price": "2,500",
     "price_raw": "2500",
     "schema_availability": "https://schema.org/InStock",
-    "description": "Replacement power adapter (Model LA65NM170, Part No. 02YK0F, 0M1WCF) for Dell Latitude 11 5175/5179, Latitude 12 5285/5289/5290/7212/7275/7285/7290, Latitude 13 3380/3390/7368/7370/7389/7390 2-in-1, Latitude 14 5490/7490, XPS 12 9250, XPS 13 9350/9360/9365/9370, and Chromebook 3100/5190. USB Type-C connector delivering up to 65W (5V/3A, 9V/3A, 12V/3A, 15V/3A, 20V/3.25A). Wide-range 100\u2013240V AC input for worldwide use. Tested before dispatch, drop-in replacement for the original charger.",
+    "description": "Replacement power adapter (Model LA65NM170, Part No. 02YK0F, 0M1WCF) for Dell Latitude 11 5175/5179, Latitude 12 5285/5289/5290/7212/7275/7285/7290, Latitude 13 3380/3390/7368/7370/7389/7390 2-in-1, Latitude 14 5490/7490, XPS 12 9250, XPS 13 9350/9360/9365/9370, and Chromebook 3100/5190. USB Type-C connector delivering up to 65W (5V/3A, 9V/3A, 12V/3A, 15V/3A, 20V/3.25A). Wide-range 100–240V AC input for worldwide use. Tested before dispatch, drop-in replacement for the original charger.",
     "type_label": "charger",
     "type_label_cap": "Charger",
     "images": [
       {
         "src": "assets/images/products/dell-charger-65w-typec.webp",
-        "alt": "Dell 65W Type-C Charger \u2014 main view"
+        "alt": "Dell 65W Type-C Charger — main view"
       },
       {
         "src": "assets/images/products/dell-charger-65w-typec-1.webp",
-        "alt": "Dell 65W Type-C Charger \u2014 connector detail"
+        "alt": "Dell 65W Type-C Charger — connector detail"
       }
     ],
     "badges": [
@@ -43,10 +43,6 @@
       {
         "class": "badge--new-oem",
         "label": "New OEM-Equivalent"
-      },
-      {
-        "class": "badge--warranty",
-        "label": "3-Month Warranty"
       }
     ],
     "specs": [
@@ -72,11 +68,7 @@
       },
       {
         "label": "Input",
-        "value": "100\u2013240V AC, 50\u201360Hz"
-      },
-      {
-        "label": "Warranty",
-        "value": "3 Months"
+        "value": "100–240V AC, 50–60Hz"
       }
     ],
     "compatible_models": [
@@ -103,11 +95,7 @@
     },
     {
       "question": "Is a higher-wattage charger safe to use?",
-      "answer": "Yes \u2014 a charger rated higher than your laptop's original wattage is safe; your laptop only draws what it needs. A lower-wattage charger should be avoided."
-    },
-    {
-      "question": "What warranty comes with this charger?",
-      "answer": "This charger carries a 3-month warranty."
+      "answer": "Yes — a charger rated higher than your laptop's original wattage is safe; your laptop only draws what it needs. A lower-wattage charger should be avoided."
     }
   ]
 }

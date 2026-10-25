@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Asus VivoBook 15 Keyboard | Price in Kenya | [Store Name]",
-    "description": "Genuine replacement keyboard for Asus VivoBook 15. 3-month warranty. Order via WhatsApp, delivery countrywide."
+    "title": "Asus VivoBook 15 Keyboard | Price in Kenya | Zanatechnologies",
+    "description": "Replacement keyboard for Asus VivoBook 15. Order via WhatsApp, delivery countrywide."
   },
   "og": {
-    "title": "Asus VivoBook 15 Keyboard | [Store Name]",
-    "description": "Genuine replacement keyboard for Asus VivoBook 15. 3-month warranty. Order via WhatsApp, delivery countrywide."
+    "title": "Asus VivoBook 15 Keyboard | Zanatechnologies",
+    "description": "Replacement keyboard for Asus VivoBook 15. Order via WhatsApp, delivery countrywide."
   },
   "category": {
     "slug": "keyboards",
@@ -43,10 +43,6 @@
       {
         "class": "badge--new-oem",
         "label": "New OEM-Equivalent"
-      },
-      {
-        "class": "badge--warranty",
-        "label": "3-Month Warranty"
       }
     ],
     "description": "Genuine-fit replacement keyboard for the Asus VivoBook 15, matching the original layout. Tested before dispatch, drop-in fit — no soldering required.",
@@ -71,10 +67,6 @@
       {
         "label": "Condition",
         "value": "New OEM-Equivalent"
-      },
-      {
-        "label": "Warranty",
-        "value": "3 months"
       }
     ],
     "compatible_models": [
@@ -134,10 +126,6 @@
     {
       "question": "Does this keyboard come backlit?",
       "answer": "This model's keyboard doesn't ship backlit on this listing; message us on WhatsApp if you need to double-check before ordering."
-    },
-    {
-      "question": "What warranty comes with this keyboard?",
-      "answer": "This keyboard carries a 3-month warranty from the date of purchase."
     }
   ]
 }

@@ -39,10 +39,6 @@
       {
         "class": "badge--in-stock",
         "label": "In Stock"
-      },
-      {
-        "class": "badge--warranty",
-        "label": "Warranty Included"
       }
     ],
     "description": "CPU thermal module with heatsink and cooling fan for the Lenovo ThinkPad X1 Carbon 2nd gen (2014) and 3rd gen (2015), part numbers 04X3829, 00HN743 and 0C54435. Fit it when the laptop runs loud, rattles or grinds, overheats, or shuts down under load. Suppliers list different part numbers for the 2nd and 3rd generation, so please send us your exact laptop model (or a photo of the part number on your old fan) on WhatsApp and we will confirm we have the right one before you order. Fitting is available in Nairobi.",
@@ -76,10 +72,6 @@
       {
         "label": "Condition",
         "value": "New"
-      },
-      {
-        "label": "Warranty",
-        "value": "Included — ask on WhatsApp for current term"
       }
     ],
     "compatible_models": [
@@ -108,10 +100,6 @@
     {
       "question": "Can I fit this myself?",
       "answer": "It requires opening the base cover and removing the old thermal module, then applying fresh thermal paste. Most customers have it fitted by us. We can talk you through it on WhatsApp if you'd rather do it yourself."
-    },
-    {
-      "question": "What warranty comes with this fan?",
-      "answer": "This fan comes with a warranty. Message us on WhatsApp for the current term before ordering."
     }
   ]
 }

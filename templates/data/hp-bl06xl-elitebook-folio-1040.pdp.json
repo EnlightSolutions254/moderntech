@@ -1,11 +1,11 @@
 {
   "meta": {
     "title": "HP BL06XL Battery — EliteBook Folio 1040 G0, G1 | Zanatechnologies",
-    "description": "Genuine replacement HP BL06XL battery, 11.1V, for EliteBook Folio 1040 G0 and G1. In-stock pricing in KES, warranty included, order on WhatsApp."
+    "description": "Replacement HP BL06XL battery, 11.1V, for EliteBook Folio 1040 G0 and G1. In-stock pricing in KES, order on WhatsApp."
   },
   "og": {
     "title": "HP BL06XL Battery | Zanatechnologies",
-    "description": "Genuine HP BL06XL replacement battery for EliteBook Folio 1040 G0/G1. In stock, warranty included, order on WhatsApp."
+    "description": "Genuine HP BL06XL replacement battery for EliteBook Folio 1040 G0/G1. In stock, order on WhatsApp."
   },
   "category": {
     "slug": "laptop-batteries",
@@ -71,10 +71,6 @@
       {
         "label": "Condition",
         "value": "New"
-      },
-      {
-        "label": "Warranty",
-        "value": "6 Months"
       }
     ],
     "related": []
@@ -89,10 +85,6 @@
     {
       "question": "Is this an original or compatible battery?",
       "answer": "We stock genuine OEM batteries — this is a genuine HP BL06XL unit."
-    },
-    {
-      "question": "What warranty comes with this battery?",
-      "answer": "This battery carries a 6-month warranty."
     }
   ]
 }

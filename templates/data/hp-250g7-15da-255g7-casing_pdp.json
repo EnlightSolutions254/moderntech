@@ -5,7 +5,7 @@
   },
   "og": {
     "title": "HP 250 G7/15-DA/255 G7 Full Casing | Zanatechnologies",
-    "description": "Full casing kit or individual panels for HP 250 G7, 15-DA and 255 G7. Available in black or gray. In stock in Nairobi, warranty included."
+    "description": "Full casing kit or individual panels for HP 250 G7, 15-DA and 255 G7. Available in black or gray. In stock in Nairobi."
   },
   "category": {
     "slug": "casings",
@@ -43,10 +43,6 @@
       {
         "class": "badge--in-stock",
         "label": "In Stock"
-      },
-      {
-        "class": "badge--warranty",
-        "label": "Warranty Included"
       }
     ],
     "description": "Replacement full casing for the HP 250 G7, 15-DA and 255 G7 — available in black or gray. Available as the full kit (both lid and chassis) or as individual panels if you only need one side replaced — see \"Choose Your Part\" below for exactly what's included in each option and its price, then tell us which one and which color you need when you message us on WhatsApp.",
@@ -97,10 +93,6 @@
       {
         "label": "Condition",
         "value": "New"
-      },
-      {
-        "label": "Warranty",
-        "value": "3 months (manufacturing defects)"
       }
     ],
     "compatible_models": [
@@ -131,10 +123,6 @@
     {
       "question": "Can I fit this myself?",
       "answer": "It involves a full teardown of the laptop, so most customers have it fitted by us. We can talk you through it on WhatsApp if you'd rather do it yourself."
-    },
-    {
-      "question": "What warranty comes with a casing?",
-      "answer": "Every casing here carries a 3-month warranty against manufacturing defects such as cracking or misaligned mounting points."
     }
   ]
 }

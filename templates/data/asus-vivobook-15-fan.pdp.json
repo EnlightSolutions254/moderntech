@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Asus VivoBook 15 Cooling Fan | Price in Kenya | [Store Name]",
-    "description": "Genuine-fit replacement cooling fan for Asus VivoBook 15. 6-month warranty. Order via WhatsApp, delivery countrywide."
+    "title": "Asus VivoBook 15 Cooling Fan | Price in Kenya | Zanatechnologies",
+    "description": "Genuine-fit replacement cooling fan for Asus VivoBook 15. Order via WhatsApp, delivery countrywide."
   },
   "og": {
-    "title": "Asus VivoBook 15 Cooling Fan | [Store Name]",
-    "description": "Genuine-fit replacement cooling fan for Asus VivoBook 15. 6-month warranty. Order via WhatsApp, delivery countrywide."
+    "title": "Asus VivoBook 15 Cooling Fan | Zanatechnologies",
+    "description": "Genuine-fit replacement cooling fan for Asus VivoBook 15. Order via WhatsApp, delivery countrywide."
   },
   "category": {
     "slug": "cooling-fans",
@@ -55,10 +55,6 @@
       {
         "class": "badge--new-oem",
         "label": "New OEM-Equivalent"
-      },
-      {
-        "class": "badge--warranty",
-        "label": "6-Month Warranty"
       }
     ],
     "price": "2,800",
@@ -87,10 +83,6 @@
       {
         "label": "Condition",
         "value": "New OEM-equivalent"
-      },
-      {
-        "label": "Warranty",
-        "value": "6 months"
       }
     ],
     "compatible_models": [

@@ -1,11 +1,11 @@
 {
   "meta": {
     "title": "HP HV03XL Battery — KES 5,000 | Zanatechnologies",
-    "description": "Genuine HP HV03XL battery — fits HP x360 310 G2 (K12 Series). Tested before dispatch, with warranty support."
+    "description": "Genuine HP HV03XL battery — fits HP x360 310 G2 (K12 Series)."
   },
   "og": {
     "title": "HP HV03XL Battery | Zanatechnologies",
-    "description": "Genuine HP HV03XL battery — fits HP x360 310 G2 (K12 Series). Tested before dispatch, with warranty support."
+    "description": "Genuine HP HV03XL battery — fits HP x360 310 G2 (K12 Series)."
   },
   "category": {
     "slug": "laptop-batteries",
@@ -22,10 +22,6 @@
     {
       "question": "Are these original or compatible batteries?",
       "answer": "It's stated clearly above — Original (OEM) or Replacement (OEM-equivalent)."
-    },
-    {
-      "question": "What warranty comes with this battery?",
-      "answer": "This battery carries a 6-month warranty."
     }
   ],
   "product": {
@@ -38,7 +34,7 @@
     "price": "5,000",
     "price_raw": "5000",
     "schema_availability": "https://schema.org/InStock",
-    "description": "Genuine HP HV03XL battery — fits HP x360 310 G2 (K12 Series). Tested before dispatch, with warranty support.",
+    "description": "Genuine HP HV03XL battery — fits HP x360 310 G2 (K12 Series).",
     "type_label": "battery",
     "type_label_cap": "Battery",
     "badges": [
@@ -81,10 +77,6 @@
       {
         "label": "Condition",
         "value": "Brand New"
-      },
-      {
-        "label": "Warranty",
-        "value": "6 Months"
       }
     ],
     "compatible_models": [

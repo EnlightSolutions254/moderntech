@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Mouse Pad | Price in Kenya | Zanatechnologies",
-    "description": "Smooth-surface mouse pad with non-slip rubber base. In stock in Nairobi, KES 2,000, warranty included. Order via WhatsApp, delivery countrywide."
+    "description": "Smooth-surface mouse pad with non-slip rubber base. In stock in Nairobi, KES 2,000. Order via WhatsApp, delivery countrywide."
   },
   "og": {
     "title": "Mouse Pad | Zanatechnologies",
@@ -40,19 +40,35 @@
       }
     ],
     "badges": [
-      { "class": "badge--in-stock", "label": "In Stock" },
-      { "class": "badge--warranty", "label": "Warranty Included" }
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
     ],
     "description": "Smooth-surface mouse pad with a non-slip rubber base. It gives your mouse a consistent surface for accurate tracking, keeps the pointer gliding evenly and protects your desk from scratches. Works with optical and laser mice, wired or wireless. Message us on WhatsApp if you would like to check the size before you order.",
     "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Mouse%20Pad%20%E2%80%94%20KES%202%2C000",
     "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20the%20size%20of%20the%20Mouse%20Pad%20%28KES%202%2C000%29%20before%20I%20order%3F",
     "specs": [
-      { "label": "Type", "value": "Mouse pad" },
-      { "label": "Surface", "value": "Smooth, for consistent mouse tracking" },
-      { "label": "Base", "value": "Non-slip rubber" },
-      { "label": "Compatibility", "value": "Optical and laser mice, wired or wireless" },
-      { "label": "Condition", "value": "New" },
-      { "label": "Warranty", "value": "Included — ask on WhatsApp for current term" }
+      {
+        "label": "Type",
+        "value": "Mouse pad"
+      },
+      {
+        "label": "Surface",
+        "value": "Smooth, for consistent mouse tracking"
+      },
+      {
+        "label": "Base",
+        "value": "Non-slip rubber"
+      },
+      {
+        "label": "Compatibility",
+        "value": "Optical and laser mice, wired or wireless"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      }
     ],
     "compatible_models": [
       "Works with any optical or laser mouse, wired or wireless"
@@ -63,9 +79,17 @@
   },
   "faq_heading": "Mouse Pad Questions",
   "faqs": [
-    { "question": "Will this work with my mouse?", "answer": "Yes. The smooth surface works with optical and laser mice, wired or wireless, from any brand." },
-    { "question": "Will it slip on my desk?", "answer": "The rubber base grips the desk so the pad stays in place during normal use. It grips best on a clean, dry surface." },
-    { "question": "Can I check the size before ordering?", "answer": "Yes. Send us a message on WhatsApp and we'll confirm the size and send a photo before you order." },
-    { "question": "What warranty comes with this mouse pad?", "answer": "This mouse pad comes with a warranty — message us on WhatsApp for the current term before ordering." }
+    {
+      "question": "Will this work with my mouse?",
+      "answer": "Yes. The smooth surface works with optical and laser mice, wired or wireless, from any brand."
+    },
+    {
+      "question": "Will it slip on my desk?",
+      "answer": "The rubber base grips the desk so the pad stays in place during normal use. It grips best on a clean, dry surface."
+    },
+    {
+      "question": "Can I check the size before ordering?",
+      "answer": "Yes. Send us a message on WhatsApp and we'll confirm the size and send a photo before you order."
+    }
   ]
 }

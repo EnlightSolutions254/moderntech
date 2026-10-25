@@ -1,11 +1,11 @@
 {
   "meta": {
     "title": "Microsoft Surface Pro 8 DYNC01 Battery | Zanatechnologies",
-    "description": "Replacement Microsoft 96BTA016H (DYNC01) battery, 11.38V, for Surface Pro 8 models 1982 and 1983. In-stock pricing in KES, warranty included, order on WhatsApp."
+    "description": "Replacement Microsoft 96BTA016H (DYNC01) battery, 11.38V, for Surface Pro 8 models 1982 and 1983. In-stock pricing in KES, order on WhatsApp."
   },
   "og": {
     "title": "Microsoft Surface Pro 8 DYNC01 Battery | Zanatechnologies",
-    "description": "Replacement battery for Microsoft Surface Pro 8 (1982/1983). In stock, warranty included, order on WhatsApp."
+    "description": "Replacement battery for Microsoft Surface Pro 8 (1982/1983). In stock, order on WhatsApp."
   },
   "category": {
     "slug": "laptop-batteries",
@@ -71,10 +71,6 @@
       {
         "label": "Condition",
         "value": "New"
-      },
-      {
-        "label": "Warranty",
-        "value": "6 Months"
       }
     ],
     "related": []
@@ -93,10 +89,6 @@
     {
       "question": "Can I fit this myself?",
       "answer": "The Surface Pro 8 has to be opened to reach the battery, so most customers have it fitted by us. We can talk you through it on WhatsApp if you'd rather do it yourself."
-    },
-    {
-      "question": "What warranty comes with this battery?",
-      "answer": "This battery carries a 6-month warranty."
     }
   ]
 }

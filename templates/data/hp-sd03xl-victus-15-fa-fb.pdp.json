@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "HP SD03XL Battery — Victus 15-fa / 15-fb Series | [Store Name]",
-    "description": "Genuine original HP SD03XL battery (L84394-005) for the HP Victus 15-fa and 15-fb series, also fits OMEN 15-ek/15-en. In-stock pricing in KES, warranty included, order on WhatsApp."
+    "title": "HP SD03XL Battery — Victus 15-fa / 15-fb Series | Zanatechnologies",
+    "description": "Genuine original HP SD03XL battery (L84394-005) for the HP Victus 15-fa and 15-fb series, also fits OMEN 15-ek/15-en. In-stock pricing in KES, order on WhatsApp."
   },
   "og": {
-    "title": "HP SD03XL Battery | [Store Name]",
-    "description": "Genuine original HP SD03XL battery for the Victus 15-fa/15-fb series. In stock, warranty included."
+    "title": "HP SD03XL Battery | Zanatechnologies",
+    "description": "Genuine original HP SD03XL battery for the Victus 15-fa/15-fb series. In stock."
   },
   "category": {
     "slug": "laptop-batteries",
@@ -22,11 +22,20 @@
     "name": "HP SD03XL Battery (Original)",
     "full_name": "HP SD03XL Original Battery — L84394-005, for Victus 15-fa/15-fb Series",
     "images": [
-      { "src": "assets/images/products/hp-battery-sd03xl.webp", "alt": "Replacement battery — HP SD03XL Battery" },
-      { "src": "assets/images/products/hp-battery-sd03xl-alt.webp", "alt": "HP SD03XL Battery — alternate view" }
+      {
+        "src": "assets/images/products/hp-battery-sd03xl.webp",
+        "alt": "Replacement battery — HP SD03XL Battery"
+      },
+      {
+        "src": "assets/images/products/hp-battery-sd03xl-alt.webp",
+        "alt": "HP SD03XL Battery — alternate view"
+      }
     ],
     "badges": [
-      { "class": "badge--in-stock", "label": "In Stock" }
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
     ],
     "price": "4,800",
     "price_raw": "4800",
@@ -43,11 +52,22 @@
       "HP OMEN 15-en"
     ],
     "specs": [
-      { "label": "Part Number", "value": "SD03XL / L84394-005" },
-      { "label": "Also Matches", "value": "L84394-006, L84357-171, L84357-AC1, HSTNN-IB9L" },
-      { "label": "Type", "value": "Original / Genuine HP" },
-      { "label": "Condition", "value": "New" },
-      { "label": "Warranty", "value": "6 Months" }
+      {
+        "label": "Part Number",
+        "value": "SD03XL / L84394-005"
+      },
+      {
+        "label": "Also Matches",
+        "value": "L84394-006, L84357-171, L84357-AC1, HSTNN-IB9L"
+      },
+      {
+        "label": "Type",
+        "value": "Original / Genuine HP"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      }
     ],
     "related": [
       {
@@ -55,7 +75,9 @@
         "image": "assets/images/products/hp-battery-rr04xl.webp",
         "alt": "Replacement battery — HP RR04XL Battery",
         "name": "HP RR04XL Battery (Original)",
-        "tags": ["Spectre x360 13-AW0000"],
+        "tags": [
+          "Spectre x360 13-AW0000"
+        ],
         "price": "5,500",
         "badge_class": "badge--in-stock",
         "badge_label": "In Stock",
@@ -66,8 +88,13 @@
   "delivery_note": "Nairobi same-day, countrywide 1-2 days",
   "faq_heading": "Battery Questions",
   "faqs": [
-    { "question": "How do I know this battery fits my laptop?", "answer": "This fits the Victus 15-fa and 15-fb series, and also the OMEN 15-ek/15-en which share the same battery. Send us a photo of the sticker under your laptop on WhatsApp if you're unsure." },
-    { "question": "Is this an original or compatible battery?", "answer": "This is a genuine original HP battery, not a generic replacement." },
-    { "question": "What warranty comes with this battery?", "answer": "This battery carries a 6-month warranty." }
+    {
+      "question": "How do I know this battery fits my laptop?",
+      "answer": "This fits the Victus 15-fa and 15-fb series, and also the OMEN 15-ek/15-en which share the same battery. Send us a photo of the sticker under your laptop on WhatsApp if you're unsure."
+    },
+    {
+      "question": "Is this an original or compatible battery?",
+      "answer": "This is a genuine original HP battery, not a generic replacement."
+    }
   ]
 }

@@ -1,11 +1,11 @@
 {
   "meta": {
     "title": "HP RH03XL Battery — KES 4,800 | Zanatechnologies",
-    "description": "Genuine HP RH03XL battery — fits ProBook 430/440/445/450/630/640/650 G8 Series. Tested before dispatch, with warranty support."
+    "description": "Genuine HP RH03XL battery — fits ProBook 430/440/445/450/630/640/650 G8 Series."
   },
   "og": {
     "title": "HP RH03XL Battery | Zanatechnologies",
-    "description": "Genuine HP RH03XL battery — fits ProBook 430/440/445/450/630/640/650 G8 Series. Tested before dispatch, with warranty support."
+    "description": "Genuine HP RH03XL battery — fits ProBook 430/440/445/450/630/640/650 G8 Series."
   },
   "category": {
     "slug": "laptop-batteries",
@@ -22,10 +22,6 @@
     {
       "question": "Are these original or compatible batteries?",
       "answer": "It's stated clearly above — Original (OEM) or Replacement (OEM-equivalent)."
-    },
-    {
-      "question": "What warranty comes with this battery?",
-      "answer": "This battery carries a 6-month warranty."
     }
   ],
   "product": {
@@ -38,23 +34,46 @@
     "price": "4,800",
     "price_raw": "4800",
     "schema_availability": "https://schema.org/InStock",
-    "description": "Genuine HP RH03XL battery — fits ProBook 430/440/445/450/630/640/650 G8 Series. Tested before dispatch, with warranty support.",
+    "description": "Genuine HP RH03XL battery — fits ProBook 430/440/445/450/630/640/650 G8 Series.",
     "type_label": "battery",
     "type_label_cap": "Battery",
     "badges": [
-      { "class": "badge--in-stock", "label": "In Stock" },
-      { "class": "badge--original", "label": "Genuine OEM" }
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      },
+      {
+        "class": "badge--original",
+        "label": "Genuine OEM"
+      }
     ],
     "images": [
-      { "src": "assets/images/products/hp-battery-rh03xl.webp", "alt": "Replacement battery — HP RH03XL Battery" }
+      {
+        "src": "assets/images/products/hp-battery-rh03xl.webp",
+        "alt": "Replacement battery — HP RH03XL Battery"
+      }
     ],
     "specs": [
-      { "label": "Part Number / Compatible Codes", "value": "RH03XL, M01524-AC1, HSTNN-OB1T" },
-      { "label": "Battery Type", "value": "Genuine OEM" },
-      { "label": "Voltage / Capacity", "value": "11.4V, 45Wh (3790mAh rated)" },
-      { "label": "Cell Configuration", "value": "3ICP6/59/74" },
-      { "label": "Condition", "value": "Brand New" },
-      { "label": "Warranty", "value": "6 Months" }
+      {
+        "label": "Part Number / Compatible Codes",
+        "value": "RH03XL, M01524-AC1, HSTNN-OB1T"
+      },
+      {
+        "label": "Battery Type",
+        "value": "Genuine OEM"
+      },
+      {
+        "label": "Voltage / Capacity",
+        "value": "11.4V, 45Wh (3790mAh rated)"
+      },
+      {
+        "label": "Cell Configuration",
+        "value": "3ICP6/59/74"
+      },
+      {
+        "label": "Condition",
+        "value": "Brand New"
+      }
     ],
     "compatible_models": [
       "ProBook 430 G8",
@@ -73,7 +92,10 @@
         "badge_class": "badge--in-stock",
         "badge_label": "In Stock",
         "name": "HP PG03XL Battery",
-        "tags": ["Pavilion Gaming 15-DK Series", "Pavilion Gaming 15-EC Series"],
+        "tags": [
+          "Pavilion Gaming 15-DK Series",
+          "Pavilion Gaming 15-EC Series"
+        ],
         "price": "5,500",
         "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20PG03XL%20Battery%20%E2%80%94%20KES%205%2C500"
       },
@@ -84,7 +106,9 @@
         "badge_class": "badge--in-stock",
         "badge_label": "In Stock",
         "name": "HP HV03XL Battery",
-        "tags": ["HP x360 310 G2 (K12 Series)"],
+        "tags": [
+          "HP x360 310 G2 (K12 Series)"
+        ],
         "price": "5,000",
         "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20HV03XL%20Battery%20%E2%80%94%20KES%205%2C000"
       },
@@ -95,7 +119,10 @@
         "badge_class": "badge--in-stock",
         "badge_label": "In Stock",
         "name": "Lenovo 01AV432 Battery",
-        "tags": ["ThinkPad Yoga 260", "ThinkPad Yoga 370"],
+        "tags": [
+          "ThinkPad Yoga 260",
+          "ThinkPad Yoga 370"
+        ],
         "price": "5,600",
         "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%2001AV432%20Battery%20%E2%80%94%20KES%205%2C600"
       }

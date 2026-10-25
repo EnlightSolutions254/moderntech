@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Toshiba Satellite Pro L750/C650/C660/L650/L670/L675/L755/L770 Series Keyboard — Non-Backlit, US Layout | [Store Name]",
-    "description": "Genuine replacement non-backlit keyboard for the Toshiba Satellite Pro L750, C650, C660, L650, L670, L675, L755, L770 series. US layout. Warranty included, order on WhatsApp."
+    "title": "Toshiba Satellite Pro L750/C650/C660/L650/L670/L675/L755/L770 Series Keyboard — Non-Backlit, US Layout | Zanatechnologies",
+    "description": "Replacement non-backlit keyboard for the Toshiba Satellite Pro L750, C650, C660, L650, L670, L675, L755, L770 series. US layout. Order on WhatsApp."
   },
   "og": {
-    "title": "Toshiba Satellite Pro L750/C650/C660/L650/L670/L675/L755/L770 Keyboard (Non-Backlit) | [Store Name]",
-    "description": "Genuine non-backlit replacement keyboard for the Toshiba Satellite Pro L750/C650/C660/L650/L670/L675/L755/L770 series. In stock, warranty included."
+    "title": "Toshiba Satellite Pro L750/C650/C660/L650/L670/L675/L755/L770 Keyboard (Non-Backlit) | Zanatechnologies",
+    "description": "Non-backlit replacement keyboard for the Toshiba Satellite Pro L750/C650/C660/L650/L670/L675/L755/L770 series. In stock."
   },
   "category": {
     "slug": "keyboards",
@@ -22,10 +22,16 @@
     "name": "Toshiba Satellite Pro L750/C650/C660/L650/L670/L675/L755/L770 Series Keyboard (Non-Backlit)",
     "full_name": "Toshiba Satellite Pro L750, C650, C660, L650, L670, L675, L755, L770 Series Replacement Keyboard — Non-Backlit, US Layout",
     "images": [
-      { "src": "assets/images/products/toshiba-keyboard-l750c650c660series-nonbacklit.webp", "alt": "Replacement non-backlit keyboard for Toshiba Satellite Pro L750/C650/C660/L650/L670/L675/L755/L770 series" }
+      {
+        "src": "assets/images/products/toshiba-keyboard-l750c650c660series-nonbacklit.webp",
+        "alt": "Replacement non-backlit keyboard for Toshiba Satellite Pro L750/C650/C660/L650/L670/L675/L755/L770 series"
+      }
     ],
     "badges": [
-      { "class": "badge--in-stock", "label": "In Stock" }
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
     ],
     "price": "2,100",
     "price_raw": "2100",
@@ -52,21 +58,43 @@
       "Toshiba Satellite L770"
     ],
     "specs": [
-      { "label": "Layout", "value": "US English (QWERTY)" },
-      { "label": "Backlight", "value": "No" },
-      { "label": "Color", "value": "Black" },
-      { "label": "Frame", "value": "Included" },
-      { "label": "Fitting", "value": "Direct replacement, no adhesive required" },
-      { "label": "Condition", "value": "New" },
-      { "label": "Warranty", "value": "3 Months" }
+      {
+        "label": "Layout",
+        "value": "US English (QWERTY)"
+      },
+      {
+        "label": "Backlight",
+        "value": "No"
+      },
+      {
+        "label": "Color",
+        "value": "Black"
+      },
+      {
+        "label": "Frame",
+        "value": "Included"
+      },
+      {
+        "label": "Fitting",
+        "value": "Direct replacement, no adhesive required"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      }
     ],
     "related": []
   },
   "delivery_note": "Nairobi same-day, countrywide 1-2 days",
   "faq_heading": "Keyboard Questions",
   "faqs": [
-    { "question": "How do I know this keyboard fits my laptop?", "answer": "This fits the Toshiba Satellite Pro L750, C650, C660, L650, L670, L675, L755 and L770 series (including D variants), which share the same chassis. If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
-    { "question": "Is it backlit?", "answer": "No, this is the non-backlit version." },
-    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+    {
+      "question": "How do I know this keyboard fits my laptop?",
+      "answer": "This fits the Toshiba Satellite Pro L750, C650, C660, L650, L670, L675, L755 and L770 series (including D variants), which share the same chassis. If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is it backlit?",
+      "answer": "No, this is the non-backlit version."
+    }
   ]
 }

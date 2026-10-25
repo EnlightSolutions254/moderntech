@@ -39,10 +39,6 @@
       {
         "class": "badge--in-stock",
         "label": "In Stock"
-      },
-      {
-        "class": "badge--warranty",
-        "label": "Warranty Included"
       }
     ],
     "description": "Original CPU cooling fan with heatsink for the HP ZBook 14u G4 and the HP EliteBook 745, 840 and 848 in G3 and G4. Fit it when the laptop runs loud, rattles or grinds, overheats, or shuts down under load. Fans can differ between versions of these laptops, so please send us your exact HP model (or a photo of the part number on your old fan) on WhatsApp and we will confirm we have the right one before you order. Fitting is available in Nairobi.",
@@ -72,10 +68,6 @@
       {
         "label": "Condition",
         "value": "New, original"
-      },
-      {
-        "label": "Warranty",
-        "value": "Included — ask on WhatsApp for current term"
       }
     ],
     "compatible_models": [
@@ -109,10 +101,6 @@
     {
       "question": "Can I fit this myself?",
       "answer": "It requires opening the base cover and removing the old fan and heatsink, then applying fresh thermal paste. Most customers have it fitted by us. We can talk you through it on WhatsApp if you'd rather do it yourself."
-    },
-    {
-      "question": "What warranty comes with this fan?",
-      "answer": "This fan comes with a warranty. Message us on WhatsApp for the current term before ordering."
     }
   ]
 }

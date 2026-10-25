@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Asus 180W ROG Charger | Price in Kenya | Moderntech",
-    "description": "Replacement 180W power adapter for Asus ROG Zephyrus G14/G15 (GA401/GA502), ROG Strix G531/G512, and TUF Gaming FX505/FX705. ADP-180TB H. 3-month warranty. Order via WhatsApp, delivery countrywide."
+    "title": "Asus 180W ROG Charger | Price in Kenya | Zanatechnologies",
+    "description": "Replacement 180W power adapter for Asus ROG Zephyrus G14/G15 (GA401/GA502), ROG Strix G531/G512, and TUF Gaming FX505/FX705. ADP-180TB H. Order via WhatsApp, delivery countrywide."
   },
   "og": {
-    "title": "Asus 180W ROG Charger | Moderntech",
-    "description": "Replacement 180W power adapter for Asus ROG Zephyrus G14/G15 (GA401/GA502), ROG Strix G531/G512, and TUF Gaming FX505/FX705. ADP-180TB H. 3-month warranty. Order via WhatsApp, delivery countrywide."
+    "title": "Asus 180W ROG Charger | Zanatechnologies",
+    "description": "Replacement 180W power adapter for Asus ROG Zephyrus G14/G15 (GA401/GA502), ROG Strix G531/G512, and TUF Gaming FX505/FX705. ADP-180TB H. Order via WhatsApp, delivery countrywide."
   },
   "category": {
     "slug": "chargers",
@@ -22,17 +22,17 @@
     "price": "4,500",
     "price_raw": "4500",
     "schema_availability": "https://schema.org/InStock",
-    "description": "Replacement power adapter (Model ADP-180TB H) for Asus ROG Zephyrus G14 (GA401), ROG Zephyrus G GA502 (GA502D, GA502DU, GA502IU), ROG Strix GL504, G531 (G531GW, G531GU, G531GT), G512 (G512LV, G512LI, G512LU), TUF Gaming FX505 (FX505D, FX505DT, FX505DU, FX505GD, FX505GE) and FX705 (FX705DD, FX705DT, FX705DU, FX705GD, FX705GE) Series. 20V, 9A, 180W output through the 6.0mm x 3.7mm connector with center pin. Wide-range 100\u2013240V AC input for worldwide use. Tested before dispatch, drop-in replacement for the original charger.",
+    "description": "Replacement power adapter (Model ADP-180TB H) for Asus ROG Zephyrus G14 (GA401), ROG Zephyrus G GA502 (GA502D, GA502DU, GA502IU), ROG Strix GL504, G531 (G531GW, G531GU, G531GT), G512 (G512LV, G512LI, G512LU), TUF Gaming FX505 (FX505D, FX505DT, FX505DU, FX505GD, FX505GE) and FX705 (FX705DD, FX705DT, FX705DU, FX705GD, FX705GE) Series. 20V, 9A, 180W output through the 6.0mm x 3.7mm connector with center pin. Wide-range 100–240V AC input for worldwide use. Tested before dispatch, drop-in replacement for the original charger.",
     "type_label": "charger",
     "type_label_cap": "Charger",
     "images": [
       {
         "src": "assets/images/products/asus-charger-180w-rog.webp",
-        "alt": "Asus 180W ROG Charger \u2014 main view"
+        "alt": "Asus 180W ROG Charger — main view"
       },
       {
         "src": "assets/images/products/asus-charger-180w-rog-1.webp",
-        "alt": "Asus 180W ROG Charger \u2014 connector detail"
+        "alt": "Asus 180W ROG Charger — connector detail"
       }
     ],
     "badges": [
@@ -43,10 +43,6 @@
       {
         "class": "badge--new-oem",
         "label": "New OEM-Equivalent"
-      },
-      {
-        "class": "badge--warranty",
-        "label": "3-Month Warranty"
       }
     ],
     "specs": [
@@ -72,11 +68,7 @@
       },
       {
         "label": "Input",
-        "value": "100\u2013240V AC, 50\u201360Hz"
-      },
-      {
-        "label": "Warranty",
-        "value": "3 Months"
+        "value": "100–240V AC, 50–60Hz"
       }
     ],
     "compatible_models": [
@@ -101,11 +93,7 @@
     },
     {
       "question": "Is a higher-wattage charger safe to use?",
-      "answer": "Yes \u2014 a charger rated higher than your laptop's original wattage is safe; your laptop only draws what it needs. A lower-wattage charger should be avoided, especially on gaming laptops which can draw their full rated wattage under load."
-    },
-    {
-      "question": "What warranty comes with this charger?",
-      "answer": "This charger carries a 3-month warranty."
+      "answer": "Yes — a charger rated higher than your laptop's original wattage is safe; your laptop only draws what it needs. A lower-wattage charger should be avoided, especially on gaming laptops which can draw their full rated wattage under load."
     }
   ]
 }

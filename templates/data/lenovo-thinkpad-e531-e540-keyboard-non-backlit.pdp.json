@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Lenovo ThinkPad E531/E540 Keyboard — Non-Backlit, US Layout | [Store Name]",
-    "description": "Genuine replacement non-backlit keyboard for the Lenovo ThinkPad E531 and E540. US layout. Warranty included, order on WhatsApp."
+    "title": "Lenovo ThinkPad E531/E540 Keyboard — Non-Backlit, US Layout | Zanatechnologies",
+    "description": "Replacement non-backlit keyboard for the Lenovo ThinkPad E531 and E540. US layout. Order on WhatsApp."
   },
   "og": {
-    "title": "Lenovo ThinkPad E531/E540 Keyboard (Non-Backlit) | [Store Name]",
-    "description": "Genuine non-backlit replacement keyboard for the Lenovo ThinkPad E531/E540. In stock, warranty included."
+    "title": "Lenovo ThinkPad E531/E540 Keyboard (Non-Backlit) | Zanatechnologies",
+    "description": "Non-backlit replacement keyboard for the Lenovo ThinkPad E531/E540. In stock."
   },
   "category": {
     "slug": "keyboards",
@@ -22,11 +22,20 @@
     "name": "Lenovo ThinkPad E531/E540 Keyboard (Non-Backlit)",
     "full_name": "Lenovo ThinkPad E531, E540 Series Replacement Keyboard — Non-Backlit, US Layout",
     "images": [
-      { "src": "assets/images/products/lenovo-keyboard-thinkpad-e531-e540-nonbacklit.webp", "alt": "Replacement non-backlit keyboard for Lenovo ThinkPad E531/E540" },
-      { "src": "assets/images/products/lenovo-keyboard-thinkpad-e531-e540-nonbacklit-alt.webp", "alt": "Angled view of the replacement non-backlit keyboard for Lenovo ThinkPad E531/E540" }
+      {
+        "src": "assets/images/products/lenovo-keyboard-thinkpad-e531-e540-nonbacklit.webp",
+        "alt": "Replacement non-backlit keyboard for Lenovo ThinkPad E531/E540"
+      },
+      {
+        "src": "assets/images/products/lenovo-keyboard-thinkpad-e531-e540-nonbacklit-alt.webp",
+        "alt": "Angled view of the replacement non-backlit keyboard for Lenovo ThinkPad E531/E540"
+      }
     ],
     "badges": [
-      { "class": "badge--in-stock", "label": "In Stock" }
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
     ],
     "price": "3,000",
     "price_raw": "3000",
@@ -39,13 +48,30 @@
       "Lenovo ThinkPad E540"
     ],
     "specs": [
-      { "label": "Layout", "value": "US English (QWERTY)" },
-      { "label": "Backlight", "value": "No" },
-      { "label": "Color", "value": "Black" },
-      { "label": "Frame", "value": "Included" },
-      { "label": "Fitting", "value": "Direct replacement, no adhesive required" },
-      { "label": "Condition", "value": "New" },
-      { "label": "Warranty", "value": "3 Months" }
+      {
+        "label": "Layout",
+        "value": "US English (QWERTY)"
+      },
+      {
+        "label": "Backlight",
+        "value": "No"
+      },
+      {
+        "label": "Color",
+        "value": "Black"
+      },
+      {
+        "label": "Frame",
+        "value": "Included"
+      },
+      {
+        "label": "Fitting",
+        "value": "Direct replacement, no adhesive required"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      }
     ],
     "related": [
       {
@@ -53,7 +79,10 @@
         "image": "assets/images/products/lenovo-keyboard-thinkpad-e531-e540-backlit.webp",
         "alt": "Replacement backlit keyboard for Lenovo ThinkPad E531/E540",
         "name": "Lenovo ThinkPad E531/E540 Keyboard (Backlit)",
-        "tags": ["ThinkPad E531/E540", "Backlit"],
+        "tags": [
+          "ThinkPad E531/E540",
+          "Backlit"
+        ],
         "price": "4,000",
         "badge_class": "badge--in-stock",
         "badge_label": "In Stock",
@@ -64,8 +93,13 @@
   "delivery_note": "Nairobi same-day, countrywide 1-2 days",
   "faq_heading": "Keyboard Questions",
   "faqs": [
-    { "question": "How do I know this keyboard fits my laptop?", "answer": "This fits the Lenovo ThinkPad E531 and E540 series, which share the same chassis. If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
-    { "question": "Is it backlit?", "answer": "No, this is the non-backlit version." },
-    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+    {
+      "question": "How do I know this keyboard fits my laptop?",
+      "answer": "This fits the Lenovo ThinkPad E531 and E540 series, which share the same chassis. If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is it backlit?",
+      "answer": "No, this is the non-backlit version."
+    }
   ]
 }

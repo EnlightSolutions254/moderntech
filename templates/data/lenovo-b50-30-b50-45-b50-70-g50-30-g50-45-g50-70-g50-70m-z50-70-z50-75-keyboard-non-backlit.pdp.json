@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Lenovo B50-30/B50-45/B50-70, G50-30/G50-45/G50-70/G50-70m, Z50-70/Z50-75 Keyboard — Non-Backlit | [Store Name]",
-    "description": "Genuine replacement non-backlit keyboard for the Lenovo B50-30, B50-45, B50-70, G50-30, G50-45, G50-70, G50-70m, Z50-70 and Z50-75 series, US English layout. Warranty included, order on WhatsApp."
+    "title": "Lenovo B50-30/B50-45/B50-70, G50-30/G50-45/G50-70/G50-70m, Z50-70/Z50-75 Keyboard — Non-Backlit | Zanatechnologies",
+    "description": "Replacement non-backlit keyboard for the Lenovo B50-30, B50-45, B50-70, G50-30, G50-45, G50-70, G50-70m, Z50-70 and Z50-75 series, US English layout. Order on WhatsApp."
   },
   "og": {
-    "title": "Lenovo B50/G50/Z50 Series Keyboard (Non-Backlit) | [Store Name]",
-    "description": "Genuine non-backlit replacement keyboard for the Lenovo B50-30/B50-45/B50-70, G50-30/G50-45/G50-70/G50-70m, Z50-70/Z50-75 series. In stock, warranty included."
+    "title": "Lenovo B50/G50/Z50 Series Keyboard (Non-Backlit) | Zanatechnologies",
+    "description": "Non-backlit replacement keyboard for the Lenovo B50-30/B50-45/B50-70, G50-30/G50-45/G50-70/G50-70m, Z50-70/Z50-75 series. In stock."
   },
   "category": {
     "slug": "keyboards",
@@ -22,11 +22,20 @@
     "name": "Lenovo B50-30/B50-45/B50-70, G50-30/G50-45/G50-70/G50-70m, Z50-70/Z50-75 Series Keyboard (Non-Backlit)",
     "full_name": "Lenovo B50-30, B50-45, B50-70, G50-30, G50-45, G50-70, G50-70m, Z50-70, Z50-75 Series Replacement Keyboard — Non-Backlit",
     "images": [
-      { "src": "assets/images/products/lenovo-keyboard-b50-30-b50-45-b50-70-g50-30-g50-45-g50-70-g50-70m-z50-70-z50-75-nonbacklit.webp", "alt": "Replacement non-backlit keyboard for Lenovo B50-30/B50-45/B50-70, G50-30/G50-45/G50-70/G50-70m, Z50-70/Z50-75 Series" },
-      { "src": "assets/images/products/lenovo-keyboard-b50-30-b50-45-b50-70-g50-30-g50-45-g50-70-g50-70m-z50-70-z50-75-nonbacklit-alt.webp", "alt": "Angled view of the replacement non-backlit keyboard for Lenovo B50-30/B50-45/B50-70, G50-30/G50-45/G50-70/G50-70m, Z50-70/Z50-75 Series" }
+      {
+        "src": "assets/images/products/lenovo-keyboard-b50-30-b50-45-b50-70-g50-30-g50-45-g50-70-g50-70m-z50-70-z50-75-nonbacklit.webp",
+        "alt": "Replacement non-backlit keyboard for Lenovo B50-30/B50-45/B50-70, G50-30/G50-45/G50-70/G50-70m, Z50-70/Z50-75 Series"
+      },
+      {
+        "src": "assets/images/products/lenovo-keyboard-b50-30-b50-45-b50-70-g50-30-g50-45-g50-70-g50-70m-z50-70-z50-75-nonbacklit-alt.webp",
+        "alt": "Angled view of the replacement non-backlit keyboard for Lenovo B50-30/B50-45/B50-70, G50-30/G50-45/G50-70/G50-70m, Z50-70/Z50-75 Series"
+      }
     ],
     "badges": [
-      { "class": "badge--in-stock", "label": "In Stock" }
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
     ],
     "price": "2,200",
     "price_raw": "2200",
@@ -46,20 +55,42 @@
       "Lenovo Z50-75"
     ],
     "specs": [
-      { "label": "Layout", "value": "US English (QWERTY)" },
-      { "label": "Backlight", "value": "No" },
-      { "label": "Color", "value": "Black" },
-      { "label": "Frame", "value": "Included" },
-      { "label": "Fitting", "value": "Direct replacement, no adhesive required" },
-      { "label": "Condition", "value": "New" },
-      { "label": "Warranty", "value": "3 Months" }
+      {
+        "label": "Layout",
+        "value": "US English (QWERTY)"
+      },
+      {
+        "label": "Backlight",
+        "value": "No"
+      },
+      {
+        "label": "Color",
+        "value": "Black"
+      },
+      {
+        "label": "Frame",
+        "value": "Included"
+      },
+      {
+        "label": "Fitting",
+        "value": "Direct replacement, no adhesive required"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      }
     ]
   },
   "delivery_note": "Nairobi same-day, countrywide 1-2 days",
   "faq_heading": "Keyboard Questions",
   "faqs": [
-    { "question": "How do I know this keyboard fits my laptop?", "answer": "This fits the Lenovo B50-30, B50-45, B50-70, G50-30, G50-45, G50-70, G50-70m, Z50-70 and Z50-75 series, which share the same chassis. If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
-    { "question": "Is it backlit?", "answer": "No, this model does not come with backlighting from the factory, so we only stock the non-backlit version." },
-    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+    {
+      "question": "How do I know this keyboard fits my laptop?",
+      "answer": "This fits the Lenovo B50-30, B50-45, B50-70, G50-30, G50-45, G50-70, G50-70m, Z50-70 and Z50-75 series, which share the same chassis. If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is it backlit?",
+      "answer": "No, this model does not come with backlighting from the factory, so we only stock the non-backlit version."
+    }
   ]
 }

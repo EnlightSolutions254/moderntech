@@ -1,11 +1,11 @@
 {
   "meta": {
     "title": "Lenovo X240 Battery — ThinkPad X240, T440, T450, X250, X260 | Zanatechnologies",
-    "description": "Genuine replacement Lenovo X240 internal battery, 11.1V, for ThinkPad X240, T440, T440s, T450, X250 and X260. In-stock pricing in KES, warranty included, order on WhatsApp."
+    "description": "Replacement Lenovo X240 internal battery, 11.1V, for ThinkPad X240, T440, T440s, T450, X250 and X260. In-stock pricing in KES, order on WhatsApp."
   },
   "og": {
     "title": "Lenovo X240 Battery | Zanatechnologies",
-    "description": "Genuine Lenovo X240 replacement internal battery for ThinkPad X240/T440/T450 series. In stock, warranty included, order on WhatsApp."
+    "description": "Genuine Lenovo X240 replacement internal battery for ThinkPad X240/T440/T450 series. In stock, order on WhatsApp."
   },
   "category": {
     "slug": "laptop-batteries",
@@ -71,10 +71,6 @@
       {
         "label": "Condition",
         "value": "New"
-      },
-      {
-        "label": "Warranty",
-        "value": "6 Months"
       }
     ],
     "related": []
@@ -89,10 +85,6 @@
     {
       "question": "Is this an original or compatible battery?",
       "answer": "We stock genuine OEM batteries — this is a genuine Lenovo 45N1110-family unit."
-    },
-    {
-      "question": "What warranty comes with this battery?",
-      "answer": "This battery carries a 6-month warranty."
     }
   ]
 }

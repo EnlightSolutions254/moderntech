@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "MacBook A1425 Original Battery — KES 6,800 | [Store Name]",
-    "description": "MacBook A1425 Original Battery — fits A1425, A1437. Tested before dispatch, with warranty support."
+    "title": "MacBook A1425 Original Battery — KES 6,800 | Zanatechnologies",
+    "description": "MacBook A1425 Original Battery — fits A1425, A1437."
   },
   "og": {
-    "title": "MacBook A1425 Original Battery | [Store Name]",
-    "description": "MacBook A1425 Original Battery — fits A1425, A1437. Tested before dispatch, with warranty support."
+    "title": "MacBook A1425 Original Battery | Zanatechnologies",
+    "description": "MacBook A1425 Original Battery — fits A1425, A1437."
   },
   "category": {
     "slug": "laptop-batteries",
@@ -22,10 +22,6 @@
     {
       "question": "Are these original or compatible batteries?",
       "answer": "It's stated clearly above — Original (OEM) or Replacement (OEM-equivalent)."
-    },
-    {
-      "question": "What warranty comes with this battery?",
-      "answer": "This battery carries a 6-month warranty."
     }
   ],
   "product": {
@@ -38,7 +34,7 @@
     "price": "6,800",
     "price_raw": "6800",
     "schema_availability": "https://schema.org/InStock",
-    "description": "MacBook A1425 Original Battery — fits A1425, A1437. Tested before dispatch, with warranty support.",
+    "description": "MacBook A1425 Original Battery — fits A1425, A1437.",
     "type_label": "battery",
     "type_label_cap": "Battery",
     "badges": [
@@ -69,10 +65,6 @@
       {
         "label": "Condition",
         "value": "Brand New"
-      },
-      {
-        "label": "Warranty",
-        "value": "6 Months"
       }
     ],
     "compatible_models": [

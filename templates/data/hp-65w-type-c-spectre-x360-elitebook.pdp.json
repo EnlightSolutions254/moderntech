@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "HP 65W Type-C Charger | Price in Kenya | Moderntech",
-    "description": "Replacement 65W USB-C power adapter for HP Spectre x360 13/15, EliteBook x360 1030 G3, EliteBook 735/745/755/830 G5, Elite x2 1012 G2 and Pro x2 612 G2. TPN-CA06. 3-month warranty. Order via WhatsApp, delivery countrywide."
+    "title": "HP 65W Type-C Charger | Price in Kenya | Zanatechnologies",
+    "description": "Replacement 65W USB-C power adapter for HP Spectre x360 13/15, EliteBook x360 1030 G3, EliteBook 735/745/755/830 G5, Elite x2 1012 G2 and Pro x2 612 G2. TPN-CA06. Order via WhatsApp, delivery countrywide."
   },
   "og": {
-    "title": "HP 65W Type-C Charger | Moderntech",
-    "description": "Replacement 65W USB-C power adapter for HP Spectre x360 13/15, EliteBook x360 1030 G3, EliteBook 735/745/755/830 G5, Elite x2 1012 G2 and Pro x2 612 G2. TPN-CA06. 3-month warranty. Order via WhatsApp, delivery countrywide."
+    "title": "HP 65W Type-C Charger | Zanatechnologies",
+    "description": "Replacement 65W USB-C power adapter for HP Spectre x360 13/15, EliteBook x360 1030 G3, EliteBook 735/745/755/830 G5, Elite x2 1012 G2 and Pro x2 612 G2. TPN-CA06. Order via WhatsApp, delivery countrywide."
   },
   "category": {
     "slug": "chargers",
@@ -22,17 +22,17 @@
     "price": "3,500",
     "price_raw": "3500",
     "schema_availability": "https://schema.org/InStock",
-    "description": "Replacement power adapter (Model TPN-CA06, Part No. L30757-002, 925740-002) for HP Spectre x360 13, Spectre x360 15, EliteBook x360 1030 G3, EliteBook 735 G5, 745 G5, 755 G5, 830 G5, Elite x2 1012 G2, and Pro x2 612 G2 / 210 G2. USB Type-C connector delivering up to 65W (5V/3A, 9V/3A, 12V/5A, 15V/4.33A, 20V/3.25A). Wide-range 100\u2013240V AC input for worldwide use. Tested before dispatch, drop-in replacement for the original charger.",
+    "description": "Replacement power adapter (Model TPN-CA06, Part No. L30757-002, 925740-002) for HP Spectre x360 13, Spectre x360 15, EliteBook x360 1030 G3, EliteBook 735 G5, 745 G5, 755 G5, 830 G5, Elite x2 1012 G2, and Pro x2 612 G2 / 210 G2. USB Type-C connector delivering up to 65W (5V/3A, 9V/3A, 12V/5A, 15V/4.33A, 20V/3.25A). Wide-range 100–240V AC input for worldwide use. Tested before dispatch, drop-in replacement for the original charger.",
     "type_label": "charger",
     "type_label_cap": "Charger",
     "images": [
       {
         "src": "assets/images/products/hp-charger-65w-typec.webp",
-        "alt": "HP 65W Type-C Charger \u2014 main view"
+        "alt": "HP 65W Type-C Charger — main view"
       },
       {
         "src": "assets/images/products/hp-charger-65w-typec-1.webp",
-        "alt": "HP 65W Type-C Charger \u2014 connector detail"
+        "alt": "HP 65W Type-C Charger — connector detail"
       }
     ],
     "badges": [
@@ -43,10 +43,6 @@
       {
         "class": "badge--new-oem",
         "label": "New OEM-Equivalent"
-      },
-      {
-        "class": "badge--warranty",
-        "label": "3-Month Warranty"
       }
     ],
     "specs": [
@@ -72,11 +68,7 @@
       },
       {
         "label": "Input",
-        "value": "100\u2013240V AC, 50\u201360Hz"
-      },
-      {
-        "label": "Warranty",
-        "value": "3 Months"
+        "value": "100–240V AC, 50–60Hz"
       }
     ],
     "compatible_models": [
@@ -104,11 +96,7 @@
     },
     {
       "question": "Is a higher-wattage charger safe to use?",
-      "answer": "Yes \u2014 a charger rated higher than your laptop's original wattage is safe; your laptop only draws what it needs. A lower-wattage charger should be avoided."
-    },
-    {
-      "question": "What warranty comes with this charger?",
-      "answer": "This charger carries a 3-month warranty."
+      "answer": "Yes — a charger rated higher than your laptop's original wattage is safe; your laptop only draws what it needs. A lower-wattage charger should be avoided."
     }
   ]
 }

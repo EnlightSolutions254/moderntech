@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "HP MG04 Original Battery — KES 5,400 | [Store Name]",
-    "description": "HP MG04 Original Battery — fits Elite x2 1012 G1. Tested before dispatch, with warranty support."
+    "title": "HP MG04 Original Battery — KES 5,400 | Zanatechnologies",
+    "description": "HP MG04 Original Battery — fits Elite x2 1012 G1."
   },
   "og": {
-    "title": "HP MG04 Original Battery | [Store Name]",
-    "description": "HP MG04 Original Battery — fits Elite x2 1012 G1. Tested before dispatch, with warranty support."
+    "title": "HP MG04 Original Battery | Zanatechnologies",
+    "description": "HP MG04 Original Battery — fits Elite x2 1012 G1."
   },
   "category": {
     "slug": "laptop-batteries",
@@ -22,10 +22,6 @@
     {
       "question": "Are these original or compatible batteries?",
       "answer": "It's stated clearly above — Original (OEM) or Replacement (OEM-equivalent)."
-    },
-    {
-      "question": "What warranty comes with this battery?",
-      "answer": "This battery carries a 6-month warranty."
     }
   ],
   "product": {
@@ -38,7 +34,7 @@
     "price": "5,400",
     "price_raw": "5400",
     "schema_availability": "https://schema.org/InStock",
-    "description": "HP MG04 Original Battery — fits Elite x2 1012 G1. Tested before dispatch, with warranty support.",
+    "description": "HP MG04 Original Battery — fits Elite x2 1012 G1.",
     "type_label": "battery",
     "type_label_cap": "Battery",
     "badges": [
@@ -69,10 +65,6 @@
       {
         "label": "Condition",
         "value": "Brand New"
-      },
-      {
-        "label": "Warranty",
-        "value": "6 Months"
       }
     ],
     "compatible_models": [

@@ -11,7 +11,7 @@ let hits = 0;
   for (const e of fs.readdirSync(d, { withFileTypes: true })) {
     const f = path.join(d, e.name);
     if (e.isDirectory()) { if (!SKIP.has(e.name)) walk(f); continue; }
-    if (!/\.(json|html|js|md|css|xml|txt)$/i.test(e.name) || /^(scan|rebrand)\.js$/.test(e.name)) continue;
+    if (!/\.(json|html|js|md|css|xml|txt)$/i.test(e.name) || /^(scan|rebrand|clean-data)\.js$/.test(e.name)) continue;
     fs.readFileSync(f, 'utf8').split(/\r?\n/).forEach((l, i) => {
       if (RE.test(l)) { hits++; console.log(`${path.relative(ROOT, f)}:${i + 1}  ${l.trim().slice(0, 150)}`); }
     });

@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "HP ProBook 4530S/4535S/4730S Keyboard — Non-Backlit, Silver Frame, US Layout | [Store Name]",
-    "description": "Genuine replacement non-backlit keyboard with silver frame for the HP ProBook 4530S, 4535S and 4730S. Warranty included, order on WhatsApp."
+    "title": "HP ProBook 4530S/4535S/4730S Keyboard — Non-Backlit, Silver Frame, US Layout | Zanatechnologies",
+    "description": "Replacement non-backlit keyboard with silver frame for the HP ProBook 4530S, 4535S and 4730S. Order on WhatsApp."
   },
   "og": {
-    "title": "HP ProBook 4530S/4535S/4730S Keyboard (Non-Backlit, Silver Frame) | [Store Name]",
-    "description": "Genuine non-backlit replacement keyboard with silver frame for the HP ProBook 4530S/4535S/4730S. In stock, warranty included."
+    "title": "HP ProBook 4530S/4535S/4730S Keyboard (Non-Backlit, Silver Frame) | Zanatechnologies",
+    "description": "Non-backlit replacement keyboard with silver frame for the HP ProBook 4530S/4535S/4730S. In stock."
   },
   "category": {
     "slug": "keyboards",
@@ -22,11 +22,20 @@
     "name": "HP ProBook 4530S/4535S/4730S Keyboard (Non-Backlit, Silver Frame)",
     "full_name": "HP ProBook 4530S, 4535S, 4730S Replacement Keyboard — Non-Backlit, Silver Frame, US Layout",
     "images": [
-      { "src": "assets/images/products/hp-keyboard-probook-4535s-4530s-4730s-nonbacklit-silver.webp", "alt": "Replacement non-backlit keyboard with silver frame for HP ProBook 4530S/4535S/4730S" },
-      { "src": "assets/images/products/hp-keyboard-probook-4535s-4530s-4730s-nonbacklit-silver-alt.webp", "alt": "Angled view of the replacement non-backlit keyboard for HP ProBook 4530S/4535S/4730S" }
+      {
+        "src": "assets/images/products/hp-keyboard-probook-4535s-4530s-4730s-nonbacklit-silver.webp",
+        "alt": "Replacement non-backlit keyboard with silver frame for HP ProBook 4530S/4535S/4730S"
+      },
+      {
+        "src": "assets/images/products/hp-keyboard-probook-4535s-4530s-4730s-nonbacklit-silver-alt.webp",
+        "alt": "Angled view of the replacement non-backlit keyboard for HP ProBook 4530S/4535S/4730S"
+      }
     ],
     "badges": [
-      { "class": "badge--in-stock", "label": "In Stock" }
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
     ],
     "price": "2,300",
     "price_raw": "2300",
@@ -40,22 +49,47 @@
       "HP ProBook 4730S"
     ],
     "specs": [
-      { "label": "Layout", "value": "US English (QWERTY)" },
-      { "label": "Backlight", "value": "No" },
-      { "label": "Color", "value": "Black" },
-      { "label": "Frame", "value": "Silver" },
-      { "label": "Fitting", "value": "Direct replacement, no adhesive required" },
-      { "label": "Condition", "value": "New" },
-      { "label": "Warranty", "value": "3 Months" }
+      {
+        "label": "Layout",
+        "value": "US English (QWERTY)"
+      },
+      {
+        "label": "Backlight",
+        "value": "No"
+      },
+      {
+        "label": "Color",
+        "value": "Black"
+      },
+      {
+        "label": "Frame",
+        "value": "Silver"
+      },
+      {
+        "label": "Fitting",
+        "value": "Direct replacement, no adhesive required"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      }
     ],
     "related": []
   },
   "delivery_note": "Nairobi same-day, countrywide 1-2 days",
   "faq_heading": "Keyboard Questions",
   "faqs": [
-    { "question": "How do I know this keyboard fits my laptop?", "answer": "This fits the HP ProBook 4530S, 4535S and 4730S, which share the same chassis. If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm." },
-    { "question": "Is it backlit?", "answer": "No, this is the non-backlit version." },
-    { "question": "Does the frame match the original silver color?", "answer": "Yes, this keyboard comes with a silver frame to match the original HP ProBook design." },
-    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+    {
+      "question": "How do I know this keyboard fits my laptop?",
+      "answer": "This fits the HP ProBook 4530S, 4535S and 4730S, which share the same chassis. If you're unsure of your exact model, send us a photo of the sticker under your laptop on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Is it backlit?",
+      "answer": "No, this is the non-backlit version."
+    },
+    {
+      "question": "Does the frame match the original silver color?",
+      "answer": "Yes, this keyboard comes with a silver frame to match the original HP ProBook design."
+    }
   ]
 }

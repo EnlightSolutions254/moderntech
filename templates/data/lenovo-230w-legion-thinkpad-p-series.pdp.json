@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Lenovo 230W Charger | Price in Kenya | Moderntech",
-    "description": "Replacement 230W power adapter for Lenovo Legion 5/7/5P/C7/S7 Series and ThinkPad P50/P51/P52/P53/P70/P71/P72/P73/P16. Slim rectangular tip connector. GX20Z46307. 3-month warranty. Order via WhatsApp, delivery countrywide."
+    "title": "Lenovo 230W Charger | Price in Kenya | Zanatechnologies",
+    "description": "Replacement 230W power adapter for Lenovo Legion 5/7/5P/C7/S7 Series and ThinkPad P50/P51/P52/P53/P70/P71/P72/P73/P16. Slim rectangular tip connector. GX20Z46307. Order via WhatsApp, delivery countrywide."
   },
   "og": {
-    "title": "Lenovo 230W Charger | Moderntech",
-    "description": "Replacement 230W power adapter for Lenovo Legion 5/7/5P/C7/S7 Series and ThinkPad P50/P51/P52/P53/P70/P71/P72/P73/P16. Slim rectangular tip connector. GX20Z46307. 3-month warranty. Order via WhatsApp, delivery countrywide."
+    "title": "Lenovo 230W Charger | Zanatechnologies",
+    "description": "Replacement 230W power adapter for Lenovo Legion 5/7/5P/C7/S7 Series and ThinkPad P50/P51/P52/P53/P70/P71/P72/P73/P16. Slim rectangular tip connector. GX20Z46307. Order via WhatsApp, delivery countrywide."
   },
   "category": {
     "slug": "chargers",
@@ -22,17 +22,17 @@
     "price": "8,500",
     "price_raw": "8500",
     "schema_availability": "https://schema.org/InStock",
-    "description": "Replacement power adapter (Part No. GX20Z46307, ADL230NDC3A, 02DL143) for Lenovo Legion 5, 5 Pro, 7, C7, S7, Y540, Y545, Y740, Y730, Y900, Y910, Y920, Y7000, Y7000P, R7000, R7000P, and Lenovo ThinkPad P50, P51, P52, P53, P70, P71, P72, P73, P16. 20V, 11.5A, 230W output through the slim rectangular tip connector (11mm x 4.9mm). Wide-range 100\u2013240V AC input for worldwide use. Tested before dispatch, drop-in replacement for the original charger.",
+    "description": "Replacement power adapter (Part No. GX20Z46307, ADL230NDC3A, 02DL143) for Lenovo Legion 5, 5 Pro, 7, C7, S7, Y540, Y545, Y740, Y730, Y900, Y910, Y920, Y7000, Y7000P, R7000, R7000P, and Lenovo ThinkPad P50, P51, P52, P53, P70, P71, P72, P73, P16. 20V, 11.5A, 230W output through the slim rectangular tip connector (11mm x 4.9mm). Wide-range 100–240V AC input for worldwide use. Tested before dispatch, drop-in replacement for the original charger.",
     "type_label": "charger",
     "type_label_cap": "Charger",
     "images": [
       {
         "src": "assets/images/products/lenovo-charger-230w.webp",
-        "alt": "Lenovo 230W Charger \u2014 main view"
+        "alt": "Lenovo 230W Charger — main view"
       },
       {
         "src": "assets/images/products/lenovo-charger-230w-1.webp",
-        "alt": "Lenovo 230W Charger \u2014 connector detail"
+        "alt": "Lenovo 230W Charger — connector detail"
       }
     ],
     "badges": [
@@ -43,10 +43,6 @@
       {
         "class": "badge--new-oem",
         "label": "New OEM-Equivalent"
-      },
-      {
-        "class": "badge--warranty",
-        "label": "3-Month Warranty"
       }
     ],
     "specs": [
@@ -72,11 +68,7 @@
       },
       {
         "label": "Input",
-        "value": "100\u2013240V AC, 50\u201360Hz"
-      },
-      {
-        "label": "Warranty",
-        "value": "3 Months"
+        "value": "100–240V AC, 50–60Hz"
       }
     ],
     "compatible_models": [
@@ -102,11 +94,7 @@
     },
     {
       "question": "Is a higher-wattage charger safe to use?",
-      "answer": "Yes \u2014 a charger rated higher than your laptop's original wattage is safe; your laptop only draws what it needs. A lower-wattage charger should be avoided, especially on gaming laptops and workstations which can draw their full rated wattage under load."
-    },
-    {
-      "question": "What warranty comes with this charger?",
-      "answer": "This charger carries a 3-month warranty."
+      "answer": "Yes — a charger rated higher than your laptop's original wattage is safe; your laptop only draws what it needs. A lower-wattage charger should be avoided, especially on gaming laptops and workstations which can draw their full rated wattage under load."
     }
   ]
 }

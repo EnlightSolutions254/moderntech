@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "HP 65W Big Pin Charger | Price in Kenya | Moderntech",
-    "description": "Replacement 65W power adapter for HP EliteBook 840/850 G1-G3, ProBook 640/650/655 G1-G3, Pavilion 15/17 and ZBook 14u/15u. 7.4mm x 5.0mm Big Pin connector. 3-month warranty. Order via WhatsApp, delivery countrywide."
+    "title": "HP 65W Big Pin Charger | Price in Kenya | Zanatechnologies",
+    "description": "Replacement 65W power adapter for HP EliteBook 840/850 G1-G3, ProBook 640/650/655 G1-G3, Pavilion 15/17 and ZBook 14u/15u. 7.4mm x 5.0mm Big Pin connector. Order via WhatsApp, delivery countrywide."
   },
   "og": {
-    "title": "HP 65W Big Pin Charger | Moderntech",
-    "description": "Replacement 65W power adapter for HP EliteBook 840/850 G1-G3, ProBook 640/650/655 G1-G3, Pavilion 15/17 and ZBook 14u/15u. 7.4mm x 5.0mm Big Pin connector. 3-month warranty. Order via WhatsApp, delivery countrywide."
+    "title": "HP 65W Big Pin Charger | Zanatechnologies",
+    "description": "Replacement 65W power adapter for HP EliteBook 840/850 G1-G3, ProBook 640/650/655 G1-G3, Pavilion 15/17 and ZBook 14u/15u. 7.4mm x 5.0mm Big Pin connector. Order via WhatsApp, delivery countrywide."
   },
   "category": {
     "slug": "chargers",
@@ -22,17 +22,17 @@
     "price": "1,500",
     "price_raw": "1500",
     "schema_availability": "https://schema.org/InStock",
-    "description": "Replacement power adapter (Model TPN-CA16, TPN-DA17, Part No. L39752-002, L40094-001) for HP EliteBook 840, 850 G1/G2/G3, ProBook 640, 650, 655 G1/G2/G3, Pavilion 15, Pavilion 17, Envy 15, Envy 17, and ZBook 14u, ZBook 15u. 19.5V, 3.33A, 65W output through the 7.4mm x 5.0mm Big Pin connector with center pin. Wide-range 100\u2013240V AC input for worldwide use. Tested before dispatch, drop-in replacement for the original charger.",
+    "description": "Replacement power adapter (Model TPN-CA16, TPN-DA17, Part No. L39752-002, L40094-001) for HP EliteBook 840, 850 G1/G2/G3, ProBook 640, 650, 655 G1/G2/G3, Pavilion 15, Pavilion 17, Envy 15, Envy 17, and ZBook 14u, ZBook 15u. 19.5V, 3.33A, 65W output through the 7.4mm x 5.0mm Big Pin connector with center pin. Wide-range 100–240V AC input for worldwide use. Tested before dispatch, drop-in replacement for the original charger.",
     "type_label": "charger",
     "type_label_cap": "Charger",
     "images": [
       {
         "src": "assets/images/products/hp-charger-65w-bigpin.webp",
-        "alt": "HP 65W Big Pin Charger \u2014 main view"
+        "alt": "HP 65W Big Pin Charger — main view"
       },
       {
         "src": "assets/images/products/hp-charger-65w-bigpin-1.webp",
-        "alt": "HP 65W Big Pin Charger \u2014 connector detail"
+        "alt": "HP 65W Big Pin Charger — connector detail"
       }
     ],
     "badges": [
@@ -43,10 +43,6 @@
       {
         "class": "badge--new-oem",
         "label": "New OEM-Equivalent"
-      },
-      {
-        "class": "badge--warranty",
-        "label": "3-Month Warranty"
       }
     ],
     "specs": [
@@ -72,11 +68,7 @@
       },
       {
         "label": "Input",
-        "value": "100\u2013240V AC, 50\u201360Hz"
-      },
-      {
-        "label": "Warranty",
-        "value": "3 Months"
+        "value": "100–240V AC, 50–60Hz"
       }
     ],
     "compatible_models": [
@@ -105,11 +97,7 @@
     },
     {
       "question": "Is a higher-wattage charger safe to use?",
-      "answer": "Yes \u2014 a charger rated higher than your laptop's original wattage is safe; your laptop only draws what it needs. A lower-wattage charger should be avoided."
-    },
-    {
-      "question": "What warranty comes with this charger?",
-      "answer": "This charger carries a 3-month warranty."
+      "answer": "Yes — a charger rated higher than your laptop's original wattage is safe; your laptop only draws what it needs. A lower-wattage charger should be avoided."
     }
   ]
 }

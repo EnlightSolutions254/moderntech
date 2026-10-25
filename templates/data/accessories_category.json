@@ -1,11 +1,11 @@
 {
   "meta": {
     "title": "Laptop Accessories — Mouse, Mouse Pad, RAM, External Cases | Zanatechnologies",
-    "description": "Wired mice, mouse pads, laptop RAM upgrades and external drive cases in Nairobi. In-stock pricing in KES, warranty included, order on WhatsApp."
+    "description": "Wired mice, mouse pads, laptop RAM upgrades and external drive cases in Nairobi. In-stock pricing in KES, order on WhatsApp."
   },
   "og": {
     "title": "Laptop Accessories | Zanatechnologies",
-    "description": "Mice, mouse pads, RAM and external drive cases in stock. Warranty included, order on WhatsApp."
+    "description": "Mice, mouse pads, RAM and external drive cases in stock. Order on WhatsApp."
   },
   "category": {
     "slug": "accessories",
@@ -26,11 +26,22 @@
   },
   "faq_heading": "Accessory Questions",
   "faqs": [
-    { "question": "Will a mouse work with any laptop brand?", "answer": "Our mice work across brands via standard USB — check the specs on each listing for exact compatibility." },
-    { "question": "Will an external case fit my drive?", "answer": "Each case listing states the drive size and interface it supports. If you're unsure, send us your drive's size on WhatsApp and we'll confirm." },
-    { "question": "Will a RAM module fit my laptop?", "answer": "Check the type (DDR4 vs DDR5) and form factor on the listing, then send us your laptop model on WhatsApp and we'll confirm compatibility before you order." },
-    { "question": "What warranty comes with accessories?", "answer": "Mice and external cases carry a 6-month warranty; RAM and surveillance drives ship with warranty as noted on each listing." },
-    { "question": "What's the difference between a surveillance HDD and a normal one?", "answer": "Surveillance drives like WD Purple are built for continuous 24/7 recording from CCTV/NVR/DVR systems, which is a heavier sustained workload than typical desktop use." }
+    {
+      "question": "Will a mouse work with any laptop brand?",
+      "answer": "Our mice work across brands via standard USB — check the specs on each listing for exact compatibility."
+    },
+    {
+      "question": "Will an external case fit my drive?",
+      "answer": "Each case listing states the drive size and interface it supports. If you're unsure, send us your drive's size on WhatsApp and we'll confirm."
+    },
+    {
+      "question": "Will a RAM module fit my laptop?",
+      "answer": "Check the type (DDR4 vs DDR5) and form factor on the listing, then send us your laptop model on WhatsApp and we'll confirm compatibility before you order."
+    },
+    {
+      "question": "What's the difference between a surveillance HDD and a normal one?",
+      "answer": "Surveillance drives like WD Purple are built for continuous 24/7 recording from CCTV/NVR/DVR systems, which is a heavier sustained workload than typical desktop use."
+    }
   ],
   "products": [
     {
@@ -42,7 +53,10 @@
       "image": "assets/images/products/dell-mouse-ms111.webp",
       "alt": "Dell MS111 USB Optical Mouse — wired black",
       "name": "Dell MS111 USB Optical Mouse",
-      "tags": ["Wired USB", "Optical"],
+      "tags": [
+        "Wired USB",
+        "Optical"
+      ],
       "price": "450",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -57,7 +71,10 @@
       "image": "assets/images/products/mouse-pad.webp",
       "alt": "Mouse pad with smooth surface, top view",
       "name": "Mouse Pad",
-      "tags": ["Smooth Surface", "Non-slip Base"],
+      "tags": [
+        "Smooth Surface",
+        "Non-slip Base"
+      ],
       "price": "2,000",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -72,7 +89,10 @@
       "image": "assets/images/products/hdd-ssd-external-case.webp",
       "alt": "2.5 inch HDD/SSD external case, USB 2.0",
       "name": "2.5\" HDD/SSD External Case",
-      "tags": ["USB 2.0", "Tool-free"],
+      "tags": [
+        "USB 2.0",
+        "Tool-free"
+      ],
       "price": "500",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -87,7 +107,11 @@
       "image": "assets/images/products/sk-hynix-32gb-ddr5-5600-sodimm.webp",
       "alt": "SK Hynix 32GB DDR5-5600 SODIMM laptop RAM, label view",
       "name": "SK Hynix 32GB DDR5-5600 SODIMM",
-      "tags": ["DDR5", "32GB", "SODIMM"],
+      "tags": [
+        "DDR5",
+        "32GB",
+        "SODIMM"
+      ],
       "price": "35,000",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -102,7 +126,11 @@
       "image": "assets/images/products/wd-purple-surveillance-hdd.webp",
       "alt": "Western Digital WD Purple surveillance hard drive, label view",
       "name": "WD Purple Surveillance HDD (1TB–6TB)",
-      "tags": ["Surveillance HDD", "3.5\"", "1TB–6TB"],
+      "tags": [
+        "Surveillance HDD",
+        "3.5\"",
+        "1TB–6TB"
+      ],
       "price": "4,500",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -117,7 +145,10 @@
       "image": "assets/images/products/lcd-cable-edp-30-pin-dc02c00a300.webp",
       "alt": "eDP 30-pin laptop LCD display cable, code DC02C00A300, label view",
       "name": "eDP 30 Pin LCD Display Cable (DC02C00A300)",
-      "tags": ["eDP 30-Pin", "DC02C00A300"],
+      "tags": [
+        "eDP 30-Pin",
+        "DC02C00A300"
+      ],
       "price": "1,200",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -132,7 +163,12 @@
       "image": "assets/images/products/usb-type-c-charging-port.webp",
       "alt": "USB Type-C laptop charging port replacement, front view",
       "name": "Laptop Charging Port",
-      "tags": ["Big Pin", "Small Pin", "USB", "Type-C"],
+      "tags": [
+        "Big Pin",
+        "Small Pin",
+        "USB",
+        "Type-C"
+      ],
       "price": "1,500",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -147,7 +183,11 @@
       "image": "assets/images/products/thermal-paper-rolls-79x80.webp",
       "alt": "Thermal paper rolls 79x80mm, box of 50",
       "name": "Thermal Paper Rolls (79x80 / 57x40)",
-      "tags": ["79x80mm", "57x40mm", "Sold by the box"],
+      "tags": [
+        "79x80mm",
+        "57x40mm",
+        "Sold by the box"
+      ],
       "price": "4,500",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -162,7 +202,10 @@
       "image": "assets/images/products/ex-uk-usb-mouse.webp",
       "alt": "Ex-UK used USB mouse, top view",
       "name": "Ex-UK USB Mouse",
-      "tags": ["Ex-UK", "USB"],
+      "tags": [
+        "Ex-UK",
+        "USB"
+      ],
       "price": "650",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
@@ -177,7 +220,10 @@
       "image": "assets/images/products/m2-nvme-ssd-external-case.webp",
       "alt": "M.2 NVMe SSD external case, top view",
       "name": "M.2 NVMe SSD External Case",
-      "tags": ["M.2 NVMe", "USB Type-C"],
+      "tags": [
+        "M.2 NVMe",
+        "USB Type-C"
+      ],
       "price": "1,500",
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",

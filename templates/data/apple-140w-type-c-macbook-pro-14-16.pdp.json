@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Apple 140W USB-C Charger | Price in Kenya | Moderntech",
-    "description": "Genuine Apple 140W USB-C Power Adapter for MacBook Pro 14-inch/16-inch (2021-2023), MacBook Air and other USB-C MacBook models. MW2M3AM/A. 6-month warranty. Order via WhatsApp, delivery countrywide."
+    "title": "Apple 140W USB-C Charger | Price in Kenya | Zanatechnologies",
+    "description": "Genuine Apple 140W USB-C Power Adapter for MacBook Pro 14-inch/16-inch (2021-2023), MacBook Air and other USB-C MacBook models. MW2M3AM/A. Order via WhatsApp, delivery countrywide."
   },
   "og": {
-    "title": "Apple 140W USB-C Charger | Moderntech",
-    "description": "Genuine Apple 140W USB-C Power Adapter for MacBook Pro 14-inch/16-inch (2021-2023), MacBook Air and other USB-C MacBook models. MW2M3AM/A. 6-month warranty. Order via WhatsApp, delivery countrywide."
+    "title": "Apple 140W USB-C Charger | Zanatechnologies",
+    "description": "Genuine Apple 140W USB-C Power Adapter for MacBook Pro 14-inch/16-inch (2021-2023), MacBook Air and other USB-C MacBook models. MW2M3AM/A. Order via WhatsApp, delivery countrywide."
   },
   "category": {
     "slug": "chargers",
@@ -22,17 +22,17 @@
     "price": "6,500",
     "price_raw": "6500",
     "schema_availability": "https://schema.org/InStock",
-    "description": "Genuine Apple power adapter (Model MW2M3AM/A) for MacBook Pro 14-inch (2021/2023), MacBook Pro 16-inch (2021/2023), MacBook Pro 13-inch (M1/M2), MacBook Air (M1/M2/M3, 13-inch and 15-inch), and other USB-C MacBook models. Delivers up to 140W over USB-C \u2014 pair with a USB-C to MagSafe 3 cable for fast charging (0 to 50% in about 30 minutes on supported 14\"/16\" models), or a standard USB-C cable for other Macs and USB-C devices. Charging cable sold separately. Wide-range 100\u2013240V AC input for worldwide use. Original Apple unit, tested before dispatch.",
+    "description": "Genuine Apple power adapter (Model MW2M3AM/A) for MacBook Pro 14-inch (2021/2023), MacBook Pro 16-inch (2021/2023), MacBook Pro 13-inch (M1/M2), MacBook Air (M1/M2/M3, 13-inch and 15-inch), and other USB-C MacBook models. Delivers up to 140W over USB-C — pair with a USB-C to MagSafe 3 cable for fast charging (0 to 50% in about 30 minutes on supported 14\"/16\" models), or a standard USB-C cable for other Macs and USB-C devices. Charging cable sold separately. Wide-range 100–240V AC input for worldwide use. Original Apple unit, tested before dispatch.",
     "type_label": "charger",
     "type_label_cap": "Charger",
     "images": [
       {
         "src": "assets/images/products/apple-charger-140w-typec.webp",
-        "alt": "Apple 140W USB-C Charger \u2014 main view"
+        "alt": "Apple 140W USB-C Charger — main view"
       },
       {
         "src": "assets/images/products/apple-charger-140w-typec-1.webp",
-        "alt": "Apple 140W USB-C Charger \u2014 connector detail"
+        "alt": "Apple 140W USB-C Charger — connector detail"
       }
     ],
     "badges": [
@@ -43,10 +43,6 @@
       {
         "class": "badge--original",
         "label": "Genuine OEM"
-      },
-      {
-        "class": "badge--warranty",
-        "label": "6-Month Warranty"
       }
     ],
     "specs": [
@@ -72,11 +68,7 @@
       },
       {
         "label": "Input",
-        "value": "100\u2013240V AC, 50\u201360Hz"
-      },
-      {
-        "label": "Warranty",
-        "value": "6 Months"
+        "value": "100–240V AC, 50–60Hz"
       }
     ],
     "compatible_models": [
@@ -100,11 +92,7 @@
     },
     {
       "question": "Are these original or compatible chargers?",
-      "answer": "It's stated clearly above \u2014 Original (OEM) or Replacement (OEM-equivalent)."
-    },
-    {
-      "question": "What warranty comes with this charger?",
-      "answer": "This charger carries a 6-month warranty."
+      "answer": "It's stated clearly above — Original (OEM) or Replacement (OEM-equivalent)."
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Lenovo 100W Type-C Charger | Price in Kenya | Moderntech",
-    "description": "Replacement 100W USB-C power adapter for Lenovo ThinkPad T16, P16s, L15, X13 Yoga, T14s and ThinkBook 14/15/16 Series. Part No. 4X21M37469. 6-month warranty. Order via WhatsApp, delivery countrywide."
+    "title": "Lenovo 100W Type-C Charger | Price in Kenya | Zanatechnologies",
+    "description": "Replacement 100W USB-C power adapter for Lenovo ThinkPad T16, P16s, L15, X13 Yoga, T14s and ThinkBook 14/15/16 Series. Part No. 4X21M37469. Order via WhatsApp, delivery countrywide."
   },
   "og": {
-    "title": "Lenovo 100W Type-C Charger | Moderntech",
-    "description": "Replacement 100W USB-C power adapter for Lenovo ThinkPad T16, P16s, L15, X13 Yoga, T14s and ThinkBook 14/15/16 Series. Part No. 4X21M37469. 6-month warranty. Order via WhatsApp, delivery countrywide."
+    "title": "Lenovo 100W Type-C Charger | Zanatechnologies",
+    "description": "Replacement 100W USB-C power adapter for Lenovo ThinkPad T16, P16s, L15, X13 Yoga, T14s and ThinkBook 14/15/16 Series. Part No. 4X21M37469. Order via WhatsApp, delivery countrywide."
   },
   "category": {
     "slug": "chargers",
@@ -22,17 +22,17 @@
     "price": "5,500",
     "price_raw": "5500",
     "schema_availability": "https://schema.org/InStock",
-    "description": "Replacement power adapter (Part No. 4X21M37469, 4X21M37477) for Lenovo ThinkPad T16, ThinkPad P16s, ThinkPad L15, ThinkPad X13 Yoga, ThinkPad T14s, and ThinkBook 14 / 15 / 16 Series. USB Type-C connector delivering 20V, 5A, 100W output. Wide-range 100\u2013240V AC input for worldwide use. Tested before dispatch, drop-in replacement for the original charger.",
+    "description": "Replacement power adapter (Part No. 4X21M37469, 4X21M37477) for Lenovo ThinkPad T16, ThinkPad P16s, ThinkPad L15, ThinkPad X13 Yoga, ThinkPad T14s, and ThinkBook 14 / 15 / 16 Series. USB Type-C connector delivering 20V, 5A, 100W output. Wide-range 100–240V AC input for worldwide use. Tested before dispatch, drop-in replacement for the original charger.",
     "type_label": "charger",
     "type_label_cap": "Charger",
     "images": [
       {
         "src": "assets/images/products/lenovo-charger-100w-typec.webp",
-        "alt": "Lenovo 100W Type-C Charger \u2014 main view"
+        "alt": "Lenovo 100W Type-C Charger — main view"
       },
       {
         "src": "assets/images/products/lenovo-charger-100w-typec-1.webp",
-        "alt": "Lenovo 100W Type-C Charger \u2014 connector detail"
+        "alt": "Lenovo 100W Type-C Charger — connector detail"
       }
     ],
     "badges": [
@@ -43,10 +43,6 @@
       {
         "class": "badge--new-oem",
         "label": "New OEM-Equivalent"
-      },
-      {
-        "class": "badge--warranty",
-        "label": "6-Month Warranty"
       }
     ],
     "specs": [
@@ -72,11 +68,7 @@
       },
       {
         "label": "Input",
-        "value": "100\u2013240V AC, 50\u201360Hz"
-      },
-      {
-        "label": "Warranty",
-        "value": "6 Months"
+        "value": "100–240V AC, 50–60Hz"
       }
     ],
     "compatible_models": [
@@ -102,11 +94,7 @@
     },
     {
       "question": "Is a higher-wattage charger safe to use?",
-      "answer": "Yes \u2014 a charger rated higher than your laptop's original wattage is safe; your laptop only draws what it needs. A lower-wattage charger should be avoided."
-    },
-    {
-      "question": "What warranty comes with this charger?",
-      "answer": "This charger carries a 6-month warranty."
+      "answer": "Yes — a charger rated higher than your laptop's original wattage is safe; your laptop only draws what it needs. A lower-wattage charger should be avoided."
     }
   ]
 }

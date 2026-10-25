@@ -1,11 +1,11 @@
 {
   "meta": {
     "title": "Dell 7CJRC Battery — Latitude E7270/7270, E7470/7470 | Zanatechnologies",
-    "description": "Genuine original Dell 7CJRC battery, 11.4V, for Latitude E7270/7270 and E7470/7470 series. In-stock pricing in KES, warranty included, order on WhatsApp."
+    "description": "Genuine original Dell 7CJRC battery, 11.4V, for Latitude E7270/7270 and E7470/7470 series. In-stock pricing in KES, order on WhatsApp."
   },
   "og": {
     "title": "Dell 7CJRC Battery | Zanatechnologies",
-    "description": "Genuine Dell 7CJRC replacement battery for Latitude E7270/7270 and E7470/7470. In stock, warranty included, order on WhatsApp."
+    "description": "Genuine Dell 7CJRC replacement battery for Latitude E7270/7270 and E7470/7470. In stock, order on WhatsApp."
   },
   "category": {
     "slug": "laptop-batteries",
@@ -71,10 +71,6 @@
       {
         "label": "Condition",
         "value": "New (Original)"
-      },
-      {
-        "label": "Warranty",
-        "value": "6 Months"
       }
     ],
     "related": []
@@ -89,10 +85,6 @@
     {
       "question": "Is this an original or compatible battery?",
       "answer": "We stock genuine OEM batteries — this is a genuine Dell 7CJRC unit."
-    },
-    {
-      "question": "What warranty comes with this battery?",
-      "answer": "This battery carries a 6-month warranty."
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "HP 250 G7 Casing — Part AB (LCD Back Cover &amp; Bezel) | [Store Name]",
-    "description": "Replacement LCD back cover, screen bezel and hinges (Part AB) for the HP 250 G7, also fits 255 G7 / 256 G7. Warranty included, order on WhatsApp."
+    "title": "HP 250 G7 Casing — Part AB (LCD Back Cover &amp; Bezel) | Zanatechnologies",
+    "description": "Replacement LCD back cover, screen bezel and hinges (Part AB) for the HP 250 G7, also fits 255 G7 / 256 G7. Order on WhatsApp."
   },
   "og": {
-    "title": "HP 250 G7 Casing — Part AB | [Store Name]",
-    "description": "Replacement LCD back cover and screen bezel (Part AB) for the HP 250 G7 / 255 G7 / 256 G7. In stock, warranty included."
+    "title": "HP 250 G7 Casing — Part AB | Zanatechnologies",
+    "description": "Replacement LCD back cover and screen bezel (Part AB) for the HP 250 G7 / 255 G7 / 256 G7. In stock."
   },
   "category": {
     "slug": "casings",
@@ -22,10 +22,16 @@
     "name": "HP 250 G7 Casing — Part AB (Lid)",
     "full_name": "HP 250 G7 Casing — Part AB: LCD Back Cover, Screen Bezel &amp; Hinges",
     "images": [
-      { "src": "assets/images/products/hp-casing-250g7-partab.webp", "alt": "HP 250 G7 LCD back cover and screen bezel" }
+      {
+        "src": "assets/images/products/hp-casing-250g7-partab.webp",
+        "alt": "HP 250 G7 LCD back cover and screen bezel"
+      }
     ],
     "badges": [
-      { "class": "badge--in-stock", "label": "In Stock" }
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
     ],
     "price": "4,500",
     "price_raw": "4500",
@@ -39,10 +45,18 @@
       "HP 256 G7"
     ],
     "specs": [
-      { "label": "Includes", "value": "LCD back cover, screen bezel, hinges" },
-      { "label": "Color", "value": "Black / Grey" },
-      { "label": "Condition", "value": "New" },
-      { "label": "Warranty", "value": "3 Months" }
+      {
+        "label": "Includes",
+        "value": "LCD back cover, screen bezel, hinges"
+      },
+      {
+        "label": "Color",
+        "value": "Black / Grey"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      }
     ],
     "related": [
       {
@@ -50,7 +64,10 @@
         "image": "assets/images/products/hp-casing-250g7-partcd.webp",
         "alt": "HP 250 G7 upper palmrest with keyboard tray and touchpad",
         "name": "HP 250 G7 Casing — Part CD (Chassis)",
-        "tags": ["Part CD", "Palmrest + Base"],
+        "tags": [
+          "Part CD",
+          "Palmrest + Base"
+        ],
         "price": "4,500",
         "badge_class": "badge--in-stock",
         "badge_label": "In Stock",
@@ -61,7 +78,9 @@
         "image": "assets/images/products/hp-casing-250g7-partcd.webp",
         "alt": "HP 250 G7 upper palmrest with keyboard tray and touchpad",
         "name": "HP 250 G7 Full Casing Kit",
-        "tags": ["Full Kit"],
+        "tags": [
+          "Full Kit"
+        ],
         "price": "9,500",
         "badge_class": "badge--in-stock",
         "badge_label": "In Stock",
@@ -72,8 +91,17 @@
   "delivery_note": "Nairobi same-day, countrywide 1-2 days",
   "faq_heading": "Casing Questions",
   "faqs": [
-    { "question": "How do I know this fits my laptop?", "answer": "This fits the HP 250 G7, 255 G7 and 256 G7, which share the same body. Send us a photo of your laptop on WhatsApp if you're unsure." },
-    { "question": "What does 'Part AB' cover?", "answer": "Part AB is the screen lid section only — the LCD back cover, bezel and hinges. It doesn't include the palmrest or bottom base — those are Part CD." },
-    { "question": "Can I fit this myself?", "answer": "It involves a full teardown of the laptop, so most customers have it fitted by us. We can talk you through it on WhatsApp if you'd rather do it yourself." }
+    {
+      "question": "How do I know this fits my laptop?",
+      "answer": "This fits the HP 250 G7, 255 G7 and 256 G7, which share the same body. Send us a photo of your laptop on WhatsApp if you're unsure."
+    },
+    {
+      "question": "What does 'Part AB' cover?",
+      "answer": "Part AB is the screen lid section only — the LCD back cover, bezel and hinges. It doesn't include the palmrest or bottom base — those are Part CD."
+    },
+    {
+      "question": "Can I fit this myself?",
+      "answer": "It involves a full teardown of the laptop, so most customers have it fitted by us. We can talk you through it on WhatsApp if you'd rather do it yourself."
+    }
   ]
 }

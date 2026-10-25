@@ -1,11 +1,11 @@
 {
   "meta": {
     "title": "Flex 5-14 Touch Screen | Price in Kenya | Zanatechnologies",
-    "description": "Replacement touch screen assembly for Lenovo IdeaPad Flex 5-14 (14IIL05, 14ARE05, 14ITL05, 14ALC05), 14-inch FHD, 30-pin. Warranty included, order on WhatsApp."
+    "description": "Replacement touch screen assembly for Lenovo IdeaPad Flex 5-14 (14IIL05, 14ARE05, 14ITL05, 14ALC05), 14-inch FHD, 30-pin. Order on WhatsApp."
   },
   "og": {
     "title": "Lenovo Flex 5-14 Touch Screen | Zanatechnologies",
-    "description": "Replacement FHD touch screen for Lenovo IdeaPad Flex 5-14 (2020 models). In stock, warranty included, order on WhatsApp."
+    "description": "Replacement FHD touch screen for Lenovo IdeaPad Flex 5-14 (2020 models). In stock, order on WhatsApp."
   },
   "category": {
     "slug": "screens",
@@ -83,10 +83,6 @@
       {
         "label": "Condition",
         "value": "New"
-      },
-      {
-        "label": "Warranty",
-        "value": "3 Months"
       }
     ],
     "related": []
@@ -105,10 +101,6 @@
     {
       "question": "Do you install the screen, or is it self-fit?",
       "answer": "We can install it for you in Nairobi, or ship it with fitting instructions if you're upcountry or prefer your own technician."
-    },
-    {
-      "question": "What warranty comes with this screen?",
-      "answer": "This screen carries a 3-month warranty against dead pixels and panel defects."
     }
   ]
 }

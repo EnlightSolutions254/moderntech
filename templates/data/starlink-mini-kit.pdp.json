@@ -36,17 +36,31 @@
       }
     ],
     "badges": [
-      { "class": "badge--in-stock", "label": "In Stock" }
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
     ],
     "description": "Starlink Mini kit, the compact satellite internet option for home, travel and remote sites. KES 38,000 for the kit. A Starlink service plan is separate from the kit, so message us on WhatsApp if you need help understanding what you need to get connected.",
     "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Starlink%20Mini%20Kit%20%E2%80%94%20KES%2038%2C000",
     "confirm_fit_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20ask%20about%20the%20Starlink%20Mini%20Kit%3A%20",
     "specs": [
-      { "label": "Type", "value": "Satellite internet kit (dish and router)" },
-      { "label": "Model", "value": "Starlink Mini" },
-      { "label": "Condition", "value": "New" },
-      { "label": "Service Plan", "value": "Not included — bought separately from Starlink" },
-      { "label": "Warranty", "value": "Ask on WhatsApp for current term" }
+      {
+        "label": "Type",
+        "value": "Satellite internet kit (dish and router)"
+      },
+      {
+        "label": "Model",
+        "value": "Starlink Mini"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      },
+      {
+        "label": "Service Plan",
+        "value": "Not included — bought separately from Starlink"
+      }
     ],
     "compatible_models": [
       "Homes, offices, vehicles and remote sites with a clear view of the sky"
@@ -55,9 +69,17 @@
   },
   "faq_heading": "Starlink Questions",
   "faqs": [
-    { "question": "Does the price include a Starlink subscription?", "answer": "No. KES 38,000 is for the kit only. The monthly service plan is separate and is set up with Starlink." },
-    { "question": "What is the difference between the Mini and the Standard kit?", "answer": "The Mini is the smaller, more portable kit, while the Standard Gen 3 is the full-size kit. Message us on WhatsApp and we'll help you choose for your location and use." },
-    { "question": "Where can I use it?", "answer": "Anywhere you can place the dish with a clear view of the sky, such as a home, office or remote site. Trees and buildings that block the sky can affect your connection." },
-    { "question": "What warranty comes with this kit?", "answer": "Message us on WhatsApp for the current warranty term before ordering." }
+    {
+      "question": "Does the price include a Starlink subscription?",
+      "answer": "No. KES 38,000 is for the kit only. The monthly service plan is separate and is set up with Starlink."
+    },
+    {
+      "question": "What is the difference between the Mini and the Standard kit?",
+      "answer": "The Mini is the smaller, more portable kit, while the Standard Gen 3 is the full-size kit. Message us on WhatsApp and we'll help you choose for your location and use."
+    },
+    {
+      "question": "Where can I use it?",
+      "answer": "Anywhere you can place the dish with a clear view of the sky, such as a home, office or remote site. Trees and buildings that block the sky can affect your connection."
+    }
   ]
 }

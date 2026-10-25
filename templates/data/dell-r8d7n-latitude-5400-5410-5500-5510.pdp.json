@@ -1,11 +1,11 @@
 {
   "meta": {
     "title": "Dell R8D7N Battery — Latitude 5400/5410/5500/5510 | Zanatechnologies",
-    "description": "Genuine original Dell R8D7N battery, 11.4V, for Latitude 5400/5410/5500/5510, Precision 3540/3550 and Inspiron 7590/7591/7791 2-in-1. In-stock pricing in KES, warranty included, order on WhatsApp."
+    "description": "Genuine original Dell R8D7N battery, 11.4V, for Latitude 5400/5410/5500/5510, Precision 3540/3550 and Inspiron 7590/7591/7791 2-in-1. In-stock pricing in KES, order on WhatsApp."
   },
   "og": {
     "title": "Dell R8D7N Battery | Zanatechnologies",
-    "description": "Genuine Dell R8D7N replacement battery for Latitude 5400/5410/5500/5510. In stock, warranty included, order on WhatsApp."
+    "description": "Genuine Dell R8D7N replacement battery for Latitude 5400/5410/5500/5510. In stock, order on WhatsApp."
   },
   "category": {
     "slug": "laptop-batteries",
@@ -71,10 +71,6 @@
       {
         "label": "Condition",
         "value": "New (Original)"
-      },
-      {
-        "label": "Warranty",
-        "value": "6 Months"
       }
     ],
     "related": []
@@ -89,10 +85,6 @@
     {
       "question": "Is this an original or compatible battery?",
       "answer": "We stock genuine OEM batteries — this is a genuine Dell R8D7N unit."
-    },
-    {
-      "question": "What warranty comes with this battery?",
-      "answer": "This battery carries a 6-month warranty."
     }
   ]
 }

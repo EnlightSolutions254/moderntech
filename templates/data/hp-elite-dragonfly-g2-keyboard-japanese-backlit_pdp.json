@@ -1,11 +1,11 @@
 {
   "meta": {
     "title": "HP Elite Dragonfly G2 Keyboard (Backlit, Japanese) | Zanatechnologies",
-    "description": "Replacement backlit Japanese-layout keyboard for HP Elite Dragonfly G2. In-stock pricing in KES, warranty included, order on WhatsApp."
+    "description": "Replacement backlit Japanese-layout keyboard for HP Elite Dragonfly G2. In-stock pricing in KES, order on WhatsApp."
   },
   "og": {
     "title": "HP Elite Dragonfly G2 Keyboard (Japanese) | Zanatechnologies",
-    "description": "Backlit Japanese-layout keyboard for HP Elite Dragonfly G2. In stock, warranty included, order on WhatsApp."
+    "description": "Backlit Japanese-layout keyboard for HP Elite Dragonfly G2. In stock, order on WhatsApp."
   },
   "category": {
     "slug": "keyboards",
@@ -59,10 +59,6 @@
       {
         "label": "Condition",
         "value": "New"
-      },
-      {
-        "label": "Warranty",
-        "value": "3 Months"
       }
     ],
     "related": []
@@ -81,10 +77,6 @@
     {
       "question": "Is this backlit?",
       "answer": "Yes, this is the backlit version."
-    },
-    {
-      "question": "What warranty comes with this keyboard?",
-      "answer": "This keyboard carries a 3-month warranty."
     }
   ]
 }

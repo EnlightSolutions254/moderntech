@@ -1,11 +1,11 @@
 {
   "meta": {
     "title": "HP RX03XL Battery — EliteBook 630/640/645/660 G11, ProBook 440/460 G11 | Zanatechnologies",
-    "description": "Genuine replacement HP RX03XL battery, 11.58V, for EliteBook 630, 640, 645, 660 G11 and ProBook 440, 460 G11 series. In-stock pricing in KES, warranty included, order on WhatsApp."
+    "description": "Replacement HP RX03XL battery, 11.58V, for EliteBook 630, 640, 645, 660 G11 and ProBook 440, 460 G11 series. In-stock pricing in KES, order on WhatsApp."
   },
   "og": {
     "title": "HP RX03XL Battery | Zanatechnologies",
-    "description": "Genuine HP RX03XL replacement battery for EliteBook and ProBook G11 series. In stock, warranty included, order on WhatsApp."
+    "description": "Genuine HP RX03XL replacement battery for EliteBook and ProBook G11 series. In stock, order on WhatsApp."
   },
   "category": {
     "slug": "laptop-batteries",
@@ -71,10 +71,6 @@
       {
         "label": "Condition",
         "value": "New"
-      },
-      {
-        "label": "Warranty",
-        "value": "6 Months"
       }
     ],
     "related": []
@@ -89,10 +85,6 @@
     {
       "question": "Is this an original or compatible battery?",
       "answer": "We stock genuine OEM batteries — this is a genuine HP RX03XL-family unit."
-    },
-    {
-      "question": "What warranty comes with this battery?",
-      "answer": "This battery carries a 6-month warranty."
     }
   ]
 }

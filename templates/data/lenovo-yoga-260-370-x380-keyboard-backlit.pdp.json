@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Lenovo ThinkPad Yoga 260/370 &amp; X380 Yoga Keyboard — Backlit, US Layout | [Store Name]",
-    "description": "Genuine replacement backlit keyboard for the Lenovo ThinkPad Yoga 260, Yoga 370 and X380 Yoga. Available in black or black with silver frame. Warranty included, order on WhatsApp."
+    "title": "Lenovo ThinkPad Yoga 260/370 &amp; X380 Yoga Keyboard — Backlit, US Layout | Zanatechnologies",
+    "description": "Replacement backlit keyboard for the Lenovo ThinkPad Yoga 260, Yoga 370 and X380 Yoga. Available in black or black with silver frame. Order on WhatsApp."
   },
   "og": {
-    "title": "Lenovo ThinkPad Yoga 260/370 &amp; X380 Yoga Keyboard | [Store Name]",
-    "description": "Genuine backlit replacement keyboard for the Yoga 260, Yoga 370 and X380 Yoga, available in black or black with silver frame."
+    "title": "Lenovo ThinkPad Yoga 260/370 &amp; X380 Yoga Keyboard | Zanatechnologies",
+    "description": "Backlit replacement keyboard for the Yoga 260, Yoga 370 and X380 Yoga, available in black or black with silver frame."
   },
   "category": {
     "slug": "keyboards",
@@ -22,10 +22,16 @@
     "name": "Lenovo ThinkPad Yoga 260/370/X380 Keyboard",
     "full_name": "Lenovo ThinkPad Yoga 260 / Yoga 370 / X380 Yoga Replacement Keyboard — Backlit, US Layout",
     "images": [
-      { "src": "assets/images/products/lenovo-keyboard-yoga260-370-x380.webp", "alt": "Replacement backlit keyboard for Lenovo ThinkPad Yoga 260, Yoga 370 and X380 Yoga" }
+      {
+        "src": "assets/images/products/lenovo-keyboard-yoga260-370-x380.webp",
+        "alt": "Replacement backlit keyboard for Lenovo ThinkPad Yoga 260, Yoga 370 and X380 Yoga"
+      }
     ],
     "badges": [
-      { "class": "badge--in-stock", "label": "In Stock" }
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
     ],
     "price": "5,700",
     "price_raw": "5700",
@@ -39,12 +45,26 @@
       "ThinkPad X380 Yoga"
     ],
     "specs": [
-      { "label": "Layout", "value": "US English (QWERTY)" },
-      { "label": "Backlight", "value": "Yes" },
-      { "label": "Color Options", "value": "Black, or Black with Silver Frame" },
-      { "label": "Fitting", "value": "Direct replacement, no adhesive required" },
-      { "label": "Condition", "value": "New" },
-      { "label": "Warranty", "value": "3 Months" }
+      {
+        "label": "Layout",
+        "value": "US English (QWERTY)"
+      },
+      {
+        "label": "Backlight",
+        "value": "Yes"
+      },
+      {
+        "label": "Color Options",
+        "value": "Black, or Black with Silver Frame"
+      },
+      {
+        "label": "Fitting",
+        "value": "Direct replacement, no adhesive required"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      }
     ],
     "related": [
       {
@@ -52,7 +72,10 @@
         "image": "assets/images/products/lenovo-keyboard-x1carbon-gen3.webp",
         "alt": "Replacement backlit keyboard for Lenovo ThinkPad X1 Carbon 3rd Gen",
         "name": "Lenovo ThinkPad X1 Carbon 3rd Gen Keyboard",
-        "tags": ["X1 Carbon 3rd Gen", "Backlit"],
+        "tags": [
+          "X1 Carbon 3rd Gen",
+          "Backlit"
+        ],
         "price": "8,500",
         "badge_class": "badge--in-stock",
         "badge_label": "In Stock",
@@ -63,7 +86,10 @@
         "image": "assets/images/products/hp-keyboard-250g6-backlit.webp",
         "alt": "Replacement backlit keyboard for HP 250 G6 / 15-BS series",
         "name": "HP 250 G6 / 15-BS Keyboard (Backlit)",
-        "tags": ["250 G6/15-BS", "Backlit"],
+        "tags": [
+          "250 G6/15-BS",
+          "Backlit"
+        ],
         "price": "3,000",
         "badge_class": "badge--in-stock",
         "badge_label": "In Stock",
@@ -74,8 +100,13 @@
   "delivery_note": "Nairobi same-day, countrywide 1-2 days",
   "faq_heading": "Keyboard Questions",
   "faqs": [
-    { "question": "How do I know this keyboard fits my laptop?", "answer": "This fits the ThinkPad Yoga 260, Yoga 370 and X380 Yoga, which share the same keyboard. Send us a photo of the sticker under your laptop on WhatsApp if you're unsure." },
-    { "question": "What colors are available?", "answer": "This keyboard comes in black, or black with a silver frame. Let us know which finish your laptop has when you order on WhatsApp." },
-    { "question": "What warranty comes with this keyboard?", "answer": "This keyboard carries a 3-month warranty." }
+    {
+      "question": "How do I know this keyboard fits my laptop?",
+      "answer": "This fits the ThinkPad Yoga 260, Yoga 370 and X380 Yoga, which share the same keyboard. Send us a photo of the sticker under your laptop on WhatsApp if you're unsure."
+    },
+    {
+      "question": "What colors are available?",
+      "answer": "This keyboard comes in black, or black with a silver frame. Let us know which finish your laptop has when you order on WhatsApp."
+    }
   ]
 }

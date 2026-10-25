@@ -1,10 +1,10 @@
 {
   "meta": {
-    "title": "Asus VivoBook 15 Casing | Price in Kenya | [Store Name]",
-    "description": "Replacement bottom casing for Asus VivoBook 15. 3-month warranty against defects. Order via WhatsApp, delivery countrywide."
+    "title": "Asus VivoBook 15 Casing | Price in Kenya | Zanatechnologies",
+    "description": "Replacement bottom casing for Asus VivoBook 15. Order via WhatsApp, delivery countrywide."
   },
   "og": {
-    "title": "Asus VivoBook 15 Casing | [Store Name]",
+    "title": "Asus VivoBook 15 Casing | Zanatechnologies",
     "description": "Replacement bottom casing for Asus VivoBook 15. Order via WhatsApp, delivery countrywide."
   },
   "category": {
@@ -15,9 +15,14 @@
   "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
   "faq_heading": "Questions About This Casing",
   "faqs": [
-    { "question": "Does this include the screws?", "answer": "Yes — the casing ships with the matching screw set. Rubber feet are pre-fitted." },
-    { "question": "Will I need a technician to fit it?", "answer": "Fitting means transferring internals from your old bottom cover, so we recommend a technician unless you're comfortable opening a laptop. We can refer one on WhatsApp." },
-    { "question": "What warranty comes with a casing?", "answer": "This casing carries a 3-month warranty against manufacturing defects such as cracking or misaligned mounting points." }
+    {
+      "question": "Does this include the screws?",
+      "answer": "Yes — the casing ships with the matching screw set. Rubber feet are pre-fitted."
+    },
+    {
+      "question": "Will I need a technician to fit it?",
+      "answer": "Fitting means transferring internals from your old bottom cover, so we recommend a technician unless you're comfortable opening a laptop. We can refer one on WhatsApp."
+    }
   ],
   "product": {
     "url": "/shop/casings/asus-vivobook-15-casing/",
@@ -35,30 +40,59 @@
     "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%20VivoBook%2015%20Casing%20(SKU%3A%20ASUS-CS-VB15)%20%E2%80%94%20KES%202%2C900",
     "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20Asus%20VivoBook%2015%20Casing%20fits%20my%20laptop%3F",
     "images": [
-      { "src": "assets/images/products/asus-casing-vivobook15.jpg", "alt": "Asus VivoBook 15 bottom casing, outside view" },
-      { "src": "assets/images/products/asus-casing-vivobook15-2.jpg", "alt": "Asus VivoBook 15 bottom casing, mounting points view" }
+      {
+        "src": "assets/images/products/asus-casing-vivobook15.jpg",
+        "alt": "Asus VivoBook 15 bottom casing, outside view"
+      },
+      {
+        "src": "assets/images/products/asus-casing-vivobook15-2.jpg",
+        "alt": "Asus VivoBook 15 bottom casing, mounting points view"
+      }
     ],
     "badges": [
-      { "class": "badge--in-stock", "label": "In Stock — 4 units" },
-      { "class": "badge--new-oem", "label": "New OEM-Equivalent" },
-      { "class": "badge--warranty", "label": "3-Month Warranty" }
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock — 4 units"
+      },
+      {
+        "class": "badge--new-oem",
+        "label": "New OEM-Equivalent"
+      }
     ],
     "specs": [
-      { "label": "Material", "value": "ABS plastic" },
-      { "label": "Color", "value": "Transparent Silver" },
-      { "label": "Includes", "value": "Bottom casing, screw set, rubber feet" },
-      { "label": "Condition", "value": "New" },
-      { "label": "Warranty", "value": "3 months (manufacturing defects)" }
+      {
+        "label": "Material",
+        "value": "ABS plastic"
+      },
+      {
+        "label": "Color",
+        "value": "Transparent Silver"
+      },
+      {
+        "label": "Includes",
+        "value": "Bottom casing, screw set, rubber feet"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      }
     ],
-    "compatible_models": ["Asus VivoBook 15 X515", "Asus VivoBook 15 X512", "Asus VivoBook 15 F515"],
+    "compatible_models": [
+      "Asus VivoBook 15 X515",
+      "Asus VivoBook 15 X512",
+      "Asus VivoBook 15 F515"
+    ],
     "related": [
       {
         "url": "/shop/laptop-batteries/asus-vivobook-15/",
         "image": "assets/images/products/asus-battery-vivobook15.jpg",
         "alt": "Replacement battery for Asus VivoBook 15",
         "name": "Asus VivoBook 15 Battery",
-        "badge_class": "badge--in-stock", "badge_label": "In Stock",
-        "tags": ["VivoBook 15"],
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "tags": [
+          "VivoBook 15"
+        ],
         "price": "4,100",
         "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%20VivoBook%2015%20Battery%20%E2%80%94%20KES%204%2C100"
       },
@@ -67,8 +101,11 @@
         "image": "assets/images/products/asus-keyboard-vivobook15.jpg",
         "alt": "Asus VivoBook 15 replacement keyboard",
         "name": "Asus VivoBook 15 Keyboard",
-        "badge_class": "badge--in-stock", "badge_label": "In Stock",
-        "tags": ["VivoBook 15"],
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "tags": [
+          "VivoBook 15"
+        ],
         "price": "3,200",
         "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%20VivoBook%2015%20Keyboard%20%E2%80%94%20KES%203%2C200"
       },
@@ -77,8 +114,11 @@
         "image": "assets/images/products/asus-charger-65w.jpg",
         "alt": "Asus 65W charger and power adapter",
         "name": "Asus 65W Charger &amp; Adapter",
-        "badge_class": "badge--in-stock", "badge_label": "In Stock",
-        "tags": ["Universal Asus"],
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "tags": [
+          "Universal Asus"
+        ],
         "price": "2,500",
         "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%2065W%20Charger%20%26%20Adapter%20%E2%80%94%20KES%202%2C500"
       }

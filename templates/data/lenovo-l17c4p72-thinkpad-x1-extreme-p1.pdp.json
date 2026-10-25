@@ -1,11 +1,11 @@
 {
   "meta": {
     "title": "Lenovo L17C4P72 Battery — ThinkPad X1 Extreme, P1 | Zanatechnologies",
-    "description": "Genuine original Lenovo L17C4P72 battery, 15.36V, for ThinkPad X1 Extreme 1st/2nd Gen and ThinkPad P1 1st/2nd Gen. In-stock pricing in KES, warranty included, order on WhatsApp."
+    "description": "Genuine original Lenovo L17C4P72 battery, 15.36V, for ThinkPad X1 Extreme 1st/2nd Gen and ThinkPad P1 1st/2nd Gen. In-stock pricing in KES, order on WhatsApp."
   },
   "og": {
     "title": "Lenovo L17C4P72 Battery | Zanatechnologies",
-    "description": "Genuine Lenovo L17C4P72 replacement battery for ThinkPad X1 Extreme 1st/2nd Gen and ThinkPad P1 1st/2nd Gen. In stock, warranty included, order on WhatsApp."
+    "description": "Genuine Lenovo L17C4P72 replacement battery for ThinkPad X1 Extreme 1st/2nd Gen and ThinkPad P1 1st/2nd Gen. In stock, order on WhatsApp."
   },
   "category": {
     "slug": "laptop-batteries",
@@ -71,10 +71,6 @@
       {
         "label": "Condition",
         "value": "New (Original)"
-      },
-      {
-        "label": "Warranty",
-        "value": "6 Months"
       }
     ],
     "related": []
@@ -89,10 +85,6 @@
     {
       "question": "Is this an original or compatible battery?",
       "answer": "We stock genuine OEM batteries — this is a genuine Lenovo L17C4P72 unit."
-    },
-    {
-      "question": "What warranty comes with this battery?",
-      "answer": "This battery carries a 6-month warranty."
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
   "meta": {
     "title": "HP 250 G3 / 15-E Keyboard — Non-Backlit, US Layout | Zanatechnologies",
-    "description": "Replacement non-backlit keyboard for HP 250 G3, 255 G3, 256 G3 and Pavilion 15-E. US layout. In-stock pricing in KES, warranty included, order on WhatsApp."
+    "description": "Replacement non-backlit keyboard for HP 250 G3, 255 G3, 256 G3 and Pavilion 15-E. US layout. In-stock pricing in KES, order on WhatsApp."
   },
   "og": {
     "title": "HP 250 G3 / 15-E Keyboard (Non-Backlit) | Zanatechnologies",
-    "description": "Non-backlit replacement keyboard for HP 250 G3 / 15-E. In stock, warranty included, order on WhatsApp."
+    "description": "Non-backlit replacement keyboard for HP 250 G3 / 15-E. In stock, order on WhatsApp."
   },
   "category": {
     "slug": "keyboards",
@@ -85,10 +85,6 @@
       {
         "label": "Condition",
         "value": "New"
-      },
-      {
-        "label": "Warranty",
-        "value": "3 Months"
       }
     ],
     "related": []
@@ -107,10 +103,6 @@
     {
       "question": "Is this a US or UK layout?",
       "answer": "This is the US English layout, and it won't match a UK layout laptop. If you're unsure which layout you have, send us a photo of your keyboard on WhatsApp."
-    },
-    {
-      "question": "What warranty comes with this keyboard?",
-      "answer": "This keyboard carries a 3-month warranty."
     }
   ]
 }
