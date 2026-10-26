@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "title": "Terms of Service | Zanatechnologies",
+    "description": "The terms for ordering laptop parts and accessories from Zanatechnologies: prices, orders, delivery and fit confirmation."
+  },
+  "og": {
+    "title": "Terms of Service | Zanatechnologies",
+    "description": "The terms for ordering laptop parts and accessories from Zanatechnologies: prices, orders, delivery and fit confirmation."
+  },
+  "page": {
+    "url": "/terms.html",
+    "heading": "Terms of Service",
+    "updated": "Last updated: October 2026",
+    "intro": "These terms apply when you order laptop parts or accessories from Zanatechnologies or use this website. By placing an order, you agree to them."
+  },
+  "sections": [
+    {
+      "heading": "Ordering",
+      "paragraphs": [
+        "Orders are placed by WhatsApp, phone or email. An order is confirmed when we reply to say the item is available and agree the price, delivery location and payment with you."
+      ]
+    },
+    {
+      "heading": "Prices and stock",
+      "paragraphs": [
+        "Prices on the website are in Kenya shillings (KES). Stock moves quickly, so we confirm the price and availability with you when you order. We may correct a price that was listed by mistake before we confirm your order."
+      ]
+    },
+    {
+      "heading": "Confirming fit",
+      "paragraphs": [
+        "Laptop parts are specific to a model. Please send us your laptop model, or a photo of the label under the laptop or on the old part, and we will confirm fit before you pay. Compatibility lists on the website are a guide, so please check with us if you are not sure. Giving us the correct model and part details is your responsibility."
+      ]
+    },
+    {
+      "heading": "Payment",
+      "paragraphs": [
+        "We agree the payment method with you when you order. We never ask for your M-Pesa PIN or card PIN."
+      ]
+    },
+    {
+      "heading": "Delivery",
+      "paragraphs": [
+        "We deliver the same day in Nairobi and in one to two days to other parts of Kenya, where the item is in stock. Delivery times depend on your location and the courier, so we will confirm the time and any delivery charge with you at the time of ordering."
+      ]
+    },
+    {
+      "heading": "Product information",
+      "paragraphs": [
+        "We try to describe and photograph every product accurately. Photos are for guidance and an item may differ slightly in appearance from the picture."
+      ]
+    },
+    {
+      "heading": "Using this website",
+      "paragraphs": [
+        "The content on this website belongs to Zanatechnologies. Please do not copy or reuse it without our permission. We may update the website, its prices and these terms from time to time."
+      ]
+    },
+    {
+      "heading": "Contact",
+      "paragraphs": [
+        "Questions about these terms or about an order: call or WhatsApp +254 712 396 869, or email info@zanatechnologies.co.ke."
+      ]
+    }
+  ]
+}

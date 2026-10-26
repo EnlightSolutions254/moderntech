@@ -427,6 +427,13 @@ function generateLaptopRepair(dataFile) {
   renderSimplePage({ dataFile, templateName: 'laptop-repair.template.html', outUrl: '/laptop-repair/', label: 'laptop-repair' });
 }
 
+function generateLegal() {
+  [['privacy', '/privacy.html'], ['terms', '/terms.html']].forEach(([name, url]) => {
+    const f = path.join(DATA_DIR, name + '.json');
+    if (fs.existsSync(f)) renderSimplePage({ dataFile: f, templateName: 'legal.template.html', outUrl: url, label: name });
+  });
+}
+
 function generateFaq(dataFile) {
   const shared = loadJson(path.join(DATA_DIR, 'shared.json'));
   const page = loadJson(dataFile);
@@ -498,6 +505,8 @@ function generateSearchIndex() {
 
 function main() {
   const [, , cmd, arg] = process.argv;
+  // start every full build from an empty out/ folder, so deleted products cannot come back from an old build
+  if (cmd === 'all' || cmd === 'publish') fs.rmSync(OUT_DIR, { recursive: true, force: true });
 
   if (cmd === 'category' && arg) {
     generateCategory(path.resolve(arg));
@@ -524,6 +533,7 @@ function main() {
   } else if (cmd === 'all') {
     if (fs.existsSync(path.join(DATA_DIR, 'home.json'))) generateHome(path.join(DATA_DIR, 'home.json'));
     if (fs.existsSync(path.join(DATA_DIR, 'about.json'))) generateAbout(path.join(DATA_DIR, 'about.json'));
+    generateLegal();
     if (fs.existsSync(path.join(DATA_DIR, 'faq.json'))) generateFaq(path.join(DATA_DIR, 'faq.json'));
     if (fs.existsSync(path.join(DATA_DIR, 'technicians.json'))) generateTechnicians(path.join(DATA_DIR, 'technicians.json'));
     if (fs.existsSync(path.join(DATA_DIR, 'contact.json'))) generateContact(path.join(DATA_DIR, 'contact.json'));
@@ -547,6 +557,7 @@ function main() {
   } else if (cmd === 'publish') {
     if (fs.existsSync(path.join(DATA_DIR, 'home.json'))) generateHome(path.join(DATA_DIR, 'home.json'));
     if (fs.existsSync(path.join(DATA_DIR, 'about.json'))) generateAbout(path.join(DATA_DIR, 'about.json'));
+    generateLegal();
     if (fs.existsSync(path.join(DATA_DIR, 'faq.json'))) generateFaq(path.join(DATA_DIR, 'faq.json'));
     if (fs.existsSync(path.join(DATA_DIR, 'technicians.json'))) generateTechnicians(path.join(DATA_DIR, 'technicians.json'));
     if (fs.existsSync(path.join(DATA_DIR, 'contact.json'))) generateContact(path.join(DATA_DIR, 'contact.json'));

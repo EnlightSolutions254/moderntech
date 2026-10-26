@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "title": "Privacy Policy | Zanatechnologies",
+    "description": "How Zanatechnologies collects, uses and protects the personal details you share when you order laptop parts or ask for help."
+  },
+  "og": {
+    "title": "Privacy Policy | Zanatechnologies",
+    "description": "How Zanatechnologies collects, uses and protects the personal details you share when you order laptop parts or ask for help."
+  },
+  "page": {
+    "url": "/privacy.html",
+    "heading": "Privacy Policy",
+    "updated": "Last updated: October 2026",
+    "intro": "This page explains what personal information Zanatechnologies collects when you contact us or order laptop parts, why we collect it, and the choices you have. We handle personal data in line with the Kenya Data Protection Act, 2019."
+  },
+  "sections": [
+    {
+      "heading": "Who we are",
+      "paragraphs": [
+        "Zanatechnologies sells replacement laptop parts and accessories in Nairobi and delivers across Kenya. You can reach us on +254 712 396 869 (call or WhatsApp) or at info@zanatechnologies.co.ke."
+      ]
+    },
+    {
+      "heading": "What we collect",
+      "paragraphs": [
+        "This website does not have accounts, checkout forms or payment pages, so it does not collect your personal details itself. We receive information only when you choose to contact us by WhatsApp, phone or email. That can include your name, phone number, delivery location, the laptop model or part you are asking about, and the messages and photos you send us.",
+        "If you use the search box, your search words are used in your browser to find products. They are not sent to us."
+      ]
+    },
+    {
+      "heading": "How we use it",
+      "paragraphs": [
+        "We use your details to reply to your enquiry, confirm that a part fits your laptop, take and deliver your order, and handle any follow-up about that order. We do not sell your personal information and we do not use it for unrelated marketing."
+      ]
+    },
+    {
+      "heading": "Who we share it with",
+      "paragraphs": [
+        "We share your name, phone number and delivery location with couriers or riders only so they can deliver your order. Messages you send through WhatsApp are also handled by WhatsApp under its own privacy terms. This website is hosted by GitHub Pages, which may keep standard technical logs such as IP addresses when pages are loaded."
+      ]
+    },
+    {
+      "heading": "Payments",
+      "paragraphs": [
+        "We will never ask you for your M-Pesa PIN or card PIN. Please do not send them to us."
+      ]
+    },
+    {
+      "heading": "How long we keep it",
+      "paragraphs": [
+        "We keep order and enquiry records for as long as we need them to serve you, follow up on an order and meet our record-keeping obligations. After that we delete them or remove your personal details."
+      ]
+    },
+    {
+      "heading": "Your rights",
+      "paragraphs": [
+        "You can ask us what personal information we hold about you, ask us to correct it, or ask us to delete it. Message us on WhatsApp or write to info@zanatechnologies.co.ke and we will respond. You also have the right to complain to the Office of the Data Protection Commissioner in Kenya."
+      ]
+    },
+    {
+      "heading": "Changes to this policy",
+      "paragraphs": [
+        "If we change how we handle personal information, we will update this page and the date at the top."
+      ]
+    },
+    {
+      "heading": "Questions",
+      "paragraphs": [
+        "For anything about this policy, call or WhatsApp +254 712 396 869, or email info@zanatechnologies.co.ke."
+      ]
+    }
+  ]
+}
