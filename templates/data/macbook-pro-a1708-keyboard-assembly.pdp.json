@@ -65,21 +65,7 @@
         "value": "New"
       }
     ],
-    "related": [
-      {
-        "url": "/shop/keyboards/macbook-pro-2019-13-keyboard/",
-        "image": "assets/images/products/macbook-keyboard-pro13-2019.jpg",
-        "alt": "Replacement keyboard assembly for MacBook Pro 2019 13 inch",
-        "name": "MacBook Pro 2019 13\" Keyboard Assembly",
-        "tags": [
-          "MacBook Pro 2019 13\""
-        ],
-        "price": "9,500",
-        "badge_class": "badge--in-stock",
-        "badge_label": "In Stock",
-        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20Pro%202019%2013%22%20Keyboard%20Assembly%20%E2%80%94%20KES%209%2C500"
-      }
-    ]
+    "related": []
   },
   "delivery_note": "Nairobi same-day, countrywide 1-2 days",
   "faq_heading": "Keyboard Questions",

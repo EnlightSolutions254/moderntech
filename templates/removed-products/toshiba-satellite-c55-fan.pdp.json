@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "title": "Toshiba Satellite C55 Cooling Fan | Price in Kenya | Zanatechnologies",
+    "description": "Replacement CPU cooling fan for Toshiba Satellite C55. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Toshiba Satellite C55 Cooling Fan | Zanatechnologies",
+    "description": "Replacement CPU cooling fan for Toshiba Satellite C55. Order via WhatsApp, delivery countrywide."
+  },
+  "category": {
+    "slug": "cooling-fans",
+    "url": "/shop/cooling-fans/",
+    "name": "Cooling Fans"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "faq_heading": "Questions About This Fan",
+  "faqs": [
+    {
+      "question": "Will this fan fit my laptop?",
+      "answer": "It's built for the Toshiba Satellite C55 heatsink assembly — send us your exact model on WhatsApp if you're unsure."
+    },
+    {
+      "question": "Is this a new or refurbished fan?",
+      "answer": "New, not pulled from a used unit — tested for spin-up and noise before dispatch."
+    }
+  ],
+  "product": {
+    "url": "/shop/cooling-fans/toshiba-satellite-c55-fan/",
+    "sku": "TOSH-FN-C55",
+    "name": "Toshiba Satellite C55 Cooling Fan",
+    "full_name": "Replacement CPU Cooling Fan for Toshiba Satellite C55",
+    "brand_slug": "toshiba",
+    "brand_name": "Toshiba",
+    "price": "2,200",
+    "price_raw": "2200",
+    "schema_availability": "https://schema.org/InStock",
+    "description": "Replacement CPU cooling fan for the Toshiba Satellite C55. New, tested for spin-up, noise and airflow before dispatch.",
+    "type_label": "cooling fan",
+    "type_label_cap": "Cooling Fan",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Toshiba%20Satellite%20C55%20Cooling%20Fan%20(SKU%3A%20TOSH-FN-C55)%20%E2%80%94%20KES%202%2C200",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20Toshiba%20Satellite%20C55%20Cooling%20Fan%20fits%20my%20laptop%3F",
+    "images": [
+      {
+        "src": "assets/images/products/toshiba-fan-c55-1.jpg",
+        "alt": "Toshiba Satellite C55 cooling fan, top view"
+      },
+      {
+        "src": "assets/images/products/toshiba-fan-c55-2.jpg",
+        "alt": "Toshiba Satellite C55 cooling fan, connector view"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock — 3 units"
+      },
+      {
+        "class": "badge--new-oem",
+        "label": "New OEM-Equivalent"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Fan Type",
+        "value": "CPU cooling fan, single-fan"
+      },
+      {
+        "label": "Connector",
+        "value": "3-pin"
+      },
+      {
+        "label": "Bearing Type",
+        "value": "Sleeve bearing"
+      },
+      {
+        "label": "Condition",
+        "value": "New"
+      }
+    ],
+    "compatible_models": [
+      "Toshiba Satellite C55-B",
+      "Toshiba Satellite C55-C",
+      "Toshiba Satellite C55D"
+    ],
+    "related": [
+      {
+        "url": "/shop/chargers/toshiba-65w-adapter/",
+        "image": "assets/images/products/toshiba-charger-65w.webp",
+        "alt": "Toshiba 65W charger and power adapter",
+        "name": "Toshiba 65W Charger &amp; Adapter",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "tags": [
+          "Universal Toshiba"
+        ],
+        "price": "2,400",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Toshiba%2065W%20Charger%20%26%20Adapter%20%E2%80%94%20KES%202%2C400"
+      }
+    ]
+  }
+}

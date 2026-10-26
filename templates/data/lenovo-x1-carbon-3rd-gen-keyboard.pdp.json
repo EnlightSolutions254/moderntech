@@ -69,36 +69,7 @@
         "value": "New"
       }
     ],
-    "related": [
-      {
-        "url": "/shop/keyboards/lenovo-thinkpad-t480-keyboard/",
-        "image": "assets/images/products/lenovo-keyboard-t480.jpg",
-        "alt": "Replacement keyboard for Lenovo ThinkPad T480",
-        "name": "Lenovo ThinkPad T480 Keyboard",
-        "tags": [
-          "Backlit",
-          "ThinkPad T480"
-        ],
-        "price": "3,800",
-        "badge_class": "badge--low-stock",
-        "badge_label": "Only 2 left",
-        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20T480%20Keyboard%20%E2%80%94%20KES%203%2C800"
-      },
-      {
-        "url": "/shop/keyboards/hp-840g3-keyboard/",
-        "image": "assets/images/products/hp-keyboard-840g3.jpg",
-        "alt": "Replacement keyboard for HP EliteBook 840 G3",
-        "name": "HP EliteBook 840 G3 Keyboard",
-        "tags": [
-          "840 G3",
-          "840 G4"
-        ],
-        "price": "3,500",
-        "badge_class": "badge--in-stock",
-        "badge_label": "In Stock",
-        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20EliteBook%20840%20G3%20Keyboard%20%E2%80%94%20KES%203%2C500"
-      }
-    ]
+    "related": []
   },
   "delivery_note": "Nairobi same-day, countrywide 1-2 days",
   "faq_heading": "Keyboard Questions",

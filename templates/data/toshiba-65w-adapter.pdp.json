@@ -41,12 +41,8 @@
     "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20Toshiba%2065W%20Charger%20fits%20my%20laptop%3F",
     "images": [
       {
-        "src": "assets/images/products/toshiba-charger-65w-1.jpg",
+        "src": "assets/images/products/toshiba-charger-65w-1.webp",
         "alt": "Toshiba 65W charger and power adapter, plug view"
-      },
-      {
-        "src": "assets/images/products/toshiba-charger-65w-2.jpg",
-        "alt": "Toshiba 65W charger and power adapter, connector tip view"
       }
     ],
     "badges": [
@@ -86,46 +82,6 @@
       "Toshiba Satellite C55-C",
       "Toshiba Satellite C55D"
     ],
-    "related": [
-      {
-        "url": "/shop/laptop-batteries/toshiba-satellite-c55/",
-        "image": "assets/images/products/toshiba-battery-c55.jpg",
-        "alt": "Replacement battery for Toshiba Satellite C55",
-        "name": "Toshiba Satellite C55 Battery",
-        "badge_class": "badge--out-of-stock",
-        "badge_label": "Out of Stock",
-        "tags": [
-          "Satellite C55"
-        ],
-        "price": "3,600",
-        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20ask%20about%20restock%3A%20Toshiba%20Satellite%20C55%20Battery"
-      },
-      {
-        "url": "/shop/keyboards/toshiba-satellite-c55-keyboard/",
-        "image": "assets/images/products/toshiba-keyboard-c55.jpg",
-        "alt": "Toshiba Satellite C55 replacement keyboard",
-        "name": "Toshiba Satellite C55 Keyboard",
-        "badge_class": "badge--in-stock",
-        "badge_label": "In Stock",
-        "tags": [
-          "Satellite C55"
-        ],
-        "price": "2,800",
-        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Toshiba%20Satellite%20C55%20Keyboard%20%E2%80%94%20KES%202%2C800"
-      },
-      {
-        "url": "/shop/cooling-fans/toshiba-satellite-c55-fan/",
-        "image": "assets/images/products/toshiba-fan-c55.jpg",
-        "alt": "Toshiba Satellite C55 replacement cooling fan",
-        "name": "Toshiba Satellite C55 Cooling Fan",
-        "badge_class": "badge--in-stock",
-        "badge_label": "In Stock",
-        "tags": [
-          "Satellite C55"
-        ],
-        "price": "2,200",
-        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Toshiba%20Satellite%20C55%20Cooling%20Fan%20%E2%80%94%20KES%202%2C200"
-      }
-    ]
+    "related": []
   }
 }

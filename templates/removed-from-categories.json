@@ -1,0 +1,271 @@
+[
+  {
+    "category": "accessories",
+    "url": "/shop/accessories/starlink-standard-kit-gen-3/",
+    "brand_slug": "starlink",
+    "stock": "in_stock",
+    "badge_class": "badge--in-stock",
+    "badge_label": "In Stock",
+    "image": "assets/images/products/starlink-standard-kit-gen-3.webp",
+    "alt": "Starlink Standard Kit Gen 3 dish and router",
+    "name": "Starlink Standard Kit (Gen 3)",
+    "tags": [
+      "Gen 3",
+      "Standard Kit",
+      "Satellite Internet"
+    ],
+    "price": "52,000",
+    "cta_class": "btn--whatsapp",
+    "cta_label": "Order on WhatsApp",
+    "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Starlink%20Standard%20Kit%20%28Gen%203%29%20%E2%80%94%20KES%2052%2C000"
+  },
+  {
+    "category": "chargers",
+    "url": "/shop/chargers/asus-90w-k-n-vivobook-pro-series/",
+    "brand_slug": "asus",
+    "stock": "in_stock",
+    "badge_class": "badge--in-stock",
+    "badge_label": "In Stock",
+    "image": "assets/images/products/asus-charger-90w.webp",
+    "alt": "Asus 90W Charger — main view",
+    "name": "Asus 90W Charger",
+    "tags": [
+      "K/N Series",
+      "VivoBook Pro 15/17"
+    ],
+    "price": "4,500",
+    "cta_class": "btn--whatsapp",
+    "cta_label": "Order on WhatsApp",
+    "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%2090W%20Charger%20%E2%80%94%20KES%204%2C500"
+  },
+  {
+    "category": "chargers",
+    "url": "/shop/chargers/asus-45w-usb-c-zenbook-expertbook-chromebook/",
+    "brand_slug": "asus",
+    "stock": "in_stock",
+    "badge_class": "badge--in-stock",
+    "badge_label": "In Stock",
+    "image": "assets/images/products/asus-charger-45w-typec.webp",
+    "alt": "Asus 45W USB-C Charger — main view",
+    "name": "Asus 45W USB-C Charger",
+    "tags": [
+      "ZenBook 13/14",
+      "ExpertBook / Chromebook Flip"
+    ],
+    "price": "2,500",
+    "cta_class": "btn--whatsapp",
+    "cta_label": "Order on WhatsApp",
+    "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%2045W%20USB-C%20Charger%20%E2%80%94%20KES%202%2C500"
+  },
+  {
+    "category": "chargers",
+    "url": "/shop/chargers/hp-130w-blue-pin-omen-pavilion-zbook-15-g3/",
+    "brand_slug": "hp",
+    "stock": "in_stock",
+    "badge_class": "badge--in-stock",
+    "badge_label": "In Stock",
+    "image": "assets/images/products/hp-charger-130w-bluepin.webp",
+    "alt": "HP 130W Blue Pin Charger — main view",
+    "name": "HP 130W Blue Pin Charger",
+    "tags": [
+      "Omen 15-ax Series",
+      "Pavilion Gaming"
+    ],
+    "price": "5,500",
+    "cta_class": "btn--whatsapp",
+    "cta_label": "Order on WhatsApp",
+    "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20130W%20Blue%20Pin%20Charger%20%E2%80%94%20KES%205%2C500"
+  },
+  {
+    "category": "keyboards",
+    "brand_slug": "hp",
+    "stock": "in_stock",
+    "badge_class": "badge--in-stock",
+    "badge_label": "In Stock",
+    "url": "/shop/keyboards/hp-pavilion-sleekbook-touchsmart-15-b-keyboard-non-backlit/",
+    "image": "assets/images/products/hp-keyboard-pavilion-sleekbook-touchsmart-15b-nonbacklit.webp",
+    "alt": "Replacement non-backlit keyboard for HP Pavilion Sleekbook and TouchSmart 15-B",
+    "name": "HP Pavilion Sleekbook/TouchSmart 15-B Keyboard (Non-Backlit)",
+    "tags": [
+      "Sleekbook/TouchSmart 15-B"
+    ],
+    "price": "2,000",
+    "cta_label": "Order on WhatsApp",
+    "cta_class": "btn--whatsapp",
+    "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20Pavilion%20Sleekbook%2FTouchSmart%2015-B%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C000"
+  },
+  {
+    "category": "keyboards",
+    "brand_slug": "acer",
+    "stock": "in_stock",
+    "badge_class": "badge--in-stock",
+    "badge_label": "In Stock",
+    "url": "/shop/keyboards/acer-aspire-e5-473-series-keyboard-non-backlit/",
+    "image": "assets/images/products/acer-keyboard-aspire-e5473-series-nonbacklit.webp",
+    "alt": "Replacement non-backlit keyboard for Acer Aspire E5-473 series",
+    "name": "Acer Aspire E5-473 Series Keyboard (Non-Backlit)",
+    "tags": [
+      "Aspire E5-473 Series"
+    ],
+    "price": "2,000",
+    "cta_label": "Order on WhatsApp",
+    "cta_class": "btn--whatsapp",
+    "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Acer%20Aspire%20E5-473%20Series%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C000"
+  },
+  {
+    "category": "keyboards",
+    "brand_slug": "asus",
+    "stock": "in_stock",
+    "badge_class": "badge--in-stock",
+    "badge_label": "In Stock",
+    "url": "/shop/keyboards/asus-k54c-k54l-k54ly-x54c-x54l-x54ly-a54c-a54l-a54ly-keyboard-non-backlit/",
+    "image": "assets/images/products/asus-keyboard-k54c-x54c-a54c-series-nonbacklit.webp",
+    "alt": "Replacement non-backlit keyboard for Asus K54/X54/A54 series",
+    "name": "Asus K54C/K54L/K54LY/X54C/X54L/X54LY/A54C/A54L/A54LY Keyboard (Non-Backlit)",
+    "tags": [
+      "K54/X54/A54 Series"
+    ],
+    "price": "2,000",
+    "cta_label": "Order on WhatsApp",
+    "cta_class": "btn--whatsapp",
+    "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%20K54C%2FK54L%2FK54LY%2FX54C%2FX54L%2FX54LY%2FA54C%2FA54L%2FA54LY%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C000"
+  },
+  {
+    "category": "keyboards",
+    "brand_slug": "dell",
+    "stock": "in_stock",
+    "badge_class": "badge--in-stock",
+    "badge_label": "In Stock",
+    "url": "/shop/keyboards/dell-inspiron-13-5368-5378-5578-5370-5379-5369-5579-7370-7373-7375-7368-7378-keyboard-backlit/",
+    "image": "assets/images/products/dell-keyboard-inspiron-13-5368-5378-5578-5370-5379-5369-5579-7370-7373-7375-7368-7378-backlit.webp",
+    "alt": "Replacement backlit keyboard for Dell Inspiron 13 5368/5378/5578/5370/5379/5369/5579/7370/7373/7375/7368/7378",
+    "name": "Dell Inspiron 13 5368/5378/5578/5370/5379/5369/5579/7370/7373/7375/7368/7378 Keyboard (Backlit)",
+    "tags": [
+      "Inspiron 13 Series",
+      "Backlit"
+    ],
+    "price": "3,400",
+    "cta_label": "Order on WhatsApp",
+    "cta_class": "btn--whatsapp",
+    "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Inspiron%2013%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%203%2C400"
+  },
+  {
+    "category": "keyboards",
+    "brand_slug": "dell",
+    "stock": "in_stock",
+    "badge_class": "badge--in-stock",
+    "badge_label": "In Stock",
+    "url": "/shop/keyboards/dell-inspiron-13-5368-5378-5578-5370-5379-5369-5579-7370-7373-7375-7368-7378-keyboard-non-backlit/",
+    "image": "assets/images/products/dell-keyboard-inspiron-13-5368-5378-5578-5370-5379-5369-5579-7370-7373-7375-7368-7378-nonbacklit.webp",
+    "alt": "Replacement non-backlit keyboard for Dell Inspiron 13 5368/5378/5578/5370/5379/5369/5579/7370/7373/7375/7368/7378",
+    "name": "Dell Inspiron 13 5368/5378/5578/5370/5379/5369/5579/7370/7373/7375/7368/7378 Keyboard (Non-Backlit)",
+    "tags": [
+      "Inspiron 13 Series"
+    ],
+    "price": "2,900",
+    "cta_label": "Order on WhatsApp",
+    "cta_class": "btn--whatsapp",
+    "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Inspiron%2013%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C900"
+  },
+  {
+    "category": "keyboards",
+    "brand_slug": "hp",
+    "stock": "in_stock",
+    "badge_class": "badge--in-stock",
+    "badge_label": "In Stock",
+    "url": "/shop/keyboards/hp-elite-dragonfly-g2-keyboard-japanese-backlit/",
+    "image": "assets/images/products/hp-keyboard-elite-dragonfly-g2-japanese-backlit.webp",
+    "alt": "Replacement backlit Japanese-layout keyboard for HP Elite Dragonfly G2",
+    "name": "HP Elite Dragonfly G2 Keyboard (Backlit, Japanese)",
+    "tags": [
+      "Elite Dragonfly G2",
+      "Japanese Layout",
+      "Backlit"
+    ],
+    "price": "3,500",
+    "cta_label": "Order on WhatsApp",
+    "cta_class": "btn--whatsapp",
+    "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20Elite%20Dragonfly%20G2%20Keyboard%20%28Backlit%2C%20Japanese%29%20%E2%80%94%20KES%203%2C500"
+  },
+  {
+    "category": "keyboards",
+    "brand_slug": "lenovo",
+    "stock": "in_stock",
+    "badge_class": "badge--in-stock",
+    "badge_label": "In Stock",
+    "url": "/shop/keyboards/lenovo-thinkpad-t14s-gen-2-keyboard-backlit/",
+    "image": "assets/images/products/lenovo-keyboard-thinkpad-t14s-gen2-backlit-us.webp",
+    "alt": "Replacement backlit US-layout keyboard for Lenovo ThinkPad T14s Gen 2",
+    "name": "Lenovo ThinkPad T14s Gen 2 Keyboard (Backlit)",
+    "tags": [
+      "ThinkPad T14s Gen 2",
+      "US/UK Layout",
+      "With Pointer",
+      "Backlit"
+    ],
+    "price": "4,500",
+    "cta_label": "Order on WhatsApp",
+    "cta_class": "btn--whatsapp",
+    "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20ThinkPad%20T14s%20Gen%202%20Keyboard%20%28Backlit%29%20%E2%80%94%20KES%204%2C500%20%E2%80%94%20layout%20%28US%20or%20UK%29%3A%20"
+  },
+  {
+    "category": "laptop-batteries",
+    "name": "Lenovo 01AV478 Battery",
+    "url": "/shop/laptop-batteries/lenovo-01av478-thinkpad-t480s/",
+    "image": "assets/images/products/lenovo-battery-01av478.webp",
+    "alt": "Replacement battery — Lenovo 01AV478 Battery",
+    "brand_slug": "lenovo",
+    "stock": "in_stock",
+    "badge_class": "badge--in-stock",
+    "badge_label": "In Stock",
+    "tags": [
+      "ThinkPad T480s (20L7)",
+      "ThinkPad T480s (20L8)"
+    ],
+    "price": "5,500",
+    "cta_class": "btn--whatsapp",
+    "cta_label": "Order on WhatsApp",
+    "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%2001AV478%20Battery%20%E2%80%94%20KES%205%2C500",
+    "extra": false
+  },
+  {
+    "category": "laptop-batteries",
+    "name": "Microsoft Surface Pro 8 DYNC01 Battery",
+    "url": "/shop/laptop-batteries/microsoft-surface-pro-8-dync01-battery/",
+    "image": "assets/images/products/microsoft-battery-dync01-surface-pro-8.webp",
+    "alt": "Replacement battery — Microsoft Surface Pro 8 DYNC01 Battery",
+    "brand_slug": "microsoft",
+    "stock": "in_stock",
+    "badge_class": "badge--in-stock",
+    "badge_label": "In Stock",
+    "tags": [
+      "Surface Pro 8 (1982)",
+      "Surface Pro 8 (1983)"
+    ],
+    "price": "6,500",
+    "cta_class": "btn--whatsapp",
+    "cta_label": "Order on WhatsApp",
+    "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Microsoft%20Surface%20Pro%208%20DYNC01%20Battery%20%E2%80%94%20KES%206%2C500",
+    "extra": false
+  },
+  {
+    "category": "screens",
+    "brand_slug": "macbook",
+    "stock": "in_stock",
+    "badge_class": "badge--in-stock",
+    "badge_label": "In Stock",
+    "url": "/shop/screens/macbook-air-13-a2337-screen-assembly/",
+    "image": "assets/images/products/macbook-air-13-a2337-screen-assembly.webp",
+    "alt": "MacBook Air 13-inch A2337 full display assembly, front view",
+    "name": "MacBook Air 13-inch (A2337) Screen Assembly",
+    "tags": [
+      "MacBook Air A2337",
+      "Space Gray / Silver / Gold",
+      "Full Assembly"
+    ],
+    "price": "35,000",
+    "cta_label": "Order on WhatsApp",
+    "cta_class": "btn--whatsapp",
+    "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20Air%2013-inch%20%28A2337%29%20Screen%20Assembly%20%E2%80%94%20KES%2035%2C000"
+  }
+]

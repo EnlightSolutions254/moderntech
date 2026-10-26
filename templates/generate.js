@@ -476,6 +476,7 @@ function generateSearchIndex() {
     }));
   // Also index products that appear on category pages, so search finds them even without a product page
   const byUrl = new Map(items.map(i => [i.u, i]));
+  const pageUrls = new Set(loadAllPdpPages().filter(p => p.product).map(p => p.product.url));
   fs.readdirSync(DATA_DIR).filter(f => f.endsWith('.category.json')).forEach(f => {
     const cat = loadJson(path.join(DATA_DIR, f));
     const cname = dec((cat.category && cat.category.name) || ''), cslug = (cat.category && cat.category.slug) || '';
@@ -483,6 +484,7 @@ function generateSearchIndex() {
       const tags = (pr.tags || []).join(' ');
       const hit = byUrl.get(pr.url);
       if (hit) { if (tags && !hit.k.includes(tags)) hit.k = (hit.k + ' ' + tags).trim(); return; }
+      if (!pageUrls.has(pr.url)) return;   // listed on a category page but has no product page yet: a 404 in search
       const it = { n: dec(pr.name), u: pr.url, c: cname, cs: cslug, b: pr.brand_slug || '', p: pr.price || '', k: tags };
       items.push(it); byUrl.set(pr.url, it);
     });

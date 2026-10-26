@@ -230,25 +230,6 @@
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20M.2%20NVMe%20SSD%20External%20Case%20%E2%80%94%20KES%201%2C500"
     },
     {
-      "url": "/shop/accessories/starlink-standard-kit-gen-3/",
-      "brand_slug": "starlink",
-      "stock": "in_stock",
-      "badge_class": "badge--in-stock",
-      "badge_label": "In Stock",
-      "image": "assets/images/products/starlink-standard-kit-gen-3.webp",
-      "alt": "Starlink Standard Kit Gen 3 dish and router",
-      "name": "Starlink Standard Kit (Gen 3)",
-      "tags": [
-        "Gen 3",
-        "Standard Kit",
-        "Satellite Internet"
-      ],
-      "price": "52,000",
-      "cta_class": "btn--whatsapp",
-      "cta_label": "Order on WhatsApp",
-      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Starlink%20Standard%20Kit%20%28Gen%203%29%20%E2%80%94%20KES%2052%2C000"
-    },
-    {
       "url": "/shop/accessories/starlink-mini-kit/",
       "brand_slug": "starlink",
       "stock": "in_stock",

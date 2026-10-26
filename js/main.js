@@ -794,3 +794,15 @@
   }
 
 })();
+/* Broken-image fallback: any product image that fails to load shows a neutral "photo coming soon" tile. */
+(function () {
+  var FALLBACK = "/assets/images/products/placeholder-battery.jpg";
+  document.addEventListener("error", function (e) {
+    var img = e.target;
+    if (!img || img.tagName !== "IMG" || img.dataset.fallbackDone) return;
+    if (img.src.indexOf("data:") === 0) return;
+    img.dataset.fallbackDone = "1";
+    img.removeAttribute("srcset");
+    img.src = FALLBACK;
+  }, true);
+})();

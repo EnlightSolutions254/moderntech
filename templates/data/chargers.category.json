@@ -161,42 +161,6 @@
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%2065W%20Small%20Pin%20Charger%20%E2%80%94%20KES%203%2C500"
     },
     {
-      "url": "/shop/chargers/asus-90w-k-n-vivobook-pro-series/",
-      "brand_slug": "asus",
-      "stock": "in_stock",
-      "badge_class": "badge--in-stock",
-      "badge_label": "In Stock",
-      "image": "assets/images/products/asus-charger-90w.webp",
-      "alt": "Asus 90W Charger — main view",
-      "name": "Asus 90W Charger",
-      "tags": [
-        "K/N Series",
-        "VivoBook Pro 15/17"
-      ],
-      "price": "4,500",
-      "cta_class": "btn--whatsapp",
-      "cta_label": "Order on WhatsApp",
-      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%2090W%20Charger%20%E2%80%94%20KES%204%2C500"
-    },
-    {
-      "url": "/shop/chargers/asus-45w-usb-c-zenbook-expertbook-chromebook/",
-      "brand_slug": "asus",
-      "stock": "in_stock",
-      "badge_class": "badge--in-stock",
-      "badge_label": "In Stock",
-      "image": "assets/images/products/asus-charger-45w-typec.webp",
-      "alt": "Asus 45W USB-C Charger — main view",
-      "name": "Asus 45W USB-C Charger",
-      "tags": [
-        "ZenBook 13/14",
-        "ExpertBook / Chromebook Flip"
-      ],
-      "price": "2,500",
-      "cta_class": "btn--whatsapp",
-      "cta_label": "Order on WhatsApp",
-      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%2045W%20USB-C%20Charger%20%E2%80%94%20KES%202%2C500"
-    },
-    {
       "url": "/shop/chargers/apple-140w-type-c-macbook-pro-14-16/",
       "brand_slug": "macbook",
       "stock": "in_stock",
@@ -483,24 +447,6 @@
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20200W%20Blue%20Pin%20Charger%20%E2%80%94%20KES%206%2C500"
-    },
-    {
-      "url": "/shop/chargers/hp-130w-blue-pin-omen-pavilion-zbook-15-g3/",
-      "brand_slug": "hp",
-      "stock": "in_stock",
-      "badge_class": "badge--in-stock",
-      "badge_label": "In Stock",
-      "image": "assets/images/products/hp-charger-130w-bluepin.webp",
-      "alt": "HP 130W Blue Pin Charger — main view",
-      "name": "HP 130W Blue Pin Charger",
-      "tags": [
-        "Omen 15-ax Series",
-        "Pavilion Gaming"
-      ],
-      "price": "5,500",
-      "cta_class": "btn--whatsapp",
-      "cta_label": "Order on WhatsApp",
-      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20130W%20Blue%20Pin%20Charger%20%E2%80%94%20KES%205%2C500"
     },
     {
       "url": "/shop/chargers/usb-ethernet-adapter/",

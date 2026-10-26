@@ -196,25 +196,6 @@
       "tag_overflow": "+4 more"
     },
     {
-      "name": "Lenovo 01AV478 Battery",
-      "url": "/shop/laptop-batteries/lenovo-01av478-thinkpad-t480s/",
-      "image": "assets/images/products/lenovo-battery-01av478.webp",
-      "alt": "Replacement battery — Lenovo 01AV478 Battery",
-      "brand_slug": "lenovo",
-      "stock": "in_stock",
-      "badge_class": "badge--in-stock",
-      "badge_label": "In Stock",
-      "tags": [
-        "ThinkPad T480s (20L7)",
-        "ThinkPad T480s (20L8)"
-      ],
-      "price": "5,500",
-      "cta_class": "btn--whatsapp",
-      "cta_label": "Order on WhatsApp",
-      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%2001AV478%20Battery%20%E2%80%94%20KES%205%2C500",
-      "extra": false
-    },
-    {
       "name": "Lenovo L18C4P71 Battery",
       "url": "/shop/laptop-batteries/lenovo-l18c4p71-thinkpad-t490-t495-p43s-t14-p14s/",
       "image": "assets/images/products/lenovo-battery-l18c4p71.webp",
@@ -1406,25 +1387,6 @@
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20A1405%20Battery%20%E2%80%94%20KES%208%2C500",
-      "extra": false
-    },
-    {
-      "name": "Microsoft Surface Pro 8 DYNC01 Battery",
-      "url": "/shop/laptop-batteries/microsoft-surface-pro-8-dync01-battery/",
-      "image": "assets/images/products/microsoft-battery-dync01-surface-pro-8.webp",
-      "alt": "Replacement battery — Microsoft Surface Pro 8 DYNC01 Battery",
-      "brand_slug": "microsoft",
-      "stock": "in_stock",
-      "badge_class": "badge--in-stock",
-      "badge_label": "In Stock",
-      "tags": [
-        "Surface Pro 8 (1982)",
-        "Surface Pro 8 (1983)"
-      ],
-      "price": "6,500",
-      "cta_class": "btn--whatsapp",
-      "cta_label": "Order on WhatsApp",
-      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Microsoft%20Surface%20Pro%208%20DYNC01%20Battery%20%E2%80%94%20KES%206%2C500",
       "extra": false
     }
   ],
