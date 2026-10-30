@@ -1,4 +1,2 @@
-6	/shop/keyboards/hp-15-j-keyboard-backlit/	index.html
-2	/shop/keyboards/hp-15-j-keyboard-non-backlit/	shop\keyboards\hp-probook-450-g3-g4-keyboard-non-backlit\index.html
 1	/assets/images/repairs/laptop-parts-fitted.webp	laptop-repair\index.html
 1	/assets/images/products/acer-casing-e1571-partcd.webp	shop\casings\acer-e1-571-casing\index.html
