@@ -20,8 +20,8 @@
     "sku": "RAM-SKHYNIX-32GB-DDR5-5600-SODIMM",
     "brand_name": "SK hynix",
     "brand_slug": "sk-hynix",
-    "price": "35,000",
-    "price_raw": "35000",
+    "price": "50,000",
+    "price_raw": "50000",
     "schema_availability": "https://schema.org/InStock",
     "type_label": "RAM module",
     "type_label_cap": "RAM Module",
@@ -42,7 +42,7 @@
       }
     ],
     "description": "Genuine SK Hynix 32GB DDR5-5600 (PC5-5600B) SODIMM laptop memory module, 2Rx8 rank. Sourced from Korea. Note: this is laptop (SODIMM) memory, not desktop DIMM RAM — confirm your laptop supports DDR5 before ordering. Part number HMCG88AGBSA095N BA (verify against your existing module if you're matching an exact pair, as the label can be hard to read).",
-    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20SK%20Hynix%2032GB%20DDR5-5600%20SODIMM%20Laptop%20RAM%20%28SKU%3A%20RAM-SKHYNIX-32GB-DDR5-5600-SODIMM%29%20%E2%80%94%20KES%2035%2C000",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20SK%20Hynix%2032GB%20DDR5-5600%20SODIMM%20Laptop%20RAM%20%28SKU%3A%20RAM-SKHYNIX-32GB-DDR5-5600-SODIMM%29%20%E2%80%94%20KES%2050%2C000",
     "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20SK%20Hynix%2032GB%20DDR5-5600%20SODIMM%20will%20work%20in%20my%20laptop%3F",
     "specs": [
       {
