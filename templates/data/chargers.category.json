@@ -483,6 +483,184 @@
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Acer%2065W%20Charger%20%E2%80%94%20KES%201%2C000"
+    },
+    {
+      "name": "Acer 65W Charger &amp; Adapter",
+      "url": "/shop/chargers/acer-65w-adapter/",
+      "image": "assets/images/products/acer-charger-65w-1.webp",
+      "alt": "Acer 65W charger and power adapter, plug view",
+      "brand_slug": "acer",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock — 6 units",
+      "tags": [
+        "Acer Aspire 5 A515-52",
+        "Acer Aspire 5 A515-54"
+      ],
+      "price": "2,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Acer%2065W%20Charger%20%26%20Adapter%20(SKU%3A%20ACER-CH-65W)%20%E2%80%94%20KES%202%2C500",
+      "extra": false,
+      "tag_overflow": "+1 more"
+    },
+    {
+      "name": "Apple 60W MagSafe 1 Charger",
+      "url": "/shop/chargers/apple-60w-magsafe-1-macbook-pro-13/",
+      "image": "assets/images/products/apple-charger-60w-magsafe1.webp",
+      "alt": "Apple 60W MagSafe 1 Charger — main view",
+      "brand_slug": "macbook",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "MacBook Pro 13-inch (2009 – 2012, MagSafe 1)",
+        "MacBook 13-inch (2009 – 2010, MagSafe 1)"
+      ],
+      "price": "4,000",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Apple%2060W%20MagSafe%201%20Charger%20%E2%80%94%20KES%204%2C000",
+      "extra": false
+    },
+    {
+      "name": "Apple 60W MagSafe 2 Charger",
+      "url": "/shop/chargers/apple-60w-magsafe-2-macbook-pro-retina-13/",
+      "image": "assets/images/products/apple-charger-60w-magsafe2.webp",
+      "alt": "Apple 60W MagSafe 2 Charger — main view",
+      "brand_slug": "macbook",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "MacBook Pro Retina 13-inch (Late 2012 – Early 2015) — A1425 / A1502",
+        "MacBook Air 11-inch / 13-inch (Mid 2012 – 2017, MagSafe 2, lower-wattage compatible)"
+      ],
+      "price": "4,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Apple%2060W%20MagSafe%202%20Charger%20%E2%80%94%20KES%204%2C500",
+      "extra": false
+    },
+    {
+      "name": "Apple 61W USB-C Charger",
+      "url": "/shop/chargers/apple-61w-type-c-macbook-pro-13-macbook-12/",
+      "image": "assets/images/products/apple-charger-61w-typec.webp",
+      "alt": "Apple 61W USB-C Charger — main view",
+      "brand_slug": "macbook",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "MacBook Pro 13-inch, Two Thunderbolt 3 Ports (2016–2020)",
+        "MacBook 12-inch Retina (2015–2017)"
+      ],
+      "price": "6,000",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Apple%2061W%20USB-C%20Charger%20%E2%80%94%20KES%206%2C000",
+      "extra": false,
+      "tag_overflow": "+2 more"
+    },
+    {
+      "name": "Apple 85W MagSafe 1 Charger",
+      "url": "/shop/chargers/apple-85w-magsafe-1-macbook-pro-15-17/",
+      "image": "assets/images/products/apple-charger-85w-magsafe1.webp",
+      "alt": "Apple 85W MagSafe 1 Charger — main view",
+      "brand_slug": "macbook",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "MacBook Pro 15-inch (2006 – Mid 2012, non-Retina)",
+        "MacBook Pro 17-inch (2006 – Late 2011)"
+      ],
+      "price": "4,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Apple%2085W%20MagSafe%201%20Charger%20%E2%80%94%20KES%204%2C500",
+      "extra": false,
+      "tag_overflow": "+2 more"
+    },
+    {
+      "name": "Apple 85W MagSafe 2 Charger",
+      "url": "/shop/chargers/apple-85w-magsafe-2-macbook-pro-retina-15/",
+      "image": "assets/images/products/apple-charger-85w-magsafe2.webp",
+      "alt": "Apple 85W MagSafe 2 Charger — main view",
+      "brand_slug": "macbook",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "MacBook Pro Retina 15-inch (Mid 2012 – Mid 2015) — A1398",
+        "MacBook Pro Retina 13-inch (Late 2012 – Early 2015, lower-wattage compatible)"
+      ],
+      "price": "5,000",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Apple%2085W%20MagSafe%202%20Charger%20%E2%80%94%20KES%205%2C000",
+      "extra": false,
+      "tag_overflow": "+1 more"
+    },
+    {
+      "name": "Apple 87W USB-C Charger",
+      "url": "/shop/chargers/apple-87w-type-c-macbook-pro-13-15/",
+      "image": "assets/images/products/apple-charger-87w-typec.webp",
+      "alt": "Apple 87W USB-C Charger — main view",
+      "brand_slug": "macbook",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "MacBook Pro 15-inch (2016 / 2017) — A1707",
+        "MacBook Pro 15-inch (2018 / 2019) — A1990"
+      ],
+      "price": "6,000",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Apple%2087W%20USB-C%20Charger%20%E2%80%94%20KES%206%2C000",
+      "extra": false,
+      "tag_overflow": "+4 more"
+    },
+    {
+      "name": "Asus 65W Charger &amp; Adapter",
+      "url": "/shop/chargers/asus-65w-adapter/",
+      "image": "assets/images/products/asus-charger-65w-1.webp",
+      "alt": "Asus 65W charger and power adapter, plug view",
+      "brand_slug": "asus",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock — 5 units",
+      "tags": [
+        "Asus VivoBook 15 X515",
+        "Asus VivoBook 15 X512"
+      ],
+      "price": "2,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Asus%2065W%20Charger%20%26%20Adapter%20(SKU%3A%20ASUS-CH-65W)%20%E2%80%94%20KES%202%2C500",
+      "extra": false,
+      "tag_overflow": "+1 more"
+    },
+    {
+      "name": "Toshiba 65W Charger &amp; Adapter",
+      "url": "/shop/chargers/toshiba-65w-adapter/",
+      "image": "assets/images/products/toshiba-charger-65w-1.webp",
+      "alt": "Toshiba 65W charger and power adapter, plug view",
+      "brand_slug": "toshiba",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock — 5 units",
+      "tags": [
+        "Toshiba Satellite C55-B",
+        "Toshiba Satellite C55-C"
+      ],
+      "price": "2,400",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Toshiba%2065W%20Charger%20%26%20Adapter%20(SKU%3A%20TOSH-CH-65W)%20%E2%80%94%20KES%202%2C400",
+      "extra": false,
+      "tag_overflow": "+1 more"
     }
   ],
   "faq_heading": "Charger Questions",

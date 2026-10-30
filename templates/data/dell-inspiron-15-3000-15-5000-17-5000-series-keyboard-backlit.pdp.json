@@ -85,22 +85,7 @@
         "value": "New"
       }
     ],
-    "related": [
-      {
-        "url": "/shop/keyboards/dell-inspiron-15-3000-15-5000-17-5000-series-keyboard-non-backlit/",
-        "image": "assets/images/products/dell-keyboard-inspiron-15-3000-15-5000-17-5000-series-nonbacklit.webp",
-        "alt": "Replacement non-backlit keyboard with frame for Dell Inspiron 15 3000/15 5000/17 5000 Series",
-        "name": "Dell Inspiron 15 3000/15 5000/17 5000 Series Keyboard (Non-Backlit)",
-        "tags": [
-          "Inspiron 15 3000/15 5000/17 5000 Series",
-          "With Frame"
-        ],
-        "price": "2,400",
-        "badge_class": "badge--in-stock",
-        "badge_label": "In Stock",
-        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Inspiron%2015%203000%2F15%205000%2F17%205000%20Series%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C400"
-      }
-    ]
+    "related": []
   },
   "delivery_note": "Nairobi same-day, countrywide 1-2 days",
   "faq_heading": "Keyboard Questions",

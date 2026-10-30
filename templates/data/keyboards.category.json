@@ -175,40 +175,6 @@
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20IdeaPad%20G40-30%2FG40-45%2FG40-70%2FG40-80%2FG41-35%2C%20Flex%202-14D%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C200"
     },
     {
-      "brand_slug": "lenovo",
-      "stock": "in_stock",
-      "badge_class": "badge--in-stock",
-      "badge_label": "In Stock",
-      "url": "/shop/keyboards/lenovo-b50-30-b50-45-b50-70-g50-30-g50-45-g50-70-g50-70m-z50-70-z50-75-keyboard-non-backlit/",
-      "image": "assets/images/products/lenovo-keyboard-b50-30-b50-45-b50-70-g50-30-g50-45-g50-70-g50-70m-z50-70-z50-75-nonbacklit.webp",
-      "alt": "Replacement non-backlit keyboard for Lenovo B50-30/B50-45/B50-70, G50-30/G50-45/G50-70/G50-70m, Z50-70/Z50-75 Series",
-      "name": "Lenovo B50-30/B50-45/B50-70, G50-30/G50-45/G50-70/G50-70m, Z50-70/Z50-75 Series Keyboard (Non-Backlit)",
-      "tags": [
-        "B50-30/B50-45/B50-70, G50-30/G50-45/G50-70/G50-70m, Z50-70/Z50-75"
-      ],
-      "price": "2,200",
-      "cta_label": "Order on WhatsApp",
-      "cta_class": "btn--whatsapp",
-      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20B50-30%2FB50-45%2FB50-70%2C%20G50-30%2FG50-45%2FG50-70%2FG50-70m%2C%20Z50-70%2FZ50-75%20Series%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C200"
-    },
-    {
-      "brand_slug": "lenovo",
-      "stock": "in_stock",
-      "badge_class": "badge--in-stock",
-      "badge_label": "In Stock",
-      "url": "/shop/keyboards/lenovo-ideapad-g500-g505-g505a-g510-g700-g710-g700a-g500am-keyboard-non-backlit/",
-      "image": "assets/images/products/lenovo-keyboard-ideapad-g500-g505-g505a-g510-g700-g710-g700a-g500am-nonbacklit.webp",
-      "alt": "Replacement non-backlit keyboard for Lenovo IdeaPad G500/G505/G505A/G510/G700/G710/G700A/G500AM",
-      "name": "Lenovo IdeaPad G500/G505/G505A/G510/G700/G710/G700A/G500AM Keyboard (Non-Backlit)",
-      "tags": [
-        "G500/G505/G505A/G510/G700/G710/G700A/G500AM"
-      ],
-      "price": "2,200",
-      "cta_label": "Order on WhatsApp",
-      "cta_class": "btn--whatsapp",
-      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Lenovo%20IdeaPad%20G500%2FG505%2FG505A%2FG510%2FG700%2FG710%2FG700A%2FG500AM%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C200"
-    },
-    {
       "brand_slug": "hp",
       "stock": "in_stock",
       "badge_class": "badge--in-stock",
@@ -1450,24 +1416,6 @@
       "stock": "in_stock",
       "badge_class": "badge--in-stock",
       "badge_label": "In Stock",
-      "url": "/shop/keyboards/dell-inspiron-15-3000-15-5000-17-5000-series-keyboard-non-backlit/",
-      "image": "assets/images/products/dell-keyboard-inspiron-15-3000-15-5000-17-5000-series-nonbacklit.webp",
-      "alt": "Replacement non-backlit keyboard with frame for Dell Inspiron 15 3000/15 5000/17 5000 Series",
-      "name": "Dell Inspiron 15 3000/15 5000/17 5000 Series Keyboard (Non-Backlit)",
-      "tags": [
-        "Inspiron 15 3000/15 5000/17 5000 Series",
-        "With Frame"
-      ],
-      "price": "2,400",
-      "cta_label": "Order on WhatsApp",
-      "cta_class": "btn--whatsapp",
-      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Inspiron%2015%203000%2F15%205000%2F17%205000%20Series%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C400"
-    },
-    {
-      "brand_slug": "dell",
-      "stock": "in_stock",
-      "badge_class": "badge--in-stock",
-      "badge_label": "In Stock",
       "url": "/shop/keyboards/dell-latitude-7420-7430-7520-7530-5420-5421-5430-5431-5440-keyboard-backlit/",
       "image": "assets/images/products/dell-keyboard-latitude-7420-7430-7520-7530-5420-5421-5430-5431-5440-backlit.webp",
       "alt": "Replacement backlit keyboard for Dell Latitude 7420/7430/7520/7530/5420/5421/5430/5431/5440",
@@ -1601,24 +1549,6 @@
       "cta_label": "Order on WhatsApp",
       "cta_class": "btn--whatsapp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Inspiron%2013%207000%20Series%20Keyboard%20%28Non-Backlit%29%20%E2%80%94%20KES%202%2C700"
-    },
-    {
-      "brand_slug": "dell",
-      "stock": "in_stock",
-      "badge_class": "badge--in-stock",
-      "badge_label": "In Stock",
-      "url": "/shop/keyboards/dell-latitude-7200-7210-2-in-1-keyboard-backlit/",
-      "image": "assets/images/products/dell-keyboard-latitude-7200-7210-2in1-backlit.webp",
-      "alt": "Replacement backlit US-layout keyboard for Dell Latitude 7200/7210 2-in-1",
-      "name": "Dell Latitude 7200/7210 2-in-1 Keyboard (Backlit, US)",
-      "tags": [
-        "Latitude 7200/7210 2-in-1",
-        "Backlit"
-      ],
-      "price": "25,000",
-      "cta_label": "Order on WhatsApp",
-      "cta_class": "btn--whatsapp",
-      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20Latitude%207200%2F7210%202-in-1%20Keyboard%20%28Backlit%2C%20US%29%20%E2%80%94%20KES%2025%2C000"
     },
     {
       "brand_slug": "dell",

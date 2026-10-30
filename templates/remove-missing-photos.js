@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 'use strict';
 /**
- * Removes every product whose main photo is a .jpg/.jpeg that is NOT on the site.
- * Products whose .jpg exists are kept. Run from the templates folder.
+ * Removes every product whose main photo file is NOT on the site (any type: webp, jpg, png).
+ * Products whose main photo exists are kept. Add --jpg-only to restrict this to .jpg photos. Run from the templates folder.
  *   node remove-missing-photos.js           preview (lists what would go)
  *   node remove-missing-photos.js --write   apply
  * On --write it: moves the product's data file to templates\removed-products\ (backup), removes it from the
@@ -10,13 +10,14 @@
  */
 const fs = require('fs'), path = require('path');
 const WRITE = process.argv.includes('--write');
+const JPG_ONLY = process.argv.includes('--jpg-only');   // by default ANY missing photo type counts (webp, jpg, png)
 const DATA = path.join(__dirname, 'data'), SITE = path.resolve(__dirname, '..'), BACKUP = path.join(__dirname, 'removed-products');
 const load = p => JSON.parse(fs.readFileSync(p, 'utf8'));
 const pdps = fs.readdirSync(DATA).filter(f => f.endsWith('.pdp.json'));
 const gone = new Map();   // url -> file
 for (const f of pdps) {
   const d = load(path.join(DATA, f)), img = d.product.images && d.product.images[0];
-  if (!img || !/\.jpe?g$/i.test(img.src)) continue;
+  if (!img || (JPG_ONLY && !/\.jpe?g$/i.test(img.src))) continue;
   if (fs.existsSync(path.join(SITE, img.src.replace(/^\//, '')))) continue;
   gone.set(d.product.url, f);
   console.log((WRITE ? 'removed ' : 'would remove ') + d.category.slug.padEnd(15) + d.product.name.replace(/&amp;/g, '&') + '  KES ' + d.product.price);
@@ -26,7 +27,7 @@ const extras = [];
 for (const f of pdps) {
   if ([...gone.values()].includes(f)) continue;
   const d = load(path.join(DATA, f)), imgs = d.product.images || [];
-  const bad = imgs.slice(1).filter(i => /\.jpe?g$/i.test(i.src) && !fs.existsSync(path.join(SITE, i.src.replace(/^\//, ''))));
+  const bad = imgs.slice(1).filter(i => (!JPG_ONLY || /\.jpe?g$/i.test(i.src)) && !fs.existsSync(path.join(SITE, i.src.replace(/^\//, ''))));
   if (bad.length) extras.push({ f, bad });
 }
 if (extras.length) console.log(`\n${extras.reduce((n, e) => n + e.bad.length, 0)} missing extra .jpg photo(s) on ${extras.length} product(s) that stay ${WRITE ? 'were dropped' : 'would be dropped'}.`);
@@ -35,11 +36,23 @@ if (WRITE) for (const e of extras) {
   d.product.images = d.product.images.filter((i, n) => n === 0 || !badSrc.has(i.src));
   fs.writeFileSync(p, JSON.stringify(d, null, 2) + '\n', 'utf8');
 }
-console.log(`\n${gone.size} product(s) ${WRITE ? 'removed' : 'would be removed'}; ${pdps.length - gone.size} stay.`);
+// products whose card photo on a category page is missing are removed too
+const urlToFile = new Map(pdps.map(f => [load(path.join(DATA, f)).product.url, f]));
+for (const cf of fs.readdirSync(DATA).filter(f => f.endsWith('.category.json'))) {
+  const c = load(path.join(DATA, cf));
+  for (const pr of c.products || []) {
+    if (gone.has(pr.url) || !pr.image) continue;
+    if (JPG_ONLY && !/\.jpe?g$/i.test(pr.image)) continue;
+    if (fs.existsSync(path.join(SITE, pr.image.replace(/^\//, '')))) continue;
+    gone.set(pr.url, urlToFile.get(pr.url) || null);
+    console.log((WRITE ? 'removed ' : 'would remove ') + c.category.slug.padEnd(15) + String(pr.name).replace(/&amp;/g, '&') + '  KES ' + pr.price + '  (card photo missing)');
+  }
+}
+console.log(`\n${gone.size} product(s) ${WRITE ? 'removed' : 'would be removed'}; ${pdps.length - [...gone.values()].filter(Boolean).length} product page(s) stay.`);
 if (WRITE && gone.size) {
   fs.mkdirSync(BACKUP, { recursive: true });
   for (const [url, f] of gone) {
-    fs.renameSync(path.join(DATA, f), path.join(BACKUP, f));
+    if (f) fs.renameSync(path.join(DATA, f), path.join(BACKUP, f));
     const dir = path.join(SITE, url.replace(/^\/|\/$/g, '').split('/').join(path.sep));
     if (fs.existsSync(dir)) fs.rmSync(dir, { recursive: true, force: true });
   }

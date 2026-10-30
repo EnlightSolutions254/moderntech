@@ -322,6 +322,66 @@
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%20an%20HP%20240%20G6%2F246%20G6%2F14-BS%2F14Q-BU%2F14-BU%20casing%20%E2%80%94%20please%20let%20me%20know%3A%20Full%20Kit%2C%20Part%20AB%2C%20or%20Part%20CD",
       "extra": false
+    },
+    {
+      "name": "HP 250 G7 Casing — Part AB (Lid)",
+      "url": "/shop/casings/hp-250-g7-casing-part-ab/",
+      "image": "assets/images/products/hp-casing-250g7-partab.webp",
+      "alt": "HP 250 G7 LCD back cover and screen bezel",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "HP 250 G7",
+        "HP 255 G7"
+      ],
+      "price": "4,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20250%20G7%20Casing%20%E2%80%94%20Part%20AB%20%28Lid%29%20%E2%80%94%20KES%204%2C500",
+      "extra": false,
+      "tag_overflow": "+1 more"
+    },
+    {
+      "name": "HP 250 G7 Casing — Part CD (Chassis)",
+      "url": "/shop/casings/hp-250-g7-casing-part-cd/",
+      "image": "assets/images/products/hp-casing-250g7-partcd.webp",
+      "alt": "HP 250 G7 upper palmrest with keyboard tray and touchpad",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "HP 250 G7",
+        "HP 255 G7"
+      ],
+      "price": "4,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20250%20G7%20Casing%20%E2%80%94%20Part%20CD%20%28Chassis%29%20%E2%80%94%20KES%204%2C500",
+      "extra": false,
+      "tag_overflow": "+1 more"
+    },
+    {
+      "name": "HP 250 G7 Full Casing Kit",
+      "url": "/shop/casings/hp-250-g7-full-casing/",
+      "image": "assets/images/products/hp-casing-250g7-partcd.webp",
+      "alt": "HP 250 G7 upper palmrest with keyboard tray and touchpad",
+      "brand_slug": "hp",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "tags": [
+        "HP 250 G7",
+        "HP 255 G7"
+      ],
+      "price": "9,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HP%20250%20G7%20Full%20Casing%20Kit%20%E2%80%94%20KES%209%2C500",
+      "extra": false,
+      "tag_overflow": "+1 more"
     }
   ],
   "faq_heading": "Casing Questions",
