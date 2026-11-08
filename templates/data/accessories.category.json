@@ -13,7 +13,7 @@
     "name": "Accessories",
     "name_lower": "accessories",
     "description": "Mice, mouse pads, laptop RAM upgrades, external drive cases, surveillance hard drives and other everyday laptop accessories.",
-    "result_count": 17
+    "result_count": 20
   },
   "empty_state": {
     "whatsapp_text": "Hi%2C%20I%27m%20looking%20for%20a%20laptop%20accessory%20you%20may%20not%20have%20listed."
@@ -340,6 +340,85 @@
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20XPRINT%20Thermal%20Paper%20Rolls%20%E2%80%94%20KES%20165%20each.%20Size%20and%20quantity%3A%20"
+    },
+    {
+      "url": "/shop/accessories/custom-gaming-ai-modelling-pc/",
+      "brand_slug": "zanatechnologies",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "image": "assets/images/products/custom-gaming-ai-modelling-pc.webp",
+      "alt": "Custom gaming and AI modelling PC with white case and RGB lighting, front view",
+      "name": "Custom Gaming / AI Modelling PC",
+      "tags": [
+        "Ryzen 5 5600X",
+        "RX 5600 XT 6GB",
+        "16GB DDR4",
+        "512GB NVMe"
+      ],
+      "price": "105,000",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Custom%20Gaming%20%2F%20AI%20Modelling%20PC%20%E2%80%94%20KES%20105%2C000"
+    },
+    {
+      "url": "/shop/accessories/beelink-gti-14-ultra-mini-pc/",
+      "brand_slug": "beelink",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "image": "assets/images/products/beelink-gti-14-ultra-mini-pc.webp",
+      "alt": "Beelink GTi 14 Ultra mini PC with eGPU dock, front view",
+      "name": "Beelink GTi 14 Ultra Mini PC",
+      "tags": [
+        "Core Ultra 9 185H",
+        "32GB DDR5",
+        "1TB NVMe",
+        "eGPU Dock Included"
+      ],
+      "price": "160,000",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Beelink%20GTi%2014%20Ultra%20Mini%20PC%20%28without%20GPU%29%20%E2%80%94%20KES%20160%2C000"
+    },
+    {
+      "url": "/shop/accessories/macbook-hard-shell-protective-case/",
+      "brand_slug": "universal",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "image": "assets/images/products/macbook-hard-shell-protective-case.webp",
+      "alt": "MacBook hard shell protective case, top view",
+      "name": "MacBook Hard Shell Protective Case",
+      "tags": [
+        "Hard Shell",
+        "Lightweight",
+        "Ventilated"
+      ],
+      "price": "5,000",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20Hard%20Shell%20Protective%20Case%20%E2%80%94%20KES%205%2C000%0AMy%20MacBook%20model%20is%3A%20"
+    },
+    {
+      "url": "/shop/accessories/bosgame-m2-mini-pc-ryzen-9-7940hs/",
+      "brand_slug": "bosgame",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "image": "assets/images/products/bosgame-m2-mini-pc-ryzen-9-7940hs.webp",
+      "alt": "Bosgame M2 mini PC with AMD Ryzen 9 7940HS, front view",
+      "name": "Bosgame M2 Mini PC (Ryzen 9 7940HS)",
+      "tags": [
+        "Ryzen 9 7940HS",
+        "24GB DDR5",
+        "1TB NVMe",
+        "Wi-Fi 6E"
+      ],
+      "price": "100,000",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Bosgame%20M2%20Mini%20PC%20%28Ryzen%209%207940HS%29%20%E2%80%94%20KES%20100%2C000"
     }
   ]
 }

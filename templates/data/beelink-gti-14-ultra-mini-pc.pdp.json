@@ -1,0 +1,211 @@
+{
+  "meta": {
+    "title": "Beelink GTi 14 Ultra Mini PC Core Ultra 9 | Price in Kenya | Zanatechnologies",
+    "description": "Beelink GTi 14 Ultra mini PC: Core Ultra 9 185H, 32GB DDR5, 1TB NVMe, eGPU dock included. From KSh 160,000. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Beelink GTi 14 Ultra Mini PC | Zanatechnologies",
+    "description": "Core Ultra 9 185H, 32GB DDR5, eGPU dock included. From KSh 160,000. In stock in Nairobi."
+  },
+  "category": {
+    "slug": "accessories",
+    "url": "/shop/accessories/",
+    "name": "Accessories"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "product": {
+    "url": "/shop/accessories/beelink-gti-14-ultra-mini-pc/",
+    "name": "Beelink GTi 14 Ultra Mini PC",
+    "full_name": "Beelink GTi 14 Ultra Mini PC — Intel Core Ultra 9 185H, 32GB DDR5-5600, 1TB NVMe SSD, eGPU Dock Included",
+    "sku": "PC-BEELINK-GTI14-ULTRA-185H-32GB-1TB",
+    "brand_name": "Beelink",
+    "brand_slug": "beelink",
+    "price": "160,000",
+    "price_raw": "160000",
+    "schema_availability": "https://schema.org/InStock",
+    "type_label": "mini PC",
+    "type_label_cap": "Mini PC",
+    "images": [
+      {
+        "src": "assets/images/products/beelink-gti-14-ultra-mini-pc.webp",
+        "alt": "Beelink GTi 14 Ultra mini PC with eGPU dock, front view"
+      },
+      {
+        "src": "assets/images/products/beelink-gti-14-ultra-mini-pc-alt.webp",
+        "alt": "Beelink GTi 14 Ultra mini PC, rear view showing ports"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "description": "The Beelink GTi 14 Ultra is a compact mini PC built around the Intel Core Ultra 9 185H (16 cores / 22 threads, up to 5.10GHz) with an NPU rated up to 35 TOPS. It comes with 32GB DDR5-5600 memory and a 1TB NVMe SSD, with a second NVMe slot free for extra storage. Intel Arc graphics with 16GB shared memory handle everyday graphics, and the included eGPU dock lets you add a dedicated graphics card: NVIDIA RTX 4080 Super or AMD Radeon RX 7700 XT. The KSh 160,000 price is for the mini PC without a GPU; with the Radeon RX 7700 XT it is KSh 220,000. A fingerprint scanner is built into the power button, and it has built-in speakers, a Thunderbolt 4 port and dual 2.5G Ethernet.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Beelink%20GTi%2014%20Ultra%20Mini%20PC%20%28SKU%3A%20PC-BEELINK-GTI14-ULTRA-185H-32GB-1TB%29%20%E2%80%94%20without%20GPU%20%E2%80%94%20KES%20160%2C000",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20tell%20me%20more%20about%20the%20Beelink%20GTi%2014%20Ultra%20and%20the%20eGPU%20options%3F",
+    "variants": [
+      {
+        "label": "Mini PC without GPU",
+        "price": "160,000",
+        "price_raw": "160000",
+        "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Beelink%20GTi%2014%20Ultra%20Mini%20PC%20without%20GPU%20%28SKU%3A%20PC-BEELINK-GTI14-ULTRA-185H-32GB-1TB%29%20%E2%80%94%20KES%20160%2C000"
+      },
+      {
+        "label": "With AMD Radeon RX 7700 XT (12GB)",
+        "price": "220,000",
+        "price_raw": "220000",
+        "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Beelink%20GTi%2014%20Ultra%20Mini%20PC%20with%20AMD%20Radeon%20RX%207700%20XT%20%28SKU%3A%20PC-BEELINK-GTI14-ULTRA-185H-32GB-1TB%29%20%E2%80%94%20KES%20220%2C000"
+      }
+    ],
+    "optional_egpu": [
+      {
+        "name": "NVIDIA RTX 4080 Super",
+        "vram": "16GB dedicated VRAM",
+        "memory_type": "GDDR6X",
+        "tdp": "Up to 400W TDP",
+        "price_note": "Price on request"
+      },
+      {
+        "name": "AMD Radeon RX 7700 XT",
+        "vram": "12GB dedicated VRAM",
+        "memory_type": "GDDR6",
+        "tdp": "Up to 250W TDP",
+        "price_note": "Mini PC with this GPU: KSh 220,000"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Model",
+        "value": "Beelink GTi 14 Ultra Mini PC"
+      },
+      {
+        "label": "Processor (CPU)",
+        "value": "Intel Core Ultra 9 185H"
+      },
+      {
+        "label": "Maximum Speed",
+        "value": "5.10GHz"
+      },
+      {
+        "label": "CPU Configuration",
+        "value": "16 Cores / 22 Threads"
+      },
+      {
+        "label": "NPU",
+        "value": "Up to 35 TOPS"
+      },
+      {
+        "label": "RAM",
+        "value": "32GB DDR5 5600MHz"
+      },
+      {
+        "label": "Storage",
+        "value": "1TB NVMe SSD"
+      },
+      {
+        "label": "Additional Storage",
+        "value": "Extra NVMe SSD slot available"
+      },
+      {
+        "label": "Graphics",
+        "value": "Intel Arc Graphics (16GB shared memory)"
+      },
+      {
+        "label": "Fingerprint Scanner",
+        "value": "Built into power button"
+      },
+      {
+        "label": "Speakers",
+        "value": "Built-in speakers"
+      },
+      {
+        "label": "eGPU Dock",
+        "value": "Included"
+      },
+      {
+        "label": "USB 3.0 Ports",
+        "value": "5"
+      },
+      {
+        "label": "USB Type-C Ports",
+        "value": "2"
+      },
+      {
+        "label": "Thunderbolt 4",
+        "value": "1 port"
+      },
+      {
+        "label": "SD Card Slot",
+        "value": "1"
+      },
+      {
+        "label": "Ethernet",
+        "value": "2 × 2.5G"
+      },
+      {
+        "label": "HDMI",
+        "value": "1 port"
+      },
+      {
+        "label": "DisplayPort",
+        "value": "1 port"
+      }
+    ],
+    "compatible_models": [
+      "Complete mini PC — no compatibility check needed"
+    ],
+    "related": [
+      {
+        "url": "/shop/accessories/apc-easy-ups-battery-backup/",
+        "image": "assets/images/products/apc-easy-ups-battery-backup.webp",
+        "alt": "APC Easy UPS battery backup by Schneider Electric, front view",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "APC Easy UPS Battery Backup",
+        "tags": [
+          "Easy UPS",
+          "Battery Backup",
+          "Schneider Electric"
+        ],
+        "price": "21,500",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20APC%20Easy%20UPS%20Battery%20Backup%20%E2%80%94%20KES%2021%2C500"
+      },
+      {
+        "url": "/shop/accessories/custom-gaming-ai-modelling-pc/",
+        "image": "assets/images/products/custom-gaming-ai-modelling-pc.webp",
+        "alt": "Custom gaming and AI modelling PC with white case and RGB lighting, front view",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "Custom Gaming / AI Modelling PC",
+        "tags": [
+          "Ryzen 5 5600X",
+          "RX 5600 XT 6GB",
+          "16GB DDR4",
+          "512GB NVMe"
+        ],
+        "price": "105,000",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Custom%20Gaming%20%2F%20AI%20Modelling%20PC%20%E2%80%94%20KES%20105%2C000"
+      }
+    ]
+  },
+  "faq_heading": "Mini PC Questions",
+  "faqs": [
+    {
+      "question": "Does it come with a graphics card?",
+      "answer": "The KSh 160,000 price is for the mini PC without a dedicated GPU, and it uses Intel Arc graphics with 16GB shared memory. The eGPU dock is included, so you can add a graphics card. With the AMD Radeon RX 7700 XT the price is KSh 220,000."
+    },
+    {
+      "question": "Which graphics cards can I add?",
+      "answer": "You can choose the AMD Radeon RX 7700 XT (12GB GDDR6, up to 250W TDP) or the NVIDIA RTX 4080 Super (16GB GDDR6X, up to 400W TDP). Message us on WhatsApp for the RTX 4080 Super price."
+    },
+    {
+      "question": "Can I add more storage?",
+      "answer": "Yes. It ships with a 1TB NVMe SSD and has an extra NVMe slot free for a second drive."
+    },
+    {
+      "question": "What ports does it have?",
+      "answer": "It has 5 × USB 3.0, 2 × USB Type-C, 1 × Thunderbolt 4, an SD card slot, 2 × 2.5G Ethernet, 1 × HDMI and 1 × DisplayPort."
+    }
+  ]
+}

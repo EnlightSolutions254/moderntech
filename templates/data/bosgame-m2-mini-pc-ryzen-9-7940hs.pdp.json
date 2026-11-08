@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "title": "Bosgame M2 Mini PC Ryzen 9 7940HS | Price in Kenya | Zanatechnologies",
+    "description": "Bosgame M2 mini PC: Ryzen 9 7940HS, 24GB DDR5, 1TB NVMe, Wi-Fi 6E, dual 2.5G Ethernet. KSh 100,000. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Bosgame M2 Mini PC – Ryzen 9 7940HS | Zanatechnologies",
+    "description": "Ryzen 9 7940HS, 24GB DDR5, 1TB NVMe. KSh 100,000. In stock in Nairobi."
+  },
+  "category": {
+    "slug": "accessories",
+    "url": "/shop/accessories/",
+    "name": "Accessories"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "product": {
+    "url": "/shop/accessories/bosgame-m2-mini-pc-ryzen-9-7940hs/",
+    "name": "Bosgame M2 Mini PC (Ryzen 9 7940HS)",
+    "full_name": "Bosgame M2 Mini PC — AMD Ryzen 9 7940HS, 24GB DDR5-5600, 1TB NVMe SSD, Radeon 780M, Wi-Fi 6E",
+    "sku": "PC-BOSGAME-M2-R9-7940HS-24GB-1TB",
+    "brand_name": "Bosgame",
+    "brand_slug": "bosgame",
+    "price": "100,000",
+    "price_raw": "100000",
+    "schema_availability": "https://schema.org/InStock",
+    "type_label": "mini PC",
+    "type_label_cap": "Mini PC",
+    "images": [
+      {
+        "src": "assets/images/products/bosgame-m2-mini-pc-ryzen-9-7940hs.webp",
+        "alt": "Bosgame M2 mini PC with AMD Ryzen 9 7940HS, front view"
+      },
+      {
+        "src": "assets/images/products/bosgame-m2-mini-pc-ryzen-9-7940hs-alt.webp",
+        "alt": "Bosgame M2 mini PC, rear view showing ports"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "description": "The Bosgame M2 is a compact mini PC powered by the AMD Ryzen 9 7940HS (8 cores / 16 threads, 4.00GHz up to 5.20GHz) with integrated AMD Ryzen AI rated up to 10 TOPS. It comes with 24GB DDR5-5600 memory and a 1TB NVMe SSD, plus an extra NVMe slot for more storage. Graphics come from the integrated AMD Radeon 780M. Connectivity includes Wi-Fi 6E, Bluetooth 5.3, two 2.5 Gigabit Ethernet ports, HDMI, DisplayPort and two Thunderbolt 4 Type-C ports, with built-in speakers.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Bosgame%20M2%20Mini%20PC%20%28Ryzen%209%207940HS%29%20%28SKU%3A%20PC-BOSGAME-M2-R9-7940HS-24GB-1TB%29%20%E2%80%94%20KES%20100%2C000",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20tell%20me%20more%20about%20the%20Bosgame%20M2%20Mini%20PC%3F",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Bosgame"
+      },
+      {
+        "label": "Model",
+        "value": "M2 Mini PC"
+      },
+      {
+        "label": "Processor",
+        "value": "AMD Ryzen 9 7940HS"
+      },
+      {
+        "label": "Processor Speed",
+        "value": "4.00GHz, up to 5.20GHz"
+      },
+      {
+        "label": "CPU Cores",
+        "value": "8 Cores / 16 Threads"
+      },
+      {
+        "label": "AI",
+        "value": "Integrated AMD Ryzen AI, up to 10 TOPS"
+      },
+      {
+        "label": "RAM",
+        "value": "24GB DDR5 5600MHz"
+      },
+      {
+        "label": "Storage",
+        "value": "1TB NVMe SSD"
+      },
+      {
+        "label": "Expansion",
+        "value": "Extra NVMe SSD slot"
+      },
+      {
+        "label": "Graphics",
+        "value": "AMD Radeon 780M Integrated Graphics"
+      },
+      {
+        "label": "Wi-Fi",
+        "value": "Wi-Fi 6E"
+      },
+      {
+        "label": "Bluetooth",
+        "value": "5.3"
+      },
+      {
+        "label": "Speakers",
+        "value": "Built-in speakers"
+      },
+      {
+        "label": "Front Ports",
+        "value": "3 × USB 3.0, 1 × Type-C Thunderbolt 4, 1 × Audio jack"
+      },
+      {
+        "label": "Back Ports",
+        "value": "2 × USB 3.0, 2 × 2.5 Gigabit Ethernet, 1 × HDMI, 1 × DisplayPort (DP), 1 × Type-C Thunderbolt 4"
+      }
+    ],
+    "compatible_models": [
+      "Complete mini PC — no compatibility check needed"
+    ],
+    "related": [
+      {
+        "url": "/shop/accessories/apc-easy-ups-battery-backup/",
+        "image": "assets/images/products/apc-easy-ups-battery-backup.webp",
+        "alt": "APC Easy UPS battery backup by Schneider Electric, front view",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "APC Easy UPS Battery Backup",
+        "tags": [
+          "Easy UPS",
+          "Battery Backup",
+          "Schneider Electric"
+        ],
+        "price": "21,500",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20APC%20Easy%20UPS%20Battery%20Backup%20%E2%80%94%20KES%2021%2C500"
+      },
+      {
+        "url": "/shop/accessories/beelink-gti-14-ultra-mini-pc/",
+        "image": "assets/images/products/beelink-gti-14-ultra-mini-pc.webp",
+        "alt": "Beelink GTi 14 Ultra mini PC with eGPU dock, front view",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "Beelink GTi 14 Ultra Mini PC",
+        "tags": [
+          "Core Ultra 9 185H",
+          "32GB DDR5",
+          "1TB NVMe",
+          "eGPU Dock Included"
+        ],
+        "price": "160,000",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Beelink%20GTi%2014%20Ultra%20Mini%20PC%20%28without%20GPU%29%20%E2%80%94%20KES%20160%2C000"
+      }
+    ]
+  },
+  "faq_heading": "Mini PC Questions",
+  "faqs": [
+    {
+      "question": "Can I add more storage?",
+      "answer": "Yes. It ships with a 1TB NVMe SSD and has an extra NVMe SSD slot for a second drive."
+    },
+    {
+      "question": "What graphics does it use?",
+      "answer": "It uses AMD Radeon 780M integrated graphics built into the Ryzen 9 7940HS processor."
+    },
+    {
+      "question": "What ports does it have?",
+      "answer": "On the front: 3 × USB 3.0, 1 × Type-C Thunderbolt 4 and an audio jack. On the back: 2 × USB 3.0, 2 × 2.5 Gigabit Ethernet, 1 × HDMI, 1 × DisplayPort and 1 × Type-C Thunderbolt 4."
+    },
+    {
+      "question": "Does it have Wi-Fi and Bluetooth?",
+      "answer": "Yes, it has Wi-Fi 6E and Bluetooth 5.3."
+    }
+  ]
+}

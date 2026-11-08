@@ -1,0 +1,147 @@
+{
+  "meta": {
+    "title": "Custom Gaming PC Ryzen 5 5600X + RX 5600 XT | Price in Kenya | Zanatechnologies",
+    "description": "Custom gaming / AI modelling PC: Ryzen 5 5600X, RX 5600 XT 6GB, 16GB DDR4, 512GB NVMe, 360mm AIO cooler. KSh 105,000. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Custom Gaming / AI Modelling PC | Zanatechnologies",
+    "description": "Ryzen 5 5600X, RX 5600 XT 6GB, 512GB NVMe. KSh 105,000. In stock in Nairobi."
+  },
+  "category": {
+    "slug": "accessories",
+    "url": "/shop/accessories/",
+    "name": "Accessories"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "product": {
+    "url": "/shop/accessories/custom-gaming-ai-modelling-pc/",
+    "name": "Custom Gaming / AI Modelling PC",
+    "full_name": "Custom Gaming / AI Modelling PC — AMD Ryzen 5 5600X, Radeon RX 5600 XT 6GB, 16GB DDR4, 512GB NVMe SSD",
+    "sku": "PC-CUSTOM-GAMING-AI-R5-5600X-RX5600XT",
+    "brand_name": "Zanatechnologies",
+    "brand_slug": "zanatechnologies",
+    "price": "105,000",
+    "price_raw": "105000",
+    "schema_availability": "https://schema.org/InStock",
+    "type_label": "custom PC",
+    "type_label_cap": "Custom PC",
+    "images": [
+      {
+        "src": "assets/images/products/custom-gaming-ai-modelling-pc.webp",
+        "alt": "Custom gaming and AI modelling PC with white case and RGB lighting, front view"
+      },
+      {
+        "src": "assets/images/products/custom-gaming-ai-modelling-pc-alt.webp",
+        "alt": "Custom gaming and AI modelling PC, side view showing 360mm AIO liquid cooler and internal components"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "description": "A custom-built desktop PC for gaming, creative work and entry-level AI modelling. It pairs an AMD Ryzen 5 5600X (6 cores / 12 threads) with a Radeon RX 5600 XT 6GB graphics card, an ASUS ROG Strix B550-F Gaming WiFi motherboard, 16GB DDR4 RGB memory and a 512GB Samsung 970 EVO NVMe SSD. A DeepCool 360mm AIO liquid cooler keeps the processor cool under sustained load, all in a white Cooler Master case. Suitable for PC gaming, AI modelling, graphic design, 3D design and rendering, video editing and general workstation tasks. Message us on WhatsApp if you want to talk through your workload before ordering.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Custom%20Gaming%20%2F%20AI%20Modelling%20PC%20%28SKU%3A%20PC-CUSTOM-GAMING-AI-R5-5600X-RX5600XT%29%20%E2%80%94%20KES%20105%2C000",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20Custom%20Gaming%20%2F%20AI%20Modelling%20PC%20suits%20my%20workload%3F",
+    "suitable_for": [
+      "PC Gaming",
+      "AI Modelling",
+      "Graphic Design",
+      "3D Design and Rendering",
+      "Video Editing",
+      "General Workstation Tasks"
+    ],
+    "specs": [
+      {
+        "label": "Processor (CPU)",
+        "value": "AMD Ryzen 5 5600X"
+      },
+      {
+        "label": "CPU Cores",
+        "value": "6 Cores / 12 Threads"
+      },
+      {
+        "label": "CPU Cooler",
+        "value": "DeepCool 360mm AIO Liquid Cooler"
+      },
+      {
+        "label": "Motherboard",
+        "value": "ASUS ROG Strix B550-F Gaming WiFi"
+      },
+      {
+        "label": "RAM",
+        "value": "16GB Thermaltake DDR4 2666MHz RGB"
+      },
+      {
+        "label": "Storage",
+        "value": "512GB Samsung 970 EVO NVMe SSD"
+      },
+      {
+        "label": "Graphics Card (GPU)",
+        "value": "AMD Radeon RX 5600 XT 6GB"
+      },
+      {
+        "label": "Power Supply (PSU)",
+        "value": "BYSUO 500W"
+      },
+      {
+        "label": "Case",
+        "value": "Cooler Master White Case"
+      }
+    ],
+    "compatible_models": [
+      "Complete desktop PC — no compatibility check needed"
+    ],
+    "related": [
+      {
+        "url": "/shop/accessories/dell-ms111-usb-optical-mouse/",
+        "image": "assets/images/products/dell-mouse-ms111.webp",
+        "alt": "Dell MS111 USB Optical Mouse — wired black",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "Dell MS111 USB Optical Mouse",
+        "tags": [
+          "Wired USB",
+          "Optical"
+        ],
+        "price": "450",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20MS111%20USB%20Optical%20Mouse%20%E2%80%94%20KES%20450"
+      },
+      {
+        "url": "/shop/accessories/apc-easy-ups-battery-backup/",
+        "image": "assets/images/products/apc-easy-ups-battery-backup.webp",
+        "alt": "APC Easy UPS battery backup by Schneider Electric, front view",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "APC Easy UPS Battery Backup",
+        "tags": [
+          "Easy UPS",
+          "Battery Backup",
+          "Schneider Electric"
+        ],
+        "price": "21,500",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20APC%20Easy%20UPS%20Battery%20Backup%20%E2%80%94%20KES%2021%2C500"
+      }
+    ]
+  },
+  "faq_heading": "PC Questions",
+  "faqs": [
+    {
+      "question": "What is this PC suitable for?",
+      "answer": "It is built for PC gaming, AI modelling, graphic design, 3D design and rendering, video editing and general workstation tasks."
+    },
+    {
+      "question": "Can I use it for AI modelling?",
+      "answer": "Yes, for learning and lighter workloads. The graphics card has 6GB of video memory and is an AMD card, so larger models and software that depends on NVIDIA CUDA may not run well. Tell us what you plan to run on WhatsApp and we'll advise honestly."
+    },
+    {
+      "question": "Can I upgrade the RAM or storage later?",
+      "answer": "Yes. The PC ships with 16GB of RAM and a 512GB NVMe SSD, and both can be upgraded later. Send us what you want to add on WhatsApp and we'll confirm it will work."
+    },
+    {
+      "question": "What does the price include?",
+      "answer": "The price covers the components listed in the specifications. If you also need a monitor, keyboard or mouse, ask us on WhatsApp."
+    }
+  ]
+}

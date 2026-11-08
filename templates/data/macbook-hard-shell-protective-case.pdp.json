@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "title": "MacBook Hard Shell Protective Case | Price in Kenya | Zanatechnologies",
+    "description": "Lightweight MacBook hard shell case with ventilation design. Protects against scratches and everyday wear. KSh 5,000. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "MacBook Hard Shell Protective Case | Zanatechnologies",
+    "description": "Slim, lightweight hard shell case for MacBook. KSh 5,000. In stock in Nairobi."
+  },
+  "category": {
+    "slug": "accessories",
+    "url": "/shop/accessories/",
+    "name": "Accessories"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "product": {
+    "url": "/shop/accessories/macbook-hard-shell-protective-case/",
+    "name": "MacBook Hard Shell Protective Case",
+    "full_name": "MacBook Hard Shell Protective Case — Lightweight, Slim, Ventilated",
+    "sku": "CASE-MACBOOK-HARDSHELL",
+    "brand_name": "Zanatechnologies",
+    "brand_slug": "universal",
+    "price": "5,000",
+    "price_raw": "5000",
+    "schema_availability": "https://schema.org/InStock",
+    "type_label": "laptop case",
+    "type_label_cap": "Laptop Case",
+    "images": [
+      {
+        "src": "assets/images/products/macbook-hard-shell-protective-case.webp",
+        "alt": "MacBook hard shell protective case, top view"
+      },
+      {
+        "src": "assets/images/products/macbook-hard-shell-protective-case-alt.webp",
+        "alt": "MacBook hard shell protective case fitted on a MacBook, showing ventilation design"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "description": "Protect your MacBook with a sleek, lightweight hard shell case designed to provide reliable everyday protection while keeping its original elegant appearance. It has a durable hard-shell design with a slim build that helps guard against scratches and everyday wear. The precision-fit design suits compatible MacBook models, and a ventilation design supports heat dissipation. It is easy to install and remove, and the stylish finish keeps your MacBook's premium look. Send us your MacBook model on WhatsApp and we'll confirm the fit before you order.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20Hard%20Shell%20Protective%20Case%20%28SKU%3A%20CASE-MACBOOK-HARDSHELL%29%20%E2%80%94%20KES%205%2C000%0AMy%20MacBook%20model%20is%3A%20",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20MacBook%20Hard%20Shell%20Protective%20Case%20will%20fit%20my%20MacBook%3F%0AMy%20MacBook%20model%20is%3A%20",
+    "key_features": [
+      "Durable hard-shell protective design",
+      "Lightweight and slim construction",
+      "Helps protect against scratches and everyday wear",
+      "Precision-fit design for compatible MacBook models",
+      "Ventilation design for improved heat dissipation",
+      "Easy to install and remove",
+      "Stylish finish that maintains your MacBook's premium look"
+    ],
+    "specs": [
+      {
+        "label": "Type",
+        "value": "Hard shell protective case"
+      },
+      {
+        "label": "Build",
+        "value": "Lightweight and slim"
+      },
+      {
+        "label": "Protection",
+        "value": "Scratches and everyday wear"
+      },
+      {
+        "label": "Fit",
+        "value": "Precision-fit for compatible MacBook models"
+      },
+      {
+        "label": "Ventilation",
+        "value": "Ventilation design for heat dissipation"
+      },
+      {
+        "label": "Installation",
+        "value": "Easy to install and remove"
+      },
+      {
+        "label": "Finish",
+        "value": "Stylish, keeps the MacBook's premium look"
+      }
+    ],
+    "compatible_models": [
+      "Compatible MacBook models — send us your model to confirm fit"
+    ],
+    "related": [
+      {
+        "url": "/shop/accessories/dell-ms111-usb-optical-mouse/",
+        "image": "assets/images/products/dell-mouse-ms111.webp",
+        "alt": "Dell MS111 USB Optical Mouse — wired black",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "Dell MS111 USB Optical Mouse",
+        "tags": [
+          "Wired USB",
+          "Optical"
+        ],
+        "price": "450",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Dell%20MS111%20USB%20Optical%20Mouse%20%E2%80%94%20KES%20450"
+      },
+      {
+        "url": "/shop/accessories/m2-nvme-ssd-external-case/",
+        "image": "assets/images/products/m2-nvme-ssd-external-case.webp",
+        "alt": "M.2 NVMe SSD external case, top view",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "M.2 NVMe SSD External Case",
+        "tags": [
+          "M.2 NVMe",
+          "USB Type-C"
+        ],
+        "price": "1,500",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20M.2%20NVMe%20SSD%20External%20Case%20%E2%80%94%20KES%201%2C500"
+      }
+    ]
+  },
+  "faq_heading": "Case Questions",
+  "faqs": [
+    {
+      "question": "Will this case fit my MacBook?",
+      "answer": "The case is precision-fit for compatible MacBook models. Send us your MacBook model on WhatsApp and we'll confirm the fit before you order."
+    },
+    {
+      "question": "Will it make my MacBook run hotter?",
+      "answer": "The case has a ventilation design to help with heat dissipation."
+    },
+    {
+      "question": "Is it easy to put on and take off?",
+      "answer": "Yes, it is easy to install and remove."
+    }
+  ]
+}
