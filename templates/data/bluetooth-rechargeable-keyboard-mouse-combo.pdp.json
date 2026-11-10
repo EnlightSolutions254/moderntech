@@ -1,0 +1,154 @@
+{
+  "meta": {
+    "title": "Bluetooth Rechargeable Keyboard + Mouse Combo | Price in Kenya | Zanatechnologies",
+    "description": "Wireless Bluetooth keyboard and mouse combo, rechargeable, multi-device, slim design, 5 colours. KSh 2,500. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Bluetooth Rechargeable Keyboard + Mouse Combo | Zanatechnologies",
+    "description": "Slim wireless keyboard and mouse, multi-device, 5 colours. KSh 2,500. In stock in Nairobi."
+  },
+  "category": {
+    "slug": "accessories",
+    "url": "/shop/accessories/",
+    "name": "Accessories"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "product": {
+    "url": "/shop/accessories/bluetooth-rechargeable-keyboard-mouse-combo/",
+    "name": "Bluetooth Rechargeable Keyboard + Mouse Combo – Multi-Device",
+    "full_name": "Bluetooth Rechargeable Keyboard + Mouse Combo — Wireless, Multi-Device, Slim and Compact",
+    "sku": "KBM-BT-RECHARGEABLE-COMBO",
+    "brand_name": "Zanatechnologies",
+    "brand_slug": "universal",
+    "price": "2,500",
+    "price_raw": "2500",
+    "schema_availability": "https://schema.org/InStock",
+    "type_label": "keyboard and mouse combo",
+    "type_label_cap": "Keyboard & Mouse Combo",
+    "images": [
+      {
+        "src": "assets/images/products/bluetooth-rechargeable-keyboard-mouse-combo.webp",
+        "alt": "Bluetooth rechargeable wireless keyboard and mouse combo, slim compact design"
+      },
+      {
+        "src": "assets/images/products/bluetooth-rechargeable-keyboard-mouse-combo-alt.webp",
+        "alt": "Bluetooth rechargeable keyboard and mouse combo, available in black, orange, green, yellow and purple"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "description": "A wireless keyboard and mouse combo that connects over Bluetooth, with a slim, compact keyboard design and rechargeable batteries so you don't need to keep buying cells. The keyboard runs for up to 150 hours without the backlight, and up to 3 hours with the backlight on. It supports multiple devices and works with Bluetooth-enabled computers, laptops and tablets. Available in black, orange, green, yellow and purple. Tell us your preferred colour on WhatsApp when you order.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Bluetooth%20Rechargeable%20Keyboard%20%2B%20Mouse%20Combo%20%E2%80%93%20Multi-Device%20%28SKU%3A%20KBM-BT-RECHARGEABLE-COMBO%29%20%E2%80%94%20KES%202%2C500%0APreferred%20colour%20%28Black%2C%20Orange%2C%20Green%2C%20Yellow%20or%20Purple%29%3A%20",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20Bluetooth%20Rechargeable%20Keyboard%20%2B%20Mouse%20Combo%20will%20work%20with%20my%20device%3F%0AMy%20device%20is%3A%20",
+    "colours": [
+      "Black",
+      "Orange",
+      "Green",
+      "Yellow",
+      "Purple"
+    ],
+    "specs": [
+      {
+        "label": "Product",
+        "value": "Keyboard & Mouse Combo"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Bluetooth"
+      },
+      {
+        "label": "Keyboard",
+        "value": "Wireless keyboard"
+      },
+      {
+        "label": "Mouse",
+        "value": "Wireless mouse"
+      },
+      {
+        "label": "Power",
+        "value": "Rechargeable"
+      },
+      {
+        "label": "Keyboard Battery Life",
+        "value": "Up to 150 hours (without backlight)"
+      },
+      {
+        "label": "Backlight Runtime",
+        "value": "Up to 3 hours"
+      },
+      {
+        "label": "Device Support",
+        "value": "Multi-device"
+      },
+      {
+        "label": "Available Colours",
+        "value": "Black, Orange, Green, Yellow, Purple"
+      },
+      {
+        "label": "Keyboard Design",
+        "value": "Slim, compact design"
+      },
+      {
+        "label": "Compatibility",
+        "value": "Bluetooth-enabled computers, laptops and tablets"
+      }
+    ],
+    "compatible_models": [
+      "Bluetooth-enabled computers, laptops and tablets"
+    ],
+    "related": [
+      {
+        "url": "/shop/accessories/mouse-pad/",
+        "image": "assets/images/products/mouse-pad.webp",
+        "alt": "Mouse pad with smooth surface, top view",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "Mouse Pad",
+        "tags": [
+          "Smooth Surface",
+          "Non-slip Base"
+        ],
+        "price": "2,000",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Mouse%20Pad%20%E2%80%94%20KES%202%2C000"
+      },
+      {
+        "url": "/shop/accessories/macbook-hard-shell-protective-case/",
+        "image": "assets/images/products/macbook-hard-shell-protective-case.webp",
+        "alt": "MacBook hard shell protective case, top view",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "MacBook Hard Shell Protective Case",
+        "tags": [
+          "Hard Shell",
+          "Lightweight",
+          "Ventilated"
+        ],
+        "price": "5,000",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20Hard%20Shell%20Protective%20Case%20%E2%80%94%20KES%205%2C000%0AMy%20MacBook%20model%20is%3A%20"
+      }
+    ]
+  },
+  "faq_heading": "Keyboard & Mouse Questions",
+  "faqs": [
+    {
+      "question": "What devices does it work with?",
+      "answer": "It works with Bluetooth-enabled computers, laptops and tablets, and supports multiple devices. Send us your device on WhatsApp and we'll confirm before you order."
+    },
+    {
+      "question": "How long does the battery last?",
+      "answer": "The keyboard lasts up to 150 hours without the backlight, and the backlight runs for up to 3 hours. The combo is rechargeable."
+    },
+    {
+      "question": "What colours are available?",
+      "answer": "Black, orange, green, yellow and purple. Tell us your preferred colour on WhatsApp when you order."
+    },
+    {
+      "question": "Is it wired or wireless?",
+      "answer": "Both the keyboard and the mouse are wireless and connect over Bluetooth."
+    }
+  ]
+}

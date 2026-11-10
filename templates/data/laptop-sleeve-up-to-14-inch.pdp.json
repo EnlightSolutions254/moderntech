@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "title": "Laptop Sleeve Up to 14 Inch | Price in Kenya | Zanatechnologies",
+    "description": "Laptop sleeve for laptops up to 14 inches, in black, jungle green, pink and gray. KSh 2,500. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Laptop Sleeve (Up to 14 Inch) | Zanatechnologies",
+    "description": "Laptop sleeve in 4 colours for laptops up to 14 inches. KSh 2,500. In stock in Nairobi."
+  },
+  "category": {
+    "slug": "accessories",
+    "url": "/shop/accessories/",
+    "name": "Accessories"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "product": {
+    "url": "/shop/accessories/laptop-sleeve-up-to-14-inch/",
+    "name": "Laptop Sleeve (Up to 14 Inch)",
+    "full_name": "Laptop Sleeve for Laptops Up to 14 Inches — Black, Jungle Green, Pink, Gray",
+    "sku": "SLEEVE-14-INCH",
+    "brand_name": "Zanatechnologies",
+    "brand_slug": "universal",
+    "price": "2,500",
+    "price_raw": "2500",
+    "schema_availability": "https://schema.org/InStock",
+    "type_label": "laptop sleeve",
+    "type_label_cap": "Laptop Sleeve",
+    "images": [
+      {
+        "src": "assets/images/products/laptop-sleeve-up-to-14-inch.webp",
+        "alt": "Black laptop sleeve for laptops up to 14 inches"
+      },
+      {
+        "src": "assets/images/products/laptop-sleeve-up-to-14-inch-alt.webp",
+        "alt": "Laptop sleeve for laptops up to 14 inches in black, jungle green, pink and gray"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "description": "A laptop sleeve for laptops up to 14 inches, available in black, jungle green, pink and gray. Tell us your preferred colour on WhatsApp when you order, and send your laptop model if you'd like us to confirm the fit first.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Laptop%20Sleeve%20%28Up%20to%2014%20Inch%29%20%28SKU%3A%20SLEEVE-14-INCH%29%20%E2%80%94%20KES%202%2C500%0AColour%20%28Black%2C%20Jungle%20Green%2C%20Pink%20or%20Gray%29%3A%20",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20Laptop%20Sleeve%20%28Up%20to%2014%20Inch%29%20will%20fit%20my%20laptop%3F%0AMy%20laptop%20model%20is%3A%20",
+    "colours": [
+      "Black",
+      "Jungle Green",
+      "Pink",
+      "Gray"
+    ],
+    "specs": [
+      {
+        "label": "Product",
+        "value": "Laptop Sleeve"
+      },
+      {
+        "label": "Fits Laptops",
+        "value": "Up to 14 inches"
+      },
+      {
+        "label": "Available Colours",
+        "value": "Black, Jungle Green, Pink, Gray"
+      }
+    ],
+    "compatible_models": [
+      "Laptops up to 14 inches — send us your model to confirm fit"
+    ],
+    "related": [
+      {
+        "url": "/shop/accessories/bluetooth-rechargeable-keyboard-mouse-combo/",
+        "image": "assets/images/products/bluetooth-rechargeable-keyboard-mouse-combo.webp",
+        "alt": "Bluetooth rechargeable wireless keyboard and mouse combo, slim compact design",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "Bluetooth Rechargeable Keyboard + Mouse Combo – Multi-Device",
+        "tags": [
+          "Bluetooth",
+          "Rechargeable",
+          "Multi-Device",
+          "5 Colours"
+        ],
+        "price": "2,500",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Bluetooth%20Rechargeable%20Keyboard%20%2B%20Mouse%20Combo%20%E2%80%93%20Multi-Device%20%E2%80%94%20KES%202%2C500%0APreferred%20colour%20%28Black%2C%20Orange%2C%20Green%2C%20Yellow%20or%20Purple%29%3A%20"
+      },
+      {
+        "url": "/shop/accessories/faux-leather-waterproof-laptop-sleeve-12-13-inch/",
+        "image": "assets/images/products/faux-leather-waterproof-laptop-sleeve-12-13-inch.webp",
+        "alt": "Brown faux leather waterproof laptop sleeve, 12 and 13 inch",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "Faux Leather Waterproof Laptop Sleeve (12 / 13 Inch)",
+        "tags": [
+          "12 & 13 Inch",
+          "Faux Leather",
+          "Waterproof",
+          "Brown / Pink"
+        ],
+        "price": "2,000",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Faux%20Leather%20Waterproof%20Laptop%20Sleeve%20%2812%20%2F%2013%20Inch%29%20%E2%80%94%20KES%202%2C000%0ASize%20%2812%20inch%20or%2013%20inch%29%3A%20%0AColour%20%28Brown%20or%20Pink%29%3A%20"
+      }
+    ]
+  },
+  "faq_heading": "Laptop Sleeve Questions",
+  "faqs": [
+    {
+      "question": "What size laptop does it fit?",
+      "answer": "It is made for laptops up to 14 inches. Send us your laptop model on WhatsApp and we'll confirm the fit before you order."
+    },
+    {
+      "question": "What colours are available?",
+      "answer": "Black, jungle green, pink and gray. Tell us your preferred colour on WhatsApp when you order."
+    }
+  ]
+}

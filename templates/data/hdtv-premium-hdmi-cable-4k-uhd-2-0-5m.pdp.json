@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "title": "HDTV Premium HDMI Cable 4K UHD 2.0 – 5 Metres | Price in Kenya | Zanatechnologies",
+    "description": "Premium HDMI 2.0 cable, 4K UHD, 5 metres, 24K gold-plated connectors, Ethernet support. KSh 1,200. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "HDTV Premium HDMI Cable 4K UHD 2.0 – 5 Metres | Zanatechnologies",
+    "description": "HDMI 2.0, 4K UHD, 5 metres, gold-plated connectors. KSh 1,200. In stock in Nairobi."
+  },
+  "category": {
+    "slug": "accessories",
+    "url": "/shop/accessories/",
+    "name": "Accessories"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "product": {
+    "url": "/shop/accessories/hdtv-premium-hdmi-cable-4k-uhd-2-0-5m/",
+    "name": "HDTV Premium HDMI Cable 4K UHD 2.0 – 5 Metres",
+    "full_name": "HDTV Premium High Speed HDMI Cable — 4K UHD, HDMI 2.0, 5 Metres, Gold-plated Connectors",
+    "sku": "CABLE-HDMI-2-0-4K-5M",
+    "brand_name": "Zanatechnologies",
+    "brand_slug": "universal",
+    "price": "1,200",
+    "price_raw": "1200",
+    "schema_availability": "https://schema.org/InStock",
+    "type_label": "HDMI cable",
+    "type_label_cap": "HDMI Cable",
+    "images": [
+      {
+        "src": "assets/images/products/hdtv-premium-hdmi-cable-4k-uhd-2-0-5m.webp",
+        "alt": "HDTV Premium HDMI cable 4K UHD 2.0, 5 metres, black cable with blue connectors"
+      },
+      {
+        "src": "assets/images/products/hdtv-premium-hdmi-cable-4k-uhd-2-0-5m-alt.webp",
+        "alt": "HDTV Premium HDMI cable 4K UHD 2.0, close-up of the blue gold-plated connectors"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "description": "A premium high speed HDMI 2.0 cable for connecting TVs, monitors and other HDMI devices in 4K Ultra HD. It is 5 metres long, with 24K gold-plated connectors, a black cable and blue connector ends. It supports Ethernet and True HD / DTS-HD audio. Made in China. Message us on WhatsApp if you want to confirm it suits your setup before ordering.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HDTV%20Premium%20HDMI%20Cable%204K%20UHD%202.0%20%E2%80%93%205%20Metres%20%28SKU%3A%20CABLE-HDMI-2-0-4K-5M%29%20%E2%80%94%20KES%201%2C200",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20HDTV%20Premium%20HDMI%20Cable%204K%20UHD%202.0%20%285%20Metres%29%20will%20work%20with%20my%20setup%3F",
+    "specs": [
+      {
+        "label": "Product",
+        "value": "Premium HDMI Cable"
+      },
+      {
+        "label": "HDMI Version",
+        "value": "2.0"
+      },
+      {
+        "label": "Resolution",
+        "value": "4K Ultra HD"
+      },
+      {
+        "label": "Length",
+        "value": "5 Metres"
+      },
+      {
+        "label": "Connector",
+        "value": "24K Gold-plated"
+      },
+      {
+        "label": "Ethernet",
+        "value": "Supported"
+      },
+      {
+        "label": "Audio",
+        "value": "True HD / DTS-HD"
+      },
+      {
+        "label": "Colour",
+        "value": "Black cable, blue connectors"
+      },
+      {
+        "label": "Country of Origin",
+        "value": "China"
+      }
+    ],
+    "compatible_models": [
+      "Devices with HDMI ports"
+    ],
+    "related": [
+      {
+        "url": "/shop/accessories/beelink-gti-14-ultra-mini-pc/",
+        "image": "assets/images/products/beelink-gti-14-ultra-mini-pc.webp",
+        "alt": "Beelink GTi 14 Ultra mini PC with eGPU dock, front view",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "Beelink GTi 14 Ultra Mini PC",
+        "tags": [
+          "Core Ultra 9 185H",
+          "32GB DDR5",
+          "1TB NVMe",
+          "eGPU Dock Included"
+        ],
+        "price": "160,000",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Beelink%20GTi%2014%20Ultra%20Mini%20PC%20%28without%20GPU%29%20%E2%80%94%20KES%20160%2C000"
+      },
+      {
+        "url": "/shop/accessories/bosgame-m2-mini-pc-ryzen-9-7940hs/",
+        "image": "assets/images/products/bosgame-m2-mini-pc-ryzen-9-7940hs.webp",
+        "alt": "Bosgame M2 mini PC with AMD Ryzen 9 7940HS, front view",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "Bosgame M2 Mini PC (Ryzen 9 7940HS)",
+        "tags": [
+          "Ryzen 9 7940HS",
+          "24GB DDR5",
+          "1TB NVMe",
+          "Wi-Fi 6E"
+        ],
+        "price": "100,000",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Bosgame%20M2%20Mini%20PC%20%28Ryzen%209%207940HS%29%20%E2%80%94%20KES%20100%2C000"
+      }
+    ]
+  },
+  "faq_heading": "Cable Questions",
+  "faqs": [
+    {
+      "question": "How long is this HDMI cable?",
+      "answer": "It is 5 metres long."
+    },
+    {
+      "question": "Does it support 4K?",
+      "answer": "Yes. It is an HDMI 2.0 cable that supports 4K Ultra HD."
+    },
+    {
+      "question": "Does it carry sound as well as picture?",
+      "answer": "Yes. It supports True HD / DTS-HD audio, and also supports Ethernet."
+    },
+    {
+      "question": "Will it work with my TV or device?",
+      "answer": "It works with devices that have HDMI ports. Send us your device details on WhatsApp and we'll confirm before you order."
+    }
+  ]
+}

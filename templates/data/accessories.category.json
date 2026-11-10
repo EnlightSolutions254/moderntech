@@ -13,7 +13,7 @@
     "name": "Accessories",
     "name_lower": "accessories",
     "description": "Mice, mouse pads, laptop RAM upgrades, external drive cases, surveillance hard drives and other everyday laptop accessories.",
-    "result_count": 20
+    "result_count": 25
   },
   "empty_state": {
     "whatsapp_text": "Hi%2C%20I%27m%20looking%20for%20a%20laptop%20accessory%20you%20may%20not%20have%20listed."
@@ -419,6 +419,104 @@
       "cta_class": "btn--whatsapp",
       "cta_label": "Order on WhatsApp",
       "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Bosgame%20M2%20Mini%20PC%20%28Ryzen%209%207940HS%29%20%E2%80%94%20KES%20100%2C000"
+    },
+    {
+      "url": "/shop/accessories/hdtv-premium-hdmi-cable-4k-uhd-2-0-5m/",
+      "brand_slug": "universal",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "image": "assets/images/products/hdtv-premium-hdmi-cable-4k-uhd-2-0-5m.webp",
+      "alt": "HDTV Premium HDMI cable 4K UHD 2.0, 5 metres, black cable with blue connectors",
+      "name": "HDTV Premium HDMI Cable 4K UHD 2.0 – 5 Metres",
+      "tags": [
+        "HDMI 2.0",
+        "4K UHD",
+        "5 Metres",
+        "Gold-plated"
+      ],
+      "price": "1,200",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HDTV%20Premium%20HDMI%20Cable%204K%20UHD%202.0%20%E2%80%93%205%20Metres%20%E2%80%94%20KES%201%2C200"
+    },
+    {
+      "url": "/shop/accessories/bluetooth-rechargeable-keyboard-mouse-combo/",
+      "brand_slug": "universal",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "image": "assets/images/products/bluetooth-rechargeable-keyboard-mouse-combo.webp",
+      "alt": "Bluetooth rechargeable wireless keyboard and mouse combo, slim compact design",
+      "name": "Bluetooth Rechargeable Keyboard + Mouse Combo – Multi-Device",
+      "tags": [
+        "Bluetooth",
+        "Rechargeable",
+        "Multi-Device",
+        "5 Colours"
+      ],
+      "price": "2,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Bluetooth%20Rechargeable%20Keyboard%20%2B%20Mouse%20Combo%20%E2%80%93%20Multi-Device%20%E2%80%94%20KES%202%2C500%0APreferred%20colour%20%28Black%2C%20Orange%2C%20Green%2C%20Yellow%20or%20Purple%29%3A%20"
+    },
+    {
+      "url": "/shop/accessories/type-c-8-in-1-usb-c-hub/",
+      "brand_slug": "universal",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "image": "assets/images/products/type-c-8-in-1-usb-c-hub.webp",
+      "alt": "Type-C 8-in-1 USB-C hub with HDMI, USB 3.0, Ethernet and card reader ports, top view",
+      "name": "Type-C 8-in-1 USB-C Hub",
+      "tags": [
+        "8-in-1",
+        "4K HDMI",
+        "PD Charging",
+        "RJ45 Ethernet"
+      ],
+      "price": "2,000",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Type-C%208-in-1%20USB-C%20Hub%20%E2%80%94%20KES%202%2C000"
+    },
+    {
+      "url": "/shop/accessories/faux-leather-waterproof-laptop-sleeve-12-13-inch/",
+      "brand_slug": "universal",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "image": "assets/images/products/faux-leather-waterproof-laptop-sleeve-12-13-inch.webp",
+      "alt": "Brown faux leather waterproof laptop sleeve, 12 and 13 inch",
+      "name": "Faux Leather Waterproof Laptop Sleeve (12 / 13 Inch)",
+      "tags": [
+        "12 & 13 Inch",
+        "Faux Leather",
+        "Waterproof",
+        "Brown / Pink"
+      ],
+      "price": "2,000",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Faux%20Leather%20Waterproof%20Laptop%20Sleeve%20%2812%20%2F%2013%20Inch%29%20%E2%80%94%20KES%202%2C000%0ASize%20%2812%20inch%20or%2013%20inch%29%3A%20%0AColour%20%28Brown%20or%20Pink%29%3A%20"
+    },
+    {
+      "url": "/shop/accessories/laptop-sleeve-up-to-14-inch/",
+      "brand_slug": "universal",
+      "stock": "in_stock",
+      "badge_class": "badge--in-stock",
+      "badge_label": "In Stock",
+      "image": "assets/images/products/laptop-sleeve-up-to-14-inch.webp",
+      "alt": "Black laptop sleeve for laptops up to 14 inches",
+      "name": "Laptop Sleeve (Up to 14 Inch)",
+      "tags": [
+        "Up to 14 Inch",
+        "4 Colours"
+      ],
+      "price": "2,500",
+      "cta_class": "btn--whatsapp",
+      "cta_label": "Order on WhatsApp",
+      "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Laptop%20Sleeve%20%28Up%20to%2014%20Inch%29%20%E2%80%94%20KES%202%2C500%0AColour%20%28Black%2C%20Jungle%20Green%2C%20Pink%20or%20Gray%29%3A%20"
     }
   ]
 }

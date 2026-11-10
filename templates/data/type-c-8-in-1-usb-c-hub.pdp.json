@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "title": "Type-C 8-in-1 USB-C Hub (4K HDMI, PD, Ethernet) | Price in Kenya | Zanatechnologies",
+    "description": "Type-C 8-in-1 USB-C hub with 4K HDMI, PD charging, USB 3.0, RJ45 Ethernet and SD/TF card readers. KSh 2,000. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Type-C 8-in-1 USB-C Hub | Zanatechnologies",
+    "description": "4K HDMI, PD charging, USB 3.0, Ethernet and card readers. KSh 2,000. In stock in Nairobi."
+  },
+  "category": {
+    "slug": "accessories",
+    "url": "/shop/accessories/",
+    "name": "Accessories"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "product": {
+    "url": "/shop/accessories/type-c-8-in-1-usb-c-hub/",
+    "name": "Type-C 8-in-1 USB-C Hub",
+    "full_name": "Type-C 8-in-1 USB-C Hub — 4K UHD HDMI, PD Charging, USB 3.0, RJ45 Ethernet, SD and TF Card Readers",
+    "sku": "HUB-USBC-8IN1",
+    "brand_name": "Zanatechnologies",
+    "brand_slug": "universal",
+    "price": "2,000",
+    "price_raw": "2000",
+    "schema_availability": "https://schema.org/InStock",
+    "type_label": "USB-C hub",
+    "type_label_cap": "USB-C Hub",
+    "images": [
+      {
+        "src": "assets/images/products/type-c-8-in-1-usb-c-hub.webp",
+        "alt": "Type-C 8-in-1 USB-C hub with HDMI, USB 3.0, Ethernet and card reader ports, top view"
+      },
+      {
+        "src": "assets/images/products/type-c-8-in-1-usb-c-hub-alt.webp",
+        "alt": "Type-C 8-in-1 USB-C hub connected to a laptop, side view showing the ports"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "description": "Upgrade your laptop connectivity with the Type-C 8-in-1 USB-C Hub. This multiport adapter lets you connect multiple devices and accessories through a single USB-C port. It gives you 4K UHD HDMI output for external displays, USB-C Power Delivery (PD) charging, USB 3.0 ports for fast data transfer, an RJ45 Ethernet port for wired internet, and SD and TF card readers, in a compact, portable and stylish design. It is plug-and-play. Best for laptops, MacBooks and other USB-C devices that support video output and USB-C hub functionality. Send us your device model on WhatsApp and we'll confirm it will work before you order.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Type-C%208-in-1%20USB-C%20Hub%20%28SKU%3A%20HUB-USBC-8IN1%29%20%E2%80%94%20KES%202%2C000",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20Type-C%208-in-1%20USB-C%20Hub%20will%20work%20with%20my%20laptop%3F%0AMy%20laptop%20model%20is%3A%20",
+    "key_features": [
+      "4K UHD HDMI output for external displays",
+      "USB-C Power Delivery (PD) charging",
+      "USB 3.0 ports for fast data transfer",
+      "RJ45 Ethernet port for wired internet connectivity",
+      "SD and TF card readers",
+      "Compact, portable and stylish design",
+      "Plug-and-play connectivity"
+    ],
+    "specs": [
+      {
+        "label": "Product",
+        "value": "Type-C 8-in-1 Hub"
+      },
+      {
+        "label": "Interface",
+        "value": "USB Type-C"
+      },
+      {
+        "label": "HDMI",
+        "value": "4K UHD"
+      },
+      {
+        "label": "Connectivity",
+        "value": "USB, HDMI, RJ45, SD, TF, PD"
+      },
+      {
+        "label": "Compatibility",
+        "value": "USB-C laptops and supported devices"
+      }
+    ],
+    "compatible_models": [
+      "USB-C laptops and supported devices (video output and USB-C hub functionality required)"
+    ],
+    "related": [
+      {
+        "url": "/shop/accessories/macbook-hard-shell-protective-case/",
+        "image": "assets/images/products/macbook-hard-shell-protective-case.webp",
+        "alt": "MacBook hard shell protective case, top view",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "MacBook Hard Shell Protective Case",
+        "tags": [
+          "Hard Shell",
+          "Lightweight",
+          "Ventilated"
+        ],
+        "price": "5,000",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20Hard%20Shell%20Protective%20Case%20%E2%80%94%20KES%205%2C000%0AMy%20MacBook%20model%20is%3A%20"
+      },
+      {
+        "url": "/shop/accessories/hdtv-premium-hdmi-cable-4k-uhd-2-0-5m/",
+        "image": "assets/images/products/hdtv-premium-hdmi-cable-4k-uhd-2-0-5m.webp",
+        "alt": "HDTV Premium HDMI cable 4K UHD 2.0, 5 metres, black cable with blue connectors",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "HDTV Premium HDMI Cable 4K UHD 2.0 – 5 Metres",
+        "tags": [
+          "HDMI 2.0",
+          "4K UHD",
+          "5 Metres",
+          "Gold-plated"
+        ],
+        "price": "1,200",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20HDTV%20Premium%20HDMI%20Cable%204K%20UHD%202.0%20%E2%80%93%205%20Metres%20%E2%80%94%20KES%201%2C200"
+      }
+    ]
+  },
+  "faq_heading": "USB-C Hub Questions",
+  "faqs": [
+    {
+      "question": "Will this hub work with my laptop?",
+      "answer": "It suits laptops, MacBooks and other USB-C devices that support video output and USB-C hub functionality. Send us your laptop model on WhatsApp and we'll confirm before you order."
+    },
+    {
+      "question": "What ports does it have?",
+      "answer": "It has 4K UHD HDMI, USB 3.0, an RJ45 Ethernet port, SD and TF card readers, and USB-C Power Delivery (PD) charging."
+    },
+    {
+      "question": "Can I charge my laptop through it?",
+      "answer": "Yes, it supports USB-C Power Delivery (PD) charging."
+    },
+    {
+      "question": "Do I need to install anything?",
+      "answer": "No. It is plug-and-play."
+    }
+  ]
+}

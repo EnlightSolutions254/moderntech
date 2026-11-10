@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "title": "Faux Leather Waterproof Laptop Sleeve 12 / 13 Inch | Price in Kenya | Zanatechnologies",
+    "description": "Faux leather waterproof laptop sleeve for 12 inch and 13 inch laptops, in brown and pink. KSh 2,000. Order via WhatsApp, delivery countrywide."
+  },
+  "og": {
+    "title": "Faux Leather Waterproof Laptop Sleeve | Zanatechnologies",
+    "description": "12 and 13 inch laptop sleeve in brown and pink. KSh 2,000. In stock in Nairobi."
+  },
+  "category": {
+    "slug": "accessories",
+    "url": "/shop/accessories/",
+    "name": "Accessories"
+  },
+  "delivery_note": "Same-day delivery in Nairobi &middot; 1–2 days upcountry",
+  "product": {
+    "url": "/shop/accessories/faux-leather-waterproof-laptop-sleeve-12-13-inch/",
+    "name": "Faux Leather Waterproof Laptop Sleeve (12 / 13 Inch)",
+    "full_name": "Faux Leather Waterproof Laptop Sleeve — 12 Inch and 13 Inch, Brown and Pink",
+    "sku": "SLEEVE-FAUXLEATHER-12-13",
+    "brand_name": "Zanatechnologies",
+    "brand_slug": "universal",
+    "price": "2,000",
+    "price_raw": "2000",
+    "schema_availability": "https://schema.org/InStock",
+    "type_label": "laptop sleeve",
+    "type_label_cap": "Laptop Sleeve",
+    "images": [
+      {
+        "src": "assets/images/products/faux-leather-waterproof-laptop-sleeve-12-13-inch.webp",
+        "alt": "Brown faux leather waterproof laptop sleeve, 12 and 13 inch"
+      },
+      {
+        "src": "assets/images/products/faux-leather-waterproof-laptop-sleeve-12-13-inch-alt.webp",
+        "alt": "Pink faux leather waterproof laptop sleeve, 12 and 13 inch"
+      }
+    ],
+    "badges": [
+      {
+        "class": "badge--in-stock",
+        "label": "In Stock"
+      }
+    ],
+    "description": "A faux leather waterproof laptop sleeve for 12 inch and 13 inch laptops, available in brown and pink. The same price applies to both sizes and both colours. Tell us your size and preferred colour on WhatsApp when you order, and send your laptop model if you'd like us to confirm the fit first.",
+    "order_whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Faux%20Leather%20Waterproof%20Laptop%20Sleeve%20%2812%20%2F%2013%20Inch%29%20%28SKU%3A%20SLEEVE-FAUXLEATHER-12-13%29%20%E2%80%94%20KES%202%2C000%0ASize%20%2812%20inch%20or%2013%20inch%29%3A%20%0AColour%20%28Brown%20or%20Pink%29%3A%20",
+    "confirm_fit_whatsapp_text": "Hi%2C%20can%20you%20confirm%20if%20the%20Faux%20Leather%20Waterproof%20Laptop%20Sleeve%20will%20fit%20my%20laptop%3F%0AMy%20laptop%20model%20is%3A%20",
+    "sizes": [
+      "12 inch",
+      "13 inch"
+    ],
+    "colours": [
+      "Brown",
+      "Pink"
+    ],
+    "specs": [
+      {
+        "label": "Product",
+        "value": "Laptop Sleeve"
+      },
+      {
+        "label": "Material",
+        "value": "Faux leather"
+      },
+      {
+        "label": "Water Protection",
+        "value": "Waterproof"
+      },
+      {
+        "label": "Available Sizes",
+        "value": "12 inch and 13 inch"
+      },
+      {
+        "label": "Available Colours",
+        "value": "Brown, Pink"
+      }
+    ],
+    "compatible_models": [
+      "12 inch and 13 inch laptops — send us your model to confirm fit"
+    ],
+    "related": [
+      {
+        "url": "/shop/accessories/macbook-hard-shell-protective-case/",
+        "image": "assets/images/products/macbook-hard-shell-protective-case.webp",
+        "alt": "MacBook hard shell protective case, top view",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "MacBook Hard Shell Protective Case",
+        "tags": [
+          "Hard Shell",
+          "Lightweight",
+          "Ventilated"
+        ],
+        "price": "5,000",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20MacBook%20Hard%20Shell%20Protective%20Case%20%E2%80%94%20KES%205%2C000%0AMy%20MacBook%20model%20is%3A%20"
+      },
+      {
+        "url": "/shop/accessories/type-c-8-in-1-usb-c-hub/",
+        "image": "assets/images/products/type-c-8-in-1-usb-c-hub.webp",
+        "alt": "Type-C 8-in-1 USB-C hub with HDMI, USB 3.0, Ethernet and card reader ports, top view",
+        "badge_class": "badge--in-stock",
+        "badge_label": "In Stock",
+        "name": "Type-C 8-in-1 USB-C Hub",
+        "tags": [
+          "8-in-1",
+          "4K HDMI",
+          "PD Charging",
+          "RJ45 Ethernet"
+        ],
+        "price": "2,000",
+        "whatsapp_text": "Hi%2C%20I%27d%20like%20to%20order%3A%20Type-C%208-in-1%20USB-C%20Hub%20%E2%80%94%20KES%202%2C000"
+      }
+    ]
+  },
+  "faq_heading": "Laptop Sleeve Questions",
+  "faqs": [
+    {
+      "question": "What sizes and colours are available?",
+      "answer": "12 inch and 13 inch, in brown and pink. The price is the same for every size and colour."
+    },
+    {
+      "question": "Will it fit my laptop?",
+      "answer": "It is made for 12 inch and 13 inch laptops. Send us your laptop model on WhatsApp and we'll confirm the fit before you order."
+    },
+    {
+      "question": "Is it waterproof?",
+      "answer": "Yes, it is made from waterproof faux leather."
+    }
+  ]
+}
